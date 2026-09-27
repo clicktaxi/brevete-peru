@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { AppShell } from "@/components/shell/AppShell";
 import { ContinueButton } from "@/components/progress/ContinueButton";
+import { InstallHint } from "@/components/shell/InstallHint";
 import { Icon } from "@/components/ui/Icon";
 import { getCategories } from "@/lib/content";
 import { getDict } from "@/lib/dictionaries";
@@ -15,6 +16,7 @@ export default async function Home({ params }: { params: Promise<{ lang: Lang }>
     <AppShell lang={lang} t={t} title={t("app.name")}>
       <p className="mb-4 text-muted">{t("home.tagline")}</p>
       <ContinueButton cat={categories[0].id} />
+      <InstallHint />
       <h2 className="mb-2 mt-6 text-sm font-semibold uppercase tracking-wide text-muted">{t("home.categories")}</h2>
       <ul className="space-y-3">
         {categories.map((c) => (
@@ -46,6 +48,7 @@ export default async function Home({ params }: { params: Promise<{ lang: Lang }>
       <h2 className="mb-2 mt-6 text-sm font-semibold uppercase tracking-wide text-muted">{t("home.tools")}</h2>
       <ul className="grid grid-cols-2 gap-3">
         {[
+          ...(lang !== "es" ? [{ href: `/${lang}/vocab/`, icon: "bolt", label: t("tools.vocab") }] : []),
           { href: `/${lang}/traps/`, icon: "zap", label: t("tools.traps") },
           { href: `/${lang}/formulas/`, icon: "list", label: t("tools.formulas") },
           { href: `/${lang}/exam-ui/`, icon: "eye", label: t("tools.examUi") },

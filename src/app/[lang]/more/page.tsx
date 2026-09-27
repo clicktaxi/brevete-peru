@@ -15,6 +15,7 @@ export default async function MorePage({ params }: { params: Promise<{ lang: Lan
   const { lang } = await params;
   const t = makeT(getDict(lang));
   const links = [
+    ...(lang !== "es" ? [{ href: `/${lang}/vocab/`, icon: "bolt", label: t("tools.vocab") }] : []),
     { href: `/${lang}/traps/`, icon: "zap", label: t("tools.traps") },
     { href: `/${lang}/formulas/`, icon: "list", label: t("tools.formulas") },
     { href: `/${lang}/exam-ui/`, icon: "eye", label: t("tools.examUi") },

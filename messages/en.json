@@ -35,7 +35,46 @@
     "soon": { "a2a": "A-IIa (taxi)", "a2b": "A-IIb", "a3": "A-IIIa / b / c" },
     "tools": "Tools"
   },
+  "install": {
+    "title": "Add to your Home Screen",
+    "ios": "In Safari tap Share → “Add to Home Screen”. Your progress stays safe and the app works offline.",
+    "android": "Install as an app: works offline and keeps your progress safe.",
+    "generic": "In the browser menu choose “Add to Home screen” / “Install app” so your progress is kept safe.",
+    "button": "Install"
+  },
+  "vocab": {
+    "title": "Word trainer",
+    "intro": "All Spanish words from the exam questions. Learn Lingualeo-style: recognise → choose → assemble → type.",
+    "learned": "Learned",
+    "due": "Due for review",
+    "modes": {
+      "mix": "Mix",
+      "mixDesc": "Exercise type follows the word's progress",
+      "choice": "Pick the meaning",
+      "choiceDesc": "Spanish word → choose the translation out of 4",
+      "reverse": "Pick the Spanish",
+      "reverseDesc": "Translation → choose the Spanish word out of 4",
+      "letters": "Letter tiles",
+      "lettersDesc": "Assemble the Spanish word from tiles",
+      "typing": "Type the word",
+      "typingDesc": "Type the Spanish word on the keyboard"
+    },
+    "pickTranslation": "What does it mean?",
+    "pickSpanish": "How do you say it in Spanish?",
+    "assemble": "Assemble the word from letters",
+    "type": "Type it in Spanish",
+    "typePlaceholder": "Spanish word…",
+    "check": "Check",
+    "undo": "Remove letter",
+    "accentHint": "Accents (á, é, ñ) are optional.",
+    "correct": "Correct!",
+    "wrong": "Wrong",
+    "done": "Done: {correct} of {total}",
+    "again": "Another session",
+    "nativeOnly": "The word trainer is available in the Russian and English interface."
+  },
   "tools": {
+    "vocab": "Word trainer",
     "traps": "Trap words",
     "formulas": "Exam phrases",
     "examUi": "What the exam looks like",

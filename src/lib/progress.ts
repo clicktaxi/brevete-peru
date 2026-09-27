@@ -5,6 +5,7 @@ import type { ExamAttempt } from "./exam";
 import type { Lang, OptionKey } from "./types";
 
 import { STEP_IDS, STEP_THRESHOLD, STEP_WINDOW, type StepId } from "./steps";
+import type { VocabWordStats } from "./vocab";
 
 export type HelpLevel = 1 | 2 | 3 | 4;
 export { STEP_IDS, STEP_THRESHOLD, STEP_WINDOW, type StepId };
@@ -70,6 +71,7 @@ export interface ProgressExport {
   attempts: ExamAttempt[];
   topics: Record<string, TopicProgress>;
   settings: Settings;
+  vocab?: Record<string, VocabWordStats>;
 }
 
 const DEFAULT_SETTINGS: Settings = { helpLevel: 1, shuffleOptions: false, theme: "system", speechRate: 1 };
@@ -324,6 +326,29 @@ export function nextStep(tp: TopicProgress | undefined, wordsTotal: number): Ste
   return null;
 }
 
+const VOCAB_KEY = "vocab";
+
+export async function getVocabStats(): Promise<Record<string, VocabWordStats>> {
+  return (await read<Record<string, VocabWordStats>>(VOCAB_KEY)) ?? {};
+}
+
+export async function recordVocab(id: string, correct: boolean): Promise<VocabWordStats> {
+  const all = await getVocabStats();
+  const prev = all[id];
+  const srs = nextSrs(prev ? { ease: prev.ease, interval: prev.interval, due: prev.due, reps: prev.reps } : undefined, correct ? 4 : 1);
+  const next: VocabWordStats = {
+    correct: (prev?.correct ?? 0) + (correct ? 1 : 0),
+    wrong: (prev?.wrong ?? 0) + (correct ? 0 : 1),
+    reps: srs.reps ?? 0,
+    ease: srs.ease,
+    interval: srs.interval,
+    due: srs.due,
+  };
+  all[id] = next;
+  await write(VOCAB_KEY, all);
+  return next;
+}
+
 export async function exportProgress(cats: string[]): Promise<ProgressExport> {
   const questions: Record<string, QuestionStats> = {};
   const attempts: ExamAttempt[] = [];
@@ -333,7 +358,7 @@ export async function exportProgress(cats: string[]): Promise<ProgressExport> {
     attempts.push(...(await getAttempts(cat)));
     for (const [id, tp] of Object.entries(await getTopicProgress(cat))) topics[`${cat}:${id}`] = tp;
   }
-  return { version: 1, exportedAt: Date.now(), questions, attempts, topics, settings: await getSettings() };
+  return { version: 1, exportedAt: Date.now(), questions, attempts, topics, settings: await getSettings(), vocab: await getVocabStats() };
 }
 
 export async function importProgress(data: ProgressExport, cats: string[]): Promise<void> {
@@ -353,6 +378,7 @@ export async function importProgress(data: ProgressExport, cats: string[]): Prom
     await write(topicsKey(cat), tps);
   }
   if (data.settings) await write("settings", { ...DEFAULT_SETTINGS, ...data.settings });
+  if (data.vocab) await write(VOCAB_KEY, data.vocab);
 }
 
 export async function resetProgress(): Promise<void> {

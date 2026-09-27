@@ -35,7 +35,46 @@
     "soon": { "a2a": "A-IIa (taxi)", "a2b": "A-IIb", "a3": "A-IIIa / b / c" },
     "tools": "Herramientas"
   },
+  "install": {
+    "title": "Agrega la app a tu pantalla de inicio",
+    "ios": "En Safari toca Compartir → «Agregar a inicio». Así tu progreso no se pierde y la app funciona sin internet.",
+    "android": "Instálala como app: funciona sin internet y guarda tu progreso.",
+    "generic": "En el menú del navegador elige «Agregar a pantalla de inicio» / «Instalar app» para no perder tu progreso.",
+    "button": "Instalar"
+  },
+  "vocab": {
+    "title": "Entrenador de palabras",
+    "intro": "Todas las palabras de las preguntas del examen. Aprende paso a paso: reconocer → elegir → armar → escribir.",
+    "learned": "Aprendidas",
+    "due": "Para repasar",
+    "modes": {
+      "mix": "Mixto",
+      "mixDesc": "El tipo de ejercicio sigue el progreso de la palabra",
+      "choice": "Elegir el significado",
+      "choiceDesc": "Palabra en español → elegir la traducción entre 4",
+      "reverse": "Elegir en español",
+      "reverseDesc": "Traducción → elegir la palabra en español entre 4",
+      "letters": "Armar con letras",
+      "lettersDesc": "Armar la palabra en español con fichas",
+      "typing": "Escribir la palabra",
+      "typingDesc": "Escribir la palabra en español con el teclado"
+    },
+    "pickTranslation": "¿Qué significa?",
+    "pickSpanish": "¿Cómo se dice en español?",
+    "assemble": "Arma la palabra con las letras",
+    "type": "Escríbela en español",
+    "typePlaceholder": "palabra en español…",
+    "check": "Comprobar",
+    "undo": "Quitar letra",
+    "accentHint": "Las tildes (á, é, ñ) son opcionales.",
+    "correct": "¡Correcto!",
+    "wrong": "Incorrecto",
+    "done": "Listo: {correct} de {total}",
+    "again": "Otra sesión",
+    "nativeOnly": "El entrenador de palabras está disponible en la interfaz en ruso e inglés."
+  },
   "tools": {
+    "vocab": "Entrenador de palabras",
     "traps": "Palabras trampa",
     "formulas": "Frases del examen",
     "examUi": "Cómo se ve el examen",
