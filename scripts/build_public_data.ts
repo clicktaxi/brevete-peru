@@ -23,6 +23,19 @@ for (const category of categories) {
     fs.writeFileSync(path.join(out, `${category.id}.${lang}.json`), JSON.stringify(data));
   }
   fs.writeFileSync(path.join(out, `${category.id}.json`), JSON.stringify({ category, topics, questions }));
+
+  // Open data dump: the whole bank with all translations, for anyone to reuse.
+  const api = path.join(ROOT, "public", "api");
+  fs.mkdirSync(api, { recursive: true });
+  const i18n: Record<string, unknown[]> = {};
+  for (const lang of langs) {
+    const file = path.join(ROOT, "content", category.id, "i18n", `${lang}.json`);
+    if (fs.existsSync(file)) i18n[lang] = JSON.parse(fs.readFileSync(file, "utf8"));
+  }
+  fs.writeFileSync(
+    path.join(api, `${category.id}.json`),
+    JSON.stringify({ generatedAt: new Date().toISOString().slice(0, 10), license: "Questions: MTC Perú (public). Translations: CC BY 4.0", category, topics, questions, i18n }, null, 0),
+  );
 }
 
 fs.writeFileSync(

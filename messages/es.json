@@ -235,6 +235,17 @@
     "notFound": "No se encontró el intento.",
     "last": "Último resultado"
   },
+  "review": {
+    "title": "Repaso",
+    "intro": "Repaso espaciado: las preguntas vuelven justo antes de que las olvides. Porción del día: hasta 20 preguntas.",
+    "today": "Para repasar hoy",
+    "due": "pendientes: {n}",
+    "fresh": "nuevas: {n}",
+    "start": "Empezar ({n})",
+    "empty": "No queda nada por hoy. Vuelve mañana.",
+    "doneHint": "Porción del día completada. Los próximos repasos aparecerán según el calendario.",
+    "hubDesc": "Porción del día según calendario"
+  },
   "history": {
     "title": "Historial de exámenes",
     "empty": "Todavía no has hecho el simulador.",

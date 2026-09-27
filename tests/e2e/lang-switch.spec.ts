@@ -1,4 +1,4 @@
-import { expect, test } from "@playwright/test";
+import { expect, test } from "./fixtures";
 
 test("language switch keeps the current page", async ({ page }) => {
   await page.goto("/ru/a1/practice/");

@@ -26,6 +26,7 @@ export default async function CategoryHub({ params }: { params: Promise<{ lang: 
   }));
   const base = `/${lang}/${cat}`;
   const modes = [
+    { href: `${base}/review/`, icon: "repeat", label: t("review.title"), desc: t("review.hubDesc") },
     { href: `${base}/practice/`, icon: "target", label: t("modes.practice"), desc: t("modes.practiceDesc") },
     { href: `${base}/mistakes/`, icon: "repeat", label: t("modes.mistakes"), desc: t("modes.mistakesDesc") },
     { href: `${base}/exam/`, icon: "clock", label: t("modes.exam"), desc: t("modes.examDesc") },

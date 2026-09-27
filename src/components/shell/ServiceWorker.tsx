@@ -2,10 +2,12 @@
 
 import { useEffect } from "react";
 import { useLang } from "@/components/providers";
+import { requestPersistentStorage } from "@/lib/progress";
 
 export function ServiceWorker() {
   const lang = useLang();
   useEffect(() => {
+    requestPersistentStorage();
     try {
       localStorage.setItem("lang", lang);
     } catch {

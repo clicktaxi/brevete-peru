@@ -6,7 +6,7 @@ import { QuestionIsland } from "@/components/question/QuestionIsland";
 import { getCategories, getCategory, getLogicWords, getQuestion, getQuestions, getTopics, getTranslation } from "@/lib/content";
 import { getDict } from "@/lib/dictionaries";
 import { makeT } from "@/lib/i18n";
-import { questionSlug } from "@/lib/text";
+import { pad3, questionSlug } from "@/lib/text";
 import { LANGS, OPTION_KEYS, type CategoryId, type Lang } from "@/lib/types";
 
 type Params = { lang: Lang; cat: CategoryId; slug: string };
@@ -35,7 +35,11 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
       canonical: `/${lang}${path}`,
       languages: Object.fromEntries(LANGS.map((l) => [l, `/${l}${path}`])),
     },
-    openGraph: { title: `${q.number}. ${q.text}`, description: tr?.gist ?? q.options[q.correct], images: q.image ? [q.image] : undefined },
+    openGraph: {
+      title: `${q.number}. ${q.text}`,
+      description: tr?.gist ?? q.options[q.correct],
+      images: [{ url: `/og/${cat}/${pad3(q.number)}.png`, width: 1200, height: 630 }],
+    },
   };
 }
 

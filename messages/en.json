@@ -235,6 +235,17 @@
     "notFound": "Attempt not found.",
     "last": "Last result"
   },
+  "review": {
+    "title": "Review",
+    "intro": "Spaced repetition: questions come back right before you would forget them. Daily portion — up to 20 questions.",
+    "today": "To review today",
+    "due": "due: {n}",
+    "fresh": "new: {n}",
+    "start": "Start ({n})",
+    "empty": "Nothing left for today. Come back tomorrow.",
+    "doneHint": "Daily portion done. The next reviews will appear on schedule.",
+    "hubDesc": "Daily portion on schedule"
+  },
   "history": {
     "title": "Exam history",
     "empty": "You haven't taken the simulator yet.",

@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: { default: "Brevete Perú", template: "%s · Brevete Perú" },
   description: "Preparación gratuita para el examen de conocimientos MTC — para quienes recién aprenden español.",
   manifest: "/manifest.webmanifest",
+  openGraph: { images: [{ url: "/og/default.png", width: 1200, height: 630 }], siteName: "Brevete Perú" },
   icons: { icon: "/icon.svg", apple: "/icon-192.png" },
   appleWebApp: { capable: true, statusBarStyle: "default", title: "Brevete" },
 };

@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useLang, useT } from "@/components/providers";
 import { Icon } from "@/components/ui/Icon";
-import { getAttempts, getQuestionStats, getTopicProgress, isLearned, isMistake, nextStep, type QuestionStats, type TopicProgress } from "@/lib/progress";
+import { dailyPortion, getAttempts, getQuestionStats, getTopicProgress, isLearned, isMistake, nextStep, type QuestionStats, type TopicProgress } from "@/lib/progress";
 
 interface TopicInfo {
   id: string;
@@ -55,6 +55,10 @@ export function CategoryProgress({ cat, topics }: { cat: string; topics: TopicIn
           {t("hub.learned", { learned, total })} · {t("hub.mistakes", { n: mistakes })}
           {passRate?.total ? ` · ${t("hub.examsPassed", { passed: passRate.passed, total: passRate.total })}` : ""}
         </p>
+        <Link href={`/${lang}/${cat}/review/`} className="mt-3 flex items-center justify-between rounded-2xl bg-white/10 px-3 py-2 text-sm">
+          <span>{t("review.today")}</span>
+          <span className="font-bold tabular">{dailyPortion(topics.flatMap((tt) => tt.ids), stats, 20).length} →</span>
+        </Link>
       </div>
 
       <h2 className="mb-2 mt-6 text-sm font-semibold uppercase tracking-wide text-muted">{t("hub.topics")}</h2>

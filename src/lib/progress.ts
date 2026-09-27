@@ -17,7 +17,37 @@ export interface QuestionStats {
   lastAnswer?: OptionKey;
   lastAt?: number;
   starred?: boolean;
-  srs?: { ease: number; interval: number; due: number };
+  srs?: SrsState;
+}
+
+/** SM-2 state: interval in days, due as a timestamp. */
+export interface SrsState {
+  ease: number;
+  interval: number;
+  due: number;
+  reps?: number;
+}
+
+const DAY = 86_400_000;
+
+export function nextSrs(prev: SrsState | undefined, quality: number, now = Date.now()): SrsState {
+  const ease = prev?.ease ?? 2.5;
+  const reps = prev?.reps ?? 0;
+  if (quality < 3) return { ease: Math.max(1.3, ease - 0.2), interval: 1, reps: 0, due: now + DAY };
+  const newEase = Math.max(1.3, ease + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02)));
+  const interval = reps === 0 ? 1 : reps === 1 ? 6 : Math.round((prev?.interval ?? 1) * newEase);
+  return { ease: newEase, interval, reps: reps + 1, due: now + interval * DAY };
+}
+
+export function isDue(s: QuestionStats | undefined, now = Date.now()): boolean {
+  return !!s?.srs && s.srs.due <= now;
+}
+
+/** Daily portion: due questions first (oldest due first), then unseen ones, up to `limit`. */
+export function dailyPortion(ids: string[], stats: Record<string, QuestionStats>, limit: number, now = Date.now()): string[] {
+  const due = ids.filter((id) => isDue(stats[id], now)).sort((a, b) => stats[a].srs!.due - stats[b].srs!.due);
+  const fresh = ids.filter((id) => !stats[id]?.seen);
+  return [...due, ...fresh].slice(0, limit);
 }
 
 export interface Settings {
@@ -46,6 +76,7 @@ const DEFAULT_SETTINGS: Settings = { helpLevel: 1, shuffleOptions: false, theme:
 
 let store: UseStore | null = null;
 const memory = new Map<string, unknown>();
+const BACKUP_PREFIX = "brevete:";
 
 function getStore(): UseStore | null {
   if (store) return store;
@@ -58,32 +89,77 @@ function getStore(): UseStore | null {
   }
 }
 
+// localStorage keeps a mirror so that progress survives if IndexedDB is wiped or unavailable.
+function backupRead<T>(key: string): T | undefined {
+  try {
+    const raw = localStorage.getItem(BACKUP_PREFIX + key);
+    return raw ? (JSON.parse(raw) as T) : undefined;
+  } catch {
+    return undefined;
+  }
+}
+
+function backupWrite<T>(key: string, value: T | undefined): void {
+  try {
+    if (value === undefined) localStorage.removeItem(BACKUP_PREFIX + key);
+    else localStorage.setItem(BACKUP_PREFIX + key, JSON.stringify(value));
+  } catch {
+    /* quota or private mode */
+  }
+}
+
+let persistRequested = false;
+export function requestPersistentStorage(): void {
+  if (persistRequested) return;
+  persistRequested = true;
+  try {
+    void navigator.storage?.persist?.();
+  } catch {
+    /* unsupported */
+  }
+}
+
 async function read<T>(key: string): Promise<T | undefined> {
+  if (memory.has(key)) return memory.get(key) as T;
   const s = getStore();
+  let value: T | undefined;
   if (s) {
     try {
-      return await get<T>(key, s);
+      value = await get<T>(key, s);
     } catch {
       /* fall through */
     }
   }
-  return memory.get(key) as T | undefined;
+  if (value === undefined) {
+    value = backupRead<T>(key);
+    if (value !== undefined && s) {
+      try {
+        await set(key, value, s);
+      } catch {
+        /* ignore */
+      }
+    }
+  }
+  if (value !== undefined) memory.set(key, value);
+  return value;
 }
 
 async function write<T>(key: string, value: T): Promise<void> {
   memory.set(key, value);
+  backupWrite(key, value);
   const s = getStore();
   if (s) {
     try {
       await set(key, value, s);
     } catch {
-      /* memory only */
+      /* backup only */
     }
   }
 }
 
 async function remove(key: string): Promise<void> {
   memory.delete(key);
+  backupWrite(key, undefined);
   const s = getStore();
   if (s) {
     try {
@@ -142,6 +218,8 @@ export async function recordAnswer(
     s.wrongCount++;
     s.streak = 0;
   }
+  const quality = !correct ? 1 : opts.withHelp ? 3 : s.streak >= 2 ? 5 : 4;
+  s.srs = nextSrs(s.srs, quality);
   all[id] = s;
   await write(qKey(cat), all);
   return s;
@@ -279,4 +357,10 @@ export async function importProgress(data: ProgressExport, cats: string[]): Prom
 
 export async function resetProgress(): Promise<void> {
   for (const k of await allKeys()) await remove(k);
+  try {
+    for (const k of Object.keys(localStorage)) if (k.startsWith(BACKUP_PREFIX)) localStorage.removeItem(k);
+  } catch {
+    /* ignore */
+  }
+  memory.clear();
 }
