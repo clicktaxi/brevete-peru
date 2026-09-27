@@ -4,7 +4,10 @@
   "private": true,
   "packageManager": "pnpm@12.6.0",
   "scripts": {
+    "data": "tsx scripts/build_public_data.ts",
+    "predev": "pnpm data",
     "dev": "next dev",
+    "prebuild": "pnpm data",
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
@@ -21,6 +24,7 @@
     "next": "^15.5.26",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
+    "server-only": "^0.0.1",
     "zod": "^4.6.5"
   },
   "devDependencies": {
