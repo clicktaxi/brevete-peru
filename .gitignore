@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+
+# tests
+coverage/
+playwright-report/
+test-results/
+
+# misc
+.DS_Store
+*.log
+!scripts/fixes.log
+.env*
+!.env.example
+*.tsbuildinfo
+__pycache__/

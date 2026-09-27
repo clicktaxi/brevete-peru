@@ -1,0 +1,331 @@
+[
+  {
+    "id": "a1-004",
+    "image": "/images/a1/004.webp",
+    "width": 148,
+    "height": 112,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-018",
+    "image": "/images/a1/018.webp",
+    "width": 152,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-028",
+    "image": "/images/a1/028.webp",
+    "width": 145,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-033",
+    "image": "/images/a1/033.webp",
+    "width": 151,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-050",
+    "image": "/images/a1/050.webp",
+    "width": 138,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-067",
+    "image": "/images/a1/067.webp",
+    "width": 153,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-101",
+    "image": "/images/a1/101.webp",
+    "width": 159,
+    "height": 129,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-102",
+    "image": "/images/a1/102.webp",
+    "width": 149,
+    "height": 112,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-103",
+    "image": "/images/a1/103.webp",
+    "width": 153,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-104",
+    "image": "/images/a1/104.webp",
+    "width": 155,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-105",
+    "image": "/images/a1/105.webp",
+    "width": 132,
+    "height": 121,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-106",
+    "image": "/images/a1/106.webp",
+    "width": 143,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-107",
+    "image": "/images/a1/107.webp",
+    "width": 149,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-108",
+    "image": "/images/a1/108.webp",
+    "width": 142,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-109",
+    "image": "/images/a1/109.webp",
+    "width": 147,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-110",
+    "image": "/images/a1/110.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-111",
+    "image": "/images/a1/111.webp",
+    "width": 138,
+    "height": 129,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-112",
+    "image": "/images/a1/112.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-114",
+    "image": "/images/a1/114.webp",
+    "width": 149,
+    "height": 112,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-115",
+    "image": "/images/a1/115.webp",
+    "width": 130,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-116",
+    "image": "/images/a1/116.webp",
+    "width": 148,
+    "height": 129,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-117",
+    "image": "/images/a1/117.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-118",
+    "image": "/images/a1/118.webp",
+    "width": 148,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-120",
+    "image": "/images/a1/120.webp",
+    "width": 143,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-121",
+    "image": "/images/a1/121.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-123",
+    "image": "/images/a1/123.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-124",
+    "image": "/images/a1/124.webp",
+    "width": 146,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-126",
+    "image": "/images/a1/126.webp",
+    "width": 146,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-127",
+    "image": "/images/a1/127.webp",
+    "width": 148,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-129",
+    "image": "/images/a1/129.webp",
+    "width": 144,
+    "height": 129,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-130",
+    "image": "/images/a1/130.webp",
+    "width": 153,
+    "height": 137,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-131",
+    "image": "/images/a1/131.webp",
+    "width": 156,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-132",
+    "image": "/images/a1/132.webp",
+    "width": 154,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-133",
+    "image": "/images/a1/133.webp",
+    "width": 103,
+    "height": 129,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-134",
+    "image": "/images/a1/134.webp",
+    "width": 158,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-135",
+    "image": "/images/a1/135.webp",
+    "width": 154,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-136",
+    "image": "/images/a1/136.webp",
+    "width": 149,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-137",
+    "image": "/images/a1/137.webp",
+    "width": 152,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-138",
+    "image": "/images/a1/138.webp",
+    "width": 148,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-139",
+    "image": "/images/a1/139.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-142",
+    "image": "/images/a1/142.webp",
+    "width": 154,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-143",
+    "image": "/images/a1/143.webp",
+    "width": 156,
+    "height": 138,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-144",
+    "image": "/images/a1/144.webp",
+    "width": 153,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-146",
+    "image": "/images/a1/146.webp",
+    "width": 149,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-151",
+    "image": "/images/a1/151.webp",
+    "width": 140,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-181",
+    "image": "/images/a1/181.webp",
+    "width": 141,
+    "height": 130,
+    "reason": "low-res"
+  },
+  {
+    "id": "a1-182",
+    "image": "/images/a1/182.webp",
+    "width": 145,
+    "height": 130,
+    "reason": "low-res"
+  }
+]

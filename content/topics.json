@@ -1,0 +1,15 @@
+[
+  { "id": "senales", "order": 1, "title": { "es": "Señales de tránsito", "ru": "Дорожные знаки", "en": "Traffic signs" } },
+  { "id": "semaforos", "order": 2, "title": { "es": "Semáforos", "ru": "Светофоры", "en": "Traffic lights" } },
+  { "id": "marcas", "order": 3, "title": { "es": "Marcas en el pavimento", "ru": "Дорожная разметка", "en": "Road markings" } },
+  { "id": "preferencia", "order": 4, "title": { "es": "Preferencia de paso", "ru": "Приоритет проезда", "en": "Right of way" } },
+  { "id": "velocidad", "order": 5, "title": { "es": "Velocidad", "ru": "Скорость", "en": "Speed" } },
+  { "id": "adelantamiento", "order": 6, "title": { "es": "Adelantamiento", "ru": "Обгон", "en": "Overtaking" } },
+  { "id": "estacionamiento", "order": 7, "title": { "es": "Estacionamiento", "ru": "Стоянка и остановка", "en": "Parking and stopping" } },
+  { "id": "infracciones", "order": 8, "title": { "es": "Infracciones y sanciones", "ru": "Нарушения и штрафы", "en": "Offences and penalties" } },
+  { "id": "documentos", "order": 9, "title": { "es": "Licencia, SOAT y documentos", "ru": "Лицензия, SOAT и документы", "en": "Licence, SOAT and documents" } },
+  { "id": "seguridad", "order": 10, "title": { "es": "Seguridad y alcohol", "ru": "Безопасность и алкоголь", "en": "Safety and alcohol" } },
+  { "id": "peatones", "order": 11, "title": { "es": "Peatones", "ru": "Пешеходы", "en": "Pedestrians" } },
+  { "id": "primeros-auxilios", "order": 12, "title": { "es": "Primeros auxilios", "ru": "Первая помощь", "en": "First aid" } },
+  { "id": "otros", "order": 13, "title": { "es": "Otros", "ru": "Прочее", "en": "Other" } }
+]

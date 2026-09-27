@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a1",
+    "code": "A-I",
+    "examQuestions": 40,
+    "passScore": 35,
+    "timeLimitSec": 2400,
+    "sourcePdf": "content/source/A-I.pdf",
+    "sourceUrl": "https://www.gob.pe/institucion/mtc/informes-publicaciones/1928110-examen-de-conocimientos-para-postulantes-a-licencias-de-conducir",
+    "sourceVersion": "2018-01-16 sha256:492d81e8cc872dc7194578a44f328977280fc038909d26d6fa58b4f73bb1459d",
+    "title": {
+      "es": "Clase A – Categoría I",
+      "ru": "Класс A – Категория I",
+      "en": "Class A – Category I"
+    },
+    "description": {
+      "es": "Licencia particular: autos, camionetas y vehículos ligeros (M1, M2, N1).",
+      "ru": "Личная лицензия: легковые автомобили, пикапы и лёгкие грузовики (M1, M2, N1).",
+      "en": "Private licence: cars, pickups and light vehicles (M1, M2, N1)."
+    }
+  }
+]

@@ -1,0 +1,10 @@
+# source content/source/A-I.pdf sha256=492d81e8cc872dc7194578a44f328977280fc038909d26d6fa58b4f73bb1459d
+# id	field	kind	before	->	after
+a1-003	text	quote-encoding	'¿prohibido voltear a la izquierda¿'	->	'«prohibido voltear a la izquierda»'
+a1-011	a	quote-encoding	'¿CEDA EL PASO?'	->	'«CEDA EL PASO»'
+a1-115	a	hyphen-linebreak	'a-\nc'	->	'a-c'
+a1-115	b	hyphen-linebreak	'a-\nc'	->	'a-c'
+a1-115	c	hyphen-linebreak	'a-\nc'	->	'a-c'
+a1-115	d	hyphen-linebreak	'a-\nc'	->	'a-c'
+a1-134	b	hyphen-linebreak	'P-\n5'	->	'P-5'
+a1-194	text	quote-encoding	'¿U¿'	->	'«U»'
