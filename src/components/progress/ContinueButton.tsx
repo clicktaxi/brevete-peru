@@ -48,7 +48,7 @@ export function ContinueButton({ cat }: { cat: string }) {
   }, [cat, lang]);
 
   return (
-    <Link href={target?.href ?? `/${lang}/${cat}/`} className="flex items-center gap-3 rounded-2xl bg-accent p-4 text-white shadow-md active:opacity-90">
+    <Link href={target?.href ?? `/${lang}/${cat}/`} className="hero flex items-center gap-3 rounded-3xl p-5 text-white shadow-md active:opacity-90">
       <Icon name="bolt" className="h-7 w-7" />
       <span className="min-w-0 flex-1">
         <span className="block text-lg font-bold">{t("home.continue")}</span>

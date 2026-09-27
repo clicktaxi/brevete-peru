@@ -44,7 +44,8 @@ export function QuestionCard(props: QuestionCardProps) {
   const native = !!tr && lang !== "es";
   const level: HelpLevel = mode === "exam" || !native || (helpButton && !helpButton.used) ? 4 : props.helpLevel;
   const revealed = mode === "study" || (mode === "quiz" && selected !== undefined);
-  const logicWords = useMemo(() => logic.map((l) => l.es), [logic]);
+  // one-letter conjunctions (y, o) stay in the trainer but are too noisy to highlight inline
+  const logicWords = useMemo(() => logic.map((l) => l.es).filter((w) => w.length > 2), [logic]);
   const highlightLogic = level < 4;
   const glossMode: GlossMode = level === 2 || (level === 3 && translateAll) ? "inline" : level === 3 ? "tap" : "plain";
 

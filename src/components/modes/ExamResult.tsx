@@ -38,7 +38,7 @@ export function ExamResult({ cat }: { cat: string }) {
 
   return (
     <div className="space-y-4">
-      <div className={`rounded-3xl p-6 text-center text-white ${res.passed ? "bg-correct" : "bg-wrong"}`}>
+      <div className={`rounded-3xl p-6 text-center text-white ${res.passed ? "hero" : "bg-wrong"}`}>
         <p className="text-3xl font-black tracking-wide">{res.passed ? t("exam.passed") : t("exam.failed")}</p>
         <p className="text-lg opacity-90">{res.passed ? t("exam.passedRu") : t("exam.failedRu")}</p>
         <p className="mt-3 text-5xl font-black tabular">{res.score}</p>

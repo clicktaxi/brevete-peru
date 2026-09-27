@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://brevete.pe"),
   title: { default: "Brevete Perú", template: "%s · Brevete Perú" },
   description: "Preparación gratuita para el examen de conocimientos MTC — para quienes recién aprenden español.",
   manifest: "/manifest.webmanifest",
@@ -11,8 +12,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#F7FAFB" },
-    { media: "(prefers-color-scheme: dark)", color: "#0f171c" },
+    { media: "(prefers-color-scheme: light)", color: "#f3f5f9" },
+    { media: "(prefers-color-scheme: dark)", color: "#0b1220" },
   ],
   width: "device-width",
   initialScale: 1,

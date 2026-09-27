@@ -27,8 +27,10 @@ export function AppShell({ lang, t, title, back, cat = "a1", children, bare, act
             <Icon name="back" />
           </Link>
         ) : (
-          <Link href={`/${lang}/`} className="flex h-11 items-center px-2 font-bold text-accent" aria-label={t("app.name")}>
-            <span aria-hidden="true">🇵🇪</span>
+          <Link href={`/${lang}/`} className="flex h-11 items-center px-2" aria-label={t("app.name")}>
+            <span aria-hidden="true" className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent-deep text-xs font-black text-white">
+              B
+            </span>
           </Link>
         )}
         <h1 className="min-w-0 flex-1 truncate text-base font-semibold">{title}</h1>

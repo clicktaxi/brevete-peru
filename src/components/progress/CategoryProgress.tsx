@@ -43,15 +43,15 @@ export function CategoryProgress({ cat, topics }: { cat: string; topics: TopicIn
 
   return (
     <section className="mt-4">
-      <div className="rounded-2xl bg-surface p-4 shadow-sm">
+      <div className="hero rounded-3xl p-5 text-white shadow-md">
         <div className="flex items-center justify-between">
-          <span className="font-semibold">{t("hub.readiness")}</span>
-          <span className="text-2xl font-bold text-accent">{readiness}%</span>
+          <span className="font-semibold opacity-90">{t("hub.readiness")}</span>
+          <span className="text-3xl font-black tabular">{readiness}%</span>
         </div>
-        <div className="mt-2 h-2 overflow-hidden rounded-full bg-black/5">
-          <div className="h-full rounded-full bg-accent transition-all" style={{ width: `${readiness}%` }} />
+        <div className="mt-3 h-2 overflow-hidden rounded-full bg-white/20">
+          <div className="h-full rounded-full bg-white transition-all" style={{ width: `${readiness}%` }} />
         </div>
-        <p className="mt-2 text-xs text-muted">
+        <p className="mt-2 text-xs opacity-80">
           {t("hub.learned", { learned, total })} · {t("hub.mistakes", { n: mistakes })}
           {passRate?.total ? ` · ${t("hub.examsPassed", { passed: passRate.passed, total: passRate.total })}` : ""}
         </p>

@@ -21,7 +21,7 @@ export function LangSwitcher() {
         className="flex h-11 items-center gap-1 rounded-full px-3 text-sm font-medium text-muted hover:bg-black/5"
         aria-haspopup="menu"
         aria-expanded={open}
-        aria-label={t("common.language")}
+        aria-label={`${t("common.language")}: ${lang.toUpperCase()}`}
       >
         <Icon name="globe" />
         {lang.toUpperCase()}

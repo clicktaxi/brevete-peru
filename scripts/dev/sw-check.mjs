@@ -1,0 +1,24 @@
+import { chromium } from "@playwright/test";
+const browser = await chromium.launch();
+const ctx = await browser.newContext({ viewport: { width: 390, height: 844 } });
+const page = await ctx.newPage();
+page.on("console", (m) => { if (m.type() === "error") console.log("console:", m.text()); });
+await page.goto("http://localhost:4174/ru/a1/practice/", { waitUntil: "networkidle" });
+const info = await page.evaluate(async () => {
+  const reg = await navigator.serviceWorker.getRegistration();
+  await navigator.serviceWorker.ready;
+  await new Promise((r) => setTimeout(r, 4000));
+  const keys = await caches.keys();
+  let n = 0; for (const k of keys) n += (await (await caches.open(k)).keys()).length;
+  return { scope: reg?.scope, caches: keys, cached: n, controller: !!navigator.serviceWorker.controller };
+});
+console.log("online:", JSON.stringify(info));
+await page.reload({ waitUntil: "networkidle" });
+await ctx.setOffline(true);
+await page.goto("http://localhost:4174/ru/a1/practice/", { waitUntil: "domcontentloaded" }).catch((e) => console.log("offline nav error:", e.message));
+await page.waitForTimeout(3000);
+const text = await page.evaluate(() => document.querySelector("main")?.innerText.slice(0, 120));
+console.log("offline practice page text:", JSON.stringify(text));
+await page.goto("http://localhost:4174/ru/a1/q/1-esta-permitido-en-la-via/", { waitUntil: "domcontentloaded" }).catch((e) => console.log("offline nav2 error:", e.message));
+console.log("offline uncached question page:", JSON.stringify(await page.evaluate(() => document.body.innerText.slice(0, 80))));
+await browser.close();

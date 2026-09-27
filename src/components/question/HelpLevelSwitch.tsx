@@ -17,7 +17,7 @@ export function HelpLevelSwitch({ value, onChange, compact }: { value: HelpLevel
           role="radio"
           aria-checked={value === l}
           onClick={() => onChange(l)}
-          title={t(`help.level${l}`)}
+          aria-label={`${l} — ${t(`help.level${l}`)}`}
           className={`h-9 min-w-9 rounded-full px-2 text-sm font-semibold transition ${
             value === l ? "bg-accent text-white" : "bg-black/5 text-muted hover:bg-black/10"
           }`}
