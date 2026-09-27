@@ -1,0 +1,4420 @@
+[
+  {
+    "id": "abandonar",
+    "es": "abandonar",
+    "forms": [
+      "abandono"
+    ],
+    "tr": {
+      "ru": "бросать, оставлять",
+      "en": "to abandon"
+    },
+    "note": {
+      "ru": "Машина без водителя более 48 часов — брошенная.",
+      "en": "A car left without a driver for more than 48 hours counts as abandoned."
+    },
+    "example": "a1-164",
+    "topics": [
+      "estacionamiento",
+      "infracciones"
+    ]
+  },
+  {
+    "id": "accidente-de-transito",
+    "es": "accidente de tránsito",
+    "forms": [
+      "accidentes",
+      "accidente"
+    ],
+    "tr": {
+      "ru": "ДТП",
+      "en": "traffic accident"
+    },
+    "example": "a1-065",
+    "topics": [
+      "seguridad",
+      "primeros-auxilios"
+    ]
+  },
+  {
+    "id": "acelerar",
+    "es": "acelerar",
+    "forms": [
+      "acelera",
+      "aceleración"
+    ],
+    "tr": {
+      "ru": "ускоряться",
+      "en": "to accelerate"
+    },
+    "example": "a1-006",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "acera",
+    "es": "acera",
+    "forms": [
+      "aceras"
+    ],
+    "tr": {
+      "ru": "тротуар",
+      "en": "sidewalk"
+    },
+    "note": {
+      "ru": "В Перу говорят также «vereda».",
+      "en": "In Peru also called 'vereda'."
+    },
+    "example": "a1-191",
+    "topics": [
+      "peatones",
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "acompanante",
+    "es": "acompañante",
+    "forms": [
+      "acompañantes",
+      "acompañada"
+    ],
+    "tr": {
+      "ru": "сопровождающий",
+      "en": "companion"
+    },
+    "example": "a1-086",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "adelantar",
+    "es": "adelantar",
+    "forms": [
+      "adelantamiento",
+      "adelantado",
+      "adelantarlo",
+      "adelante"
+    ],
+    "tr": {
+      "ru": "обгонять",
+      "en": "to overtake"
+    },
+    "note": {
+      "ru": "Обгон — слева.",
+      "en": "Overtake on the left."
+    },
+    "example": "a1-038",
+    "topics": [
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "aduanas",
+    "es": "aduanas",
+    "tr": {
+      "ru": "таможня",
+      "en": "customs"
+    },
+    "example": "a1-144",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "adultos-mayores",
+    "es": "adultos mayores",
+    "tr": {
+      "ru": "пожилые люди",
+      "en": "elderly people"
+    },
+    "example": "a1-150",
+    "topics": [
+      "peatones"
+    ]
+  },
+  {
+    "id": "advertir",
+    "es": "advertir",
+    "forms": [
+      "advierte",
+      "advertencia"
+    ],
+    "tr": {
+      "ru": "предупреждать",
+      "en": "to warn"
+    },
+    "example": "a1-076",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "alcohol",
+    "es": "alcohol",
+    "tr": {
+      "ru": "алкоголь",
+      "en": "alcohol"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "alcoholemia",
+    "es": "alcoholemia",
+    "forms": [
+      "prueba de alcoholemia",
+      "operativo de alcoholemia"
+    ],
+    "tr": {
+      "ru": "проверка на алкоголь",
+      "en": "breath/blood alcohol test"
+    },
+    "note": {
+      "ru": "Отказаться нельзя.",
+      "en": "You cannot refuse it."
+    },
+    "example": "a1-094",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "alcoholimetro",
+    "es": "alcoholímetro",
+    "tr": {
+      "ru": "алкотестер",
+      "en": "breathalyser"
+    },
+    "example": "a1-173",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "amarillo",
+    "es": "amarillo",
+    "forms": [
+      "amarilla",
+      "amarillas",
+      "ámbar"
+    ],
+    "tr": {
+      "ru": "жёлтый",
+      "en": "yellow"
+    },
+    "note": {
+      "ru": "Жёлтая разметка разделяет встречные потоки.",
+      "en": "Yellow markings separate opposite directions."
+    },
+    "topics": [
+      "marcas",
+      "semaforos"
+    ]
+  },
+  {
+    "id": "ambar",
+    "es": "ámbar",
+    "tr": {
+      "ru": "жёлтый (янтарный)",
+      "en": "amber"
+    },
+    "example": "a1-006",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "ambulancia",
+    "es": "ambulancia",
+    "forms": [
+      "ambulancias"
+    ],
+    "tr": {
+      "ru": "скорая помощь",
+      "en": "ambulance"
+    },
+    "example": "a1-070",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "animales",
+    "es": "animales",
+    "tr": {
+      "ru": "животные",
+      "en": "animals"
+    },
+    "example": "a1-131",
+    "topics": [
+      "senales",
+      "otros"
+    ]
+  },
+  {
+    "id": "antelacion",
+    "es": "antelación",
+    "tr": {
+      "ru": "заранее",
+      "en": "in advance"
+    },
+    "note": {
+      "ru": "«Con antelación» — заранее.",
+      "en": "'Con antelación' — beforehand."
+    },
+    "example": "a1-013",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "antiguedad",
+    "es": "antigüedad",
+    "tr": {
+      "ru": "возраст (машины)",
+      "en": "age (of the vehicle)"
+    },
+    "example": "a1-063",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "apagado",
+    "es": "apagado",
+    "tr": {
+      "ru": "выключенный",
+      "en": "switched off"
+    },
+    "example": "a1-089",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "aproximarse",
+    "es": "aproximarse",
+    "forms": [
+      "se aproxima",
+      "se aproxime",
+      "aproximan",
+      "nos acercamos",
+      "acercarse"
+    ],
+    "tr": {
+      "ru": "приближаться",
+      "en": "to approach"
+    },
+    "example": "a1-013",
+    "topics": [
+      "senales",
+      "preferencia"
+    ]
+  },
+  {
+    "id": "arenamiento",
+    "es": "arenamiento",
+    "tr": {
+      "ru": "песчаные заносы",
+      "en": "sand drifts"
+    },
+    "example": "a1-139",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "arrojar",
+    "es": "arrojar",
+    "tr": {
+      "ru": "выбрасывать",
+      "en": "to throw"
+    },
+    "example": "a1-077",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "ascenso-y-descenso",
+    "es": "ascenso y descenso",
+    "forms": [
+      "ascenso o descenso",
+      "asciende",
+      "desciende"
+    ],
+    "tr": {
+      "ru": "посадка и высадка; подъём и спуск",
+      "en": "getting on and off; going up and down"
+    },
+    "example": "a1-026",
+    "topics": [
+      "peatones",
+      "preferencia"
+    ]
+  },
+  {
+    "id": "asiento",
+    "es": "asiento",
+    "forms": [
+      "asientos",
+      "asientos delanteros",
+      "asientos posteriores"
+    ],
+    "tr": {
+      "ru": "сиденье",
+      "en": "seat"
+    },
+    "note": {
+      "ru": "«Delanteros» — передние, «posteriores» — задние.",
+      "en": "'Delanteros' — front, 'posteriores' — rear."
+    },
+    "example": "a1-081",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "aumentar",
+    "es": "aumentar",
+    "forms": [
+      "incrementar"
+    ],
+    "tr": {
+      "ru": "увеличивать",
+      "en": "to increase"
+    },
+    "example": "a1-020",
+    "topics": [
+      "velocidad",
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "automovil",
+    "es": "automóvil",
+    "forms": [
+      "automóviles",
+      "autos",
+      "auto"
+    ],
+    "tr": {
+      "ru": "легковой автомобиль",
+      "en": "car"
+    },
+    "example": "a1-152",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "autopista",
+    "es": "autopista",
+    "tr": {
+      "ru": "автомагистраль",
+      "en": "motorway"
+    },
+    "example": "a1-068",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "autoridad-competente",
+    "es": "autoridad competente",
+    "forms": [
+      "autoridad"
+    ],
+    "tr": {
+      "ru": "уполномоченный орган",
+      "en": "competent authority"
+    },
+    "example": "a1-040",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "autorizado",
+    "es": "autorizado",
+    "forms": [
+      "autorizados",
+      "autoriza",
+      "autorización"
+    ],
+    "tr": {
+      "ru": "разрешённый",
+      "en": "authorised"
+    },
+    "example": "a1-001",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "avanzar",
+    "es": "avanzar",
+    "tr": {
+      "ru": "ехать вперёд, продолжать",
+      "en": "to move forward"
+    },
+    "example": "a1-006",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "avenida",
+    "es": "avenida",
+    "forms": [
+      "avenidas"
+    ],
+    "tr": {
+      "ru": "проспект",
+      "en": "avenue"
+    },
+    "note": {
+      "ru": "В городе максимум 60 км/ч.",
+      "en": "In town the maximum is 60 km/h."
+    },
+    "example": "a1-055",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "averia",
+    "es": "avería",
+    "forms": [
+      "averías",
+      "averiado"
+    ],
+    "tr": {
+      "ru": "поломка",
+      "en": "breakdown"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "bache",
+    "es": "bache",
+    "forms": [
+      "baches"
+    ],
+    "tr": {
+      "ru": "яма на дороге",
+      "en": "pothole"
+    },
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "baden",
+    "es": "badén",
+    "tr": {
+      "ru": "углубление на дороге (для стока воды)",
+      "en": "dip (drainage channel across the road)"
+    },
+    "example": "a1-118",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "berma",
+    "es": "berma",
+    "tr": {
+      "ru": "обочина",
+      "en": "shoulder (of the road)"
+    },
+    "note": {
+      "ru": "Не для езды, только для аварийной остановки и пешеходов.",
+      "en": "Not for driving; only for emergency stops and pedestrians."
+    },
+    "example": "a1-189",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "bicicleta",
+    "es": "bicicleta",
+    "tr": {
+      "ru": "велосипед",
+      "en": "bicycle"
+    },
+    "example": "a1-087",
+    "topics": [
+      "peatones",
+      "infracciones"
+    ]
+  },
+  {
+    "id": "bifurcacion",
+    "es": "bifurcación",
+    "tr": {
+      "ru": "развилка",
+      "en": "fork in the road"
+    },
+    "example": "a1-108",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "blanco",
+    "es": "blanco",
+    "forms": [
+      "blanca",
+      "blancas"
+    ],
+    "tr": {
+      "ru": "белый",
+      "en": "white"
+    },
+    "note": {
+      "ru": "Белая разметка разделяет полосы одного направления.",
+      "en": "White markings separate lanes going the same way."
+    },
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "bocina",
+    "es": "bocina",
+    "forms": [
+      "bocinas",
+      "claxon"
+    ],
+    "tr": {
+      "ru": "клаксон, сигнал",
+      "en": "horn"
+    },
+    "note": {
+      "ru": "Только чтобы избежать опасности. «Tocar el claxon» — сигналить.",
+      "en": "Only to avoid danger. 'Tocar el claxon' — to honk."
+    },
+    "example": "a1-083",
+    "topics": [
+      "infracciones",
+      "otros"
+    ]
+  },
+  {
+    "id": "bomberos",
+    "es": "bomberos",
+    "tr": {
+      "ru": "пожарные",
+      "en": "firefighters"
+    },
+    "example": "a1-137",
+    "topics": [
+      "preferencia",
+      "senales"
+    ]
+  },
+  {
+    "id": "borde",
+    "es": "borde",
+    "tr": {
+      "ru": "край",
+      "en": "edge"
+    },
+    "note": {
+      "ru": "«Línea de borde de calzada» — линия края проезжей части.",
+      "en": "'Línea de borde de calzada' — edge line of the roadway."
+    },
+    "example": "a1-183",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "brazo",
+    "es": "brazo",
+    "forms": [
+      "antebrazo",
+      "mano"
+    ],
+    "tr": {
+      "ru": "рука (сигнал рукой)",
+      "en": "arm (hand signal)"
+    },
+    "note": {
+      "ru": "Рука вверх = поворот направо; рука вниз = остановка.",
+      "en": "Arm up = right turn; arm down = stopping."
+    },
+    "example": "a1-044",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "brecha",
+    "es": "brecha",
+    "tr": {
+      "ru": "промежуток (между машинами)",
+      "en": "gap (between vehicles)"
+    },
+    "example": "a1-014",
+    "topics": [
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "cadena",
+    "es": "cadena",
+    "forms": [
+      "cadenas"
+    ],
+    "tr": {
+      "ru": "цепь",
+      "en": "chain"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "calle",
+    "es": "calle",
+    "forms": [
+      "calles"
+    ],
+    "tr": {
+      "ru": "улица",
+      "en": "street"
+    },
+    "note": {
+      "ru": "В городе максимум 40 км/ч.",
+      "en": "In town the maximum is 40 km/h."
+    },
+    "example": "a1-054",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "calzada",
+    "es": "calzada",
+    "tr": {
+      "ru": "проезжая часть",
+      "en": "roadway"
+    },
+    "note": {
+      "ru": "Часть дороги для машин.",
+      "en": "The part of the road for vehicles."
+    },
+    "example": "a1-190",
+    "topics": [
+      "otros",
+      "marcas"
+    ]
+  },
+  {
+    "id": "cambiar-de-carril",
+    "es": "cambiar de carril",
+    "forms": [
+      "cambio de carril",
+      "cambios de carril",
+      "cambiarse al carril"
+    ],
+    "tr": {
+      "ru": "перестроиться",
+      "en": "to change lane"
+    },
+    "example": "a1-014",
+    "topics": [
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "cambiar-de-direccion",
+    "es": "cambiar de dirección",
+    "tr": {
+      "ru": "менять направление",
+      "en": "to change direction"
+    },
+    "example": "a1-042",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "camion",
+    "es": "camión",
+    "forms": [
+      "camiones"
+    ],
+    "tr": {
+      "ru": "грузовик",
+      "en": "truck"
+    },
+    "example": "a1-152",
+    "topics": [
+      "documentos",
+      "senales"
+    ]
+  },
+  {
+    "id": "camioneta",
+    "es": "camioneta",
+    "forms": [
+      "camionetas"
+    ],
+    "tr": {
+      "ru": "пикап, внедорожник",
+      "en": "pickup, SUV"
+    },
+    "example": "a1-058",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "cancelacion",
+    "es": "cancelación",
+    "tr": {
+      "ru": "аннулирование (прав)",
+      "en": "cancellation (of licence)"
+    },
+    "example": "a1-060",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "cansancio",
+    "es": "cansancio",
+    "tr": {
+      "ru": "усталость",
+      "en": "tiredness"
+    },
+    "example": "a1-188",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "capot",
+    "es": "capot",
+    "tr": {
+      "ru": "капот",
+      "en": "hood"
+    },
+    "example": "a1-089",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "carga",
+    "es": "carga",
+    "forms": [
+      "carga y descarga"
+    ],
+    "tr": {
+      "ru": "груз; погрузка",
+      "en": "load; loading"
+    },
+    "example": "a1-165",
+    "topics": [
+      "otros",
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "carretera",
+    "es": "carretera",
+    "forms": [
+      "carreteras",
+      "carretereras"
+    ],
+    "tr": {
+      "ru": "шоссе, загородная дорога",
+      "en": "highway, road outside town"
+    },
+    "note": {
+      "ru": "Противоположность «vía urbana» (городская улица).",
+      "en": "The opposite of «vía urbana» (city street)."
+    },
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "carril",
+    "es": "carril",
+    "forms": [
+      "carriles"
+    ],
+    "tr": {
+      "ru": "полоса движения",
+      "en": "lane"
+    },
+    "example": "a1-048",
+    "topics": [
+      "marcas",
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "carroceria",
+    "es": "carrocería",
+    "tr": {
+      "ru": "кузов",
+      "en": "vehicle body"
+    },
+    "example": "a1-165",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "categoria",
+    "es": "categoría",
+    "forms": [
+      "clase y categoría",
+      "recategorización"
+    ],
+    "tr": {
+      "ru": "категория (прав)",
+      "en": "category (of licence)"
+    },
+    "note": {
+      "ru": "A-I — легковые авто; мотоциклы нельзя.",
+      "en": "A-I — cars; motorcycles are not allowed."
+    },
+    "example": "a1-196",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "ceder-el-paso",
+    "es": "ceder el paso",
+    "forms": [
+      "ceda el paso",
+      "cederle el paso",
+      "darle paso",
+      "dar preferencia de paso",
+      "darle preferencia de paso"
+    ],
+    "tr": {
+      "ru": "уступить дорогу",
+      "en": "yield, give way"
+    },
+    "note": {
+      "ru": "«CEDA EL PASO» — знак «Уступи дорогу» (перевёрнутый треугольник).",
+      "en": "'CEDA EL PASO' is the yield sign (inverted triangle)."
+    },
+    "example": "a1-078",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "ciclista",
+    "es": "ciclista",
+    "forms": [
+      "ciclistas"
+    ],
+    "tr": {
+      "ru": "велосипедист",
+      "en": "cyclist"
+    },
+    "example": "a1-120",
+    "topics": [
+      "peatones"
+    ]
+  },
+  {
+    "id": "ciclovia",
+    "es": "ciclovía",
+    "tr": {
+      "ru": "велодорожка",
+      "en": "bike lane"
+    },
+    "example": "a1-120",
+    "topics": [
+      "senales",
+      "peatones"
+    ]
+  },
+  {
+    "id": "cinturon-de-seguridad",
+    "es": "cinturón de seguridad",
+    "tr": {
+      "ru": "ремень безопасности",
+      "en": "seat belt"
+    },
+    "example": "a1-081",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "circular",
+    "es": "circular",
+    "forms": [
+      "circulación",
+      "circula",
+      "circulan",
+      "circulen",
+      "circulando"
+    ],
+    "tr": {
+      "ru": "ехать, двигаться",
+      "en": "to drive, to travel"
+    },
+    "note": {
+      "ru": "Осторожно: «luz circular» — круглый сигнал светофора.",
+      "en": "Careful: 'luz circular' means the round traffic-light lamp."
+    },
+    "example": "a1-008",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "colision",
+    "es": "colisión",
+    "tr": {
+      "ru": "столкновение",
+      "en": "collision"
+    },
+    "example": "a1-188",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "combustible",
+    "es": "combustible",
+    "forms": [
+      "combustibles"
+    ],
+    "tr": {
+      "ru": "топливо",
+      "en": "fuel"
+    },
+    "example": "a1-086",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "comercio-ambulatorio",
+    "es": "comercio ambulatorio",
+    "tr": {
+      "ru": "уличная торговля",
+      "en": "street vending"
+    },
+    "example": "a1-001",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "competencia",
+    "es": "competencia",
+    "forms": [
+      "carreras"
+    ],
+    "tr": {
+      "ru": "гонка, соревнование",
+      "en": "race, competition"
+    },
+    "example": "a1-088",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "compraventa",
+    "es": "compraventa",
+    "tr": {
+      "ru": "купля-продажа",
+      "en": "purchase and sale"
+    },
+    "note": {
+      "ru": "Договор купли-продажи возить с собой не нужно.",
+      "en": "The sale contract does not need to be carried."
+    },
+    "example": "a1-040",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "conducir",
+    "es": "conducir",
+    "forms": [
+      "conducción",
+      "conduce",
+      "conduzca",
+      "conducidos",
+      "conduciendo"
+    ],
+    "tr": {
+      "ru": "водить, управлять",
+      "en": "to drive"
+    },
+    "example": "a1-019",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "conductor",
+    "es": "conductor",
+    "forms": [
+      "conductores"
+    ],
+    "tr": {
+      "ru": "водитель",
+      "en": "driver"
+    },
+    "example": "a1-002",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "congestion",
+    "es": "congestión",
+    "tr": {
+      "ru": "пробка",
+      "en": "congestion"
+    },
+    "example": "a1-089",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "constancia",
+    "es": "constancia",
+    "tr": {
+      "ru": "справка, письменное подтверждение",
+      "en": "written record"
+    },
+    "note": {
+      "ru": "«Dejar constancia» — оставить заявление.",
+      "en": "'Dejar constancia' — file a report."
+    },
+    "example": "a1-065",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "contaminantes",
+    "es": "contaminantes",
+    "forms": [
+      "emisión"
+    ],
+    "tr": {
+      "ru": "загрязняющие вещества",
+      "en": "pollutants"
+    },
+    "example": "a1-166",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "control-policial",
+    "es": "control policial",
+    "tr": {
+      "ru": "полицейский пост",
+      "en": "police checkpoint"
+    },
+    "example": "a1-110",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "copiloto",
+    "es": "copiloto",
+    "tr": {
+      "ru": "второй водитель, пассажир спереди",
+      "en": "co-driver"
+    },
+    "example": "a1-039",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "cruce",
+    "es": "cruce",
+    "forms": [
+      "cruces"
+    ],
+    "tr": {
+      "ru": "пересечение, переезд",
+      "en": "crossing"
+    },
+    "example": "a1-015",
+    "topics": [
+      "preferencia",
+      "peatones"
+    ]
+  },
+  {
+    "id": "cruce-escolar",
+    "es": "cruce escolar",
+    "tr": {
+      "ru": "переход у школы",
+      "en": "school crossing"
+    },
+    "example": "a1-123",
+    "topics": [
+      "peatones",
+      "senales"
+    ]
+  },
+  {
+    "id": "cruce-peatonal",
+    "es": "cruce peatonal",
+    "forms": [
+      "crucero peatonal",
+      "paso peatonal",
+      "crucero tipo cebra",
+      "cruce de peatones"
+    ],
+    "tr": {
+      "ru": "пешеходный переход",
+      "en": "pedestrian crossing"
+    },
+    "example": "a1-073",
+    "topics": [
+      "peatones"
+    ]
+  },
+  {
+    "id": "cruzar",
+    "es": "cruzar",
+    "forms": [
+      "cruza",
+      "cruzando",
+      "cruce",
+      "cruzarse",
+      "atravesándola"
+    ],
+    "tr": {
+      "ru": "пересекать, переходить",
+      "en": "to cross"
+    },
+    "example": "a1-005",
+    "topics": [
+      "marcas",
+      "peatones"
+    ]
+  },
+  {
+    "id": "cuadra",
+    "es": "cuadra",
+    "tr": {
+      "ru": "квартал (отрезок улицы)",
+      "en": "block (of a street)"
+    },
+    "example": "a1-141",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "curva",
+    "es": "curva",
+    "forms": [
+      "curvas",
+      "contra-curva"
+    ],
+    "tr": {
+      "ru": "поворот дороги",
+      "en": "curve, bend"
+    },
+    "example": "a1-032",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "danos",
+    "es": "daños",
+    "tr": {
+      "ru": "ущерб, повреждения",
+      "en": "damage"
+    },
+    "example": "a1-023",
+    "topics": [
+      "seguridad",
+      "documentos"
+    ]
+  },
+  {
+    "id": "de-frente",
+    "es": "de frente",
+    "tr": {
+      "ru": "прямо",
+      "en": "straight ahead"
+    },
+    "note": {
+      "ru": "«Continuar de frente» — ехать прямо.",
+      "en": "'Continuar de frente' — go straight."
+    },
+    "example": "a1-003",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "dejar",
+    "es": "dejar",
+    "forms": [
+      "dejando",
+      "deja de"
+    ],
+    "tr": {
+      "ru": "высаживать; оставлять",
+      "en": "to drop off; to leave"
+    },
+    "note": {
+      "ru": "«Dejar pasajeros» — высадить; «dejar de funcionar» — перестать работать.",
+      "en": "'Dejar pasajeros' — drop off; 'dejar de funcionar' — stop working."
+    },
+    "example": "a1-001",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "delegacion",
+    "es": "delegación",
+    "tr": {
+      "ru": "отделение полиции",
+      "en": "police station"
+    },
+    "example": "a1-065",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "delineadores",
+    "es": "delineadores",
+    "tr": {
+      "ru": "направляющие столбики/стрелки",
+      "en": "delineators (curve markers)"
+    },
+    "example": "a1-151",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "demarcacion",
+    "es": "demarcación",
+    "forms": [
+      "demarcada"
+    ],
+    "tr": {
+      "ru": "разметка",
+      "en": "marking"
+    },
+    "example": "a1-189",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "desgastados",
+    "es": "desgastados",
+    "tr": {
+      "ru": "изношенные",
+      "en": "worn out"
+    },
+    "example": "a1-188",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "deslizante",
+    "es": "deslizante",
+    "tr": {
+      "ru": "скользкий",
+      "en": "slippery"
+    },
+    "example": "a1-102",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "despejar",
+    "es": "despejar",
+    "forms": [
+      "despejando",
+      "despejado"
+    ],
+    "tr": {
+      "ru": "освободить (перекрёсток)",
+      "en": "to clear (the intersection)"
+    },
+    "example": "a1-006",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "detener",
+    "es": "detener",
+    "forms": [
+      "detenerse",
+      "detención",
+      "detenido",
+      "detenciones",
+      "detengan"
+    ],
+    "tr": {
+      "ru": "остановить(ся)",
+      "en": "to stop"
+    },
+    "example": "a1-006",
+    "topics": [
+      "semaforos",
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "dificultar",
+    "es": "dificultar",
+    "forms": [
+      "dificulten"
+    ],
+    "tr": {
+      "ru": "затруднять",
+      "en": "to hinder"
+    },
+    "example": "a1-077",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "discapacidad",
+    "es": "discapacidad",
+    "tr": {
+      "ru": "инвалидность",
+      "en": "disability"
+    },
+    "example": "a1-156",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "disminuir",
+    "es": "disminuir",
+    "forms": [
+      "disminución"
+    ],
+    "tr": {
+      "ru": "снижать",
+      "en": "to reduce"
+    },
+    "example": "a1-020",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "dispositivos-de-control",
+    "es": "dispositivos de control del tránsito",
+    "forms": [
+      "dispositivos de control de tránsito",
+      "dispositivos de control o regulación del tránsito"
+    ],
+    "tr": {
+      "ru": "средства регулирования движения",
+      "en": "traffic control devices"
+    },
+    "note": {
+      "ru": "Знаки, светофоры, разметка.",
+      "en": "Signs, traffic lights, markings."
+    },
+    "example": "a1-002",
+    "topics": [
+      "senales",
+      "semaforos"
+    ]
+  },
+  {
+    "id": "distancia-de-seguridad",
+    "es": "distancia de seguridad",
+    "forms": [
+      "distancia entre vehículos"
+    ],
+    "tr": {
+      "ru": "безопасная дистанция",
+      "en": "safe following distance"
+    },
+    "example": "a1-112",
+    "topics": [
+      "seguridad",
+      "senales"
+    ]
+  },
+  {
+    "id": "distraccion",
+    "es": "distracción",
+    "forms": [
+      "distracciones"
+    ],
+    "tr": {
+      "ru": "отвлечение",
+      "en": "distraction"
+    },
+    "example": "a1-185",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "doble-linea-amarilla",
+    "es": "doble línea amarilla",
+    "tr": {
+      "ru": "двойная жёлтая линия",
+      "en": "double yellow line"
+    },
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "droga",
+    "es": "droga",
+    "forms": [
+      "drogas"
+    ],
+    "tr": {
+      "ru": "наркотик",
+      "en": "drug"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "duplicado",
+    "es": "duplicado",
+    "tr": {
+      "ru": "дубликат",
+      "en": "duplicate"
+    },
+    "example": "a1-176",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "efectivo",
+    "es": "efectivo",
+    "tr": {
+      "ru": "сотрудник (полиции)",
+      "en": "officer (police)"
+    },
+    "note": {
+      "ru": "«Efectivo de la Policía» — полицейский.",
+      "en": "'Efectivo de la Policía' — a police officer."
+    },
+    "example": "a1-016",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "emergencia",
+    "es": "emergencia",
+    "forms": [
+      "emergencias"
+    ],
+    "tr": {
+      "ru": "чрезвычайная ситуация, экстренный случай",
+      "en": "emergency"
+    },
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "encender",
+    "es": "encender",
+    "forms": [
+      "encendido",
+      "encendidas",
+      "enciende",
+      "prender",
+      "prendidas"
+    ],
+    "tr": {
+      "ru": "включать",
+      "en": "to switch on"
+    },
+    "example": "a1-014",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "entrada",
+    "es": "entrada",
+    "forms": [
+      "salida"
+    ],
+    "tr": {
+      "ru": "въезд (salida — выезд)",
+      "en": "entrance (salida — exit)"
+    },
+    "example": "a1-017",
+    "topics": [
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "escolares",
+    "es": "escolares",
+    "forms": [
+      "transporte escolar"
+    ],
+    "tr": {
+      "ru": "школьники",
+      "en": "schoolchildren"
+    },
+    "example": "a1-026",
+    "topics": [
+      "peatones"
+    ]
+  },
+  {
+    "id": "espectaculos",
+    "es": "espectáculos",
+    "tr": {
+      "ru": "зрелища (театр, кино)",
+      "en": "shows (theatre, cinema)"
+    },
+    "example": "a1-163",
+    "topics": [
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "estacionar",
+    "es": "estacionar",
+    "forms": [
+      "estacionamiento",
+      "estacionado",
+      "estacionarse",
+      "estacionario",
+      "parqueo"
+    ],
+    "tr": {
+      "ru": "парковаться",
+      "en": "to park"
+    },
+    "note": {
+      "ru": "«Parqueo» — парковка (в Перу).",
+      "en": "'Parqueo' — parking (Peru)."
+    },
+    "example": "a1-017",
+    "topics": [
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "estupefaciente",
+    "es": "estupefaciente",
+    "forms": [
+      "estupefacientes"
+    ],
+    "tr": {
+      "ru": "наркотик",
+      "en": "narcotic drug"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "estupefacientes",
+    "es": "estupefacientes",
+    "tr": {
+      "ru": "наркотики",
+      "en": "narcotics"
+    },
+    "note": {
+      "ru": "Рядом обычно «narcóticos», «alucinógenos», «drogas» — всё это наркотики.",
+      "en": "Usually next to 'narcóticos', 'alucinógenos', 'drogas' — all mean drugs."
+    },
+    "example": "a1-060",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "exhibir",
+    "es": "exhibir",
+    "forms": [
+      "exhibirse"
+    ],
+    "tr": {
+      "ru": "предъявлять",
+      "en": "to show (documents)"
+    },
+    "example": "a1-040",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "fabricacion",
+    "es": "fabricación",
+    "tr": {
+      "ru": "год выпуска",
+      "en": "manufacture"
+    },
+    "example": "a1-063",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "flecha",
+    "es": "flecha",
+    "forms": [
+      "flechas"
+    ],
+    "tr": {
+      "ru": "стрелка",
+      "en": "arrow"
+    },
+    "example": "a1-008",
+    "topics": [
+      "semaforos",
+      "marcas"
+    ]
+  },
+  {
+    "id": "frenos",
+    "es": "frenos",
+    "tr": {
+      "ru": "тормоза",
+      "en": "brakes"
+    },
+    "example": "a1-188",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "fuerza-mayor",
+    "es": "fuerza mayor",
+    "tr": {
+      "ru": "форс-мажор",
+      "en": "force majeure"
+    },
+    "note": {
+      "ru": "Например, если поворотники не работают.",
+      "en": "For example, when the turn signals do not work."
+    },
+    "example": "a1-044",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "fumar",
+    "es": "fumar",
+    "tr": {
+      "ru": "курить",
+      "en": "to smoke"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "garaje",
+    "es": "garaje",
+    "forms": [
+      "garajes"
+    ],
+    "tr": {
+      "ru": "гараж",
+      "en": "garage"
+    },
+    "example": "a1-017",
+    "topics": [
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "girar",
+    "es": "girar",
+    "forms": [
+      "giro",
+      "giros"
+    ],
+    "tr": {
+      "ru": "поворачивать",
+      "en": "to turn"
+    },
+    "example": "a1-013",
+    "topics": [
+      "preferencia",
+      "senales"
+    ]
+  },
+  {
+    "id": "giro-en-u",
+    "es": "giro en U",
+    "forms": [
+      "girar en U",
+      "en «U»"
+    ],
+    "tr": {
+      "ru": "разворот",
+      "en": "U-turn"
+    },
+    "example": "a1-003",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "grifo",
+    "es": "grifo",
+    "tr": {
+      "ru": "заправка (перуанское слово)",
+      "en": "fuel station (Peruvian word)"
+    },
+    "example": "a1-146",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "hospedaje",
+    "es": "hospedaje",
+    "tr": {
+      "ru": "гостиница, ночлег",
+      "en": "lodging"
+    },
+    "example": "a1-142",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "humedo",
+    "es": "húmedo",
+    "forms": [
+      "seco"
+    ],
+    "tr": {
+      "ru": "мокрый (seco — сухой)",
+      "en": "wet (seco — dry)"
+    },
+    "example": "a1-188",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "infraccion",
+    "es": "infracción",
+    "forms": [
+      "infracciones",
+      "infractor"
+    ],
+    "tr": {
+      "ru": "нарушение",
+      "en": "offence"
+    },
+    "example": "a1-077",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "ingresar",
+    "es": "ingresar",
+    "forms": [
+      "ingresó",
+      "ingresar a"
+    ],
+    "tr": {
+      "ru": "въезжать",
+      "en": "to enter"
+    },
+    "example": "a1-006",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "inhabilitacion",
+    "es": "inhabilitación",
+    "tr": {
+      "ru": "запрет получать права",
+      "en": "disqualification"
+    },
+    "note": {
+      "ru": "«Definitiva» — навсегда.",
+      "en": "'Definitiva' — for life."
+    },
+    "example": "a1-060",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "inmovilizado",
+    "es": "inmovilizado",
+    "tr": {
+      "ru": "обездвиженный, сломавшийся",
+      "en": "immobilised"
+    },
+    "example": "a1-027",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "inspeccion-tecnica",
+    "es": "inspección técnica",
+    "forms": [
+      "Inspección Técnica Vehicular"
+    ],
+    "tr": {
+      "ru": "техосмотр",
+      "en": "technical inspection"
+    },
+    "note": {
+      "ru": "Раз в год; с 4-го года после выпуска.",
+      "en": "Once a year; from the 4th year after manufacture."
+    },
+    "example": "a1-062",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "internamiento-vehicular",
+    "es": "internamiento vehicular",
+    "tr": {
+      "ru": "отправка машины на штрафстоянку",
+      "en": "vehicle impounding"
+    },
+    "example": "a1-047",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "interseccion",
+    "es": "intersección",
+    "forms": [
+      "intersecciones"
+    ],
+    "tr": {
+      "ru": "перекрёсток",
+      "en": "intersection"
+    },
+    "example": "a1-006",
+    "topics": [
+      "preferencia",
+      "semaforos"
+    ]
+  },
+  {
+    "id": "intervenir",
+    "es": "intervenir",
+    "forms": [
+      "intervenido",
+      "intervención",
+      "intervenga"
+    ],
+    "tr": {
+      "ru": "остановить для проверки (о полиции)",
+      "en": "to pull over, to intervene (police)"
+    },
+    "example": "a1-061",
+    "topics": [
+      "seguridad",
+      "infracciones"
+    ]
+  },
+  {
+    "id": "intoxicacion",
+    "es": "intoxicación",
+    "tr": {
+      "ru": "отравление, опьянение",
+      "en": "intoxication"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "isla",
+    "es": "isla",
+    "forms": [
+      "islas canalizadoras",
+      "isla de refugio"
+    ],
+    "tr": {
+      "ru": "островок (на дороге)",
+      "en": "traffic island"
+    },
+    "example": "a1-198",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "jiron",
+    "es": "jirón",
+    "forms": [
+      "jirones"
+    ],
+    "tr": {
+      "ru": "улица (перуанское слово)",
+      "en": "street (Peruvian word)"
+    },
+    "note": {
+      "ru": "Тот же лимит, что у улицы: 40 км/ч.",
+      "en": "Same limit as a street: 40 km/h."
+    },
+    "example": "a1-054",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "km-h",
+    "es": "km/h",
+    "tr": {
+      "ru": "км/ч",
+      "en": "km/h"
+    },
+    "example": "a1-054",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "licencia-de-conducir",
+    "es": "licencia de conducir",
+    "forms": [
+      "licencia",
+      "licencias de conducir"
+    ],
+    "tr": {
+      "ru": "водительские права",
+      "en": "driving licence"
+    },
+    "example": "a1-019",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "limite-maximo",
+    "es": "límite máximo",
+    "forms": [
+      "límites máximos",
+      "límite máximo de velocidad"
+    ],
+    "tr": {
+      "ru": "максимальный предел (скорости)",
+      "en": "maximum (speed) limit"
+    },
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "limite-minimo",
+    "es": "límite mínimo",
+    "forms": [
+      "límites mínimos"
+    ],
+    "tr": {
+      "ru": "минимальный предел (скорости)",
+      "en": "minimum (speed) limit"
+    },
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "linea-central",
+    "es": "línea central",
+    "forms": [
+      "línea central discontinua",
+      "línea central continua"
+    ],
+    "tr": {
+      "ru": "осевая линия",
+      "en": "center line"
+    },
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "linea-continua",
+    "es": "línea continua",
+    "forms": [
+      "continua",
+      "trazo continuo",
+      "líneas continuas"
+    ],
+    "tr": {
+      "ru": "сплошная линия",
+      "en": "solid line"
+    },
+    "note": {
+      "ru": "Пересекать нельзя.",
+      "en": "Must not be crossed."
+    },
+    "example": "a1-051",
+    "topics": [
+      "marcas",
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "linea-de-parada",
+    "es": "línea de parada",
+    "forms": [
+      "línea de pare"
+    ],
+    "tr": {
+      "ru": "стоп-линия",
+      "en": "stop line"
+    },
+    "example": "a1-049",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "linea-discontinua",
+    "es": "línea discontinua",
+    "forms": [
+      "discontinua",
+      "trazo discontinuo"
+    ],
+    "tr": {
+      "ru": "прерывистая линия",
+      "en": "broken line"
+    },
+    "note": {
+      "ru": "Пересекать можно, если безопасно.",
+      "en": "May be crossed if it is safe."
+    },
+    "example": "a1-005",
+    "topics": [
+      "marcas",
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "llanteria",
+    "es": "llantería",
+    "tr": {
+      "ru": "шиномонтаж",
+      "en": "tyre shop"
+    },
+    "example": "a1-147",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "luces",
+    "es": "luces",
+    "forms": [
+      "luz"
+    ],
+    "tr": {
+      "ru": "фары, свет",
+      "en": "lights"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "luces-altas",
+    "es": "luces altas",
+    "forms": [
+      "altas"
+    ],
+    "tr": {
+      "ru": "дальний свет",
+      "en": "high beams"
+    },
+    "note": {
+      "ru": "На шоссе; при встречной машине переключить на ближний.",
+      "en": "On highways; switch to low beams when a car comes towards you."
+    },
+    "example": "a1-022",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "luces-bajas",
+    "es": "luces bajas",
+    "forms": [
+      "bajas"
+    ],
+    "tr": {
+      "ru": "ближний свет",
+      "en": "low beams"
+    },
+    "note": {
+      "ru": "В городе ночью.",
+      "en": "In town at night."
+    },
+    "example": "a1-022",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "luces-direccionales",
+    "es": "luces direccionales",
+    "forms": [
+      "luz direccional"
+    ],
+    "tr": {
+      "ru": "поворотники",
+      "en": "turn signals"
+    },
+    "note": {
+      "ru": "В городе — за 20 м до манёвра, на шоссе — за 30 м.",
+      "en": "In town 20 m before the manoeuvre, on the highway 30 m."
+    },
+    "example": "a1-013",
+    "topics": [
+      "otros",
+      "seguridad"
+    ]
+  },
+  {
+    "id": "luces-intermitentes-de-emergencia",
+    "es": "luces intermitentes de emergencia",
+    "forms": [
+      "luces intermitentes",
+      "luces de emergencia"
+    ],
+    "tr": {
+      "ru": "аварийная сигнализация",
+      "en": "hazard lights"
+    },
+    "example": "a1-029",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "luces-rompenieblas",
+    "es": "luces rompenieblas",
+    "forms": [
+      "rompenieblas"
+    ],
+    "tr": {
+      "ru": "противотуманные фары",
+      "en": "fog lights"
+    },
+    "example": "a1-098",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "luz-circular",
+    "es": "luz circular",
+    "tr": {
+      "ru": "круглый сигнал светофора",
+      "en": "round (circular) light"
+    },
+    "example": "a1-008",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "luz-intermitente",
+    "es": "luz intermitente",
+    "tr": {
+      "ru": "мигающий сигнал светофора",
+      "en": "flashing light"
+    },
+    "note": {
+      "ru": "Красный мигающий = PARE, жёлтый мигающий = осторожно, у вас приоритет.",
+      "en": "Flashing red = PARE (stop); flashing amber = caution, you have priority."
+    },
+    "example": "a1-011",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "luz-verde",
+    "es": "luz verde",
+    "tr": {
+      "ru": "зелёный сигнал",
+      "en": "green light"
+    },
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "maletera",
+    "es": "maletera",
+    "tr": {
+      "ru": "багажник",
+      "en": "trunk"
+    },
+    "example": "a1-089",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "malla-ortogonal",
+    "es": "malla ortogonal",
+    "tr": {
+      "ru": "жёлтая сетка на перекрёстке",
+      "en": "yellow box grid at an intersection"
+    },
+    "note": {
+      "ru": "Останавливаться внутри нельзя.",
+      "en": "Do not stop inside it."
+    },
+    "example": "a1-199",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "malogrado",
+    "es": "malogrado",
+    "tr": {
+      "ru": "сломанный (перуанское слово)",
+      "en": "broken (Peruvian word)"
+    },
+    "example": "a1-132",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "manejar",
+    "es": "manejar",
+    "forms": [
+      "manejando",
+      "maneja"
+    ],
+    "tr": {
+      "ru": "водить (разговорное)",
+      "en": "to drive (colloquial)"
+    },
+    "example": "a1-039",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "maniobra",
+    "es": "maniobra",
+    "forms": [
+      "maniobras"
+    ],
+    "tr": {
+      "ru": "манёвр",
+      "en": "manoeuvre"
+    },
+    "example": "a1-038",
+    "topics": [
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "mantener",
+    "es": "mantener",
+    "forms": [
+      "mantenimiento"
+    ],
+    "tr": {
+      "ru": "сохранять, держать",
+      "en": "to keep, to maintain"
+    },
+    "example": "a1-078",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "manzana",
+    "es": "manzana",
+    "tr": {
+      "ru": "квартал (дома между улицами)",
+      "en": "city block"
+    },
+    "note": {
+      "ru": "«Dar la vuelta a la manzana» — объехать квартал.",
+      "en": "'Dar la vuelta a la manzana' — go around the block."
+    },
+    "example": "a1-141",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "maquinaria-agricola",
+    "es": "maquinaria agrícola",
+    "tr": {
+      "ru": "сельхозтехника",
+      "en": "farm machinery"
+    },
+    "example": "a1-130",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "marcas-en-el-pavimento",
+    "es": "marcas en el pavimento",
+    "forms": [
+      "marcas en la calzada"
+    ],
+    "tr": {
+      "ru": "дорожная разметка",
+      "en": "road markings"
+    },
+    "example": "a1-005",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "marcha",
+    "es": "marcha",
+    "tr": {
+      "ru": "движение, ход",
+      "en": "motion, driving"
+    },
+    "note": {
+      "ru": "«Continuar la marcha» — продолжать ехать; «en marcha» — в движении.",
+      "en": "'Continuar la marcha' — keep going; 'en marcha' — moving."
+    },
+    "example": "a1-016",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "medicamentos",
+    "es": "medicamentos",
+    "tr": {
+      "ru": "лекарства",
+      "en": "medicines"
+    },
+    "example": "a1-039",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "menor-de-edad",
+    "es": "menor de edad",
+    "forms": [
+      "menores de edad",
+      "mayor de edad"
+    ],
+    "tr": {
+      "ru": "несовершеннолетний",
+      "en": "minor (under 18)"
+    },
+    "example": "a1-157",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "motocicleta",
+    "es": "motocicleta",
+    "forms": [
+      "motocicletas",
+      "motos"
+    ],
+    "tr": {
+      "ru": "мотоцикл",
+      "en": "motorcycle"
+    },
+    "example": "a1-196",
+    "topics": [
+      "documentos",
+      "velocidad"
+    ]
+  },
+  {
+    "id": "motor",
+    "es": "motor",
+    "tr": {
+      "ru": "двигатель",
+      "en": "engine"
+    },
+    "example": "a1-043",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "mototaxi",
+    "es": "mototaxi",
+    "tr": {
+      "ru": "мототакси",
+      "en": "motorcycle taxi"
+    },
+    "example": "a1-152",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "movilidad-reducida",
+    "es": "movilidad reducida",
+    "tr": {
+      "ru": "ограниченная подвижность (инвалидность)",
+      "en": "reduced mobility"
+    },
+    "example": "a1-091",
+    "topics": [
+      "peatones",
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "multa",
+    "es": "multa",
+    "tr": {
+      "ru": "штраф",
+      "en": "fine"
+    },
+    "example": "a1-019",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "neblina",
+    "es": "neblina",
+    "tr": {
+      "ru": "туман",
+      "en": "fog"
+    },
+    "example": "a1-098",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "negarse",
+    "es": "negarse",
+    "tr": {
+      "ru": "отказаться",
+      "en": "to refuse"
+    },
+    "example": "a1-094",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "neumaticos",
+    "es": "neumáticos",
+    "forms": [
+      "llantas"
+    ],
+    "tr": {
+      "ru": "шины",
+      "en": "tyres"
+    },
+    "example": "a1-188",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "nino",
+    "es": "niño",
+    "forms": [
+      "niños"
+    ],
+    "tr": {
+      "ru": "ребёнок",
+      "en": "child"
+    },
+    "example": "a1-129",
+    "topics": [
+      "peatones",
+      "seguridad"
+    ]
+  },
+  {
+    "id": "norma",
+    "es": "norma",
+    "forms": [
+      "normas",
+      "reglamento",
+      "reglamentarias"
+    ],
+    "tr": {
+      "ru": "правило, закон",
+      "en": "rule, regulation"
+    },
+    "example": "a1-043",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "novato",
+    "es": "novato",
+    "tr": {
+      "ru": "новичок",
+      "en": "novice"
+    },
+    "example": "a1-043",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "obedecer",
+    "es": "obedecer",
+    "forms": [
+      "obediencia"
+    ],
+    "tr": {
+      "ru": "подчиняться",
+      "en": "to obey"
+    },
+    "example": "a1-160",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "obligacion",
+    "es": "obligación",
+    "forms": [
+      "obligaciones",
+      "obligado",
+      "obligados"
+    ],
+    "tr": {
+      "ru": "обязанность",
+      "en": "obligation"
+    },
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "obras",
+    "es": "obras",
+    "forms": [
+      "reparación",
+      "trabajos"
+    ],
+    "tr": {
+      "ru": "дорожные работы",
+      "en": "roadworks"
+    },
+    "example": "a1-027",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "obstaculizar",
+    "es": "obstaculizar",
+    "forms": [
+      "obstaculicen",
+      "obstáculo"
+    ],
+    "tr": {
+      "ru": "мешать, создавать помеху",
+      "en": "to obstruct"
+    },
+    "example": "a1-001",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "ocupante",
+    "es": "ocupante",
+    "forms": [
+      "ocupantes"
+    ],
+    "tr": {
+      "ru": "пассажир, находящийся в машине",
+      "en": "occupant (person in the vehicle)"
+    },
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "ocupantes",
+    "es": "ocupantes",
+    "tr": {
+      "ru": "люди в машине",
+      "en": "occupants"
+    },
+    "example": "a1-023",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "ola-verde",
+    "es": "ola verde",
+    "tr": {
+      "ru": "зелёная волна",
+      "en": "green wave"
+    },
+    "example": "a1-132",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "omnibus",
+    "es": "ómnibus",
+    "tr": {
+      "ru": "автобус",
+      "en": "bus"
+    },
+    "example": "a1-152",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "parar",
+    "es": "parar",
+    "forms": [
+      "parada",
+      "parar totalmente",
+      "parar por completo"
+    ],
+    "tr": {
+      "ru": "остановиться",
+      "en": "to stop"
+    },
+    "example": "a1-031",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "pare",
+    "es": "PARE",
+    "forms": [
+      "señal de PARE",
+      "señal de Pare"
+    ],
+    "tr": {
+      "ru": "знак СТОП",
+      "en": "STOP sign"
+    },
+    "note": {
+      "ru": "Полная остановка, потом уступить и ехать.",
+      "en": "Full stop, then yield and go."
+    },
+    "example": "a1-031",
+    "topics": [
+      "senales",
+      "preferencia"
+    ]
+  },
+  {
+    "id": "pasajeros",
+    "es": "pasajeros",
+    "tr": {
+      "ru": "пассажиры",
+      "en": "passengers"
+    },
+    "example": "a1-001",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "pavimento",
+    "es": "pavimento",
+    "tr": {
+      "ru": "дорожное покрытие",
+      "en": "pavement (road surface)"
+    },
+    "example": "a1-005",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "peaton",
+    "es": "peatón",
+    "forms": [
+      "peatones",
+      "peatonal"
+    ],
+    "tr": {
+      "ru": "пешеход",
+      "en": "pedestrian"
+    },
+    "example": "a1-080",
+    "topics": [
+      "peatones"
+    ]
+  },
+  {
+    "id": "peligro",
+    "es": "peligro",
+    "forms": [
+      "peligrosa",
+      "peligrosas",
+      "peligros"
+    ],
+    "tr": {
+      "ru": "опасность",
+      "en": "danger"
+    },
+    "example": "a1-076",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "pendiente",
+    "es": "pendiente",
+    "tr": {
+      "ru": "уклон, подъём/спуск",
+      "en": "slope"
+    },
+    "note": {
+      "ru": "На узком подъёме приоритет у того, кто едет вверх.",
+      "en": "On a narrow slope the vehicle going up has priority."
+    },
+    "example": "a1-041",
+    "topics": [
+      "preferencia",
+      "senales"
+    ]
+  },
+  {
+    "id": "permiso-provisional",
+    "es": "permiso provisional",
+    "tr": {
+      "ru": "временное разрешение",
+      "en": "provisional permit"
+    },
+    "example": "a1-157",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "placa-de-rodaje",
+    "es": "placa de rodaje",
+    "forms": [
+      "placas de rodaje",
+      "Placa Única Nacional de Rodaje",
+      "Placa Única de Rodaje"
+    ],
+    "tr": {
+      "ru": "номерной знак",
+      "en": "licence plate"
+    },
+    "example": "a1-172",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "plazo",
+    "es": "plazo",
+    "tr": {
+      "ru": "срок",
+      "en": "term, period"
+    },
+    "example": "a1-064",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "policia",
+    "es": "policía",
+    "forms": [
+      "policías",
+      "policía de tránsito"
+    ],
+    "tr": {
+      "ru": "полиция, полицейский",
+      "en": "police, police officer"
+    },
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "policia-nacional-del-peru",
+    "es": "Policía Nacional del Perú",
+    "forms": [
+      "Policía de Tránsito",
+      "policial"
+    ],
+    "tr": {
+      "ru": "Национальная полиция Перу",
+      "en": "National Police of Peru"
+    },
+    "note": {
+      "ru": "Указания полицейского важнее знаков и светофора.",
+      "en": "A police officer's instructions override signs and traffic lights."
+    },
+    "example": "a1-002",
+    "topics": [
+      "otros",
+      "semaforos"
+    ]
+  },
+  {
+    "id": "portar",
+    "es": "portar",
+    "forms": [
+      "portarse"
+    ],
+    "tr": {
+      "ru": "иметь при себе",
+      "en": "to carry (documents)"
+    },
+    "example": "a1-040",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "precaucion",
+    "es": "precaución",
+    "forms": [
+      "precauciones",
+      "con cuidado"
+    ],
+    "tr": {
+      "ru": "осторожность",
+      "en": "caution"
+    },
+    "example": "a1-008",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "preferencia-de-paso",
+    "es": "preferencia de paso",
+    "forms": [
+      "preferencia",
+      "prioridad de paso",
+      "prioridad"
+    ],
+    "tr": {
+      "ru": "приоритет проезда",
+      "en": "right of way"
+    },
+    "example": "a1-015",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "prevencion",
+    "es": "prevención",
+    "forms": [
+      "prevenido"
+    ],
+    "tr": {
+      "ru": "предупреждение, готовность",
+      "en": "warning, readiness"
+    },
+    "note": {
+      "ru": "Жёлтый сигнал светофора = prevención.",
+      "en": "Amber light = prevención."
+    },
+    "example": "a1-007",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "primeros-auxilios",
+    "es": "primeros auxilios",
+    "tr": {
+      "ru": "первая помощь",
+      "en": "first aid"
+    },
+    "example": "a1-177",
+    "topics": [
+      "primeros-auxilios"
+    ]
+  },
+  {
+    "id": "prohibicion",
+    "es": "prohibición",
+    "forms": [
+      "prohibiciones"
+    ],
+    "tr": {
+      "ru": "запрет",
+      "en": "prohibition"
+    },
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "prohibir",
+    "es": "prohibir",
+    "forms": [
+      "prohíbe",
+      "prohíben",
+      "prohibido",
+      "prohibida"
+    ],
+    "tr": {
+      "ru": "запрещать",
+      "en": "to prohibit"
+    },
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "pronunciada",
+    "es": "pronunciada",
+    "tr": {
+      "ru": "крутой, резкий (поворот)",
+      "en": "sharp (curve)"
+    },
+    "example": "a1-032",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "propietario",
+    "es": "propietario",
+    "forms": [
+      "propiedad"
+    ],
+    "tr": {
+      "ru": "владелец (машины)",
+      "en": "owner (of the vehicle)"
+    },
+    "example": "a1-065",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "proximidad",
+    "es": "proximidad",
+    "forms": [
+      "cercanía"
+    ],
+    "tr": {
+      "ru": "близость (впереди будет…)",
+      "en": "nearness (…ahead)"
+    },
+    "example": "a1-124",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "prueba",
+    "es": "prueba",
+    "forms": [
+      "pruebas",
+      "prueba de alcoholemia"
+    ],
+    "tr": {
+      "ru": "тест, проверка",
+      "en": "test"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "puente",
+    "es": "puente",
+    "tr": {
+      "ru": "мост",
+      "en": "bridge"
+    },
+    "example": "a1-151",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "puerta",
+    "es": "puerta",
+    "forms": [
+      "puertas"
+    ],
+    "tr": {
+      "ru": "дверь",
+      "en": "door"
+    },
+    "example": "a1-193",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "punto-neutro",
+    "es": "punto neutro",
+    "tr": {
+      "ru": "нейтральная передача",
+      "en": "neutral gear"
+    },
+    "note": {
+      "ru": "Ехать на нейтрали запрещено.",
+      "en": "Driving in neutral is prohibited."
+    },
+    "example": "a1-043",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "puntos",
+    "es": "puntos",
+    "tr": {
+      "ru": "штрафные баллы",
+      "en": "penalty points"
+    },
+    "note": {
+      "ru": "100 баллов за 24 месяца — приостановка прав.",
+      "en": "100 points in 24 months — licence suspension."
+    },
+    "example": "a1-046",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "rafaga",
+    "es": "ráfaga",
+    "forms": [
+      "ráfagas"
+    ],
+    "tr": {
+      "ru": "мигание дальним светом",
+      "en": "flash of the headlights"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "rafagas-de-viento",
+    "es": "ráfagas de viento",
+    "tr": {
+      "ru": "порывы ветра",
+      "en": "gusts of wind"
+    },
+    "example": "a1-138",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "rebasar",
+    "es": "rebasar",
+    "tr": {
+      "ru": "обгонять",
+      "en": "to overtake"
+    },
+    "example": "a1-099",
+    "topics": [
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "recoger",
+    "es": "recoger",
+    "forms": [
+      "recogiendo"
+    ],
+    "tr": {
+      "ru": "подбирать (пассажиров)",
+      "en": "to pick up (passengers)"
+    },
+    "example": "a1-001",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "reducir",
+    "es": "reducir",
+    "forms": [
+      "reducción",
+      "reductor",
+      "reducida"
+    ],
+    "tr": {
+      "ru": "снижать, сужать",
+      "en": "to reduce, to narrow"
+    },
+    "note": {
+      "ru": "«Reducción de la calzada» — сужение дороги.",
+      "en": "'Reducción de la calzada' — road narrows."
+    },
+    "example": "a1-050",
+    "topics": [
+      "senales",
+      "velocidad"
+    ]
+  },
+  {
+    "id": "reincidencia",
+    "es": "reincidencia",
+    "tr": {
+      "ru": "повторное нарушение",
+      "en": "repeat offence"
+    },
+    "note": {
+      "ru": "То же нарушение в течение 12 месяцев — двойной штраф.",
+      "en": "The same offence within 12 months — double fine."
+    },
+    "example": "a1-174",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "renovar",
+    "es": "renovar",
+    "forms": [
+      "renovación",
+      "renovado"
+    ],
+    "tr": {
+      "ru": "продлевать (лицензию)",
+      "en": "to renew (a licence)"
+    },
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "resalto",
+    "es": "resalto",
+    "forms": [
+      "rompe muelles",
+      "reductor de velocidad",
+      "reductores de velocidad"
+    ],
+    "tr": {
+      "ru": "лежачий полицейский",
+      "en": "speed bump"
+    },
+    "example": "a1-067",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "respetar",
+    "es": "respetar",
+    "forms": [
+      "respeto"
+    ],
+    "tr": {
+      "ru": "соблюдать, уважать",
+      "en": "to respect, to obey"
+    },
+    "example": "a1-021",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "restriccion",
+    "es": "restricción",
+    "forms": [
+      "restricciones",
+      "restringir",
+      "restringida"
+    ],
+    "tr": {
+      "ru": "ограничение",
+      "en": "restriction"
+    },
+    "example": "a1-066",
+    "topics": [
+      "documentos",
+      "senales"
+    ]
+  },
+  {
+    "id": "retener",
+    "es": "retener",
+    "forms": [
+      "retenida"
+    ],
+    "tr": {
+      "ru": "изъять (права)",
+      "en": "to retain, to confiscate (licence)"
+    },
+    "example": "a1-178",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "retroceder",
+    "es": "retroceder",
+    "forms": [
+      "retroceso"
+    ],
+    "tr": {
+      "ru": "ехать задним ходом",
+      "en": "to reverse"
+    },
+    "note": {
+      "ru": "«En retroceso» — задним ходом; запрещено, кроме исключений.",
+      "en": "'En retroceso' — in reverse; prohibited except in justified cases."
+    },
+    "example": "a1-161",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "revalidacion",
+    "es": "revalidación",
+    "tr": {
+      "ru": "продление (прав)",
+      "en": "renewal (of licence)"
+    },
+    "example": "a1-176",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "riesgo",
+    "es": "riesgo",
+    "forms": [
+      "riesgosas"
+    ],
+    "tr": {
+      "ru": "риск",
+      "en": "risk"
+    },
+    "example": "a1-032",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "rotonda",
+    "es": "rotonda",
+    "forms": [
+      "óvalo",
+      "intersección rotatoria"
+    ],
+    "tr": {
+      "ru": "круговой перекрёсток",
+      "en": "roundabout"
+    },
+    "note": {
+      "ru": "Приоритет у того, кто уже едет по кругу.",
+      "en": "Priority goes to the vehicle already in the circle."
+    },
+    "example": "a1-037",
+    "topics": [
+      "preferencia",
+      "senales"
+    ]
+  },
+  {
+    "id": "ruido",
+    "es": "ruido",
+    "tr": {
+      "ru": "шум",
+      "en": "noise"
+    },
+    "example": "a1-018",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "sancion",
+    "es": "sanción",
+    "forms": [
+      "sancionado",
+      "sancionada"
+    ],
+    "tr": {
+      "ru": "наказание",
+      "en": "penalty"
+    },
+    "example": "a1-060",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "sancionar",
+    "es": "sancionar",
+    "forms": [
+      "sancionado",
+      "sancionada",
+      "sanciona"
+    ],
+    "tr": {
+      "ru": "наказывать, штрафовать",
+      "en": "to penalize"
+    },
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "seguridad-vial",
+    "es": "seguridad vial",
+    "tr": {
+      "ru": "безопасность дорожного движения",
+      "en": "road safety"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "seguro",
+    "es": "seguro",
+    "forms": [
+      "seguros",
+      "compañía de seguros"
+    ],
+    "tr": {
+      "ru": "страховка; безопасный",
+      "en": "insurance; safe"
+    },
+    "note": {
+      "ru": "«Es seguro hacerlo» — это безопасно.",
+      "en": "'Es seguro hacerlo' — it is safe to do it."
+    },
+    "example": "a1-024",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "semaforo",
+    "es": "semáforo",
+    "forms": [
+      "semáforos"
+    ],
+    "tr": {
+      "ru": "светофор",
+      "en": "traffic light"
+    },
+    "example": "a1-006",
+    "topics": [
+      "semaforos"
+    ]
+  },
+  {
+    "id": "senal",
+    "es": "señal",
+    "forms": [
+      "señales"
+    ],
+    "tr": {
+      "ru": "знак, сигнал",
+      "en": "sign, signal"
+    },
+    "example": "a1-003",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "senal-horizontal",
+    "es": "señal horizontal",
+    "forms": [
+      "señales horizontales",
+      "señalización de tránsito horizontal"
+    ],
+    "tr": {
+      "ru": "разметка на дороге",
+      "en": "horizontal sign (road marking)"
+    },
+    "example": "a1-075",
+    "topics": [
+      "marcas"
+    ]
+  },
+  {
+    "id": "senal-informativa",
+    "es": "señal informativa",
+    "forms": [
+      "señales informativas"
+    ],
+    "tr": {
+      "ru": "информационный знак (I-…)",
+      "en": "information sign (I-…)"
+    },
+    "example": "a1-114",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "senal-preventiva",
+    "es": "señal preventiva",
+    "forms": [
+      "señales preventivas"
+    ],
+    "tr": {
+      "ru": "предупреждающий знак (P-…)",
+      "en": "warning sign (P-…)"
+    },
+    "note": {
+      "ru": "Предупреждает об опасности впереди.",
+      "en": "Warns of a danger ahead."
+    },
+    "example": "a1-076",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "senal-reglamentaria",
+    "es": "señal reglamentaria",
+    "forms": [
+      "señales reguladoras",
+      "de reglamentación",
+      "señal de obligación"
+    ],
+    "tr": {
+      "ru": "предписывающий/запрещающий знак (R-…)",
+      "en": "regulatory sign (R-…)"
+    },
+    "note": {
+      "ru": "Говорит, что можно и что нельзя.",
+      "en": "Tells what is allowed and what is not."
+    },
+    "example": "a1-075",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "senal-vertical",
+    "es": "señal vertical",
+    "forms": [
+      "señales verticales",
+      "señalización vertical"
+    ],
+    "tr": {
+      "ru": "дорожный знак (на столбе)",
+      "en": "vertical sign (on a post)"
+    },
+    "example": "a1-003",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "senales-audibles-y-visibles",
+    "es": "señales audibles y visibles",
+    "forms": [
+      "señales audibles",
+      "señales visibles"
+    ],
+    "tr": {
+      "ru": "звуковые и световые сигналы",
+      "en": "audible and visible signals"
+    },
+    "example": "a1-025",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "senalizar",
+    "es": "señalizar",
+    "forms": [
+      "señalización",
+      "señalética"
+    ],
+    "tr": {
+      "ru": "подавать сигнал; разметка/знаки",
+      "en": "to signal; signage"
+    },
+    "example": "a1-042",
+    "topics": [
+      "otros",
+      "senales"
+    ]
+  },
+  {
+    "id": "sentido",
+    "es": "sentido",
+    "forms": [
+      "doble sentido",
+      "un solo sentido",
+      "mismo sentido"
+    ],
+    "tr": {
+      "ru": "направление движения",
+      "en": "direction of travel"
+    },
+    "note": {
+      "ru": "«Doble sentido» — двустороннее, «un solo sentido» — одностороннее.",
+      "en": "'Doble sentido' = two-way, 'un solo sentido' = one-way."
+    },
+    "example": "a1-014",
+    "topics": [
+      "otros",
+      "marcas"
+    ]
+  },
+  {
+    "id": "sentido-contrario",
+    "es": "sentido contrario",
+    "forms": [
+      "sentido opuesto"
+    ],
+    "tr": {
+      "ru": "встречное направление",
+      "en": "opposite direction"
+    },
+    "example": "a1-099",
+    "topics": [
+      "adelantamiento",
+      "seguridad"
+    ]
+  },
+  {
+    "id": "servicio-mecanico",
+    "es": "servicio mecánico",
+    "tr": {
+      "ru": "автосервис",
+      "en": "mechanic service"
+    },
+    "example": "a1-145",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "sinuoso",
+    "es": "sinuoso",
+    "forms": [
+      "sinuosa"
+    ],
+    "tr": {
+      "ru": "извилистый",
+      "en": "winding"
+    },
+    "example": "a1-116",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "sirena",
+    "es": "sirena",
+    "tr": {
+      "ru": "сирена",
+      "en": "siren"
+    },
+    "example": "a1-070",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "soat",
+    "es": "SOAT",
+    "forms": [
+      "Seguro Obligatorio de Accidentes de Tránsito"
+    ],
+    "tr": {
+      "ru": "обязательная страховка от ДТП",
+      "en": "compulsory traffic accident insurance"
+    },
+    "note": {
+      "ru": "Действует 1 год; покрывает пассажиров и третьих лиц.",
+      "en": "Valid 1 year; covers occupants and third parties."
+    },
+    "example": "a1-023",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "sobrepasar",
+    "es": "sobrepasar",
+    "forms": [
+      "sobrepaso",
+      "sobrepasarlo",
+      "sobrepase"
+    ],
+    "tr": {
+      "ru": "обгонять; превышать",
+      "en": "to overtake; to exceed"
+    },
+    "note": {
+      "ru": "То же, что «adelantar». Также «превысить» (размеры, линию).",
+      "en": "Same as 'adelantar'. Also 'to exceed' (dimensions, a line)."
+    },
+    "example": "a1-020",
+    "topics": [
+      "adelantamiento"
+    ]
+  },
+  {
+    "id": "sobresalir",
+    "es": "sobresalir",
+    "forms": [
+      "sobresalga",
+      "sobresale"
+    ],
+    "tr": {
+      "ru": "выступать (за габариты)",
+      "en": "to stick out"
+    },
+    "example": "a1-165",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "someterse",
+    "es": "someterse",
+    "tr": {
+      "ru": "подчиниться, пройти (тест)",
+      "en": "to submit to (a test)"
+    },
+    "example": "a1-094",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "somnolencia",
+    "es": "somnolencia",
+    "forms": [
+      "sueño"
+    ],
+    "tr": {
+      "ru": "сонливость",
+      "en": "drowsiness"
+    },
+    "example": "a1-186",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "sonar",
+    "es": "sonar",
+    "forms": [
+      "haga sonar",
+      "sonido"
+    ],
+    "tr": {
+      "ru": "звучать; «hacer sonar» — сигналить",
+      "en": "to sound; 'hacer sonar' — to honk"
+    },
+    "example": "a1-035",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "suave",
+    "es": "suave",
+    "tr": {
+      "ru": "плавный (поворот)",
+      "en": "gentle (curve)"
+    },
+    "example": "a1-032",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "sujetar",
+    "es": "sujetar",
+    "forms": [
+      "sujeto",
+      "sujeta"
+    ],
+    "tr": {
+      "ru": "держать, крепить",
+      "en": "to hold on, to fasten"
+    },
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "sujeto",
+    "es": "sujeto",
+    "forms": [
+      "sujeta",
+      "sujete"
+    ],
+    "tr": {
+      "ru": "закреплённый; держащийся",
+      "en": "fastened; holding on"
+    },
+    "note": {
+      "ru": "«Sujeto a inspección» — подлежит осмотру.",
+      "en": "'Sujeto a inspección' — subject to inspection."
+    },
+    "example": "a1-087",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "suspender",
+    "es": "suspender",
+    "forms": [
+      "suspendido",
+      "suspendida"
+    ],
+    "tr": {
+      "ru": "приостанавливать (лицензию)",
+      "en": "to suspend (a licence)"
+    },
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "suspension",
+    "es": "suspensión",
+    "forms": [
+      "suspendieron"
+    ],
+    "tr": {
+      "ru": "приостановка (прав)",
+      "en": "suspension (of licence)"
+    },
+    "example": "a1-047",
+    "topics": [
+      "infracciones"
+    ]
+  },
+  {
+    "id": "tarjeta-de-identificacion-vehicular",
+    "es": "tarjeta de identificación vehicular",
+    "tr": {
+      "ru": "техпаспорт автомобиля",
+      "en": "vehicle registration card"
+    },
+    "example": "a1-040",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "taxi",
+    "es": "taxi",
+    "forms": [
+      "taxis"
+    ],
+    "tr": {
+      "ru": "такси",
+      "en": "taxi"
+    },
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "telefono-celular",
+    "es": "teléfono celular",
+    "tr": {
+      "ru": "мобильный телефон",
+      "en": "mobile phone"
+    },
+    "example": "a1-185",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "terceros",
+    "es": "terceros",
+    "tr": {
+      "ru": "третьи лица",
+      "en": "third parties"
+    },
+    "example": "a1-023",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "titular",
+    "es": "titular",
+    "tr": {
+      "ru": "владелец (прав)",
+      "en": "holder (of a licence)"
+    },
+    "example": "a1-152",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "tramitar",
+    "es": "tramitar",
+    "tr": {
+      "ru": "оформлять (документ)",
+      "en": "to apply for, to process (a document)"
+    },
+    "example": "a1-176",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "tramo",
+    "es": "tramo",
+    "forms": [
+      "tramos"
+    ],
+    "tr": {
+      "ru": "участок дороги",
+      "en": "stretch of road"
+    },
+    "example": "a1-041",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "transitar",
+    "es": "transitar",
+    "forms": [
+      "transitan",
+      "transitada"
+    ],
+    "tr": {
+      "ru": "ехать, проезжать",
+      "en": "to travel along"
+    },
+    "example": "a1-015",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "transito",
+    "es": "tránsito",
+    "forms": [
+      "tráfico"
+    ],
+    "tr": {
+      "ru": "дорожное движение",
+      "en": "traffic"
+    },
+    "example": "a1-002",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "transversal",
+    "es": "transversal",
+    "tr": {
+      "ru": "поперечный, пересекающий",
+      "en": "cross, transverse"
+    },
+    "note": {
+      "ru": "«Vía transversal» — пересекающая дорога.",
+      "en": "'Vía transversal' — the crossing road."
+    },
+    "example": "a1-031",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "triangulo-de-seguridad",
+    "es": "triángulo de seguridad",
+    "forms": [
+      "triángulo rojo de seguridad"
+    ],
+    "tr": {
+      "ru": "знак аварийной остановки",
+      "en": "warning triangle"
+    },
+    "example": "a1-027",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "tunel",
+    "es": "túnel",
+    "tr": {
+      "ru": "туннель",
+      "en": "tunnel"
+    },
+    "example": "a1-135",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "ubicacion",
+    "es": "ubicación",
+    "forms": [
+      "ubicar"
+    ],
+    "tr": {
+      "ru": "расположение, место",
+      "en": "location"
+    },
+    "example": "a1-125",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "usuarios-de-la-via",
+    "es": "usuarios de la vía",
+    "forms": [
+      "usuario de la vía",
+      "usuarios"
+    ],
+    "tr": {
+      "ru": "участники движения",
+      "en": "road users"
+    },
+    "example": "a1-149",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "vehiculo",
+    "es": "vehículo",
+    "forms": [
+      "vehículos"
+    ],
+    "tr": {
+      "ru": "транспортное средство, автомобиль",
+      "en": "vehicle"
+    },
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "vehiculo-automotor",
+    "es": "vehículo automotor",
+    "forms": [
+      "vehículos automotores",
+      "vehículo motorizado",
+      "vehículos motorizados",
+      "automotores"
+    ],
+    "tr": {
+      "ru": "моторное транспортное средство",
+      "en": "motor vehicle"
+    },
+    "example": "a1-019",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "vehiculo-de-emergencia",
+    "es": "vehículo de emergencia",
+    "forms": [
+      "vehículos de emergencia",
+      "vehículo oficial",
+      "vehículos oficiales"
+    ],
+    "tr": {
+      "ru": "спецтранспорт (скорая, пожарные, полиция)",
+      "en": "emergency vehicle"
+    },
+    "note": {
+      "ru": "Уступать только при включённых сирене И мигалках.",
+      "en": "Yield only when siren AND lights are on."
+    },
+    "example": "a1-025",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "vehiculo-particular",
+    "es": "vehículo particular",
+    "forms": [
+      "autos particulares",
+      "licencia particular"
+    ],
+    "tr": {
+      "ru": "личный (некоммерческий) автомобиль",
+      "en": "private vehicle"
+    },
+    "example": "a1-062",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "vehiculo-pesado",
+    "es": "vehículo pesado",
+    "forms": [
+      "vehículos pesados"
+    ],
+    "tr": {
+      "ru": "тяжёлый (грузовой) транспорт",
+      "en": "heavy vehicle"
+    },
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "velocidad",
+    "es": "velocidad",
+    "forms": [
+      "límite de velocidad",
+      "velocidad máxima",
+      "velocidad mínima",
+      "límites"
+    ],
+    "tr": {
+      "ru": "скорость",
+      "en": "speed"
+    },
+    "example": "a1-021",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "via",
+    "es": "vía",
+    "forms": [
+      "vías"
+    ],
+    "tr": {
+      "ru": "дорога, путь",
+      "en": "road, way"
+    },
+    "note": {
+      "ru": "Общее слово для любой дороги.",
+      "en": "General word for any road."
+    },
+    "example": "a1-001",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "via-expresa",
+    "es": "vía expresa",
+    "forms": [
+      "vías expresas"
+    ],
+    "tr": {
+      "ru": "скоростная городская дорога",
+      "en": "expressway"
+    },
+    "example": "a1-056",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "via-ferrea",
+    "es": "vía férrea",
+    "forms": [
+      "vías férreas",
+      "línea férrea"
+    ],
+    "tr": {
+      "ru": "железная дорога",
+      "en": "railway"
+    },
+    "note": {
+      "ru": "Поезд всегда имеет приоритет.",
+      "en": "The train always has priority."
+    },
+    "example": "a1-015",
+    "topics": [
+      "preferencia"
+    ]
+  },
+  {
+    "id": "via-publica",
+    "es": "vía pública",
+    "forms": [
+      "vías públicas"
+    ],
+    "tr": {
+      "ru": "дорога общего пользования",
+      "en": "public road"
+    },
+    "example": "a1-027",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "viento-lateral",
+    "es": "viento lateral",
+    "tr": {
+      "ru": "боковой ветер",
+      "en": "crosswind"
+    },
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "vigente",
+    "es": "vigente",
+    "forms": [
+      "vigencia"
+    ],
+    "tr": {
+      "ru": "действующий (не просроченный)",
+      "en": "valid (not expired)"
+    },
+    "example": "a1-040",
+    "topics": [
+      "documentos"
+    ]
+  },
+  {
+    "id": "visibilidad",
+    "es": "visibilidad",
+    "tr": {
+      "ru": "видимость",
+      "en": "visibility"
+    },
+    "example": "a1-085",
+    "topics": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "volante",
+    "es": "volante",
+    "tr": {
+      "ru": "руль",
+      "en": "steering wheel"
+    },
+    "example": "a1-153",
+    "topics": [
+      "otros"
+    ]
+  },
+  {
+    "id": "voltear",
+    "es": "voltear",
+    "forms": [
+      "volteo"
+    ],
+    "tr": {
+      "ru": "поворачивать (перуанское слово)",
+      "en": "to turn (Peruvian word)"
+    },
+    "note": {
+      "ru": "То же, что «girar».",
+      "en": "Same as 'girar'."
+    },
+    "example": "a1-003",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "vuelo-a-baja-altura",
+    "es": "vuelo a baja altura",
+    "forms": [
+      "baja altura"
+    ],
+    "tr": {
+      "ru": "низко летящие самолёты",
+      "en": "low-flying aircraft"
+    },
+    "example": "a1-136",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "vulnerables",
+    "es": "vulnerables",
+    "tr": {
+      "ru": "уязвимые",
+      "en": "vulnerable"
+    },
+    "note": {
+      "ru": "Пешеходы, дети, пожилые, инвалиды, велосипедисты.",
+      "en": "Pedestrians, children, elderly, disabled, cyclists."
+    },
+    "example": "a1-150",
+    "topics": [
+      "peatones"
+    ]
+  },
+  {
+    "id": "zona",
+    "es": "zona",
+    "forms": [
+      "zonas"
+    ],
+    "tr": {
+      "ru": "зона, участок",
+      "en": "zone, area"
+    },
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "zona-escolar",
+    "es": "zona escolar",
+    "tr": {
+      "ru": "школьная зона",
+      "en": "school zone"
+    },
+    "note": {
+      "ru": "Максимум 30 км/ч.",
+      "en": "Maximum 30 km/h."
+    },
+    "example": "a1-057",
+    "topics": [
+      "velocidad",
+      "peatones"
+    ]
+  },
+  {
+    "id": "zona-militar",
+    "es": "zona militar",
+    "forms": [
+      "recintos militares"
+    ],
+    "tr": {
+      "ru": "военная зона",
+      "en": "military zone"
+    },
+    "example": "a1-144",
+    "topics": [
+      "senales"
+    ]
+  },
+  {
+    "id": "zona-rigida",
+    "es": "zona rígida",
+    "tr": {
+      "ru": "зона, где запрещена стоянка",
+      "en": "no-parking zone"
+    },
+    "example": "a1-052",
+    "topics": [
+      "estacionamiento"
+    ]
+  },
+  {
+    "id": "zona-rural",
+    "es": "zona rural",
+    "forms": [
+      "zonas rurales",
+      "vía rural"
+    ],
+    "tr": {
+      "ru": "сельская зона",
+      "en": "rural area"
+    },
+    "example": "a1-033",
+    "topics": [
+      "velocidad"
+    ]
+  },
+  {
+    "id": "zona-urbana",
+    "es": "zona urbana",
+    "forms": [
+      "zonas urbanas",
+      "ámbito urbano"
+    ],
+    "tr": {
+      "ru": "городская зона",
+      "en": "urban area"
+    },
+    "example": "a1-054",
+    "topics": [
+      "velocidad"
+    ]
+  }
+]

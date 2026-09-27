@@ -33,8 +33,12 @@ def fold(s: str) -> str:
     return "".join(ch for ch in s if unicodedata.category(ch) != "Mn")
 
 
+FOLDED_STOPWORDS = {fold(w) for w in STOPWORDS}
+
+
 def tokens(s: str) -> set[str]:
-    return {t for t in re.findall(r"[a-z0-9]+", fold(s)) if t not in STOPWORDS and len(t) > 2}
+    # Sign codes like "r-30f" stay whole so that sign questions are not all twins of each other.
+    return {t for t in re.findall(r"[a-z]-[0-9]+[a-z]?(?:-[0-9a-z]+)?|[a-z0-9]+", fold(s)) if t not in FOLDED_STOPWORDS and len(t) > 2}
 
 
 def compute_twins(questions: list[dict]) -> dict[str, list[str]]:
@@ -43,7 +47,7 @@ def compute_twins(questions: list[dict]) -> dict[str, list[str]]:
         if fold(q1["options"][q1["correct"]]) == fold(q2["options"][q2["correct"]]) and fold(q1["text"]) == fold(q2["text"]):
             continue
         t1, t2 = tokens(q1["text"]), tokens(q2["text"])
-        jac = len(t1 & t2) / len(t1 | t2) if (t1 | t2) else 0.0
+        jac = len(t1 & t2) / len(t1 | t2) if len(t1 | t2) >= 4 else 0.0
         o1 = {fold(v) for v in q1["options"].values()}
         o2 = {fold(v) for v in q2["options"].values()}
         shared_opts = len(o1 & o2 - {fold("Ninguna de las alternativas es correcta"), fold("Ninguna de las alternativas es correcta.")})
@@ -59,14 +63,39 @@ def compute_twins(questions: list[dict]) -> dict[str, list[str]]:
     return result
 
 
-def build_term_index(terms: list[dict]) -> dict[str, str]:
-    index: dict[str, str] = {}
-    for t in terms:
-        index[fold(t["es"])] = t["id"]
-        index[fold(t["id"].replace("-", " "))] = t["id"]
-        for form in t.get("forms", []):
-            index.setdefault(fold(form), t["id"])
-    return index
+def stem(word: str) -> str:
+    w = fold(word)
+    for suffix in ("ces", "es", "s"):
+        if w.endswith(suffix) and len(w) - len(suffix) >= 3:
+            return w[: -len(suffix)] + ("z" if suffix == "ces" else "")
+    return w
+
+
+def stem_key(phrase: str) -> str:
+    return " ".join(stem(w) for w in re.findall(r"[\wáéíóúüñ]+", phrase.lower()))
+
+
+class TermResolver:
+    def __init__(self, terms: list[dict]) -> None:
+        self.exact: dict[str, str] = {}
+        self.stemmed: dict[str, str] = {}
+        for t in terms:
+            variants = [t["es"], t["id"].replace("-", " "), *t.get("forms", [])]
+            for v in variants:
+                self.exact.setdefault(fold(v), t["id"])
+                self.stemmed.setdefault(stem_key(v), t["id"])
+
+    def resolve(self, lemma: str) -> list[str]:
+        hit = self.exact.get(fold(lemma)) or self.stemmed.get(stem_key(lemma))
+        if hit:
+            return [hit]
+        # Compound lemma ("disminuir la velocidad"): link every glossary word inside it.
+        found: list[str] = []
+        for w in re.findall(r"[\wáéíóúüñ]+", lemma.lower()):
+            tid = self.exact.get(fold(w)) or self.stemmed.get(stem_key(w))
+            if tid and tid not in found:
+                found.append(tid)
+        return found
 
 
 def main() -> None:
@@ -77,7 +106,7 @@ def main() -> None:
 
     questions = json.loads((cat_dir / "questions.json").read_text(encoding="utf-8"))
     glossary = json.loads((ROOT / "content" / "glossary" / "terms.json").read_text(encoding="utf-8"))
-    term_index = build_term_index(glossary)
+    resolver = TermResolver(glossary)
 
     meta: dict[str, dict] = {}
     translations: dict[str, dict[str, dict]] = {lang: {} for lang in LANGS}
@@ -98,11 +127,12 @@ def main() -> None:
         q["topic"] = m["topic"]
         ids: list[str] = []
         for lemma in m.get("terms", []):
-            tid = term_index.get(fold(lemma))
-            if tid is None:
+            hits = resolver.resolve(lemma)
+            if not hits:
                 unresolved.setdefault(lemma, []).append(q["id"])
-            elif tid not in ids:
-                ids.append(tid)
+            for tid in hits:
+                if tid not in ids:
+                    ids.append(tid)
         q["terms"] = ids
         q["anchors"] = {
             "questionKeys": list(m["anchors"]["questionKeys"]),

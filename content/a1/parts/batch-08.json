@@ -1,0 +1,4671 @@
+{
+  "meta": {
+    "a1-176": {
+      "topic": "documentos",
+      "terms": [
+        "suspender",
+        "licencia de conducir",
+        "duplicado",
+        "revalidación",
+        "recategorización",
+        "infractor"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "suspendieron",
+          "facultado"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-177": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "servicios generales",
+        "hospedaje",
+        "primeros auxilios",
+        "estación de combustibles",
+        "taller"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "servicios generales",
+          "hospedaje",
+          "primeros auxilios"
+        ],
+        "answerKeys": [
+          "servicios generales"
+        ]
+      }
+    },
+    "a1-178": {
+      "topic": "infracciones",
+      "terms": [
+        "infracción",
+        "duplicado",
+        "licencia de conducir",
+        "retener"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "duplicado",
+          "retenida"
+        ],
+        "answerKeys": [
+          "Si, constituye"
+        ]
+      }
+    },
+    "a1-179": {
+      "topic": "marcas",
+      "terms": [
+        "marca en el pavimento",
+        "señalización horizontal",
+        "señalización vertical",
+        "reglamentar",
+        "circulación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "marcas en el pavimento",
+          "señalización"
+        ],
+        "answerKeys": [
+          "Horizontal"
+        ]
+      }
+    },
+    "a1-180": {
+      "topic": "otros",
+      "terms": [
+        "ciclista",
+        "ciclovía",
+        "calzada",
+        "acera",
+        "berma",
+        "autopista"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "Ciclista",
+          "ciclovía"
+        ],
+        "answerKeys": [
+          "calzada"
+        ]
+      }
+    },
+    "a1-181": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "advertir",
+        "intersección rotatoria",
+        "rotonda",
+        "óvalo",
+        "camino sinuoso"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-15",
+          "advertir"
+        ],
+        "answerKeys": [
+          "rotatoria",
+          "rotonda"
+        ]
+      }
+    },
+    "a1-182": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "final de la vía",
+        "vía asfaltada",
+        "pendiente"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-31a",
+          "indica"
+        ],
+        "answerKeys": [
+          "final de la vía"
+        ]
+      }
+    },
+    "a1-183": {
+      "topic": "marcas",
+      "terms": [
+        "línea de pare",
+        "línea transversal",
+        "calzada",
+        "detener",
+        "línea de carril",
+        "línea de borde"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "línea transversal",
+          "detener completamente"
+        ],
+        "answerKeys": [
+          "pare"
+        ]
+      }
+    },
+    "a1-184": {
+      "topic": "semaforos",
+      "terms": [
+        "semáforo",
+        "dispositivo de control",
+        "tránsito vehicular",
+        "motorizado",
+        "peatonal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "Los semáforos son"
+        ],
+        "answerKeys": [
+          "no motorizado"
+        ]
+      }
+    },
+    "a1-185": {
+      "topic": "seguridad",
+      "terms": [
+        "conducción",
+        "atención",
+        "distracción",
+        "accidente de tránsito",
+        "teléfono celular",
+        "radio"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "distracciones",
+          "alto nivel de atención"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-186": {
+      "topic": "seguridad",
+      "terms": [
+        "somnolencia",
+        "capacidad de conducir",
+        "decisión",
+        "error",
+        "acompañante"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "somnolencia",
+          "capacidad de conducir"
+        ],
+        "answerKeys": [
+          "decisiones lentas"
+        ]
+      }
+    },
+    "a1-187": {
+      "topic": "peatones",
+      "terms": [
+        "preferencia de paso",
+        "peatón",
+        "calzada",
+        "girar a la derecha",
+        "claxon"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "acción correcta",
+          "gráfico"
+        ],
+        "answerKeys": [
+          "preferencia de paso"
+        ]
+      }
+    },
+    "a1-188": {
+      "topic": "seguridad",
+      "terms": [
+        "colisión",
+        "pavimento húmedo",
+        "neumático",
+        "desgastado",
+        "cansancio",
+        "somnolencia",
+        "reductor de velocidad"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "factores",
+          "colisión vehicular"
+        ],
+        "answerKeys": [
+          "húmedo",
+          "neumáticos"
+        ]
+      }
+    },
+    "a1-189": {
+      "topic": "otros",
+      "terms": [
+        "berma",
+        "calzada",
+        "carretera",
+        "acera",
+        "autopista",
+        "demarcación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "contigua a la calzada",
+          "detención de vehículos en emergencia"
+        ],
+        "answerKeys": [
+          "Berma"
+        ]
+      }
+    },
+    "a1-190": {
+      "topic": "otros",
+      "terms": [
+        "calzada",
+        "vía",
+        "acera",
+        "berma",
+        "peatón",
+        "animal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "circulación de vehículos",
+          "cruce de peatones y animales"
+        ],
+        "answerKeys": [
+          "calzada"
+        ]
+      }
+    },
+    "a1-191": {
+      "topic": "otros",
+      "terms": [
+        "acera",
+        "peatón",
+        "calzada",
+        "berma",
+        "autopista"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "uso de peatones"
+        ],
+        "answerKeys": [
+          "acera"
+        ]
+      }
+    },
+    "a1-192": {
+      "topic": "senales",
+      "terms": [
+        "señal vertical",
+        "señal horizontal",
+        "marca en la calzada",
+        "bocina",
+        "regular el tránsito"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "regulan el tránsito"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-193": {
+      "topic": "seguridad",
+      "terms": [
+        "puerta",
+        "capot",
+        "maletera",
+        "cerrado",
+        "entreabierto",
+        "autorización"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "deben ser conducidos"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-194": {
+      "topic": "seguridad",
+      "terms": [
+        "vía urbana",
+        "girar",
+        "luz direccional",
+        "maniobra",
+        "señal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "vía urbana",
+          "luz direccional",
+          "por lo menos"
+        ],
+        "answerKeys": [
+          "20 metros"
+        ]
+      }
+    },
+    "a1-195": {
+      "topic": "seguridad",
+      "terms": [
+        "carretera",
+        "girar a la izquierda",
+        "luz direccional",
+        "maniobra",
+        "señal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "carretera",
+          "luz direccional",
+          "girar a la izquierda"
+        ],
+        "answerKeys": [
+          "30 metros"
+        ]
+      }
+    },
+    "a1-196": {
+      "topic": "documentos",
+      "terms": [
+        "licencia",
+        "categoría A-I",
+        "moto",
+        "ámbito urbano",
+        "carretera"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "Clase y Categoría A-I",
+          "motos"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-197": {
+      "topic": "senales",
+      "terms": [
+        "zona escolar",
+        "señalización vertical",
+        "señalización horizontal",
+        "gráfico"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "gráfico muestra"
+        ],
+        "answerKeys": [
+          "vertical y horizontal"
+        ]
+      }
+    },
+    "a1-198": {
+      "topic": "marcas",
+      "terms": [
+        "línea canalizadora",
+        "isla canalizadora",
+        "intersección",
+        "tránsito automotor"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "canalizadoras",
+          "islas canalizadoras"
+        ],
+        "answerKeys": [
+          "Líneas"
+        ]
+      }
+    },
+    "a1-199": {
+      "topic": "marcas",
+      "terms": [
+        "intersección",
+        "marca en el pavimento",
+        "malla ortogonal",
+        "detener",
+        "isla de refugio"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "malla ortogonal",
+          "color amarillo"
+        ],
+        "answerKeys": [
+          "no puede detener"
+        ]
+      }
+    },
+    "a1-200": {
+      "topic": "marcas",
+      "terms": [
+        "adelantar",
+        "línea amarilla continua",
+        "estacionarse",
+        "camión",
+        "zona de no adelantar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "gráfico",
+          "es correcto afirmar"
+        ],
+        "answerKeys": [
+          "no adelantar"
+        ]
+      }
+    }
+  },
+  "ru": {
+    "a1-176": {
+      "id": "a1-176",
+      "text": "Если водителю-нарушителю приостановили действие водительских прав, он имеет право:",
+      "options": {
+        "a": "Оформить дубликат своих водительских прав.",
+        "b": "Оформить продление (revalidación) своих водительских прав.",
+        "c": "Оформить повышение категории своих водительских прав.",
+        "d": "Ни один из вариантов не является правильным."
+      },
+      "gist": "Что можно делать с приостановленными правами",
+      "explanation": "Пока права приостановлены, с ними нельзя делать ничего. Ни дубликат, ни продление, ни новая категория. Поэтому верно «Ninguna» — ни один вариант.",
+      "trap": "Варианты a–c звучат как обычные процедуры, но при приостановке («suspendieron») все они запрещены. Ищите «Ninguna de las alternativas» (ни один вариант).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si a un conductor infractor",
+            "tr": "Если водителю-нарушителю"
+          },
+          {
+            "es": "le suspendieron",
+            "tr": "приостановили"
+          },
+          {
+            "es": "su licencia de conducir,",
+            "tr": "его водительские права,"
+          },
+          {
+            "es": "éste se encuentra facultado para:",
+            "tr": "он имеет право:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Tramitar el duplicado",
+              "tr": "Оформить дубликат"
+            },
+            {
+              "es": "de su licencia de conducir.",
+              "tr": "своих водительских прав."
+            }
+          ],
+          "b": [
+            {
+              "es": "Tramitar la revalidación",
+              "tr": "Оформить продление"
+            },
+            {
+              "es": "de su licencia de conducir.",
+              "tr": "своих водительских прав."
+            }
+          ],
+          "c": [
+            {
+              "es": "Tramitar la recategorización",
+              "tr": "Оформить повышение категории"
+            },
+            {
+              "es": "de su licencia de conducir.",
+              "tr": "своих водительских прав."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не является правильным."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-177": {
+      "id": "a1-177",
+      "text": "__________ имеют целью информировать пользователей о ближайших к дороге общих услугах, таких как телефон, гостиница, ресторан, первая помощь, заправка, мастерские и другие.",
+      "options": {
+        "a": "Знаки местоположения.",
+        "b": "Знаки ближайшего съезда.",
+        "c": "Знаки общих услуг.",
+        "d": "Обычные знаки"
+      },
+      "gist": "Знаки, сообщающие об услугах у дороги",
+      "explanation": "Ответ повторяет слова из вопроса: «servicios generales» — общие услуги. Такие знаки показывают телефон, гостиницу, заправку, мастерскую. Ищите те же слова в варианте.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Las __________________",
+            "tr": "___ (какие знаки?)"
+          },
+          {
+            "es": "tienen por función",
+            "tr": "имеют целью"
+          },
+          {
+            "es": "informar a los usuarios",
+            "tr": "информировать пользователей"
+          },
+          {
+            "es": "sobre los servicios generales existentes",
+            "tr": "об имеющихся общих услугах"
+          },
+          {
+            "es": "próximos a la vía,",
+            "tr": "рядом с дорогой,"
+          },
+          {
+            "es": "tales como teléfono,",
+            "tr": "таких как телефон,"
+          },
+          {
+            "es": "hospedaje, restaurante,",
+            "tr": "гостиница, ресторан,"
+          },
+          {
+            "es": "primeros auxilios,",
+            "tr": "первая помощь,"
+          },
+          {
+            "es": "estación de combustibles,",
+            "tr": "заправка,"
+          },
+          {
+            "es": "talleres, y otros.",
+            "tr": "мастерские и другие."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señales de localización.",
+              "tr": "Знаки местоположения."
+            }
+          ],
+          "b": [
+            {
+              "es": "Señales de salida inmediata.",
+              "tr": "Знаки ближайшего съезда."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señales de servicios generales.",
+              "tr": "Знаки общих услуг.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Señales ordinarias",
+              "tr": "Обычные знаки"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-178": {
+      "id": "a1-178",
+      "text": "Является ли нарушением оформление дубликата водительских прав, которые изъяты (удерживаются)?",
+      "options": {
+        "a": "Не является нарушением.",
+        "b": "Только когда права были изъяты за очень серьёзное нарушение.",
+        "c": "Да, является нарушением.",
+        "d": "Ни один из вариантов не является правильным."
+      },
+      "gist": "Дубликат изъятых прав — это нарушение",
+      "explanation": "Если права изъяты («retenida»), делать дубликат нельзя. Это отдельное нарушение, без исключений. Верный ответ начинается с «Si» — да.",
+      "trap": "Варианты a и c почти одинаковы: «No constituye» (не является) и «Si, constituye» (да, является). Вариант b с «Solo cuando» (только когда) добавляет ложное условие.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Constituye una infracción",
+            "tr": "Является ли нарушением"
+          },
+          {
+            "es": "tramitar el duplicado",
+            "tr": "оформить дубликат"
+          },
+          {
+            "es": "de una licencia de conducir",
+            "tr": "водительских прав,"
+          },
+          {
+            "es": "que se encuentra retenida?",
+            "tr": "которые изъяты?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No constituye",
+              "tr": "Не является",
+              "kind": "logic"
+            },
+            {
+              "es": "una infracción.",
+              "tr": "нарушением."
+            }
+          ],
+          "b": [
+            {
+              "es": "Solo cuando",
+              "tr": "Только когда",
+              "kind": "logic"
+            },
+            {
+              "es": "la licencia de conducir",
+              "tr": "права"
+            },
+            {
+              "es": "ha sido retenida",
+              "tr": "были изъяты"
+            },
+            {
+              "es": "por la comisión",
+              "tr": "за совершение"
+            },
+            {
+              "es": "de una infracción muy grave.",
+              "tr": "очень серьёзного нарушения."
+            }
+          ],
+          "c": [
+            {
+              "es": "Si, constituye",
+              "tr": "Да, является",
+              "kind": "anchor"
+            },
+            {
+              "es": "una infracción.",
+              "tr": "нарушением."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не является правильным."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-179": {
+      "id": "a1-179",
+      "text": "Разметка на покрытии — это ___________ сигнализация, и она применяется, чтобы _____________ движение.",
+      "options": {
+        "a": "Горизонтальная — регулировать.",
+        "b": "Вертикальная — регулировать.",
+        "c": "Самая важная — улучшать.",
+        "d": "Наименее важная — украшать."
+      },
+      "gist": "Разметка — горизонтальная сигнализация",
+      "explanation": "Разметка нарисована на дороге, поэтому она горизонтальная. Знаки на столбах — вертикальные. Разметка регулирует движение, а не украшает.",
+      "trap": "Варианты a и b отличаются одним словом: «Horizontal» (горизонтальная) верно, «Vertical» — нет.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Las marcas en el pavimento",
+            "tr": "Разметка на покрытии"
+          },
+          {
+            "es": "constituyen la señalización ___________",
+            "tr": "являются сигнализацией ___"
+          },
+          {
+            "es": "y se emplean para _____________",
+            "tr": "и применяются, чтобы ___"
+          },
+          {
+            "es": "la circulación.",
+            "tr": "движение."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Horizontal",
+              "tr": "Горизонтальная",
+              "kind": "anchor"
+            },
+            {
+              "es": "- reglamentar.",
+              "tr": "— регулировать."
+            }
+          ],
+          "b": [
+            {
+              "es": "Vertical",
+              "tr": "Вертикальная"
+            },
+            {
+              "es": "- reglamentar.",
+              "tr": "— регулировать."
+            }
+          ],
+          "c": [
+            {
+              "es": "Más importante",
+              "tr": "Самая важная",
+              "kind": "logic"
+            },
+            {
+              "es": "- mejorar.",
+              "tr": "— улучшать."
+            }
+          ],
+          "d": [
+            {
+              "es": "Menos importante",
+              "tr": "Наименее важная",
+              "kind": "logic"
+            },
+            {
+              "es": "- adornar.",
+              "tr": "— украшать."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-180": {
+      "id": "a1-180",
+      "text": "Велосипедист относится к велодорожке, как:",
+      "options": {
+        "a": "Водитель — тротуар.",
+        "b": "Водитель — проезжая часть.",
+        "c": "Водитель — обочина.",
+        "d": "Пешеход — автомагистраль."
+      },
+      "gist": "Аналогия: водитель и его дорога",
+      "explanation": "Велосипедист едет по велодорожке. Водитель едет по проезжей части — «calzada». Тротуар («acera») для пешеходов, обочина («berma») не для движения.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Ciclista",
+            "tr": "Велосипедист"
+          },
+          {
+            "es": "es a ciclovía",
+            "tr": "относится к велодорожке"
+          },
+          {
+            "es": "como:",
+            "tr": "как:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Conductor",
+              "tr": "Водитель"
+            },
+            {
+              "es": "- acera.",
+              "tr": "— тротуар."
+            }
+          ],
+          "b": [
+            {
+              "es": "Conductor",
+              "tr": "Водитель"
+            },
+            {
+              "es": "- calzada.",
+              "tr": "— проезжая часть.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Conductor",
+              "tr": "Водитель"
+            },
+            {
+              "es": "- berma.",
+              "tr": "— обочина."
+            }
+          ],
+          "d": [
+            {
+              "es": "Peatón",
+              "tr": "Пешеход"
+            },
+            {
+              "es": "- autopista.",
+              "tr": "— автомагистраль."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-181": {
+      "id": "a1-181",
+      "text": "Следующий знак (P-15) используется, чтобы предупредить водителя:",
+      "options": {
+        "a": "О приближении к дороге с тремя полосами.",
+        "b": "О приближении к урагану.",
+        "c": "О приближении к извилистой дороге.",
+        "d": "О приближении к круговому перекрёстку (овалу или кольцу)."
+      },
+      "gist": "Знак P-15: впереди круговое движение",
+      "explanation": "На знаке три стрелки идут по кругу. Это круговой перекрёсток — «rotonda» или «óvalo». Жёлтый ромб значит предупреждение.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal (P-15),",
+            "tr": "Следующий знак (P-15),"
+          },
+          {
+            "es": "se utiliza para advertir",
+            "tr": "используется, чтобы предупредить"
+          },
+          {
+            "es": "al conductor:",
+            "tr": "водителя:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "a una vía de tres carriles.",
+              "tr": "к дороге с тремя полосами."
+            }
+          ],
+          "b": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "a un huracán.",
+              "tr": "к урагану."
+            }
+          ],
+          "c": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "a un camino sinuoso.",
+              "tr": "к извилистой дороге."
+            }
+          ],
+          "d": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "de una intersección rotatoria",
+              "tr": "кругового перекрёстка",
+              "kind": "anchor"
+            },
+            {
+              "es": "(óvalo o rotonda).",
+              "tr": "(овала или кольца).",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-182": {
+      "id": "a1-182",
+      "text": "Следующий знак (P-31a) обозначает:",
+      "options": {
+        "a": "Приближение к концу дороги.",
+        "b": "Приближение к асфальтированной дороге.",
+        "c": "Приближение к небольшому уклону.",
+        "d": "Ни один из вариантов не является правильным."
+      },
+      "gist": "Знак P-31a: конец дороги",
+      "explanation": "На знаке дорога упирается в барьер. Это предупреждение: впереди дорога заканчивается — «final de la vía». Не путайте с асфальтом или уклоном.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal (P-31a)",
+            "tr": "Следующий знак (P-31a)"
+          },
+          {
+            "es": ", indica:",
+            "tr": ", обозначает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "del final de la vía.",
+              "tr": "конца дороги.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "de una vía asfaltada.",
+              "tr": "асфальтированной дороги."
+            }
+          ],
+          "c": [
+            {
+              "es": "La proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "de una pendiente leve.",
+              "tr": "небольшого уклона."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не является правильным."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-183": {
+      "id": "a1-183",
+      "text": "Это линия поперёк проезжей части, которая указывает водителю, что он должен полностью остановить автомобиль, не пересекая начало этой линии:",
+      "options": {
+        "a": "Линия полосы.",
+        "b": "Линия края проезжей части.",
+        "c": "Стоп-линия.",
+        "d": "Все варианты правильные."
+      },
+      "gist": "Поперечная линия для полной остановки",
+      "explanation": "«Pare» значит «стой». Стоп-линия идёт поперёк дороги, перед ней надо полностью остановиться. Линии полосы и края идут вдоль дороги.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una línea transversal",
+            "tr": "Это поперечная линия"
+          },
+          {
+            "es": "a la calzada,",
+            "tr": "к проезжей части,"
+          },
+          {
+            "es": "que indica al conductor",
+            "tr": "которая указывает водителю"
+          },
+          {
+            "es": "que debe detener completamente",
+            "tr": "что он должен полностью остановить",
+            "kind": "logic"
+          },
+          {
+            "es": "el vehículo,",
+            "tr": "автомобиль,"
+          },
+          {
+            "es": "no debiendo sobrepasar",
+            "tr": "не пересекая",
+            "kind": "logic"
+          },
+          {
+            "es": "el inicio",
+            "tr": "начало"
+          },
+          {
+            "es": "de la indicada línea:",
+            "tr": "указанной линии:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Línea de carril.",
+              "tr": "Линия полосы."
+            }
+          ],
+          "b": [
+            {
+              "es": "Línea de borde de calzada.",
+              "tr": "Линия края проезжей части."
+            }
+          ],
+          "c": [
+            {
+              "es": "Línea de pare.",
+              "tr": "Стоп-линия.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "правильные."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-184": {
+      "id": "a1-184",
+      "text": "Светофоры — это:",
+      "options": {
+        "a": "Устройства управления движением, цель которых — регулировать и контролировать движение транспорта, моторного и немоторного, и пешеходов с помощью сигналов соответствующих огней.",
+        "b": "Устройства управления движением, цель которых — регулировать и контролировать только движение моторного транспорта и пешеходов с помощью световых сигналов.",
+        "c": "Сигналы красного, зелёного и жёлтого цвета, единственная цель которых — регулировать поток транспорта.",
+        "d": "Приборы, излучающие цветные огни, единственная цель которых — регулировать поток моторных транспортных средств и пешеходов."
+      },
+      "gist": "Определение светофора",
+      "explanation": "Светофор регулирует всё движение: машины, велосипеды («no motorizado») и пешеходов. Верный вариант — самый полный, без слова «únicamente» (только). Варианты b, c, d что-то исключают.",
+      "trap": "Варианты a и b начинаются одинаково. Ищите «no motorizado» (немоторный) — только в верном. «únicamente» и «único fin» (только, единственная цель) — признак неверного.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Los semáforos",
+            "tr": "Светофоры"
+          },
+          {
+            "es": "son:",
+            "tr": "— это:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Dispositivos de control del tránsito",
+              "tr": "Устройства управления движением"
+            },
+            {
+              "es": "que tienen por finalidad",
+              "tr": "цель которых —"
+            },
+            {
+              "es": "regular y controlar",
+              "tr": "регулировать и контролировать"
+            },
+            {
+              "es": "el tránsito vehicular,",
+              "tr": "движение транспорта,"
+            },
+            {
+              "es": "motorizado y no motorizado,",
+              "tr": "моторного и немоторного,",
+              "kind": "anchor"
+            },
+            {
+              "es": "y el peatonal,",
+              "tr": "и пешеходов,"
+            },
+            {
+              "es": "a través de las indicaciones",
+              "tr": "с помощью сигналов"
+            },
+            {
+              "es": "de las luces respectivas.",
+              "tr": "соответствующих огней."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dispositivos de control del tránsito",
+              "tr": "Устройства управления движением"
+            },
+            {
+              "es": "que tienen por finalidad",
+              "tr": "цель которых —"
+            },
+            {
+              "es": "regular y controlar",
+              "tr": "регулировать и контролировать"
+            },
+            {
+              "es": "únicamente",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "el tránsito vehicular motorizado",
+              "tr": "движение моторного транспорта"
+            },
+            {
+              "es": "y peatonal,",
+              "tr": "и пешеходов,"
+            },
+            {
+              "es": "a través de las indicaciones",
+              "tr": "с помощью сигналов"
+            },
+            {
+              "es": "de luces.",
+              "tr": "огней."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señales de color rojo,",
+              "tr": "Сигналы красного,"
+            },
+            {
+              "es": "verde y amarillo,",
+              "tr": "зелёного и жёлтого цвета,"
+            },
+            {
+              "es": "que tienen como único fin",
+              "tr": "единственная цель которых —",
+              "kind": "logic"
+            },
+            {
+              "es": "regular la corriente vehicular.",
+              "tr": "регулировать поток транспорта."
+            }
+          ],
+          "d": [
+            {
+              "es": "Artefactos que emiten",
+              "tr": "Приборы, излучающие"
+            },
+            {
+              "es": "luces de colores",
+              "tr": "цветные огни"
+            },
+            {
+              "es": "y cuyo único fin es",
+              "tr": "и единственная цель которых —",
+              "kind": "logic"
+            },
+            {
+              "es": "regular la corriente",
+              "tr": "регулировать поток"
+            },
+            {
+              "es": "de vehículos motorizados y peatones.",
+              "tr": "моторных ТС и пешеходов."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-185": {
+      "id": "a1-185",
+      "text": "Вождение требует высокого уровня внимания, ведь есть отвлекающие факторы, которые могут вызвать ДТП, например:",
+      "options": {
+        "a": "Тревоги и заботы.",
+        "b": "Использование мобильного телефона.",
+        "c": "Настройка радио во время вождения.",
+        "d": "Все варианты правильные."
+      },
+      "gist": "Что отвлекает водителя",
+      "explanation": "Заботы, телефон и радио — всё это отвлекает от дороги. Каждый вариант верен, значит верно «Todas» — все.",
+      "trap": "Варианты a, b, c все правильные, легко выбрать один из них. Если все подходят — ищите «Todas las alternativas» (все варианты).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La conducción requiere",
+            "tr": "Вождение требует"
+          },
+          {
+            "es": "un alto nivel de atención,",
+            "tr": "высокого уровня внимания,"
+          },
+          {
+            "es": "pues existen distracciones",
+            "tr": "ведь есть отвлекающие факторы,"
+          },
+          {
+            "es": "que pueden ocasionar",
+            "tr": "которые могут вызвать",
+            "kind": "logic"
+          },
+          {
+            "es": "accidentes de tránsito,",
+            "tr": "ДТП,"
+          },
+          {
+            "es": "como por ejemplo:",
+            "tr": "например:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Preocupaciones.",
+              "tr": "Тревоги."
+            }
+          ],
+          "b": [
+            {
+              "es": "Uso del teléfono celular.",
+              "tr": "Использование мобильного телефона."
+            }
+          ],
+          "c": [
+            {
+              "es": "Manipulación de la radio",
+              "tr": "Настройка радио"
+            },
+            {
+              "es": "mientras se conduce.",
+              "tr": "во время вождения."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "правильные."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-186": {
+      "id": "a1-186",
+      "text": "Влияет ли сонливость на способность управлять автомобилем?",
+      "options": {
+        "a": "Да, ведь водитель будет принимать решения медленно, и это приведёт к ошибкам.",
+        "b": "Да, потому что водитель в плохом настроении.",
+        "c": "Нет, если ехать медленно.",
+        "d": "Нет, если ехать с попутчиком."
+      },
+      "gist": "Сонливость и вождение",
+      "explanation": "Сонный водитель думает медленно и ошибается. Поэтому ответ «Si» — да, влияет. Медленная езда или попутчик не отменяют сонливость.",
+      "trap": "Вариант b тоже начинается с «Si», но причина неверная — «mal genio» (плохое настроение). Верная причина — «decisiones lentas» (медленные решения).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Influye la somnolencia",
+            "tr": "Влияет ли сонливость"
+          },
+          {
+            "es": "en la capacidad de conducir?",
+            "tr": "на способность вести машину?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si, pues el conductor",
+              "tr": "Да, ведь водитель"
+            },
+            {
+              "es": "tomará decisiones lentas",
+              "tr": "будет принимать медленные решения",
+              "kind": "anchor"
+            },
+            {
+              "es": "que lo inducirán",
+              "tr": "которые приведут его"
+            },
+            {
+              "es": "a cometer errores.",
+              "tr": "к ошибкам."
+            }
+          ],
+          "b": [
+            {
+              "es": "Si, ya que",
+              "tr": "Да, так как"
+            },
+            {
+              "es": "el conductor está de mal genio.",
+              "tr": "водитель в плохом настроении."
+            }
+          ],
+          "c": [
+            {
+              "es": "No, siempre que",
+              "tr": "Нет, при условии что",
+              "kind": "logic"
+            },
+            {
+              "es": "la conducción sea realizada lentamente.",
+              "tr": "вождение осуществляется медленно."
+            }
+          ],
+          "d": [
+            {
+              "es": "No, siempre y cuando",
+              "tr": "Нет, при условии что",
+              "kind": "logic"
+            },
+            {
+              "es": "la conducción sea realizada",
+              "tr": "вождение осуществляется"
+            },
+            {
+              "es": "con un acompañante.",
+              "tr": "с попутчиком."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-187": {
+      "id": "a1-187",
+      "text": "Какое действие водителя правильное по правилам движения в ситуации на следующем рисунке?",
+      "options": {
+        "a": "Быстро повернуть направо, пока пешеход не перешёл проезжую часть.",
+        "b": "Уступить дорогу пешеходу, чтобы он перешёл проезжую часть.",
+        "c": "Медленно повернуть направо, пока пешеход не перешёл проезжую часть.",
+        "d": "Посигналить, чтобы пешеход не переходил проезжую часть"
+      },
+      "gist": "Поворот направо и пешеход на переходе",
+      "explanation": "На рисунке машина поворачивает направо, а пешеход переходит дорогу. Пешеход на переходе всегда имеет преимущество. Надо остановиться и пропустить его.",
+      "trap": "Варианты a, c, d — «antes que el peatón cruce» (пока пешеход не перешёл) или сигнал. Всё это — не уступить. Верно только «Dar preferencia de paso» (уступить дорогу).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es la acción correcta",
+            "tr": "Какое действие правильное"
+          },
+          {
+            "es": "del conductor,",
+            "tr": "водителя,"
+          },
+          {
+            "es": "según las normas de tránsito,",
+            "tr": "по правилам движения,"
+          },
+          {
+            "es": "en la situación que plantea",
+            "tr": "в ситуации, которую показывает"
+          },
+          {
+            "es": "el siguiente gráfico?",
+            "tr": "следующий рисунок?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Girar rápidamente a la derecha",
+              "tr": "Быстро повернуть направо",
+              "kind": "logic"
+            },
+            {
+              "es": "antes que el peatón cruce",
+              "tr": "пока пешеход не перешёл",
+              "kind": "logic"
+            },
+            {
+              "es": "la calzada.",
+              "tr": "проезжую часть."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dar preferencia de paso",
+              "tr": "Уступить дорогу",
+              "kind": "anchor"
+            },
+            {
+              "es": "al peatón",
+              "tr": "пешеходу"
+            },
+            {
+              "es": "para que cruce la calzada.",
+              "tr": "чтобы он перешёл проезжую часть."
+            }
+          ],
+          "c": [
+            {
+              "es": "Girar lentamente a la derecha",
+              "tr": "Медленно повернуть направо",
+              "kind": "logic"
+            },
+            {
+              "es": "antes que el peatón cruce",
+              "tr": "пока пешеход не перешёл",
+              "kind": "logic"
+            },
+            {
+              "es": "la calzada.",
+              "tr": "проезжую часть."
+            }
+          ],
+          "d": [
+            {
+              "es": "Tocar el claxon",
+              "tr": "Посигналить"
+            },
+            {
+              "es": "para que el peatón no cruce",
+              "tr": "чтобы пешеход не переходил",
+              "kind": "logic"
+            },
+            {
+              "es": "la calzada",
+              "tr": "проезжую часть"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-188": {
+      "id": "a1-188",
+      "text": "В каком из следующих вариантов перечисленные факторы способствуют столкновению?",
+      "options": {
+        "a": "Сухое покрытие, сонливость, изношенные тормоза.",
+        "b": "Мокрое покрытие, изношенные шины, усталость.",
+        "c": "Лежачие полицейские, невнимательность, использование мобильного телефона.",
+        "d": "Ни один из вариантов не является правильным."
+      },
+      "gist": "Какие факторы ведут к столкновению",
+      "explanation": "Верный вариант — где все три фактора опасны. Мокрая дорога, лысые шины и усталость — все опасны. В a «pavimento seco» (сухое покрытие) безопасно, в c «reductores de velocidad» (лежачие полицейские) тоже.",
+      "trap": "В каждом варианте есть опасные слова. Ищите тот, где нет ничего безопасного: «húmedo» (мокрый), «neumáticos desgastados» (изношенные шины), «cansancio» (усталость).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿En cuál de las siguientes opciones,",
+            "tr": "В каком из следующих вариантов"
+          },
+          {
+            "es": "los factores mencionados",
+            "tr": "перечисленные факторы"
+          },
+          {
+            "es": "contribuyen a una colisión vehicular?",
+            "tr": "способствуют столкновению?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Pavimento seco,",
+              "tr": "Сухое покрытие,"
+            },
+            {
+              "es": "somnolencia,",
+              "tr": "сонливость,"
+            },
+            {
+              "es": "frenos desgastados.",
+              "tr": "изношенные тормоза."
+            }
+          ],
+          "b": [
+            {
+              "es": "Pavimento húmedo,",
+              "tr": "Мокрое покрытие,",
+              "kind": "anchor"
+            },
+            {
+              "es": "neumáticos desgastados,",
+              "tr": "изношенные шины,",
+              "kind": "anchor"
+            },
+            {
+              "es": "cansancio.",
+              "tr": "усталость."
+            }
+          ],
+          "c": [
+            {
+              "es": "Reductores de velocidad,",
+              "tr": "Лежачие полицейские,"
+            },
+            {
+              "es": "falta de atención,",
+              "tr": "невнимательность,"
+            },
+            {
+              "es": "uso del teléfono celular.",
+              "tr": "использование мобильного телефона."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не является правильным."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-189": {
+      "id": "a1-189",
+      "text": "__________ — это часть шоссе или дороги рядом с проезжей частью, не предназначенная для движения транспорта; иногда служит для аварийной остановки машин и движения пешеходов.",
+      "options": {
+        "a": "Обочина.",
+        "b": "Автомагистраль.",
+        "c": "Тротуар.",
+        "d": "Разметка."
+      },
+      "gist": "Часть дороги рядом с проезжей частью",
+      "explanation": "«Berma» — обочина: полоса рядом с проезжей частью. По ней не ездят, только аварийная остановка и пешеходы. «Acera» — тротуар в городе, это другое.",
+      "gloss": {
+        "text": [
+          {
+            "es": "La __________",
+            "tr": "___ (что?)"
+          },
+          {
+            "es": "es la parte",
+            "tr": "— это часть"
+          },
+          {
+            "es": "de una carretera o camino",
+            "tr": "шоссе или дороги"
+          },
+          {
+            "es": "contigua a la calzada,",
+            "tr": "рядом с проезжей частью,"
+          },
+          {
+            "es": "no habilitada",
+            "tr": "не предназначенная",
+            "kind": "logic"
+          },
+          {
+            "es": "para la circulación de vehículos",
+            "tr": "для движения транспорта"
+          },
+          {
+            "es": "y destinada eventualmente",
+            "tr": "и иногда служащая"
+          },
+          {
+            "es": "a la detención de vehículos",
+            "tr": "для остановки машин"
+          },
+          {
+            "es": "en emergencia",
+            "tr": "в аварийной ситуации"
+          },
+          {
+            "es": "y circulación de peatones.",
+            "tr": "и движения пешеходов."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Berma.",
+              "tr": "Обочина.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Autopista.",
+              "tr": "Автомагистраль."
+            }
+          ],
+          "c": [
+            {
+              "es": "Acera.",
+              "tr": "Тротуар."
+            }
+          ],
+          "d": [
+            {
+              "es": "Demarcación.",
+              "tr": "Разметка."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-190": {
+      "id": "a1-190",
+      "text": "Это часть дороги, предназначенная для движения транспорта и иногда для перехода пешеходов и животных.",
+      "options": {
+        "a": "Проезжая часть.",
+        "b": "Тротуар.",
+        "c": "Обочина.",
+        "d": "Ни один из вариантов не является правильным."
+      },
+      "gist": "Часть дороги для движения машин",
+      "explanation": "По проезжей части («calzada») ездят машины. Пешеходы её только пересекают. Тротуар для пешеходов, обочина не для движения.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una parte de la vía",
+            "tr": "Это часть дороги"
+          },
+          {
+            "es": "destinada a la circulación de vehículos",
+            "tr": "предназначенная для движения транспорта"
+          },
+          {
+            "es": "y eventualmente al cruce",
+            "tr": "и иногда для перехода"
+          },
+          {
+            "es": "de peatones y animales.",
+            "tr": "пешеходов и животных."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La calzada.",
+              "tr": "Проезжая часть.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "La acera.",
+              "tr": "Тротуар."
+            }
+          ],
+          "c": [
+            {
+              "es": "La berma.",
+              "tr": "Обочина."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не является правильным."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-191": {
+      "id": "a1-191",
+      "text": "Это часть дороги, предназначенная для пешеходов",
+      "options": {
+        "a": "Тротуар.",
+        "b": "Проезжая часть.",
+        "c": "Обочина.",
+        "d": "Автомагистраль."
+      },
+      "gist": "Часть дороги для пешеходов",
+      "explanation": "Пешеходы ходят по тротуару — «acera». Проезжая часть для машин, обочина — для аварийной остановки. Три слова легко спутать: acera, calzada, berma.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una parte de la vía",
+            "tr": "Это часть дороги"
+          },
+          {
+            "es": "destinada al uso de peatones",
+            "tr": "предназначенная для пешеходов"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La acera.",
+              "tr": "Тротуар.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "La calzada.",
+              "tr": "Проезжая часть."
+            }
+          ],
+          "c": [
+            {
+              "es": "La berma.",
+              "tr": "Обочина."
+            }
+          ],
+          "d": [
+            {
+              "es": "La autopista.",
+              "tr": "Автомагистраль."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-192": {
+      "id": "a1-192",
+      "text": "Сигналы, которые регулируют движение, — это:",
+      "options": {
+        "a": "Клаксоны и разметка на проезжей части, или горизонтальные знаки.",
+        "b": "Клаксоны и вертикальные знаки.",
+        "c": "Вертикальные знаки, разметка на проезжей части (горизонтальные знаки) и клаксоны.",
+        "d": "Вертикальные знаки и разметка на проезжей части, или горизонтальные знаки."
+      },
+      "gist": "Что регулирует движение: знаки и разметка",
+      "explanation": "Движение регулируют знаки на столбах (вертикальные) и разметка (горизонтальные). Клаксон — не сигнал регулирования, это просто звук. Верный вариант — единственный без слова «bocinas».",
+      "trap": "Три из четырёх вариантов содержат «bocinas» (клаксоны) — они неверны. Верный — «señales verticales y las marcas» без «bocinas».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Son señales",
+            "tr": "Это сигналы"
+          },
+          {
+            "es": "que regulan el tránsito:",
+            "tr": "которые регулируют движение:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Las bocinas",
+              "tr": "Клаксоны"
+            },
+            {
+              "es": "y las marcas en la calzada",
+              "tr": "и разметка на проезжей части"
+            },
+            {
+              "es": "o señales horizontales.",
+              "tr": "или горизонтальные знаки."
+            }
+          ],
+          "b": [
+            {
+              "es": "Las bocinas",
+              "tr": "Клаксоны"
+            },
+            {
+              "es": "y las señales verticales.",
+              "tr": "и вертикальные знаки."
+            }
+          ],
+          "c": [
+            {
+              "es": "Las señales verticales,",
+              "tr": "Вертикальные знаки,"
+            },
+            {
+              "es": "las marcas en la calzada",
+              "tr": "разметка на проезжей части"
+            },
+            {
+              "es": "o señales horizontales",
+              "tr": "или горизонтальные знаки"
+            },
+            {
+              "es": "y las bocinas.",
+              "tr": "и клаксоны."
+            }
+          ],
+          "d": [
+            {
+              "es": "Las señales verticales",
+              "tr": "Вертикальные знаки"
+            },
+            {
+              "es": "y las marcas en la calzada",
+              "tr": "и разметка на проезжей части"
+            },
+            {
+              "es": "o señales horizontales.",
+              "tr": "или горизонтальные знаки."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-193": {
+      "id": "a1-193",
+      "text": "Транспортные средства должны двигаться с:",
+      "options": {
+        "a": "Закрытыми дверями и капотом; багажник может быть приоткрыт в особых случаях.",
+        "b": "Закрытыми дверями, капотом и багажником.",
+        "c": "Закрытыми дверями, капотом и багажником, кроме случаев особого разрешения.",
+        "d": "Закрытыми капотом и багажником; две двери могут быть приоткрыты в особых случаях."
+      },
+      "gist": "Двери, капот и багажник закрыты",
+      "explanation": "Всё должно быть закрыто: двери, капот и багажник. Никаких исключений и «особых случаев». Верный вариант — самый короткий, без оговорок.",
+      "trap": "Вариант c повторяет верный, но добавляет «salvo autorización especial» (кроме особого разрешения). a и d добавляют «permitiéndose» (разрешается). Любая оговорка — неверно.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Los vehículos",
+            "tr": "Транспортные средства"
+          },
+          {
+            "es": "deben ser conducidos con:",
+            "tr": "должны двигаться с:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Puertas y capot cerrados,",
+              "tr": "Двери и капот закрыты,"
+            },
+            {
+              "es": "permitiéndose la maletera entreabierta",
+              "tr": "разрешается приоткрытый багажник",
+              "kind": "logic"
+            },
+            {
+              "es": "para casos especiales.",
+              "tr": "в особых случаях."
+            }
+          ],
+          "b": [
+            {
+              "es": "Puertas, capot y maletera",
+              "tr": "Двери, капот и багажник"
+            },
+            {
+              "es": "cerrados.",
+              "tr": "закрыты."
+            }
+          ],
+          "c": [
+            {
+              "es": "Puertas, capot y maletera",
+              "tr": "Двери, капот и багажник"
+            },
+            {
+              "es": "cerrados,",
+              "tr": "закрыты,"
+            },
+            {
+              "es": "salvo autorización especial.",
+              "tr": "кроме особого разрешения.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Capot y maletera cerrados,",
+              "tr": "Капот и багажник закрыты,"
+            },
+            {
+              "es": "permitiéndose dos puertas entreabiertas",
+              "tr": "разрешаются две приоткрытые двери",
+              "kind": "logic"
+            },
+            {
+              "es": "para casos especiales.",
+              "tr": "в особых случаях."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-194": {
+      "id": "a1-194",
+      "text": "Водитель, который на городской улице собирается повернуть налево, направо или развернуться, должен включить поворотник не менее чем за:",
+      "options": {
+        "a": "2 секунды до манёвра.",
+        "b": "1 метр до манёвра.",
+        "c": "20 метров до манёвра.",
+        "d": "3 метра до манёвра."
+      },
+      "gist": "Поворотник в городе: за 20 метров",
+      "explanation": "В городе («vía urbana») поворотник включают за 20 метров до манёвра. На шоссе («carretera») — за 30 метров. Запомните пару: город 20, шоссе 30.",
+      "trap": "Есть похожий вопрос про «carretera» (шоссе) с ответом 30 метров. Здесь «vía urbana» (город) — 20 метров. Секунды — неверно.",
+      "gloss": {
+        "text": [
+          {
+            "es": "El conductor que",
+            "tr": "Водитель, который"
+          },
+          {
+            "es": "en una vía urbana",
+            "tr": "на городской улице"
+          },
+          {
+            "es": "va a girar a la izquierda,",
+            "tr": "собирается повернуть налево,",
+            "kind": "logic"
+          },
+          {
+            "es": "a la derecha o en «U»",
+            "tr": "направо или развернуться",
+            "kind": "logic"
+          },
+          {
+            "es": "debe hacer la señal respectiva",
+            "tr": "должен подать соответствующий сигнал",
+            "kind": "logic"
+          },
+          {
+            "es": "con la luz direccional,",
+            "tr": "поворотником,"
+          },
+          {
+            "es": "por lo menos:",
+            "tr": "не менее чем за:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "2 segundos",
+              "tr": "2 секунды"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "1 metro",
+              "tr": "1 метр"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "20 metros",
+              "tr": "20 метров",
+              "kind": "anchor"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "3 metros",
+              "tr": "3 метра"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-195": {
+      "id": "a1-195",
+      "text": "Если вы едете по шоссе и собираетесь повернуть налево, вы должны включить поворотник не менее чем за:",
+      "options": {
+        "a": "2 секунды до манёвра.",
+        "b": "2 метра до манёвра.",
+        "c": "30 метров до манёвра.",
+        "d": "1 метр до манёвра."
+      },
+      "gist": "Поворотник на шоссе: за 30 метров",
+      "explanation": "На шоссе («carretera») скорость выше, поэтому поворотник включают за 30 метров. В городе — за 20 метров. Запомните: шоссе 30, город 20.",
+      "trap": "Не путайте с вопросом про «vía urbana» (город) — там 20 метров. Здесь «carretera» (шоссе) — 30 метров.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted está conduciendo",
+            "tr": "Если вы едете"
+          },
+          {
+            "es": "por una carretera",
+            "tr": "по шоссе"
+          },
+          {
+            "es": "y va girar a la izquierda,",
+            "tr": "и собираетесь повернуть налево,",
+            "kind": "logic"
+          },
+          {
+            "es": "debe realizar la señal respectiva",
+            "tr": "должны подать соответствующий сигнал",
+            "kind": "logic"
+          },
+          {
+            "es": "con la luz direccional",
+            "tr": "поворотником"
+          },
+          {
+            "es": "por lo menos:",
+            "tr": "не менее чем за:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "2 segundos",
+              "tr": "2 секунды"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "2 metros",
+              "tr": "2 метра"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "30 metros",
+              "tr": "30 метров",
+              "kind": "anchor"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "1 metro",
+              "tr": "1 метр"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "до манёвра.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-196": {
+      "id": "a1-196",
+      "text": "Права класса и категории A-I (частные) позволяют управлять мотоциклами?",
+      "options": {
+        "a": "Да.",
+        "b": "Нет",
+        "c": "Только в городе.",
+        "d": "Только на шоссе."
+      },
+      "gist": "Можно ли на A-I водить мотоцикл",
+      "explanation": "A-I — это права на легковые автомобили. Для мотоциклов нужны права класса B. Поэтому ответ «No» — нет, нигде.",
+      "trap": "Варианты c и d начинаются с «Únicamente» (только) и звучат как компромисс. Но исключений нет: только «No».",
+      "gloss": {
+        "text": [
+          {
+            "es": "La licencia particular",
+            "tr": "Частные права"
+          },
+          {
+            "es": "de la Clase y Categoría A-I,",
+            "tr": "класса и категории A-I,"
+          },
+          {
+            "es": "permite conducir motos?",
+            "tr": "позволяют водить мотоциклы?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si.",
+              "tr": "Да."
+            }
+          ],
+          "b": [
+            {
+              "es": "No",
+              "tr": "Нет",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Únicamente en el ámbito urbano.",
+              "tr": "Только в городе.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Únicamente en carreteras.",
+              "tr": "Только на шоссе.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-197": {
+      "id": "a1-197",
+      "text": "На следующем рисунке показано:",
+      "options": {
+        "a": "Вертикальную и горизонтальную дорожную сигнализацию в школьной зоне.",
+        "b": "Только вертикальную дорожную сигнализацию в школьной зоне.",
+        "c": "Только горизонтальную дорожную сигнализацию в школьной зоне.",
+        "d": "Ни один из вариантов не является правильным."
+      },
+      "gist": "Школьная зона: знаки и разметка",
+      "explanation": "На рисунке есть знаки на столбах (вертикальные) и надписи «ZONA ESCOLAR» на асфальте (горизонтальные). Есть и то и другое. Варианты с «Únicamente» (только) неверны.",
+      "gloss": {
+        "text": [
+          {
+            "es": "El siguiente gráfico",
+            "tr": "Следующий рисунок"
+          },
+          {
+            "es": "muestra:",
+            "tr": "показывает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señalización de tránsito",
+              "tr": "Дорожную сигнализацию"
+            },
+            {
+              "es": "vertical y horizontal",
+              "tr": "вертикальную и горизонтальную",
+              "kind": "anchor"
+            },
+            {
+              "es": "en una zona escolar.",
+              "tr": "в школьной зоне."
+            }
+          ],
+          "b": [
+            {
+              "es": "Únicamente",
+              "tr": "Только",
+              "kind": "logic"
+            },
+            {
+              "es": "señalización de tránsito vertical",
+              "tr": "вертикальную дорожную сигнализацию"
+            },
+            {
+              "es": "en una zona escolar.",
+              "tr": "в школьной зоне."
+            }
+          ],
+          "c": [
+            {
+              "es": "Únicamente",
+              "tr": "Только",
+              "kind": "logic"
+            },
+            {
+              "es": "señalización de tránsito horizontal",
+              "tr": "горизонтальную дорожную сигнализацию"
+            },
+            {
+              "es": "en una zona escolar.",
+              "tr": "в школьной зоне."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не является правильным."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-198": {
+      "id": "a1-198",
+      "text": "__________ направляющие служат для образования направляющих островков автомобильного движения на _________.",
+      "options": {
+        "a": "Направляющие островки — дорога.",
+        "b": "Линии — перекрёсток.",
+        "c": "Дороги — перекрёсток.",
+        "d": "Все варианты правильные."
+      },
+      "gist": "Направляющие линии образуют островки на перекрёстке",
+      "explanation": "Направляющие линии («líneas canalizadoras») рисуют на перекрёстке. Они образуют островки, которые направляют потоки машин. Первое слово — «Líneas», второе — «intersección».",
+      "trap": "В варианте a повторяются слова из вопроса — «islas canalizadoras», это ловушка. Ищите «Líneas» (линии).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Las __________canalizadoras,",
+            "tr": "___ направляющие,"
+          },
+          {
+            "es": "tiene por función",
+            "tr": "служат для того, чтобы"
+          },
+          {
+            "es": "conformar las islas canalizadoras",
+            "tr": "образовывать направляющие островки"
+          },
+          {
+            "es": "del tránsito automotor",
+            "tr": "автомобильного движения"
+          },
+          {
+            "es": "en una _________.",
+            "tr": "на ___."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Islas canalizadoras",
+              "tr": "Направляющие островки"
+            },
+            {
+              "es": "- vía.",
+              "tr": "— дорога."
+            }
+          ],
+          "b": [
+            {
+              "es": "Líneas",
+              "tr": "Линии",
+              "kind": "anchor"
+            },
+            {
+              "es": "- intersección.",
+              "tr": "— перекрёсток."
+            }
+          ],
+          "c": [
+            {
+              "es": "Vías",
+              "tr": "Дороги"
+            },
+            {
+              "es": "- intersección.",
+              "tr": "— перекрёсток."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "правильные."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-199": {
+      "id": "a1-199",
+      "text": "Если, проезжая перекрёсток, вы видите следующую разметку на покрытии (жёлтую решётку), это означает:",
+      "options": {
+        "a": "Что нельзя останавливать автомобиль внутри перекрёстка.",
+        "b": "Что в размеченной зоне ведутся аварийные работы.",
+        "c": "Что останавливать автомобиль можно только внутри перекрёстка.",
+        "d": "Что это островок безопасности для пешеходов."
+      },
+      "gist": "Жёлтая решётка: не останавливаться на перекрёстке",
+      "explanation": "Жёлтая решётка на перекрёстке — «не блокируй перекрёсток». Въезжайте, только если сможете выехать. Останавливаться внутри нельзя.",
+      "trap": "Варианты a и c почти одинаковы: «no puede detener» (нельзя останавливаться) и «únicamente puede detener» (можно только). Верно — «no puede».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir",
+            "tr": "Если во время движения"
+          },
+          {
+            "es": "en una intersección",
+            "tr": "на перекрёстке"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "вы встречаете"
+          },
+          {
+            "es": "las siguientes marcas en el pavimento",
+            "tr": "следующую разметку на покрытии"
+          },
+          {
+            "es": "(malla ortogonal de color amarillo),",
+            "tr": "(жёлтую решётку),"
+          },
+          {
+            "es": "significa:",
+            "tr": "это означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que no puede detener",
+              "tr": "Что нельзя останавливать",
+              "kind": "anchor"
+            },
+            {
+              "es": "el vehículo",
+              "tr": "автомобиль"
+            },
+            {
+              "es": "dentro del área de intersección.",
+              "tr": "внутри перекрёстка."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que se están realizando",
+              "tr": "Что ведутся"
+            },
+            {
+              "es": "trabajos de emergencia",
+              "tr": "аварийные работы"
+            },
+            {
+              "es": "en el área demarcada.",
+              "tr": "в размеченной зоне."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que únicamente puede detener",
+              "tr": "Что можно останавливать только",
+              "kind": "logic"
+            },
+            {
+              "es": "el vehículo",
+              "tr": "автомобиль"
+            },
+            {
+              "es": "dentro del área de intersección.",
+              "tr": "внутри перекрёстка."
+            }
+          ],
+          "d": [
+            {
+              "es": "Que es una isla",
+              "tr": "Что это островок"
+            },
+            {
+              "es": "de refugio peatonal.",
+              "tr": "безопасности для пешеходов."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-200": {
+      "id": "a1-200",
+      "text": "Согласно следующему рисунку, верно утверждать, что:",
+      "options": {
+        "a": "Зона, где разрешён обгон, начинается со сплошных жёлтых линий.",
+        "b": "Водители могут парковаться там, где начинаются сплошные линии.",
+        "c": "Зона запрета обгона начинается со сплошных жёлтых линий.",
+        "d": "Водитель грузовика может припарковаться до начала сплошных линий"
+      },
+      "gist": "Сплошная жёлтая линия: обгон запрещён",
+      "explanation": "На рисунке прерывистая жёлтая линия переходит в сплошную. Сплошную жёлтую пересекать нельзя, значит обгон запрещён. Парковка тут ни при чём.",
+      "trap": "Варианты a и c отличаются одним словом: «permite adelantar» (разрешает обгон) и «no adelantar» (не обгонять). Сплошная линия = «no adelantar».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "De acuerdo al siguiente gráfico,",
+            "tr": "Согласно следующему рисунку,"
+          },
+          {
+            "es": "es correcto afirmar que:",
+            "tr": "верно утверждать, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La zona que permite adelantar",
+              "tr": "Зона, где разрешён обгон,",
+              "kind": "logic"
+            },
+            {
+              "es": "inicia con",
+              "tr": "начинается с"
+            },
+            {
+              "es": "las líneas amarillas continuas.",
+              "tr": "сплошных жёлтых линий."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los conductores pueden estacionarse",
+              "tr": "Водители могут парковаться",
+              "kind": "logic"
+            },
+            {
+              "es": "al empezar las líneas continuas.",
+              "tr": "там, где начинаются сплошные линии."
+            }
+          ],
+          "c": [
+            {
+              "es": "La zona de no adelantar",
+              "tr": "Зона запрета обгона",
+              "kind": "anchor"
+            },
+            {
+              "es": "inicia con",
+              "tr": "начинается с"
+            },
+            {
+              "es": "las líneas amarillas continuas.",
+              "tr": "сплошных жёлтых линий."
+            }
+          ],
+          "d": [
+            {
+              "es": "El conductor del camión",
+              "tr": "Водитель грузовика"
+            },
+            {
+              "es": "puede estacionarse",
+              "tr": "может припарковаться",
+              "kind": "logic"
+            },
+            {
+              "es": "antes de empezar las líneas continuas",
+              "tr": "до начала сплошных линий",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "en": {
+    "a1-176": {
+      "id": "a1-176",
+      "text": "If an offending driver's driving licence has been suspended, they are entitled to:",
+      "options": {
+        "a": "Apply for a duplicate of their driving licence.",
+        "b": "Apply for the renewal of their driving licence.",
+        "c": "Apply for a category upgrade of their driving licence.",
+        "d": "None of the options is correct."
+      },
+      "gist": "What a suspended licence allows",
+      "explanation": "While the licence is suspended, nothing can be done with it. No duplicate, no renewal, no new category. So the answer is «Ninguna»: none of the options.",
+      "trap": "Options a–c sound like normal procedures, but with a suspension («suspendieron») all of them are blocked. Look for «Ninguna de las alternativas» (none of the options).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si a un conductor infractor",
+            "tr": "If an offending driver"
+          },
+          {
+            "es": "le suspendieron",
+            "tr": "had suspended"
+          },
+          {
+            "es": "su licencia de conducir,",
+            "tr": "their driving licence,"
+          },
+          {
+            "es": "éste se encuentra facultado para:",
+            "tr": "they are entitled to:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Tramitar el duplicado",
+              "tr": "Apply for a duplicate"
+            },
+            {
+              "es": "de su licencia de conducir.",
+              "tr": "of their driving licence."
+            }
+          ],
+          "b": [
+            {
+              "es": "Tramitar la revalidación",
+              "tr": "Apply for the renewal"
+            },
+            {
+              "es": "de su licencia de conducir.",
+              "tr": "of their driving licence."
+            }
+          ],
+          "c": [
+            {
+              "es": "Tramitar la recategorización",
+              "tr": "Apply for a category upgrade"
+            },
+            {
+              "es": "de su licencia de conducir.",
+              "tr": "of their driving licence."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-177": {
+      "id": "a1-177",
+      "text": "The __________ serve to inform road users about the general services near the road, such as telephone, lodging, restaurant, first aid, fuel station, workshops and others.",
+      "options": {
+        "a": "Location signs.",
+        "b": "Immediate exit signs.",
+        "c": "General services signs.",
+        "d": "Ordinary signs"
+      },
+      "gist": "Signs that show roadside services",
+      "explanation": "The answer repeats the words from the question: «servicios generales» (general services). These signs show a telephone, lodging, fuel station, workshop. Look for the same words in the option.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Las __________________",
+            "tr": "The ___ (which signs?)"
+          },
+          {
+            "es": "tienen por función",
+            "tr": "have the function of"
+          },
+          {
+            "es": "informar a los usuarios",
+            "tr": "informing users"
+          },
+          {
+            "es": "sobre los servicios generales existentes",
+            "tr": "about the existing general services"
+          },
+          {
+            "es": "próximos a la vía,",
+            "tr": "near the road,"
+          },
+          {
+            "es": "tales como teléfono,",
+            "tr": "such as telephone,"
+          },
+          {
+            "es": "hospedaje, restaurante,",
+            "tr": "lodging, restaurant,"
+          },
+          {
+            "es": "primeros auxilios,",
+            "tr": "first aid,"
+          },
+          {
+            "es": "estación de combustibles,",
+            "tr": "fuel station,"
+          },
+          {
+            "es": "talleres, y otros.",
+            "tr": "workshops, and others."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señales de localización.",
+              "tr": "Location signs."
+            }
+          ],
+          "b": [
+            {
+              "es": "Señales de salida inmediata.",
+              "tr": "Immediate exit signs."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señales de servicios generales.",
+              "tr": "General services signs.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Señales ordinarias",
+              "tr": "Ordinary signs"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-178": {
+      "id": "a1-178",
+      "text": "Is it an offence to apply for a duplicate of a driving licence that has been retained?",
+      "options": {
+        "a": "It is not an offence.",
+        "b": "Only when the licence was retained for committing a very serious offence.",
+        "c": "Yes, it is an offence.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Duplicate of a retained licence",
+      "explanation": "If the licence is retained («retenida»), you cannot get a duplicate. It is an offence in itself, with no exceptions. The correct option starts with «Si» (yes).",
+      "trap": "Options a and c look alike: «No constituye» (is not) vs «Si, constituye» (yes, it is). Option b with «Solo cuando» (only when) adds a false condition.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Constituye una infracción",
+            "tr": "Is it an offence"
+          },
+          {
+            "es": "tramitar el duplicado",
+            "tr": "to apply for a duplicate"
+          },
+          {
+            "es": "de una licencia de conducir",
+            "tr": "of a driving licence"
+          },
+          {
+            "es": "que se encuentra retenida?",
+            "tr": "that is retained?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No constituye",
+              "tr": "Does not constitute",
+              "kind": "logic"
+            },
+            {
+              "es": "una infracción.",
+              "tr": "an offence."
+            }
+          ],
+          "b": [
+            {
+              "es": "Solo cuando",
+              "tr": "Only when",
+              "kind": "logic"
+            },
+            {
+              "es": "la licencia de conducir",
+              "tr": "the driving licence"
+            },
+            {
+              "es": "ha sido retenida",
+              "tr": "has been retained"
+            },
+            {
+              "es": "por la comisión",
+              "tr": "for committing"
+            },
+            {
+              "es": "de una infracción muy grave.",
+              "tr": "a very serious offence."
+            }
+          ],
+          "c": [
+            {
+              "es": "Si, constituye",
+              "tr": "Yes, it constitutes",
+              "kind": "anchor"
+            },
+            {
+              "es": "una infracción.",
+              "tr": "an offence."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-179": {
+      "id": "a1-179",
+      "text": "Road markings on the pavement are ___________ signalling and are used to _____________ traffic.",
+      "options": {
+        "a": "Horizontal - to regulate.",
+        "b": "Vertical - to regulate.",
+        "c": "Most important - to improve.",
+        "d": "Least important - to decorate."
+      },
+      "gist": "Road markings are horizontal signalling",
+      "explanation": "Markings are painted on the road, so they are horizontal. Signs on posts are vertical. Markings regulate traffic, they do not decorate it.",
+      "trap": "Options a and b differ by one word: «Horizontal» is right, «Vertical» is not.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Las marcas en el pavimento",
+            "tr": "The markings on the pavement"
+          },
+          {
+            "es": "constituyen la señalización ___________",
+            "tr": "constitute the ___ signalling"
+          },
+          {
+            "es": "y se emplean para _____________",
+            "tr": "and are used to ___"
+          },
+          {
+            "es": "la circulación.",
+            "tr": "traffic."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Horizontal",
+              "tr": "Horizontal",
+              "kind": "anchor"
+            },
+            {
+              "es": "- reglamentar.",
+              "tr": "- to regulate."
+            }
+          ],
+          "b": [
+            {
+              "es": "Vertical",
+              "tr": "Vertical"
+            },
+            {
+              "es": "- reglamentar.",
+              "tr": "- to regulate."
+            }
+          ],
+          "c": [
+            {
+              "es": "Más importante",
+              "tr": "Most important",
+              "kind": "logic"
+            },
+            {
+              "es": "- mejorar.",
+              "tr": "- to improve."
+            }
+          ],
+          "d": [
+            {
+              "es": "Menos importante",
+              "tr": "Least important",
+              "kind": "logic"
+            },
+            {
+              "es": "- adornar.",
+              "tr": "- to decorate."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-180": {
+      "id": "a1-180",
+      "text": "Cyclist is to cycle lane as:",
+      "options": {
+        "a": "Driver - sidewalk.",
+        "b": "Driver - roadway.",
+        "c": "Driver - shoulder.",
+        "d": "Pedestrian - motorway."
+      },
+      "gist": "Analogy: driver and his road",
+      "explanation": "A cyclist rides on the cycle lane. A driver drives on the roadway, «calzada». The sidewalk («acera») is for pedestrians, the shoulder («berma») is not for driving.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Ciclista",
+            "tr": "Cyclist"
+          },
+          {
+            "es": "es a ciclovía",
+            "tr": "is to cycle lane"
+          },
+          {
+            "es": "como:",
+            "tr": "as:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Conductor",
+              "tr": "Driver"
+            },
+            {
+              "es": "- acera.",
+              "tr": "- sidewalk."
+            }
+          ],
+          "b": [
+            {
+              "es": "Conductor",
+              "tr": "Driver"
+            },
+            {
+              "es": "- calzada.",
+              "tr": "- roadway.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Conductor",
+              "tr": "Driver"
+            },
+            {
+              "es": "- berma.",
+              "tr": "- shoulder."
+            }
+          ],
+          "d": [
+            {
+              "es": "Peatón",
+              "tr": "Pedestrian"
+            },
+            {
+              "es": "- autopista.",
+              "tr": "- motorway."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-181": {
+      "id": "a1-181",
+      "text": "The following sign (P-15) is used to warn the driver of:",
+      "options": {
+        "a": "The approach to a three-lane road.",
+        "b": "The approach to a hurricane.",
+        "c": "The approach to a winding road.",
+        "d": "The approach to a roundabout intersection (oval or rotary)."
+      },
+      "gist": "Sign P-15: roundabout ahead",
+      "explanation": "The sign shows three arrows going in a circle. That is a roundabout: «rotonda» or «óvalo». A yellow diamond means a warning.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal (P-15),",
+            "tr": "The following sign (P-15),"
+          },
+          {
+            "es": "se utiliza para advertir",
+            "tr": "is used to warn"
+          },
+          {
+            "es": "al conductor:",
+            "tr": "the driver:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "a una vía de tres carriles.",
+              "tr": "to a three-lane road."
+            }
+          ],
+          "b": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "a un huracán.",
+              "tr": "to a hurricane."
+            }
+          ],
+          "c": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "a un camino sinuoso.",
+              "tr": "to a winding road."
+            }
+          ],
+          "d": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "de una intersección rotatoria",
+              "tr": "of a roundabout intersection",
+              "kind": "anchor"
+            },
+            {
+              "es": "(óvalo o rotonda).",
+              "tr": "(oval or rotary).",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-182": {
+      "id": "a1-182",
+      "text": "The following sign (P-31a) indicates:",
+      "options": {
+        "a": "The approach to the end of the road.",
+        "b": "The approach to a paved road.",
+        "c": "The approach to a slight slope.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Sign P-31a: end of road",
+      "explanation": "The sign shows a road ending at a barrier. It warns that the road ends ahead: «final de la vía». Do not confuse it with paving or a slope.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal (P-31a)",
+            "tr": "The following sign (P-31a)"
+          },
+          {
+            "es": ", indica:",
+            "tr": ", indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "del final de la vía.",
+              "tr": "of the end of the road.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "de una vía asfaltada.",
+              "tr": "of a paved road."
+            }
+          ],
+          "c": [
+            {
+              "es": "La proximidad",
+              "tr": "The proximity"
+            },
+            {
+              "es": "de una pendiente leve.",
+              "tr": "of a slight slope."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-183": {
+      "id": "a1-183",
+      "text": "It is a line across the roadway which tells the driver that they must stop the vehicle completely, without going past the start of that line:",
+      "options": {
+        "a": "Lane line.",
+        "b": "Roadway edge line.",
+        "c": "Stop line.",
+        "d": "All the options are correct."
+      },
+      "gist": "Cross line for a full stop",
+      "explanation": "«Pare» means «stop». The stop line runs across the road; you must stop fully before it. Lane and edge lines run along the road.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una línea transversal",
+            "tr": "It is a transverse line"
+          },
+          {
+            "es": "a la calzada,",
+            "tr": "to the roadway,"
+          },
+          {
+            "es": "que indica al conductor",
+            "tr": "which tells the driver"
+          },
+          {
+            "es": "que debe detener completamente",
+            "tr": "that they must completely stop",
+            "kind": "logic"
+          },
+          {
+            "es": "el vehículo,",
+            "tr": "the vehicle,"
+          },
+          {
+            "es": "no debiendo sobrepasar",
+            "tr": "without going past",
+            "kind": "logic"
+          },
+          {
+            "es": "el inicio",
+            "tr": "the start"
+          },
+          {
+            "es": "de la indicada línea:",
+            "tr": "of that line:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Línea de carril.",
+              "tr": "Lane line."
+            }
+          ],
+          "b": [
+            {
+              "es": "Línea de borde de calzada.",
+              "tr": "Roadway edge line."
+            }
+          ],
+          "c": [
+            {
+              "es": "Línea de pare.",
+              "tr": "Stop line.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the options",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-184": {
+      "id": "a1-184",
+      "text": "Traffic lights are:",
+      "options": {
+        "a": "Traffic control devices whose purpose is to regulate and control vehicle traffic, motorised and non-motorised, and pedestrian traffic, through the signals of their lights.",
+        "b": "Traffic control devices whose purpose is to regulate and control only motorised vehicle and pedestrian traffic, through light signals.",
+        "c": "Red, green and yellow signals whose only purpose is to regulate the flow of vehicles.",
+        "d": "Devices that emit coloured lights whose only purpose is to regulate the flow of motor vehicles and pedestrians."
+      },
+      "gist": "Definition of traffic lights",
+      "explanation": "Traffic lights regulate all traffic: cars, bicycles («no motorizado») and pedestrians. The right option is the fullest one, without «únicamente» (only). Options b, c and d leave something out.",
+      "trap": "Options a and b start the same. Look for «no motorizado» (non-motorised): only the right one has it. «únicamente» and «único fin» (only) mark wrong options.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Los semáforos",
+            "tr": "Traffic lights"
+          },
+          {
+            "es": "son:",
+            "tr": "are:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Dispositivos de control del tránsito",
+              "tr": "Traffic control devices"
+            },
+            {
+              "es": "que tienen por finalidad",
+              "tr": "whose purpose is"
+            },
+            {
+              "es": "regular y controlar",
+              "tr": "to regulate and control"
+            },
+            {
+              "es": "el tránsito vehicular,",
+              "tr": "vehicle traffic,"
+            },
+            {
+              "es": "motorizado y no motorizado,",
+              "tr": "motorised and non-motorised,",
+              "kind": "anchor"
+            },
+            {
+              "es": "y el peatonal,",
+              "tr": "and pedestrian,"
+            },
+            {
+              "es": "a través de las indicaciones",
+              "tr": "through the signals"
+            },
+            {
+              "es": "de las luces respectivas.",
+              "tr": "of the respective lights."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dispositivos de control del tránsito",
+              "tr": "Traffic control devices"
+            },
+            {
+              "es": "que tienen por finalidad",
+              "tr": "whose purpose is"
+            },
+            {
+              "es": "regular y controlar",
+              "tr": "to regulate and control"
+            },
+            {
+              "es": "únicamente",
+              "tr": "only",
+              "kind": "logic"
+            },
+            {
+              "es": "el tránsito vehicular motorizado",
+              "tr": "motorised vehicle traffic"
+            },
+            {
+              "es": "y peatonal,",
+              "tr": "and pedestrian,"
+            },
+            {
+              "es": "a través de las indicaciones",
+              "tr": "through the signals"
+            },
+            {
+              "es": "de luces.",
+              "tr": "of lights."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señales de color rojo,",
+              "tr": "Signals of red,"
+            },
+            {
+              "es": "verde y amarillo,",
+              "tr": "green and yellow colour,"
+            },
+            {
+              "es": "que tienen como único fin",
+              "tr": "whose only purpose is",
+              "kind": "logic"
+            },
+            {
+              "es": "regular la corriente vehicular.",
+              "tr": "to regulate the vehicle flow."
+            }
+          ],
+          "d": [
+            {
+              "es": "Artefactos que emiten",
+              "tr": "Devices that emit"
+            },
+            {
+              "es": "luces de colores",
+              "tr": "coloured lights"
+            },
+            {
+              "es": "y cuyo único fin es",
+              "tr": "and whose only purpose is",
+              "kind": "logic"
+            },
+            {
+              "es": "regular la corriente",
+              "tr": "to regulate the flow"
+            },
+            {
+              "es": "de vehículos motorizados y peatones.",
+              "tr": "of motor vehicles and pedestrians."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-185": {
+      "id": "a1-185",
+      "text": "Driving requires a high level of attention, because there are distractions that can cause traffic accidents, for example:",
+      "options": {
+        "a": "Worries.",
+        "b": "Use of a mobile phone.",
+        "c": "Operating the radio while driving.",
+        "d": "All the options are correct."
+      },
+      "gist": "What distracts a driver",
+      "explanation": "Worries, the phone and the radio all take attention off the road. Every option is true, so «Todas» (all) is the answer.",
+      "trap": "Options a, b and c are all true, so it is tempting to pick one. When all fit, look for «Todas las alternativas» (all the options).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La conducción requiere",
+            "tr": "Driving requires"
+          },
+          {
+            "es": "un alto nivel de atención,",
+            "tr": "a high level of attention,"
+          },
+          {
+            "es": "pues existen distracciones",
+            "tr": "because there are distractions"
+          },
+          {
+            "es": "que pueden ocasionar",
+            "tr": "that can cause",
+            "kind": "logic"
+          },
+          {
+            "es": "accidentes de tránsito,",
+            "tr": "traffic accidents,"
+          },
+          {
+            "es": "como por ejemplo:",
+            "tr": "for example:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Preocupaciones.",
+              "tr": "Worries."
+            }
+          ],
+          "b": [
+            {
+              "es": "Uso del teléfono celular.",
+              "tr": "Use of a mobile phone."
+            }
+          ],
+          "c": [
+            {
+              "es": "Manipulación de la radio",
+              "tr": "Operating the radio"
+            },
+            {
+              "es": "mientras se conduce.",
+              "tr": "while driving."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the options",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-186": {
+      "id": "a1-186",
+      "text": "Does drowsiness affect the ability to drive?",
+      "options": {
+        "a": "Yes, because the driver will make slow decisions that lead to mistakes.",
+        "b": "Yes, because the driver is in a bad mood.",
+        "c": "No, as long as driving is done slowly.",
+        "d": "No, as long as driving is done with a companion."
+      },
+      "gist": "Drowsiness and driving",
+      "explanation": "A drowsy driver thinks slowly and makes mistakes. So the answer is «Si»: yes, it affects driving. Driving slowly or having a companion does not cancel drowsiness.",
+      "trap": "Option b also starts with «Si», but the reason is wrong: «mal genio» (bad mood). The right reason is «decisiones lentas» (slow decisions).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Influye la somnolencia",
+            "tr": "Does drowsiness affect"
+          },
+          {
+            "es": "en la capacidad de conducir?",
+            "tr": "the ability to drive?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si, pues el conductor",
+              "tr": "Yes, because the driver"
+            },
+            {
+              "es": "tomará decisiones lentas",
+              "tr": "will make slow decisions",
+              "kind": "anchor"
+            },
+            {
+              "es": "que lo inducirán",
+              "tr": "which will lead them"
+            },
+            {
+              "es": "a cometer errores.",
+              "tr": "to make mistakes."
+            }
+          ],
+          "b": [
+            {
+              "es": "Si, ya que",
+              "tr": "Yes, since"
+            },
+            {
+              "es": "el conductor está de mal genio.",
+              "tr": "the driver is in a bad mood."
+            }
+          ],
+          "c": [
+            {
+              "es": "No, siempre que",
+              "tr": "No, as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "la conducción sea realizada lentamente.",
+              "tr": "driving is done slowly."
+            }
+          ],
+          "d": [
+            {
+              "es": "No, siempre y cuando",
+              "tr": "No, provided that",
+              "kind": "logic"
+            },
+            {
+              "es": "la conducción sea realizada",
+              "tr": "driving is done"
+            },
+            {
+              "es": "con un acompañante.",
+              "tr": "with a companion."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-187": {
+      "id": "a1-187",
+      "text": "What is the driver's correct action, according to traffic rules, in the situation shown in the following picture?",
+      "options": {
+        "a": "Turn right quickly before the pedestrian crosses the roadway.",
+        "b": "Give way to the pedestrian so they can cross the roadway.",
+        "c": "Turn right slowly before the pedestrian crosses the roadway.",
+        "d": "Sound the horn so the pedestrian does not cross the roadway"
+      },
+      "gist": "Right turn with pedestrian crossing",
+      "explanation": "In the picture the car turns right while a pedestrian is crossing. A pedestrian on the crossing always has priority. Stop and let them cross.",
+      "trap": "Options a, c and d say «antes que el peatón cruce» (before the pedestrian crosses) or use the horn. All of them fail to give way. Only «Dar preferencia de paso» (give way) is right.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es la acción correcta",
+            "tr": "What is the correct action"
+          },
+          {
+            "es": "del conductor,",
+            "tr": "of the driver,"
+          },
+          {
+            "es": "según las normas de tránsito,",
+            "tr": "according to traffic rules,"
+          },
+          {
+            "es": "en la situación que plantea",
+            "tr": "in the situation shown by"
+          },
+          {
+            "es": "el siguiente gráfico?",
+            "tr": "the following picture?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Girar rápidamente a la derecha",
+              "tr": "Turn right quickly",
+              "kind": "logic"
+            },
+            {
+              "es": "antes que el peatón cruce",
+              "tr": "before the pedestrian crosses",
+              "kind": "logic"
+            },
+            {
+              "es": "la calzada.",
+              "tr": "the roadway."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dar preferencia de paso",
+              "tr": "Give way",
+              "kind": "anchor"
+            },
+            {
+              "es": "al peatón",
+              "tr": "to the pedestrian"
+            },
+            {
+              "es": "para que cruce la calzada.",
+              "tr": "so they cross the roadway."
+            }
+          ],
+          "c": [
+            {
+              "es": "Girar lentamente a la derecha",
+              "tr": "Turn right slowly",
+              "kind": "logic"
+            },
+            {
+              "es": "antes que el peatón cruce",
+              "tr": "before the pedestrian crosses",
+              "kind": "logic"
+            },
+            {
+              "es": "la calzada.",
+              "tr": "the roadway."
+            }
+          ],
+          "d": [
+            {
+              "es": "Tocar el claxon",
+              "tr": "Sound the horn"
+            },
+            {
+              "es": "para que el peatón no cruce",
+              "tr": "so the pedestrian does not cross",
+              "kind": "logic"
+            },
+            {
+              "es": "la calzada",
+              "tr": "the roadway"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-188": {
+      "id": "a1-188",
+      "text": "In which of the following options do the listed factors contribute to a vehicle collision?",
+      "options": {
+        "a": "Dry pavement, drowsiness, worn brakes.",
+        "b": "Wet pavement, worn tyres, fatigue.",
+        "c": "Speed bumps, lack of attention, use of a mobile phone.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Which factors cause a collision",
+      "explanation": "The right option is the one where all three factors are dangerous. Wet road, worn tyres and fatigue are all dangerous. In a, «pavimento seco» (dry pavement) is safe; in c, speed bumps are safe.",
+      "trap": "Every option has some dangerous words. Pick the one with nothing safe in it: «húmedo» (wet), «neumáticos desgastados» (worn tyres), «cansancio» (fatigue).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿En cuál de las siguientes opciones,",
+            "tr": "In which of the following options,"
+          },
+          {
+            "es": "los factores mencionados",
+            "tr": "the listed factors"
+          },
+          {
+            "es": "contribuyen a una colisión vehicular?",
+            "tr": "contribute to a vehicle collision?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Pavimento seco,",
+              "tr": "Dry pavement,"
+            },
+            {
+              "es": "somnolencia,",
+              "tr": "drowsiness,"
+            },
+            {
+              "es": "frenos desgastados.",
+              "tr": "worn brakes."
+            }
+          ],
+          "b": [
+            {
+              "es": "Pavimento húmedo,",
+              "tr": "Wet pavement,",
+              "kind": "anchor"
+            },
+            {
+              "es": "neumáticos desgastados,",
+              "tr": "worn tyres,",
+              "kind": "anchor"
+            },
+            {
+              "es": "cansancio.",
+              "tr": "fatigue."
+            }
+          ],
+          "c": [
+            {
+              "es": "Reductores de velocidad,",
+              "tr": "Speed bumps,"
+            },
+            {
+              "es": "falta de atención,",
+              "tr": "lack of attention,"
+            },
+            {
+              "es": "uso del teléfono celular.",
+              "tr": "use of a mobile phone."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-189": {
+      "id": "a1-189",
+      "text": "The __________ is the part of a highway or road next to the roadway, not intended for vehicle traffic and used occasionally for emergency stops and pedestrian movement.",
+      "options": {
+        "a": "Shoulder.",
+        "b": "Motorway.",
+        "c": "Sidewalk.",
+        "d": "Markings."
+      },
+      "gist": "Road part next to the roadway",
+      "explanation": "«Berma» is the shoulder: the strip next to the roadway. No driving there, only emergency stops and pedestrians. «Acera» is the city sidewalk, a different thing.",
+      "gloss": {
+        "text": [
+          {
+            "es": "La __________",
+            "tr": "The ___ (what?)"
+          },
+          {
+            "es": "es la parte",
+            "tr": "is the part"
+          },
+          {
+            "es": "de una carretera o camino",
+            "tr": "of a highway or road"
+          },
+          {
+            "es": "contigua a la calzada,",
+            "tr": "next to the roadway,"
+          },
+          {
+            "es": "no habilitada",
+            "tr": "not enabled",
+            "kind": "logic"
+          },
+          {
+            "es": "para la circulación de vehículos",
+            "tr": "for vehicle traffic"
+          },
+          {
+            "es": "y destinada eventualmente",
+            "tr": "and occasionally intended"
+          },
+          {
+            "es": "a la detención de vehículos",
+            "tr": "for stopping vehicles"
+          },
+          {
+            "es": "en emergencia",
+            "tr": "in an emergency"
+          },
+          {
+            "es": "y circulación de peatones.",
+            "tr": "and pedestrian movement."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Berma.",
+              "tr": "Shoulder.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Autopista.",
+              "tr": "Motorway."
+            }
+          ],
+          "c": [
+            {
+              "es": "Acera.",
+              "tr": "Sidewalk."
+            }
+          ],
+          "d": [
+            {
+              "es": "Demarcación.",
+              "tr": "Markings."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-190": {
+      "id": "a1-190",
+      "text": "It is the part of the road intended for vehicle traffic and occasionally for pedestrians and animals to cross.",
+      "options": {
+        "a": "The roadway.",
+        "b": "The sidewalk.",
+        "c": "The shoulder.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Road part for vehicle traffic",
+      "explanation": "Vehicles drive on the roadway («calzada»). Pedestrians only cross it. The sidewalk is for pedestrians; the shoulder is not for driving.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una parte de la vía",
+            "tr": "It is a part of the road"
+          },
+          {
+            "es": "destinada a la circulación de vehículos",
+            "tr": "intended for vehicle traffic"
+          },
+          {
+            "es": "y eventualmente al cruce",
+            "tr": "and occasionally for the crossing"
+          },
+          {
+            "es": "de peatones y animales.",
+            "tr": "of pedestrians and animals."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La calzada.",
+              "tr": "The roadway.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "La acera.",
+              "tr": "The sidewalk."
+            }
+          ],
+          "c": [
+            {
+              "es": "La berma.",
+              "tr": "The shoulder."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-191": {
+      "id": "a1-191",
+      "text": "It is the part of the road intended for use by pedestrians",
+      "options": {
+        "a": "The sidewalk.",
+        "b": "The roadway.",
+        "c": "The shoulder.",
+        "d": "The motorway."
+      },
+      "gist": "Road part for pedestrians",
+      "explanation": "Pedestrians walk on the sidewalk, «acera». The roadway is for cars; the shoulder is for emergency stops. Three words are easy to mix up: acera, calzada, berma.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una parte de la vía",
+            "tr": "It is a part of the road"
+          },
+          {
+            "es": "destinada al uso de peatones",
+            "tr": "intended for use by pedestrians"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La acera.",
+              "tr": "The sidewalk.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "La calzada.",
+              "tr": "The roadway."
+            }
+          ],
+          "c": [
+            {
+              "es": "La berma.",
+              "tr": "The shoulder."
+            }
+          ],
+          "d": [
+            {
+              "es": "La autopista.",
+              "tr": "The motorway."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-192": {
+      "id": "a1-192",
+      "text": "Signals that regulate traffic are:",
+      "options": {
+        "a": "Horns and markings on the roadway, or horizontal signs.",
+        "b": "Horns and vertical signs.",
+        "c": "Vertical signs, markings on the roadway (horizontal signs) and horns.",
+        "d": "Vertical signs and markings on the roadway, or horizontal signs."
+      },
+      "gist": "What regulates traffic: signs and markings",
+      "explanation": "Traffic is regulated by signs on posts (vertical) and markings (horizontal). The horn is not a regulating signal, just a sound. The right option is the only one without «bocinas».",
+      "trap": "Three of the four options contain «bocinas» (horns): they are wrong. The right one is «señales verticales y las marcas» without «bocinas».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Son señales",
+            "tr": "They are signals"
+          },
+          {
+            "es": "que regulan el tránsito:",
+            "tr": "that regulate traffic:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Las bocinas",
+              "tr": "Horns"
+            },
+            {
+              "es": "y las marcas en la calzada",
+              "tr": "and markings on the roadway"
+            },
+            {
+              "es": "o señales horizontales.",
+              "tr": "or horizontal signs."
+            }
+          ],
+          "b": [
+            {
+              "es": "Las bocinas",
+              "tr": "Horns"
+            },
+            {
+              "es": "y las señales verticales.",
+              "tr": "and vertical signs."
+            }
+          ],
+          "c": [
+            {
+              "es": "Las señales verticales,",
+              "tr": "Vertical signs,"
+            },
+            {
+              "es": "las marcas en la calzada",
+              "tr": "markings on the roadway"
+            },
+            {
+              "es": "o señales horizontales",
+              "tr": "or horizontal signs"
+            },
+            {
+              "es": "y las bocinas.",
+              "tr": "and horns."
+            }
+          ],
+          "d": [
+            {
+              "es": "Las señales verticales",
+              "tr": "Vertical signs"
+            },
+            {
+              "es": "y las marcas en la calzada",
+              "tr": "and markings on the roadway"
+            },
+            {
+              "es": "o señales horizontales.",
+              "tr": "or horizontal signs."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-193": {
+      "id": "a1-193",
+      "text": "Vehicles must be driven with:",
+      "options": {
+        "a": "Doors and bonnet closed; the boot may be ajar in special cases.",
+        "b": "Doors, bonnet and boot closed.",
+        "c": "Doors, bonnet and boot closed, except with special authorisation.",
+        "d": "Bonnet and boot closed; two doors may be ajar in special cases."
+      },
+      "gist": "Doors, bonnet and boot closed",
+      "explanation": "Everything must be closed: doors, bonnet and boot. No exceptions and no «special cases». The right option is the shortest one, with no conditions.",
+      "trap": "Option c repeats the right one but adds «salvo autorización especial» (except with special authorisation). a and d add «permitiéndose» (allowing). Any exception makes it wrong.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Los vehículos",
+            "tr": "Vehicles"
+          },
+          {
+            "es": "deben ser conducidos con:",
+            "tr": "must be driven with:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Puertas y capot cerrados,",
+              "tr": "Doors and bonnet closed,"
+            },
+            {
+              "es": "permitiéndose la maletera entreabierta",
+              "tr": "the boot being allowed ajar",
+              "kind": "logic"
+            },
+            {
+              "es": "para casos especiales.",
+              "tr": "for special cases."
+            }
+          ],
+          "b": [
+            {
+              "es": "Puertas, capot y maletera",
+              "tr": "Doors, bonnet and boot"
+            },
+            {
+              "es": "cerrados.",
+              "tr": "closed."
+            }
+          ],
+          "c": [
+            {
+              "es": "Puertas, capot y maletera",
+              "tr": "Doors, bonnet and boot"
+            },
+            {
+              "es": "cerrados,",
+              "tr": "closed,"
+            },
+            {
+              "es": "salvo autorización especial.",
+              "tr": "except with special authorisation.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Capot y maletera cerrados,",
+              "tr": "Bonnet and boot closed,"
+            },
+            {
+              "es": "permitiéndose dos puertas entreabiertas",
+              "tr": "two doors being allowed ajar",
+              "kind": "logic"
+            },
+            {
+              "es": "para casos especiales.",
+              "tr": "for special cases."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-194": {
+      "id": "a1-194",
+      "text": "A driver who on an urban road is going to turn left, right or make a U-turn must signal with the indicator light at least:",
+      "options": {
+        "a": "2 seconds before the manoeuvre.",
+        "b": "1 metre before the manoeuvre.",
+        "c": "20 metres before the manoeuvre.",
+        "d": "3 metres before the manoeuvre."
+      },
+      "gist": "Indicator in town: 20 metres before",
+      "explanation": "In town («vía urbana») you signal 20 metres before the manoeuvre. On a highway («carretera») it is 30 metres. Remember the pair: town 20, highway 30.",
+      "trap": "There is a similar question about «carretera» (highway) with 30 metres. Here it is «vía urbana» (town): 20 metres. Seconds are wrong.",
+      "gloss": {
+        "text": [
+          {
+            "es": "El conductor que",
+            "tr": "The driver who"
+          },
+          {
+            "es": "en una vía urbana",
+            "tr": "on an urban road"
+          },
+          {
+            "es": "va a girar a la izquierda,",
+            "tr": "is going to turn left,",
+            "kind": "logic"
+          },
+          {
+            "es": "a la derecha o en «U»",
+            "tr": "right or make a U-turn",
+            "kind": "logic"
+          },
+          {
+            "es": "debe hacer la señal respectiva",
+            "tr": "must give the respective signal",
+            "kind": "logic"
+          },
+          {
+            "es": "con la luz direccional,",
+            "tr": "with the indicator light,"
+          },
+          {
+            "es": "por lo menos:",
+            "tr": "at least:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "2 segundos",
+              "tr": "2 seconds"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "1 metro",
+              "tr": "1 metre"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "20 metros",
+              "tr": "20 metres",
+              "kind": "anchor"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "3 metros",
+              "tr": "3 metres"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-195": {
+      "id": "a1-195",
+      "text": "If you are driving on a highway and are going to turn left, you must signal with the indicator light at least:",
+      "options": {
+        "a": "2 seconds before the manoeuvre.",
+        "b": "2 metres before the manoeuvre.",
+        "c": "30 metres before the manoeuvre.",
+        "d": "1 metre before the manoeuvre."
+      },
+      "gist": "Indicator on highway: 30 metres before",
+      "explanation": "On a highway («carretera») speed is higher, so you signal 30 metres before. In town it is 20 metres. Remember: highway 30, town 20.",
+      "trap": "Do not confuse with the «vía urbana» (town) question, where it is 20 metres. Here «carretera» (highway) means 30 metres.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted está conduciendo",
+            "tr": "If you are driving"
+          },
+          {
+            "es": "por una carretera",
+            "tr": "on a highway"
+          },
+          {
+            "es": "y va girar a la izquierda,",
+            "tr": "and are going to turn left,",
+            "kind": "logic"
+          },
+          {
+            "es": "debe realizar la señal respectiva",
+            "tr": "must give the respective signal",
+            "kind": "logic"
+          },
+          {
+            "es": "con la luz direccional",
+            "tr": "with the indicator light"
+          },
+          {
+            "es": "por lo menos:",
+            "tr": "at least:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "2 segundos",
+              "tr": "2 seconds"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "2 metros",
+              "tr": "2 metres"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "30 metros",
+              "tr": "30 metres",
+              "kind": "anchor"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "1 metro",
+              "tr": "1 metre"
+            },
+            {
+              "es": "antes de realizar la maniobra.",
+              "tr": "before making the manoeuvre.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-196": {
+      "id": "a1-196",
+      "text": "Does the private licence of Class and Category A-I allow you to ride motorcycles?",
+      "options": {
+        "a": "Yes.",
+        "b": "No",
+        "c": "Only in urban areas.",
+        "d": "Only on highways."
+      },
+      "gist": "Can A-I licence ride motorcycles",
+      "explanation": "A-I is a licence for cars. Motorcycles need a Class B licence. So the answer is «No»: not anywhere.",
+      "trap": "Options c and d start with «Únicamente» (only) and sound like a compromise. But there are no exceptions: only «No».",
+      "gloss": {
+        "text": [
+          {
+            "es": "La licencia particular",
+            "tr": "The private licence"
+          },
+          {
+            "es": "de la Clase y Categoría A-I,",
+            "tr": "of Class and Category A-I,"
+          },
+          {
+            "es": "permite conducir motos?",
+            "tr": "allows riding motorcycles?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si.",
+              "tr": "Yes."
+            }
+          ],
+          "b": [
+            {
+              "es": "No",
+              "tr": "No",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Únicamente en el ámbito urbano.",
+              "tr": "Only in urban areas.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Únicamente en carreteras.",
+              "tr": "Only on highways.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-197": {
+      "id": "a1-197",
+      "text": "The following picture shows:",
+      "options": {
+        "a": "Vertical and horizontal traffic signalling in a school zone.",
+        "b": "Only vertical traffic signalling in a school zone.",
+        "c": "Only horizontal traffic signalling in a school zone.",
+        "d": "None of the options is correct."
+      },
+      "gist": "School zone: signs and markings",
+      "explanation": "The picture has signs on posts (vertical) and «ZONA ESCOLAR» painted on the road (horizontal). Both are present. Options with «Únicamente» (only) are wrong.",
+      "gloss": {
+        "text": [
+          {
+            "es": "El siguiente gráfico",
+            "tr": "The following picture"
+          },
+          {
+            "es": "muestra:",
+            "tr": "shows:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señalización de tránsito",
+              "tr": "Traffic signalling"
+            },
+            {
+              "es": "vertical y horizontal",
+              "tr": "vertical and horizontal",
+              "kind": "anchor"
+            },
+            {
+              "es": "en una zona escolar.",
+              "tr": "in a school zone."
+            }
+          ],
+          "b": [
+            {
+              "es": "Únicamente",
+              "tr": "Only",
+              "kind": "logic"
+            },
+            {
+              "es": "señalización de tránsito vertical",
+              "tr": "vertical traffic signalling"
+            },
+            {
+              "es": "en una zona escolar.",
+              "tr": "in a school zone."
+            }
+          ],
+          "c": [
+            {
+              "es": "Únicamente",
+              "tr": "Only",
+              "kind": "logic"
+            },
+            {
+              "es": "señalización de tránsito horizontal",
+              "tr": "horizontal traffic signalling"
+            },
+            {
+              "es": "en una zona escolar.",
+              "tr": "in a school zone."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-198": {
+      "id": "a1-198",
+      "text": "The channelising __________ serve to form the channelising islands for motor traffic at a(n) _________.",
+      "options": {
+        "a": "Channelising islands - road.",
+        "b": "Lines - intersection.",
+        "c": "Roads - intersection.",
+        "d": "All the options are correct."
+      },
+      "gist": "Channelising lines form islands at intersections",
+      "explanation": "Channelising lines («líneas canalizadoras») are painted at an intersection. They form islands that guide the flows of vehicles. First word «Líneas», second «intersección».",
+      "trap": "Option a repeats words from the question, «islas canalizadoras»: that is the trap. Look for «Líneas» (lines).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Las __________canalizadoras,",
+            "tr": "The channelising ___,"
+          },
+          {
+            "es": "tiene por función",
+            "tr": "have the function of"
+          },
+          {
+            "es": "conformar las islas canalizadoras",
+            "tr": "forming the channelising islands"
+          },
+          {
+            "es": "del tránsito automotor",
+            "tr": "of motor traffic"
+          },
+          {
+            "es": "en una _________.",
+            "tr": "at a ___."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Islas canalizadoras",
+              "tr": "Channelising islands"
+            },
+            {
+              "es": "- vía.",
+              "tr": "- road."
+            }
+          ],
+          "b": [
+            {
+              "es": "Líneas",
+              "tr": "Lines",
+              "kind": "anchor"
+            },
+            {
+              "es": "- intersección.",
+              "tr": "- intersection."
+            }
+          ],
+          "c": [
+            {
+              "es": "Vías",
+              "tr": "Roads"
+            },
+            {
+              "es": "- intersección.",
+              "tr": "- intersection."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the options",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-199": {
+      "id": "a1-199",
+      "text": "If while driving at an intersection you find the following road markings (a yellow grid), it means:",
+      "options": {
+        "a": "That you cannot stop the vehicle inside the intersection area.",
+        "b": "That emergency works are being carried out in the marked area.",
+        "c": "That you can only stop the vehicle inside the intersection area.",
+        "d": "That it is a pedestrian refuge island."
+      },
+      "gist": "Yellow grid: do not stop inside",
+      "explanation": "A yellow grid at an intersection means «do not block the intersection». Enter only if you can get out. Stopping inside is not allowed.",
+      "trap": "Options a and c look alike: «no puede detener» (cannot stop) vs «únicamente puede detener» (can only stop). The right one is «no puede».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir",
+            "tr": "If while driving"
+          },
+          {
+            "es": "en una intersección",
+            "tr": "at an intersection"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "you find"
+          },
+          {
+            "es": "las siguientes marcas en el pavimento",
+            "tr": "the following road markings"
+          },
+          {
+            "es": "(malla ortogonal de color amarillo),",
+            "tr": "(yellow orthogonal grid),"
+          },
+          {
+            "es": "significa:",
+            "tr": "it means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que no puede detener",
+              "tr": "That you cannot stop",
+              "kind": "anchor"
+            },
+            {
+              "es": "el vehículo",
+              "tr": "the vehicle"
+            },
+            {
+              "es": "dentro del área de intersección.",
+              "tr": "inside the intersection area."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que se están realizando",
+              "tr": "That there are being carried out"
+            },
+            {
+              "es": "trabajos de emergencia",
+              "tr": "emergency works"
+            },
+            {
+              "es": "en el área demarcada.",
+              "tr": "in the marked area."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que únicamente puede detener",
+              "tr": "That you can only stop",
+              "kind": "logic"
+            },
+            {
+              "es": "el vehículo",
+              "tr": "the vehicle"
+            },
+            {
+              "es": "dentro del área de intersección.",
+              "tr": "inside the intersection area."
+            }
+          ],
+          "d": [
+            {
+              "es": "Que es una isla",
+              "tr": "That it is an island"
+            },
+            {
+              "es": "de refugio peatonal.",
+              "tr": "of pedestrian refuge."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-200": {
+      "id": "a1-200",
+      "text": "According to the following picture, it is correct to say that:",
+      "options": {
+        "a": "The overtaking zone starts with the solid yellow lines.",
+        "b": "Drivers may park where the solid lines begin.",
+        "c": "The no-overtaking zone starts with the solid yellow lines.",
+        "d": "The truck driver may park before the solid lines begin"
+      },
+      "gist": "Solid yellow line: no overtaking",
+      "explanation": "In the picture the broken yellow line becomes a solid one. You cannot cross a solid yellow line, so overtaking is prohibited. Parking has nothing to do with it.",
+      "trap": "Options a and c differ by one phrase: «permite adelantar» (allows overtaking) vs «no adelantar» (no overtaking). Solid line = «no adelantar».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "De acuerdo al siguiente gráfico,",
+            "tr": "According to the following picture,"
+          },
+          {
+            "es": "es correcto afirmar que:",
+            "tr": "it is correct to state that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La zona que permite adelantar",
+              "tr": "The zone that allows overtaking",
+              "kind": "logic"
+            },
+            {
+              "es": "inicia con",
+              "tr": "starts with"
+            },
+            {
+              "es": "las líneas amarillas continuas.",
+              "tr": "the solid yellow lines."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los conductores pueden estacionarse",
+              "tr": "Drivers may park",
+              "kind": "logic"
+            },
+            {
+              "es": "al empezar las líneas continuas.",
+              "tr": "where the solid lines begin."
+            }
+          ],
+          "c": [
+            {
+              "es": "La zona de no adelantar",
+              "tr": "The no-overtaking zone",
+              "kind": "anchor"
+            },
+            {
+              "es": "inicia con",
+              "tr": "starts with"
+            },
+            {
+              "es": "las líneas amarillas continuas.",
+              "tr": "the solid yellow lines."
+            }
+          ],
+          "d": [
+            {
+              "es": "El conductor del camión",
+              "tr": "The truck driver"
+            },
+            {
+              "es": "puede estacionarse",
+              "tr": "may park",
+              "kind": "logic"
+            },
+            {
+              "es": "antes de empezar las líneas continuas",
+              "tr": "before the solid lines begin",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "disputed": []
+}

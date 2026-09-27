@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ninguna-alternativa",
+    "es": "Ninguna de las alternativas es correcta",
+    "kind": "option",
+    "tr": {
+      "ru": "Ни один из вариантов не верен",
+      "en": "None of the options is correct"
+    },
+    "note": {
+      "ru": "Почти всегда вариант d. Верен редко: сначала проверь a, b, c — если хотя бы один верен, этот вариант неверен.",
+      "en": "Almost always option d. Rarely the answer: check a, b, c first — if any one is right, this option is wrong."
+    },
+    "count": 72
+  },
+  {
+    "id": "todas-alternativas",
+    "es": "Todas las alternativas son correctas",
+    "kind": "option",
+    "forms": [
+      "Todas son correctas"
+    ],
+    "tr": {
+      "ru": "Все варианты верны",
+      "en": "All options are correct"
+    },
+    "note": {
+      "ru": "Верен только если a, b и c верны все вместе. Если хотя бы один неверен — этот вариант тоже неверен.",
+      "en": "Right only if a, b and c are all right together. If even one is wrong, this option is wrong too."
+    },
+    "count": 19
+  },
+  {
+    "id": "a-y-b-son-correctas",
+    "es": "a y b son correctas",
+    "kind": "option",
+    "forms": [
+      "a y c son correctas"
+    ],
+    "tr": {
+      "ru": "a и b верны",
+      "en": "a and b are correct"
+    },
+    "note": {
+      "ru": "Буквы указывают на два других варианта. Верен только если оба названных варианта верны.",
+      "en": "The letters point to two other options. Right only if both named options are right."
+    },
+    "count": 3
+  },
+  {
+    "id": "verdad",
+    "es": "Verdad",
+    "kind": "option",
+    "tr": {
+      "ru": "Правда",
+      "en": "True"
+    },
+    "note": {
+      "ru": "Вопрос-утверждение: нужно сказать, верно оно или нет.",
+      "en": "The question is a statement: say whether it is true or not."
+    },
+    "count": 1
+  },
+  {
+    "id": "falso",
+    "es": "Falso",
+    "kind": "option",
+    "tr": {
+      "ru": "Ложь",
+      "en": "False"
+    },
+    "note": {
+      "ru": "Пара к «Verdad». Рядом часто есть вариант «Es verdad siempre y cuando…» — это ловушка с лишним условием.",
+      "en": "Pair of 'Verdad'. Often next to 'Es verdad siempre y cuando…' — a trap with an extra condition."
+    },
+    "count": 1
+  },
+  {
+    "id": "no-se-encuentra-regulado",
+    "es": "No se encuentra regulado en el reglamento",
+    "kind": "option",
+    "forms": [
+      "No se encuentra regulada en el reglamento",
+      "No se encuentra regulado en la norma",
+      "La norma no regula sobre ello",
+      "La norma de tránsito no establece nada"
+    ],
+    "tr": {
+      "ru": "Это не регулируется правилами",
+      "en": "This is not regulated by the rules"
+    },
+    "note": {
+      "ru": "В этих 200 вопросах такой вариант никогда не верен: правила всё регулируют.",
+      "en": "In these 200 questions this option is never right: the rules do cover it."
+    },
+    "count": 5
+  },
+  {
+    "id": "no-es-una-senal-valida",
+    "es": "No es una señal válida en el Perú",
+    "kind": "option",
+    "tr": {
+      "ru": "Это не действующий знак в Перу",
+      "en": "It is not a valid sign in Peru"
+    },
+    "note": {
+      "ru": "Всегда неверен: все знаки на экзамене действующие.",
+      "en": "Always wrong: every sign in the exam is a real one."
+    },
+    "count": 2
+  },
+  {
+    "id": "no-esta-prohibido",
+    "es": "No, está prohibido",
+    "kind": "option",
+    "tr": {
+      "ru": "Нет, это запрещено",
+      "en": "No, it is prohibited"
+    },
+    "note": {
+      "ru": "Короткий ответ «Нет» рядом с длинными «Sí, siempre y cuando…». В обоих вопросах он верен.",
+      "en": "A short 'No' next to long 'Sí, siempre y cuando…' options. It is the right answer in both questions."
+    },
+    "count": 2
+  },
+  {
+    "id": "si-siempre-y-cuando",
+    "es": "Sí, siempre y cuando",
+    "kind": "option",
+    "forms": [
+      "siempre y cuando"
+    ],
+    "tr": {
+      "ru": "Да, но только если…",
+      "en": "Yes, as long as…"
+    },
+    "note": {
+      "ru": "После этих слов идёт условие. Обычно условие выдуманное и вариант неверен. Верен только в вопросах 156 и 157.",
+      "en": "A condition follows. Usually the condition is invented and the option is wrong. It is right only in questions 156 and 157."
+    },
+    "count": 9
+  },
+  {
+    "id": "proximidad-a",
+    "es": "Proximidad a",
+    "kind": "option",
+    "forms": [
+      "Proximidad de"
+    ],
+    "tr": {
+      "ru": "Близость к… (впереди будет…)",
+      "en": "Nearness to… (ahead there is…)"
+    },
+    "note": {
+      "ru": "Ответ для предупреждающих знаков: знак стоит до места. Не путай с «Ubicación de» — знак прямо на месте.",
+      "en": "Answer for warning signs: the sign stands before the place. Do not confuse with 'Ubicación de' — the sign is at the place."
+    },
+    "count": 16
+  },
+  {
+    "id": "ubicacion-de",
+    "es": "Ubicación de un",
+    "kind": "option",
+    "tr": {
+      "ru": "Место (расположение)…",
+      "en": "Location of…"
+    },
+    "note": {
+      "ru": "Знак стоит прямо там, где переход. Знаки с буквой «b» (P-48b, P-49b) — «ubicación», без буквы — «proximidad».",
+      "en": "The sign stands right where the crossing is. Signs ending in 'b' (P-48b, P-49b) are 'ubicación'; without a letter they are 'proximidad'."
+    },
+    "count": 6
+  },
+  {
+    "id": "cercania-a",
+    "es": "Cercanía a",
+    "kind": "option",
+    "forms": [
+      "Cercanía de"
+    ],
+    "tr": {
+      "ru": "Рядом есть… (сервис)",
+      "en": "Nearby there is… (a service)"
+    },
+    "note": {
+      "ru": "Ответ для информационных знаков I-18, I-19, I-20: автосервис, заправка, шиномонтаж.",
+      "en": "Answer for information signs I-18, I-19, I-20: mechanic, fuel station, tyre shop."
+    },
+    "count": 4
+  },
+  {
+    "id": "se-aproxima-a",
+    "es": "Se aproxima a",
+    "kind": "option",
+    "tr": {
+      "ru": "Вы приближаетесь к…",
+      "en": "You are approaching…"
+    },
+    "note": {
+      "ru": "Начало ответа для предупреждающих знаков (кривая, туннель, лежачий полицейский).",
+      "en": "Start of the answer for warning signs (curve, tunnel, speed bump)."
+    },
+    "count": 7
+  },
+  {
+    "id": "la-siguiente-senal",
+    "es": "La siguiente señal",
+    "kind": "question",
+    "tr": {
+      "ru": "Следующий знак (на картинке)…",
+      "en": "The following sign (in the picture)…"
+    },
+    "note": {
+      "ru": "Вопрос про знак на картинке. Дальше идёт код знака (P-…, R-…, I-…) и слово «significa» или «indica».",
+      "en": "A question about the sign in the picture. Then comes the sign code (P-…, R-…, I-…) and 'significa' or 'indica'."
+    },
+    "count": 51
+  },
+  {
+    "id": "significa",
+    "es": "significa",
+    "kind": "question",
+    "forms": [
+      "significa que",
+      "Qué significa"
+    ],
+    "tr": {
+      "ru": "означает",
+      "en": "means"
+    },
+    "note": {
+      "ru": "«…, significa:» — что означает знак, цвет или разметка. Ответ описывает смысл.",
+      "en": "'…, significa:' — what the sign, colour or marking means. The answer describes the meaning."
+    },
+    "count": 25
+  },
+  {
+    "id": "indica",
+    "es": "indica",
+    "kind": "question",
+    "forms": [
+      "le indica",
+      "indica que",
+      "Qué indica"
+    ],
+    "tr": {
+      "ru": "указывает / сообщает",
+      "en": "indicates / tells"
+    },
+    "note": {
+      "ru": "«…, indica:» или «le indica:» — то же, что «significa». «le» = вам, водителю.",
+      "en": "'…, indica:' or 'le indica:' — same as 'significa'. 'le' = to you, the driver."
+    },
+    "count": 36
+  },
+  {
+    "id": "le-advierte-al-conductor-que",
+    "es": "le advierte al conductor que",
+    "kind": "question",
+    "forms": [
+      "se utiliza para advertir al conductor"
+    ],
+    "tr": {
+      "ru": "предупреждает водителя, что",
+      "en": "warns the driver that"
+    },
+    "note": {
+      "ru": "Так спрашивают про предупреждающие знаки (жёлтые ромбы P-…).",
+      "en": "Used for warning signs (yellow diamonds P-…)."
+    },
+    "count": 4
+  },
+  {
+    "id": "se-utiliza-para-indicar",
+    "es": "se utiliza para indicar",
+    "kind": "question",
+    "tr": {
+      "ru": "используется, чтобы указать",
+      "en": "is used to indicate"
+    },
+    "note": {
+      "ru": "Тот же смысл, что «indica». Обычно про информационные знаки I-….",
+      "en": "Same meaning as 'indica'. Usually about information signs I-…."
+    },
+    "count": 4
+  },
+  {
+    "id": "es-correcto-afirmar-que",
+    "es": "es correcto afirmar que",
+    "kind": "question",
+    "tr": {
+      "ru": "верно утверждать, что",
+      "en": "it is correct to say that"
+    },
+    "note": {
+      "ru": "Нужно найти верное утверждение среди вариантов.",
+      "en": "Find the true statement among the options."
+    },
+    "count": 5
+  },
+  {
+    "id": "senale-la-afirmacion-correcta",
+    "es": "Señale la afirmación correcta",
+    "kind": "question",
+    "forms": [
+      "qué afirmación es correcta"
+    ],
+    "tr": {
+      "ru": "Укажите верное утверждение",
+      "en": "Point out the correct statement"
+    },
+    "note": {
+      "ru": "«Señale» = укажите. Ищем одно верное утверждение.",
+      "en": "'Señale' = point out. Look for the one true statement."
+    },
+    "count": 2
+  },
+  {
+    "id": "cual-de-las-siguientes-afirmaciones",
+    "es": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "kind": "question",
+    "forms": [
+      "Cuál de las siguientes"
+    ],
+    "tr": {
+      "ru": "Какое из следующих утверждений верно?",
+      "en": "Which of the following statements is correct?"
+    },
+    "note": {
+      "ru": "Проверь, нет ли «no» перед «es correcta» / «es una infracción» — тогда ищем неверное.",
+      "en": "Check for a 'no' before 'es correcta' / 'es una infracción' — then look for the wrong one."
+    },
+    "count": 3
+  },
+  {
+    "id": "marque-la-opcion-correcta",
+    "es": "marque la opción correcta",
+    "kind": "question",
+    "tr": {
+      "ru": "Отметьте верный вариант",
+      "en": "Mark the correct option"
+    },
+    "count": 2
+  },
+  {
+    "id": "marque-la-afirmacion-incorrecta",
+    "es": "Marque la afirmación incorrecta",
+    "kind": "question",
+    "forms": [
+      "no es una infracción de tránsito",
+      "no está obligado a"
+    ],
+    "tr": {
+      "ru": "Отметьте НЕверное утверждение",
+      "en": "Mark the INCORRECT statement"
+    },
+    "note": {
+      "ru": "Ловушка: здесь надо выбрать ложное или то, что НЕ является нарушением/обязанностью. Три варианта верны, один — нет.",
+      "en": "Trap: pick the false one, or the one that is NOT an offence/duty. Three options are true, one is not."
+    },
+    "count": 3
+  },
+  {
+    "id": "la-conducta-correcta-es",
+    "es": "la conducta correcta es",
+    "kind": "question",
+    "forms": [
+      "cuál es la conducta correcta",
+      "su conducta correcta es"
+    ],
+    "tr": {
+      "ru": "правильное поведение —",
+      "en": "the correct behaviour is"
+    },
+    "note": {
+      "ru": "Вопрос «что делать». Ищи вариант с «precaución», «ceder el paso», «luces direccionales».",
+      "en": "A 'what to do' question. Look for 'precaución', 'ceder el paso', 'luces direccionales'."
+    },
+    "count": 4
+  },
+  {
+    "id": "la-accion-correcta-es",
+    "es": "la acción correcta es",
+    "kind": "question",
+    "forms": [
+      "la acción correcta del conductor",
+      "La acción correcta al"
+    ],
+    "tr": {
+      "ru": "правильное действие —",
+      "en": "the correct action is"
+    },
+    "note": {
+      "ru": "То же, что «la conducta correcta es».",
+      "en": "Same as 'la conducta correcta es'."
+    },
+    "count": 5
+  },
+  {
+    "id": "que-debe-hacer",
+    "es": "¿Qué debe hacer?",
+    "kind": "question",
+    "forms": [
+      "qué debería hacer",
+      "qué acción debe realizar",
+      "qué acción se debe tomar",
+      "qué se debe hacer"
+    ],
+    "tr": {
+      "ru": "Что нужно делать?",
+      "en": "What should you do?"
+    },
+    "note": {
+      "ru": "Ситуация + вопрос о действии. Ответы с «claxon», «rápidamente», «aumentar la velocidad» почти всегда неверны.",
+      "en": "A situation plus a question about the action. Options with 'claxon', 'rápidamente', 'aumentar la velocidad' are almost always wrong."
+    },
+    "count": 8
+  },
+  {
+    "id": "usted-debe",
+    "es": "usted debe",
+    "kind": "question",
+    "forms": [
+      "debe:"
+    ],
+    "tr": {
+      "ru": "вы должны",
+      "en": "you must"
+    },
+    "note": {
+      "ru": "Конец вопроса; варианты — действия.",
+      "en": "End of the question; the options are actions."
+    },
+    "count": 6
+  },
+  {
+    "id": "el-siguiente-grafico",
+    "es": "el siguiente gráfico",
+    "kind": "question",
+    "forms": [
+      "De acuerdo al siguiente gráfico",
+      "El siguiente gráfico muestra"
+    ],
+    "tr": {
+      "ru": "следующая картинка (схема)",
+      "en": "the following picture (diagram)"
+    },
+    "note": {
+      "ru": "Смотри на картинку: там ситуация на дороге, не знак.",
+      "en": "Look at the picture: it shows a road situation, not a sign."
+    },
+    "count": 4
+  },
+  {
+    "id": "siempre-que-no-exista-una-senal",
+    "es": "Siempre que no exista una señal de límite de velocidad",
+    "kind": "question",
+    "tr": {
+      "ru": "Если нет знака ограничения скорости",
+      "en": "When there is no speed-limit sign"
+    },
+    "note": {
+      "ru": "Вопросы про лимиты по умолчанию: улицы 40, проспекты 60, скоростные 80, школьная зона 30, шоссе 100; минимум — половина максимума.",
+      "en": "Default speed limits: streets 40, avenues 60, expressways 80, school zone 30, highways 100; minimum is half the maximum."
+    },
+    "count": 6
+  },
+  {
+    "id": "se-entiende-por",
+    "es": "Se entiende por",
+    "kind": "question",
+    "forms": [
+      "Se define como",
+      "Es una parte de la vía"
+    ],
+    "tr": {
+      "ru": "Под … понимается (определение)",
+      "en": "… is understood as (definition)"
+    },
+    "note": {
+      "ru": "Вопрос-определение: carril, línea de parada, zona rígida, calzada, acera.",
+      "en": "A definition question: carril, línea de parada, zona rígida, calzada, acera."
+    },
+    "count": 5
+  },
+  {
+    "id": "cual-es-la-sancion",
+    "es": "¿Cuál es la sanción",
+    "kind": "question",
+    "tr": {
+      "ru": "Какое наказание",
+      "en": "What is the penalty"
+    },
+    "note": {
+      "ru": "Про алкоголь: без ДТП — штраф + лишение на 3 года; с ДТП — штраф + аннулирование + пожизненный запрет.",
+      "en": "About alcohol: no accident — fine + 3-year suspension; with an accident — fine + cancellation + lifetime ban."
+    },
+    "count": 2
+  },
+  {
+    "id": "espacios-en-blanco",
+    "es": "____",
+    "kind": "question",
+    "tr": {
+      "ru": "пропуски в предложении",
+      "en": "blanks in the sentence"
+    },
+    "note": {
+      "ru": "Вставь слова из варианта в пропуски по порядку; слова разделены знаком «-» или «/».",
+      "en": "Put the option's words into the blanks in order; they are separated by '-' or '/'."
+    },
+    "count": 13
+  }
+]

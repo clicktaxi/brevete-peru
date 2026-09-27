@@ -1,0 +1,4716 @@
+{
+  "meta": {
+    "a1-051": {
+      "topic": "marcas",
+      "terms": [
+        "doble línea amarilla",
+        "línea continua",
+        "línea discontinua",
+        "adelantar",
+        "vía de doble sentido",
+        "marcación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "doble línea amarilla",
+          "trazo continuo",
+          "trazo discontinuo"
+        ],
+        "answerKeys": [
+          "si es continua, no adelantar"
+        ]
+      }
+    },
+    "a1-052": {
+      "topic": "estacionamiento",
+      "terms": [
+        "zona rígida",
+        "estacionamiento",
+        "circulación",
+        "peatón",
+        "área"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "zona rígida"
+        ],
+        "answerKeys": [
+          "estacionamiento"
+        ]
+      }
+    },
+    "a1-053": {
+      "topic": "otros",
+      "terms": [
+        "policía",
+        "control de tránsito",
+        "detenerse",
+        "continuar la marcha",
+        "de frente",
+        "de espaldas"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "de frente o de espaldas",
+          "Policía Nacional"
+        ],
+        "answerKeys": [
+          "detenerse"
+        ]
+      }
+    },
+    "a1-054": {
+      "topic": "velocidad",
+      "terms": [
+        "límite de velocidad",
+        "zona urbana",
+        "velocidad máxima",
+        "calle",
+        "jirón"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "calles y jirones",
+          "límite máximo"
+        ],
+        "answerKeys": [
+          "40km/h"
+        ]
+      }
+    },
+    "a1-055": {
+      "topic": "velocidad",
+      "terms": [
+        "límite de velocidad",
+        "zona urbana",
+        "velocidad máxima",
+        "avenida"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "avenidas",
+          "límite máximo"
+        ],
+        "answerKeys": [
+          "60km/h"
+        ]
+      }
+    },
+    "a1-056": {
+      "topic": "velocidad",
+      "terms": [
+        "límite de velocidad",
+        "zona urbana",
+        "velocidad máxima",
+        "vía expresa"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "vías expresas",
+          "límite máximo"
+        ],
+        "answerKeys": [
+          "80km/h"
+        ]
+      }
+    },
+    "a1-057": {
+      "topic": "velocidad",
+      "terms": [
+        "límite de velocidad",
+        "zona urbana",
+        "velocidad máxima",
+        "zona escolar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "zona escolar",
+          "límite máximo"
+        ],
+        "answerKeys": [
+          "30km/h"
+        ]
+      }
+    },
+    "a1-058": {
+      "topic": "velocidad",
+      "terms": [
+        "límite de velocidad",
+        "carretera",
+        "automóvil",
+        "camioneta",
+        "motocicleta",
+        "velocidad máxima"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "carreteras",
+          "automóviles, camionetas y motocicletas"
+        ],
+        "answerKeys": [
+          "100km/h"
+        ]
+      }
+    },
+    "a1-059": {
+      "topic": "velocidad",
+      "terms": [
+        "velocidad mínima",
+        "velocidad máxima",
+        "zona urbana",
+        "carretera",
+        "tipo de vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "límite mínimo",
+          "velocidad mínima"
+        ],
+        "answerKeys": [
+          "La mitad"
+        ]
+      }
+    },
+    "a1-060": {
+      "topic": "infracciones",
+      "terms": [
+        "sanción",
+        "alcohol",
+        "estupefaciente",
+        "accidente de tránsito",
+        "multa",
+        "cancelación",
+        "inhabilitación",
+        "licencia de conducir"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "alcohol en la sangre",
+          "accidente de tránsito",
+          "negarse"
+        ],
+        "answerKeys": [
+          "inhabilitación definitiva"
+        ]
+      }
+    },
+    "a1-061": {
+      "topic": "infracciones",
+      "terms": [
+        "sanción",
+        "operativo de alcoholemia",
+        "alcohol",
+        "estupefaciente",
+        "multa",
+        "suspensión",
+        "licencia de conducir"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "operativo de alcoholemia",
+          "por encima del límite legal"
+        ],
+        "answerKeys": [
+          "3 años"
+        ]
+      }
+    },
+    "a1-062": {
+      "topic": "documentos",
+      "terms": [
+        "inspección técnica",
+        "vehículo particular",
+        "frecuencia"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "inspección técnica",
+          "vehículo particular",
+          "frecuencia"
+        ],
+        "answerKeys": [
+          "Cada año"
+        ]
+      }
+    },
+    "a1-063": {
+      "topic": "documentos",
+      "terms": [
+        "inspección técnica",
+        "vehículo particular",
+        "antigüedad",
+        "categoría m1",
+        "fabricación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "inspección técnica",
+          "categoría M1",
+          "9 asientos"
+        ],
+        "answerKeys": [
+          "cuarto año"
+        ]
+      }
+    },
+    "a1-064": {
+      "topic": "documentos",
+      "terms": [
+        "soat",
+        "plazo de vigencia",
+        "vigencia"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "SOAT",
+          "plazo de vigencia"
+        ],
+        "answerKeys": [
+          "1 año"
+        ]
+      }
+    },
+    "a1-065": {
+      "topic": "otros",
+      "terms": [
+        "accidente de tránsito",
+        "dar aviso",
+        "compañía de seguros",
+        "dejar constancia",
+        "policía",
+        "propietario",
+        "bombero"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "accidente de tránsito",
+          "obligación",
+          "propietario"
+        ],
+        "answerKeys": [
+          "dejar constancia",
+          "delegación"
+        ]
+      }
+    },
+    "a1-066": {
+      "topic": "documentos",
+      "terms": [
+        "licencia de conducir",
+        "restricción",
+        "cumplir",
+        "seguridad vial"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "licencia de conducir",
+          "restricción"
+        ],
+        "answerKeys": [
+          "una obligación"
+        ]
+      }
+    },
+    "a1-067": {
+      "topic": "senales",
+      "terms": [
+        "señal preventiva",
+        "reductor de velocidad",
+        "resalto",
+        "badén",
+        "curva sinuosa"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-33A",
+          "preventiva"
+        ],
+        "answerKeys": [
+          "reductor de velocidad",
+          "resalto"
+        ]
+      }
+    },
+    "a1-068": {
+      "topic": "seguridad",
+      "terms": [
+        "luces intermitentes de emergencia",
+        "autopista",
+        "avería",
+        "parar",
+        "vehículo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "deja de funcionar",
+          "costado de la autopista"
+        ],
+        "answerKeys": [
+          "luces intermitentes"
+        ]
+      }
+    },
+    "a1-069": {
+      "topic": "adelantamiento",
+      "terms": [
+        "bocina",
+        "adelantar",
+        "advertir",
+        "estridente",
+        "prohibición",
+        "señal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "bocina",
+          "será adelantado"
+        ],
+        "answerKeys": [
+          "está prohibido"
+        ]
+      }
+    },
+    "a1-070": {
+      "topic": "preferencia",
+      "terms": [
+        "ambulancia",
+        "sirena",
+        "luces especiales",
+        "preferencia de paso",
+        "servicio de urgencia"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "ambulancia",
+          "sin sirena"
+        ],
+        "answerKeys": [
+          "No estamos obligados"
+        ]
+      }
+    },
+    "a1-071": {
+      "topic": "semaforos",
+      "terms": [
+        "intersección",
+        "luz verde",
+        "semáforo",
+        "despejar",
+        "iniciar la marcha",
+        "claxon"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "luz verde",
+          "despejando la intersección"
+        ],
+        "answerKeys": [
+          "terminen de cruzar"
+        ]
+      }
+    },
+    "a1-072": {
+      "topic": "marcas",
+      "terms": [
+        "señalética",
+        "pavimento",
+        "carril",
+        "sentido opuesto",
+        "mismo sentido",
+        "amarillo",
+        "blanco"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "sentido opuesto",
+          "mismo sentido",
+          "color"
+        ],
+        "answerKeys": [
+          "Amarillo - blanco"
+        ]
+      }
+    },
+    "a1-073": {
+      "topic": "peatones",
+      "terms": [
+        "escolar",
+        "calzada",
+        "crucero peatonal",
+        "ceder el paso",
+        "claxon"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "fila de escolares",
+          "crucero peatonal"
+        ],
+        "answerKeys": [
+          "ceder el paso"
+        ]
+      }
+    },
+    "a1-074": {
+      "topic": "peatones",
+      "terms": [
+        "zona escolar",
+        "disminuir la velocidad",
+        "señalización",
+        "velocidad"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "zona escolar",
+          "se aproxima"
+        ],
+        "answerKeys": [
+          "30 Km/h"
+        ]
+      }
+    },
+    "a1-075": {
+      "topic": "senales",
+      "terms": [
+        "señal reguladora",
+        "señal preventiva",
+        "señal informativa",
+        "señal horizontal",
+        "prohibición",
+        "restricción"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "limitaciones, prohibiciones o restricciones",
+          "uso de la vía"
+        ],
+        "answerKeys": [
+          "reguladoras",
+          "reglamentación"
+        ]
+      }
+    }
+  },
+  "ru": {
+    "a1-051": {
+      "id": "a1-051",
+      "text": "Если на дороге с двусторонним движением вы видите двойную жёлтую линию, где одна линия сплошная, а другая прерывистая, что нужно делать?",
+      "options": {
+        "a": "Можно обгонять в обоих направлениях.",
+        "b": "Обгон не разрешён ни в одном направлении.",
+        "c": "Соблюдать линию со своей стороны (если она сплошная — не обгонять; если прерывистая — обгон разрешён).",
+        "d": "Соблюдать линию со своей стороны (если она прерывистая — не обгонять; если сплошная — обгон разрешён)"
+      },
+      "gist": "Двойная жёлтая: сплошная плюс прерывистая",
+      "explanation": "Смотрите на линию со своей стороны. Сплошная — обгонять нельзя. Прерывистая — обгонять можно. Вариант d говорит наоборот.",
+      "trap": "Варианты c и d почти одинаковы. Правильный: «si es continua, no adelantar» (если сплошная — не обгонять). В варианте d порядок перевёрнут.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "En caso de encontrar",
+            "tr": "Если вы встретите"
+          },
+          {
+            "es": "marcación de doble línea amarilla",
+            "tr": "разметку двойной жёлтой линией"
+          },
+          {
+            "es": "compuesta por",
+            "tr": "состоящую из"
+          },
+          {
+            "es": "un trazo continuo",
+            "tr": "одной сплошной линии"
+          },
+          {
+            "es": "y otro trazo discontinuo",
+            "tr": "и другой прерывистой"
+          },
+          {
+            "es": "en una vía de doble sentido,",
+            "tr": "на дороге с двусторонним движением,"
+          },
+          {
+            "es": "¿qué se debe hacer?",
+            "tr": "что нужно делать?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se puede adelantar",
+              "tr": "Можно обгонять",
+              "kind": "logic"
+            },
+            {
+              "es": "en ambos sentidos.",
+              "tr": "в обоих направлениях.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "No está permitido adelantar",
+              "tr": "Не разрешено обгонять",
+              "kind": "logic"
+            },
+            {
+              "es": "en ningún sentido.",
+              "tr": "ни в одном направлении.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Respetar la línea",
+              "tr": "Соблюдать линию"
+            },
+            {
+              "es": "que está de su lado",
+              "tr": "которая с вашей стороны"
+            },
+            {
+              "es": "(si es continua, no adelantar;",
+              "tr": "(если сплошная — не обгонять;",
+              "kind": "anchor"
+            },
+            {
+              "es": "si es discontinua,",
+              "tr": "если прерывистая,"
+            },
+            {
+              "es": "está permitido adelantar).",
+              "tr": "обгон разрешён).",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Respetar la línea",
+              "tr": "Соблюдать линию"
+            },
+            {
+              "es": "que está de su lado",
+              "tr": "которая с вашей стороны"
+            },
+            {
+              "es": "(si es discontinua, no adelantar;",
+              "tr": "(если прерывистая — не обгонять;",
+              "kind": "logic"
+            },
+            {
+              "es": "si es continua,",
+              "tr": "если сплошная,"
+            },
+            {
+              "es": "está permitido adelantar)",
+              "tr": "обгон разрешён)",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-052": {
+      "id": "a1-052",
+      "text": "«Zona rígida» (жёсткая зона) — это:",
+      "options": {
+        "a": "Место, где запрещено движение транспорта.",
+        "b": "Место, где запрещено движение пешеходов.",
+        "c": "Часть дороги, где запрещена стоянка транспорта.",
+        "d": "Все варианты верны."
+      },
+      "gist": "Что такое zona rígida",
+      "explanation": "Zona rígida — это участок дороги, где нельзя парковаться. Ехать там можно, ходить тоже. Поэтому «все варианты» — неверно.",
+      "legalRef": "RNT art. 2",
+      "gloss": {
+        "text": [
+          {
+            "es": "Se define como",
+            "tr": "Определяется как"
+          },
+          {
+            "es": "zona rígida",
+            "tr": "жёсткая зона"
+          },
+          {
+            "es": "al:",
+            "tr": "следующее:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Área donde",
+              "tr": "Место, где"
+            },
+            {
+              "es": "se prohíbe",
+              "tr": "запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "la circulación de vehículos.",
+              "tr": "движение транспорта."
+            }
+          ],
+          "b": [
+            {
+              "es": "Área donde",
+              "tr": "Место, где"
+            },
+            {
+              "es": "se prohíbe",
+              "tr": "запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "la circulación de peatones.",
+              "tr": "движение пешеходов."
+            }
+          ],
+          "c": [
+            {
+              "es": "Área de la vía",
+              "tr": "Часть дороги"
+            },
+            {
+              "es": "en la que se prohíbe",
+              "tr": "где запрещена",
+              "kind": "logic"
+            },
+            {
+              "es": "el estacionamiento de vehículos.",
+              "tr": "стоянка транспорта.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "верны."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-053": {
+      "id": "a1-053",
+      "text": "Если полицейский, регулирующий движение, стоит к вам лицом или спиной, это значит:",
+      "options": {
+        "a": "Тот, кто едет на него лицом или спиной, обязан остановиться.",
+        "b": "Продолжать движение по левой полосе.",
+        "c": "Продолжать движение.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Полицейский стоит лицом или спиной",
+      "explanation": "Грудь или спина полицейского к вам — это как красный свет. Нужно остановиться. Ехать можно, когда он стоит к вам боком.",
+      "gloss": {
+        "text": [
+          {
+            "es": "La posición de frente",
+            "tr": "Положение лицом"
+          },
+          {
+            "es": "o de espaldas",
+            "tr": "или спиной"
+          },
+          {
+            "es": "ejecutada por el efectivo",
+            "tr": "выполняемое сотрудником"
+          },
+          {
+            "es": "de la Policía Nacional del Perú",
+            "tr": "Национальной полиции Перу"
+          },
+          {
+            "es": "asignado al control de tránsito",
+            "tr": "назначенным регулировать движение"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Obligación de detenerse",
+              "tr": "Обязанность остановиться",
+              "kind": "anchor"
+            },
+            {
+              "es": "de quien así lo enfrente.",
+              "tr": "для того, кто так едет на него."
+            }
+          ],
+          "b": [
+            {
+              "es": "Continuar la marcha",
+              "tr": "Продолжать движение"
+            },
+            {
+              "es": "por el carril izquierdo",
+              "tr": "по левой полосе",
+              "kind": "logic"
+            },
+            {
+              "es": "de la calzada.",
+              "tr": "проезжей части."
+            }
+          ],
+          "c": [
+            {
+              "es": "Continuar la marcha.",
+              "tr": "Продолжать движение."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-054": {
+      "id": "a1-054",
+      "text": "Если нет знака ограничения скорости, в городе максимальная скорость на улицах (calles y jirones) составляет:",
+      "options": {
+        "a": "30 км/ч.",
+        "b": "40 км/ч.",
+        "c": "60 км/ч.",
+        "d": "80 км/ч."
+      },
+      "gist": "Максимум на городских улицах",
+      "explanation": "На обычных улицах и «jirones» — 40 км/ч. На проспектах (avenidas) — 60. На скоростных дорогах (vías expresas) — 80. В школьной зоне — 30.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Если нет",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad,",
+            "tr": "знака ограничения скорости,"
+          },
+          {
+            "es": "en zonas urbanas",
+            "tr": "в городских зонах"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "максимальная скорость"
+          },
+          {
+            "es": "en calles y jirones",
+            "tr": "на улицах и «хиронах»"
+          },
+          {
+            "es": "es de:",
+            "tr": "составляет:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "30km/h.",
+              "tr": "30 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "40km/h.",
+              "tr": "40 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "60km/h.",
+              "tr": "60 км/ч."
+            }
+          ],
+          "d": [
+            {
+              "es": "80km/h.",
+              "tr": "80 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-055": {
+      "id": "a1-055",
+      "text": "Если нет знака ограничения скорости, в городе максимальная скорость на проспектах (avenidas) составляет:",
+      "options": {
+        "a": "30 км/ч.",
+        "b": "40 км/ч.",
+        "c": "60 км/ч.",
+        "d": "80 км/ч."
+      },
+      "gist": "Максимум на проспектах",
+      "explanation": "На проспектах (avenidas) — 60 км/ч. На обычных улицах — 40. На скоростных дорогах — 80.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Если нет",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad,",
+            "tr": "знака ограничения скорости,"
+          },
+          {
+            "es": "en zonas urbanas",
+            "tr": "в городских зонах"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "максимальная скорость"
+          },
+          {
+            "es": "en avenidas",
+            "tr": "на проспектах"
+          },
+          {
+            "es": "es de:",
+            "tr": "составляет:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "30km/h.",
+              "tr": "30 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "40km/h.",
+              "tr": "40 км/ч."
+            }
+          ],
+          "c": [
+            {
+              "es": "60km/h.",
+              "tr": "60 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "80km/h.",
+              "tr": "80 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-056": {
+      "id": "a1-056",
+      "text": "Если нет знака ограничения скорости, в городе максимальная скорость на скоростных дорогах (vías expresas) составляет:",
+      "options": {
+        "a": "60 км/ч.",
+        "b": "70 км/ч.",
+        "c": "80 км/ч.",
+        "d": "100 км/ч."
+      },
+      "gist": "Максимум на скоростных дорогах",
+      "explanation": "На скоростных дорогах (vías expresas) в городе — 80 км/ч. Это самый высокий городской лимит. 100 км/ч — только на загородных трассах (carreteras).",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Если нет",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad,",
+            "tr": "знака ограничения скорости,"
+          },
+          {
+            "es": "en zonas urbanas",
+            "tr": "в городских зонах"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "максимальная скорость"
+          },
+          {
+            "es": "en vías expresas",
+            "tr": "на скоростных дорогах"
+          },
+          {
+            "es": "es de:",
+            "tr": "составляет:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "60km/h.",
+              "tr": "60 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "70km/h.",
+              "tr": "70 км/ч."
+            }
+          ],
+          "c": [
+            {
+              "es": "80km/h.",
+              "tr": "80 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "100km/h.",
+              "tr": "100 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-057": {
+      "id": "a1-057",
+      "text": "Если в городе нет знака ограничения скорости, максимальная скорость в школьной зоне составляет:",
+      "options": {
+        "a": "20 км/ч.",
+        "b": "30 км/ч.",
+        "c": "35 км/ч.",
+        "d": "50 км/ч."
+      },
+      "gist": "Максимум в школьной зоне",
+      "explanation": "В школьной зоне — 30 км/ч. Запомните: школа = 30. Варианты 35 и 20 — ловушки.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Если нет",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad",
+            "tr": "знака ограничения скорости"
+          },
+          {
+            "es": "en zonas urbanas,",
+            "tr": "в городских зонах,"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "максимальная скорость"
+          },
+          {
+            "es": "en zona escolar",
+            "tr": "в школьной зоне"
+          },
+          {
+            "es": "es de:",
+            "tr": "составляет:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "20km/h.",
+              "tr": "20 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "30km/h.",
+              "tr": "30 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "35km/h.",
+              "tr": "35 км/ч."
+            }
+          ],
+          "d": [
+            {
+              "es": "50km/h.",
+              "tr": "50 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-058": {
+      "id": "a1-058",
+      "text": "Если на трассе нет знака ограничения скорости, максимальная скорость для легковых автомобилей, пикапов и мотоциклов составляет:",
+      "options": {
+        "a": "80 км/ч.",
+        "b": "90 км/ч.",
+        "c": "100 км/ч.",
+        "d": "110 км/ч."
+      },
+      "gist": "Максимум на трассе для легковых",
+      "explanation": "На загородной трассе (carretera) легковые, пикапы и мотоциклы — 100 км/ч. Автобусы и грузовики едут медленнее. 80 — это городская скоростная дорога.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Если нет",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad",
+            "tr": "знака ограничения скорости"
+          },
+          {
+            "es": "en carreteras,",
+            "tr": "на трассах,"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "максимальная скорость"
+          },
+          {
+            "es": "para automóviles, camionetas y motocicletas",
+            "tr": "для легковых, пикапов и мотоциклов"
+          },
+          {
+            "es": "es de:",
+            "tr": "составляет:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "80km/h.",
+              "tr": "80 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "90km/h.",
+              "tr": "90 км/ч."
+            }
+          ],
+          "c": [
+            {
+              "es": "100km/h.",
+              "tr": "100 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "110km/h.",
+              "tr": "110 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-059": {
+      "id": "a1-059",
+      "text": "Если нет знака минимальной скорости, минимальная скорость в городе и на трассе составляет:",
+      "options": {
+        "a": "30 км/ч.",
+        "b": "Половина максимальной скорости, установленной для данного типа дороги.",
+        "c": "20 км/ч.",
+        "d": "15 км/ч."
+      },
+      "gist": "Минимальная скорость без знака",
+      "explanation": "Минимум — половина максимума для этой дороги. Улица 40 → минимум 20. Трасса 100 → минимум 50. Конкретных цифр в правиле нет.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Если нет",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad mínima,",
+            "tr": "знака минимальной скорости,"
+          },
+          {
+            "es": "el límite mínimo de velocidad",
+            "tr": "минимальная скорость"
+          },
+          {
+            "es": "en zona urbana y en carreteras",
+            "tr": "в городе и на трассах"
+          },
+          {
+            "es": "es de:",
+            "tr": "составляет:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "30km/h.",
+              "tr": "30 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "La mitad",
+              "tr": "Половина",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la velocidad máxima",
+              "tr": "максимальной скорости"
+            },
+            {
+              "es": "establecida para cada tipo de vía.",
+              "tr": "установленной для каждого типа дороги."
+            }
+          ],
+          "c": [
+            {
+              "es": "20 km/h.",
+              "tr": "20 км/ч."
+            }
+          ],
+          "d": [
+            {
+              "es": "15 km/h.",
+              "tr": "15 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-060": {
+      "id": "a1-060",
+      "text": "Какое наказание за вождение с алкоголем в крови выше нормы Уголовного кодекса, или под действием наркотиков, подтверждённым тестом, или за отказ от теста, если водитель участвовал в ДТП?",
+      "options": {
+        "a": "Штраф.",
+        "b": "Аннулирование водительских прав.",
+        "c": "Приостановка водительских прав.",
+        "d": "Штраф, аннулирование прав и пожизненный запрет на получение прав."
+      },
+      "gist": "Наказание: алкоголь плюс ДТП",
+      "explanation": "Ключевое слово — «accidente» (ДТП). Алкоголь или наркотики плюс ДТП — самое строгое наказание. Штраф, аннулирование прав и пожизненный запрет. Без ДТП — штраф и приостановка на 3 года.",
+      "trap": "Вариант b тоже про аннулирование, но это только часть. Правильный ответ — полный набор: «Multa, cancelación... e inhabilitación definitiva».",
+      "legalRef": "RNT Anexo I, M.1",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es la sanción",
+            "tr": "Какое наказание"
+          },
+          {
+            "es": "por conducir",
+            "tr": "за вождение"
+          },
+          {
+            "es": "con presencia de alcohol en la sangre",
+            "tr": "с алкоголем в крови"
+          },
+          {
+            "es": "en proporción mayor",
+            "tr": "в количестве больше",
+            "kind": "logic"
+          },
+          {
+            "es": "a lo previsto en el Código Penal,",
+            "tr": "чем предусмотрено Уголовным кодексом,"
+          },
+          {
+            "es": "o bajo los efectos",
+            "tr": "или под действием"
+          },
+          {
+            "es": "de estupefacientes, narcóticos y/o alucinógenos",
+            "tr": "наркотиков и/или галлюциногенов"
+          },
+          {
+            "es": "comprobados con el examen respectivo,",
+            "tr": "подтверждённых соответствующим тестом,"
+          },
+          {
+            "es": "o por negarse al mismo",
+            "tr": "или за отказ от него (теста)"
+          },
+          {
+            "es": "y que haya participado",
+            "tr": "и при этом участвовал"
+          },
+          {
+            "es": "en un accidente de tránsito?",
+            "tr": "в ДТП?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Multa.",
+              "tr": "Штраф."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cancelación",
+              "tr": "Аннулирование"
+            },
+            {
+              "es": "de licencia de conducir.",
+              "tr": "водительских прав."
+            }
+          ],
+          "c": [
+            {
+              "es": "Suspensión",
+              "tr": "Приостановка"
+            },
+            {
+              "es": "de la licencia de conducir.",
+              "tr": "водительских прав."
+            }
+          ],
+          "d": [
+            {
+              "es": "Multa,",
+              "tr": "Штраф,"
+            },
+            {
+              "es": "cancelación de la licencia de conducir",
+              "tr": "аннулирование водительских прав"
+            },
+            {
+              "es": "e inhabilitación definitiva",
+              "tr": "и пожизненный запрет",
+              "kind": "anchor"
+            },
+            {
+              "es": "para obtener una licencia de conducir.",
+              "tr": "на получение водительских прав."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-061": {
+      "id": "a1-061",
+      "text": "Какое наказание, если на проверке на алкоголь вас остановили и тест показал алкоголь выше нормы или наркотики?",
+      "options": {
+        "a": "Штраф",
+        "b": "Приостановка водительских прав.",
+        "c": "Штраф и приостановка прав на 3 года.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Наказание: алкоголь без ДТП",
+      "explanation": "Здесь ДТП не было. Наказание — штраф плюс приостановка прав на 3 года. Только штраф или только приостановка — неполный ответ. С ДТП было бы аннулирование.",
+      "trap": "Варианты a и b — по половине ответа. Ищите «Multa y suspensión... por 3 años» (штраф и приостановка на 3 года).",
+      "legalRef": "RNT Anexo I, M.2",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es la sanción",
+            "tr": "Какое наказание"
+          },
+          {
+            "es": "si en un operativo de alcoholemia",
+            "tr": "если при проверке на алкоголь"
+          },
+          {
+            "es": "usted es intervenido",
+            "tr": "вас остановили"
+          },
+          {
+            "es": "y se comprueba",
+            "tr": "и подтверждено"
+          },
+          {
+            "es": "que ha consumido alcohol",
+            "tr": "что вы употребили алкоголь"
+          },
+          {
+            "es": "por encima del límite legal,",
+            "tr": "выше законной нормы,"
+          },
+          {
+            "es": "o está conduciendo",
+            "tr": "или ведёте машину"
+          },
+          {
+            "es": "bajo los efectos",
+            "tr": "под действием"
+          },
+          {
+            "es": "de estupefacientes, narcóticos y/o alucinógenos",
+            "tr": "наркотиков и/или галлюциногенов"
+          },
+          {
+            "es": "comprobada con el examen respectivo?",
+            "tr": "подтверждённым соответствующим тестом?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Una multa",
+              "tr": "Штраф"
+            }
+          ],
+          "b": [
+            {
+              "es": "La suspensión",
+              "tr": "Приостановка"
+            },
+            {
+              "es": "de la licencia de conducir.",
+              "tr": "водительских прав."
+            }
+          ],
+          "c": [
+            {
+              "es": "Multa y suspensión",
+              "tr": "Штраф и приостановка"
+            },
+            {
+              "es": "de la licencia de conducir",
+              "tr": "водительских прав"
+            },
+            {
+              "es": "por 3 años.",
+              "tr": "на 3 года.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-062": {
+      "id": "a1-062",
+      "text": "Как часто частный автомобиль проходит техосмотр:",
+      "options": {
+        "a": "Каждые полгода.",
+        "b": "Каждый год.",
+        "c": "Каждые два года.",
+        "d": "Каждые три года."
+      },
+      "gist": "Как часто техосмотр частного авто",
+      "explanation": "Частный автомобиль проходит техосмотр (inspección técnica) раз в год. Коммерческий транспорт проверяют чаще.",
+      "gloss": {
+        "text": [
+          {
+            "es": "La frecuencia",
+            "tr": "Частота"
+          },
+          {
+            "es": "de la inspección técnica",
+            "tr": "техосмотра"
+          },
+          {
+            "es": "de un vehículo particular",
+            "tr": "частного автомобиля"
+          },
+          {
+            "es": "es:",
+            "tr": "—:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cada medio año.",
+              "tr": "Каждые полгода."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cada año.",
+              "tr": "Каждый год.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Cada dos años.",
+              "tr": "Каждые два года."
+            }
+          ],
+          "d": [
+            {
+              "es": "Cada tres años.",
+              "tr": "Каждые три года."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-063": {
+      "id": "a1-063",
+      "text": "С какого года возраста частный автомобиль категории M1 (до 9 мест, включая водителя) должен проходить техосмотр?",
+      "options": {
+        "a": "Со второго года, считая со следующего года после выпуска.",
+        "b": "С четвёртого года, считая со следующего года после выпуска.",
+        "c": "С пятого года, считая со следующего года после выпуска.",
+        "d": "Техосмотр не требуется."
+      },
+      "gist": "С какого года техосмотр M1",
+      "explanation": "Новая частная машина M1 первые годы не проходит техосмотр. Первый техосмотр — с четвёртого года после года выпуска. Запомните: «cuarto» = четвёртый.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿A partir de qué año",
+            "tr": "С какого года"
+          },
+          {
+            "es": "de antigüedad",
+            "tr": "возраста"
+          },
+          {
+            "es": "debe realizarse",
+            "tr": "должен проходить",
+            "kind": "logic"
+          },
+          {
+            "es": "la inspección técnica",
+            "tr": "техосмотр"
+          },
+          {
+            "es": "de un vehículo particular",
+            "tr": "частный автомобиль"
+          },
+          {
+            "es": "para transporte de personas",
+            "tr": "для перевозки людей"
+          },
+          {
+            "es": "de hasta 9 asientos",
+            "tr": "до 9 мест"
+          },
+          {
+            "es": "incluido el conductor",
+            "tr": "включая водителя"
+          },
+          {
+            "es": "de la categoría M1?",
+            "tr": "категории M1?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "A partir del segundo año",
+              "tr": "Со второго года"
+            },
+            {
+              "es": "contado desde el año siguiente",
+              "tr": "считая со следующего года"
+            },
+            {
+              "es": "de su fabricación.",
+              "tr": "после его выпуска."
+            }
+          ],
+          "b": [
+            {
+              "es": "A partir del cuarto año",
+              "tr": "С четвёртого года",
+              "kind": "anchor"
+            },
+            {
+              "es": "contado desde el año siguiente",
+              "tr": "считая со следующего года"
+            },
+            {
+              "es": "de su fabricación.",
+              "tr": "после его выпуска."
+            }
+          ],
+          "c": [
+            {
+              "es": "A partir del quinto año",
+              "tr": "С пятого года"
+            },
+            {
+              "es": "contado desde el año siguiente",
+              "tr": "считая со следующего года"
+            },
+            {
+              "es": "de su fabricación.",
+              "tr": "после его выпуска."
+            }
+          ],
+          "d": [
+            {
+              "es": "No está sujeto",
+              "tr": "Не подлежит",
+              "kind": "logic"
+            },
+            {
+              "es": "a inspección técnica.",
+              "tr": "техосмотру."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-064": {
+      "id": "a1-064",
+      "text": "Какой срок действия SOAT (обязательной страховки)?",
+      "options": {
+        "a": "1 год.",
+        "b": "6 месяцев.",
+        "c": "4 года.",
+        "d": "2 года."
+      },
+      "gist": "Срок действия SOAT",
+      "explanation": "SOAT — обязательная страховка от ДТП. Действует 1 год, потом нужно покупать заново. Ездить без SOAT нельзя.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es el plazo",
+            "tr": "Какой срок"
+          },
+          {
+            "es": "de vigencia",
+            "tr": "действия"
+          },
+          {
+            "es": "del SOAT?",
+            "tr": "у SOAT?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "1 año.",
+              "tr": "1 год.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "6 meses.",
+              "tr": "6 месяцев."
+            }
+          ],
+          "c": [
+            {
+              "es": "4 años.",
+              "tr": "4 года."
+            }
+          ],
+          "d": [
+            {
+              "es": "2 años.",
+              "tr": "2 года."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-065": {
+      "id": "a1-065",
+      "text": "Если произошло ДТП, что обязан сделать водитель, владелец машины или перевозчик?",
+      "options": {
+        "a": "Сообщить пожарным.",
+        "b": "Сообщить только в страховую компанию.",
+        "c": "Сообщить в страховую компанию и зафиксировать ДТП в ближайшем отделении полиции.",
+        "d": "Сообщить только в полицию."
+      },
+      "gist": "Что делать после ДТП",
+      "explanation": "После ДТП нужно сделать два дела. Сообщить в страховую и зафиксировать случай в полиции. Варианты с «solo» и «únicamente» (только) — неполные.",
+      "trap": "b и d содержат «solo» / «únicamente» (только) — одно действие. Правильный ответ — с «y» (и): страховая и полиция.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si ocurre",
+            "tr": "Если происходит"
+          },
+          {
+            "es": "un accidente de tránsito,",
+            "tr": "ДТП,"
+          },
+          {
+            "es": "¿qué obligación tiene",
+            "tr": "какую обязанность имеет"
+          },
+          {
+            "es": "el conductor,",
+            "tr": "водитель,"
+          },
+          {
+            "es": "el propietario del vehículo",
+            "tr": "владелец машины"
+          },
+          {
+            "es": "o el prestador del servicio de transporte?",
+            "tr": "или перевозчик?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Dar aviso",
+              "tr": "Сообщить"
+            },
+            {
+              "es": "a los bomberos.",
+              "tr": "пожарным."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dar aviso",
+              "tr": "Сообщить"
+            },
+            {
+              "es": "solo",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "a la compañía de seguros.",
+              "tr": "страховой компании."
+            }
+          ],
+          "c": [
+            {
+              "es": "Dar aviso",
+              "tr": "Сообщить"
+            },
+            {
+              "es": "a la compañía de seguros",
+              "tr": "страховой компании"
+            },
+            {
+              "es": "y dejar constancia",
+              "tr": "и зафиксировать",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la delegación",
+              "tr": "в отделении",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la Policía Nacional del Perú",
+              "tr": "Национальной полиции Перу"
+            },
+            {
+              "es": "más cercana.",
+              "tr": "ближайшем.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Dar aviso",
+              "tr": "Сообщить"
+            },
+            {
+              "es": "únicamente",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "a la Policía Nacional del Perú.",
+              "tr": "Национальной полиции Перу."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-066": {
+      "id": "a1-066",
+      "text": "Если в водительских правах указано ограничение, верно, что:",
+      "options": {
+        "a": "Это ограничение — просто для информации.",
+        "b": "Соблюдать ограничение обязательно.",
+        "c": "Нарушение ограничения не создаёт риска для безопасности движения.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Ограничение в правах обязательно",
+      "explanation": "Ограничение в правах (например, «очки») нужно соблюдать. Это обязанность, а не совет. Нарушение — это риск и штраф.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si una licencia de conducir",
+            "tr": "Если водительские права"
+          },
+          {
+            "es": "consiga alguna restricción,",
+            "tr": "содержат какое-то ограничение,"
+          },
+          {
+            "es": "es correcto afirmar que:",
+            "tr": "верно утверждать, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Dicha restricción",
+              "tr": "Это ограничение"
+            },
+            {
+              "es": "es meramente informativa.",
+              "tr": "просто информационное."
+            }
+          ],
+          "b": [
+            {
+              "es": "Es una obligación",
+              "tr": "Это обязанность",
+              "kind": "anchor"
+            },
+            {
+              "es": "cumplir con la restricción.",
+              "tr": "соблюдать ограничение."
+            }
+          ],
+          "c": [
+            {
+              "es": "Incumplir la restricción",
+              "tr": "Нарушение ограничения"
+            },
+            {
+              "es": "no genera un riesgo",
+              "tr": "не создаёт риска",
+              "kind": "logic"
+            },
+            {
+              "es": "para la seguridad vial.",
+              "tr": "для безопасности движения."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-067": {
+      "id": "a1-067",
+      "text": "Предупреждающий знак P-33A означает:",
+      "options": {
+        "a": "Знак «извилистая дорога».",
+        "b": "Знак «впереди углубление на дороге (badén)».",
+        "c": "Знак «впереди лежачий полицейский».",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Знак P-33A: лежачий полицейский",
+      "explanation": "P-33A предупреждает о лежачем полицейском (resalto). Badén — это, наоборот, углубление в дороге. На картинке — выпуклость, значит resalto.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal preventiva",
+            "tr": "Предупреждающий знак"
+          },
+          {
+            "es": "P-33A,",
+            "tr": "P-33A,"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señal de curva sinuosa.",
+              "tr": "Знак извилистой дороги."
+            }
+          ],
+          "b": [
+            {
+              "es": "Señal de proximidad",
+              "tr": "Знак приближения"
+            },
+            {
+              "es": "a un badén.",
+              "tr": "к углублению (badén)."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señal de proximidad",
+              "tr": "Знак приближения"
+            },
+            {
+              "es": "de un reductor de velocidad",
+              "tr": "к искусственной неровности",
+              "kind": "anchor"
+            },
+            {
+              "es": "tipo resalto.",
+              "tr": "типа выпуклости (лежачий полицейский).",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-068": {
+      "id": "a1-068",
+      "text": "Если машина заглохла или начала барахлить и вы пытаетесь убрать её на край автострады, нужно:",
+      "options": {
+        "a": "Включить аварийную сигнализацию.",
+        "b": "Остановиться там, где вы есть.",
+        "c": "Быстро выйти из машины.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Машина сломалась на автостраде",
+      "explanation": "Сначала включите «аварийку», чтобы вас видели. Потом уберите машину к краю дороги. Стоять посреди дороги или выбегать из машины опасно.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si su vehículo",
+            "tr": "Если ваша машина"
+          },
+          {
+            "es": "deja de funcionar",
+            "tr": "перестаёт работать"
+          },
+          {
+            "es": "o comienza a tener problemas",
+            "tr": "или начинает барахлить"
+          },
+          {
+            "es": "y usted trata de moverlo",
+            "tr": "и вы пытаетесь убрать её"
+          },
+          {
+            "es": "al costado de la autopista,",
+            "tr": "к краю автострады,"
+          },
+          {
+            "es": "debe:",
+            "tr": "вы должны:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Activar",
+              "tr": "Включить"
+            },
+            {
+              "es": "las luces intermitentes de emergencia.",
+              "tr": "аварийную сигнализацию.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Parar",
+              "tr": "Остановиться"
+            },
+            {
+              "es": "en su posición actual.",
+              "tr": "на текущем месте."
+            }
+          ],
+          "c": [
+            {
+              "es": "Salir del vehículo",
+              "tr": "Выйти из машины"
+            },
+            {
+              "es": "rápidamente.",
+              "tr": "быстро."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-069": {
+      "id": "a1-069",
+      "text": "Можно ли сигналить водителю машины впереди, чтобы предупредить, что вы будете его обгонять?",
+      "options": {
+        "a": "Да, если звук не резкий.",
+        "b": "Да, кроме случаев, когда это прямо запрещено знаком.",
+        "c": "Нет, это запрещено.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Можно ли сигналить перед обгоном",
+      "explanation": "В Перу сигнал — только чтобы избежать опасности. Сигналить перед обгоном запрещено. Оба «Sí» — ловушки.",
+      "trap": "Варианты a и b начинаются с «Sí» (да) и звучат разумно. Правильный — «No, está prohibido» (нет, запрещено).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Está permitido",
+            "tr": "Разрешено ли",
+            "kind": "logic"
+          },
+          {
+            "es": "usar la bocina",
+            "tr": "использовать сигнал"
+          },
+          {
+            "es": "de su vehículo",
+            "tr": "вашей машины"
+          },
+          {
+            "es": "para advertir",
+            "tr": "чтобы предупредить"
+          },
+          {
+            "es": "al conductor del vehículo",
+            "tr": "водителя машины"
+          },
+          {
+            "es": "que circula delante,",
+            "tr": "которая едет впереди,"
+          },
+          {
+            "es": "que será adelantado?",
+            "tr": "что его будут обгонять?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Sí,",
+              "tr": "Да,"
+            },
+            {
+              "es": "siempre y cuando",
+              "tr": "при условии, что",
+              "kind": "logic"
+            },
+            {
+              "es": "el sonido no sea estridente.",
+              "tr": "звук не резкий.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Si,",
+              "tr": "Да,"
+            },
+            {
+              "es": "salvo prohibición expresa",
+              "tr": "кроме явного запрета",
+              "kind": "logic"
+            },
+            {
+              "es": "mediante la correspondiente señal.",
+              "tr": "соответствующим знаком."
+            }
+          ],
+          "c": [
+            {
+              "es": "No,",
+              "tr": "Нет,",
+              "kind": "logic"
+            },
+            {
+              "es": "está prohibido.",
+              "tr": "это запрещено.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-070": {
+      "id": "a1-070",
+      "text": "Если приближается скорая без включённых спецсигналов и без сирены, верно, что:",
+      "options": {
+        "a": "Мы не обязаны уступать ей дорогу.",
+        "b": "Мы обязаны уступить ей дорогу, потому что это скорая.",
+        "c": "Она сообщает, что едет на срочный вызов.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Скорая без сирены и мигалок",
+      "explanation": "Скорая имеет приоритет, только когда включены мигалки и сирена. Без них это обычная машина. Уступать не обязаны.",
+      "trap": "Вариант b звучит «правильно», но ключ — «sin sirena» (без сирены). Правильный ответ начинается с «No estamos obligados» (не обязаны).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si observa",
+            "tr": "Если вы видите"
+          },
+          {
+            "es": "que se aproxima una ambulancia",
+            "tr": "что приближается скорая"
+          },
+          {
+            "es": "sin las luces especiales encendidas",
+            "tr": "без включённых спецсигналов"
+          },
+          {
+            "es": "y sin sirena,",
+            "tr": "и без сирены,"
+          },
+          {
+            "es": "es correcto afirmar que:",
+            "tr": "верно утверждать, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No estamos obligados",
+              "tr": "Мы не обязаны",
+              "kind": "anchor"
+            },
+            {
+              "es": "a darle preferencia de paso.",
+              "tr": "уступать ей дорогу."
+            }
+          ],
+          "b": [
+            {
+              "es": "Estamos obligados",
+              "tr": "Мы обязаны"
+            },
+            {
+              "es": "a darle prioridad de paso",
+              "tr": "уступить ей дорогу"
+            },
+            {
+              "es": "por ser una ambulancia.",
+              "tr": "потому что это скорая."
+            }
+          ],
+          "c": [
+            {
+              "es": "Está informando",
+              "tr": "Она сообщает"
+            },
+            {
+              "es": "que está en servicio de urgencia.",
+              "tr": "что едет по срочному вызову."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-071": {
+      "id": "a1-071",
+      "text": "Вы на перекрёстке, загорелся зелёный, но на поперечной улице машины или люди ещё освобождают перекрёсток. Что делать?",
+      "options": {
+        "a": "Не начинать движение, пока машина или люди не закончат переход.",
+        "b": "Сигналить, чтобы они поторопились.",
+        "c": "Выйти из машины и отчитать нарушителя.",
+        "d": "Ни один вариант не верен."
+      },
+      "gist": "Зелёный, но перекрёсток ещё занят",
+      "explanation": "Зелёный свет — не значит «ехать любой ценой». Подождите, пока перекрёсток освободится. Сигналить или ругаться — нельзя.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si se encuentra en una intersección",
+            "tr": "Если вы на перекрёстке"
+          },
+          {
+            "es": "y se enciende la luz verde",
+            "tr": "и загорается зелёный"
+          },
+          {
+            "es": "del semáforo",
+            "tr": "светофора"
+          },
+          {
+            "es": "y observa que",
+            "tr": "и видите, что"
+          },
+          {
+            "es": "en la calle transversal",
+            "tr": "на поперечной улице"
+          },
+          {
+            "es": "hay vehículos o personas",
+            "tr": "есть машины или люди"
+          },
+          {
+            "es": "despejando la intersección,",
+            "tr": "освобождающие перекрёсток,"
+          },
+          {
+            "es": "¿qué debe hacer?",
+            "tr": "что нужно делать?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No iniciar la marcha",
+              "tr": "Не начинать движение",
+              "kind": "logic"
+            },
+            {
+              "es": "hasta que el vehículo o las personas",
+              "tr": "пока машина или люди"
+            },
+            {
+              "es": "terminen de cruzar.",
+              "tr": "не закончат переход.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Tocar el claxon",
+              "tr": "Сигналить"
+            },
+            {
+              "es": "para que se apuren en pasar.",
+              "tr": "чтобы они поторопились."
+            }
+          ],
+          "c": [
+            {
+              "es": "Bajar del vehículo",
+              "tr": "Выйти из машины"
+            },
+            {
+              "es": "y reclamar la falta al infractor.",
+              "tr": "и предъявить претензию нарушителю."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-072": {
+      "id": "a1-072",
+      "text": "В дорожной разметке цвет ______ на асфальте используется для разделения встречных потоков, а цвет ______ — для разделения полос одного направления.",
+      "options": {
+        "a": "Жёлтый — белый.",
+        "b": "Белый — жёлтый.",
+        "c": "Синий — красный.",
+        "d": "Красный — жёлтый."
+      },
+      "gist": "Цвета разметки: встречка и попутные",
+      "explanation": "Жёлтая линия разделяет встречные потоки. Белая линия разделяет полосы одного направления. Порядок важен: сначала жёлтый, потом белый.",
+      "trap": "a и b — одни и те же цвета в разном порядке. Первый пропуск — «sentido opuesto» (встречное) = amarillo (жёлтый).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "En señalética vial,",
+            "tr": "В дорожной разметке,"
+          },
+          {
+            "es": "el color __________",
+            "tr": "цвет ____"
+          },
+          {
+            "es": "en el pavimento",
+            "tr": "на асфальте"
+          },
+          {
+            "es": "es utilizado",
+            "tr": "используется"
+          },
+          {
+            "es": "para carriles de tráfico",
+            "tr": "для полос движения"
+          },
+          {
+            "es": "en sentido opuesto",
+            "tr": "встречного направления"
+          },
+          {
+            "es": "y el color __________",
+            "tr": "а цвет ____"
+          },
+          {
+            "es": "en el pavimento",
+            "tr": "на асфальте"
+          },
+          {
+            "es": "es utilizado",
+            "tr": "используется"
+          },
+          {
+            "es": "como separador de carriles",
+            "tr": "как разделитель полос"
+          },
+          {
+            "es": "de tráfico en el mismo sentido.",
+            "tr": "движения в одном направлении."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Amarillo - blanco.",
+              "tr": "Жёлтый — белый.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Blanco - Amarillo.",
+              "tr": "Белый — жёлтый."
+            }
+          ],
+          "c": [
+            {
+              "es": "Azul - rojo.",
+              "tr": "Синий — красный."
+            }
+          ],
+          "d": [
+            {
+              "es": "Rojo - Amarillo.",
+              "tr": "Красный — жёлтый."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-073": {
+      "id": "a1-073",
+      "text": "Если группа школьников переходит дорогу вне пешеходного перехода, что нужно сделать?",
+      "options": {
+        "a": "Предупредить сигналом.",
+        "b": "Предупредить криком.",
+        "c": "Остановиться и уступить дорогу.",
+        "d": "Медленно продолжать движение."
+      },
+      "gist": "Школьники переходят вне перехода",
+      "explanation": "Школьникам всегда уступают дорогу, даже вне перехода. Остановитесь и пропустите. Сигналить, кричать или ехать медленно — неверно.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si una fila de escolares",
+            "tr": "Если колонна школьников"
+          },
+          {
+            "es": "cruza la calzada",
+            "tr": "переходит проезжую часть"
+          },
+          {
+            "es": "fuera del crucero peatonal,",
+            "tr": "вне пешеходного перехода,"
+          },
+          {
+            "es": "¿qué acción se debe tomar?",
+            "tr": "что нужно сделать?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Advertir",
+              "tr": "Предупредить"
+            },
+            {
+              "es": "con el claxon.",
+              "tr": "сигналом."
+            }
+          ],
+          "b": [
+            {
+              "es": "Advertir",
+              "tr": "Предупредить"
+            },
+            {
+              "es": "a viva voz.",
+              "tr": "криком."
+            }
+          ],
+          "c": [
+            {
+              "es": "Parar",
+              "tr": "Остановиться"
+            },
+            {
+              "es": "y ceder el paso.",
+              "tr": "и уступить дорогу.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Continuar la marcha",
+              "tr": "Продолжать движение"
+            },
+            {
+              "es": "lentamente.",
+              "tr": "медленно."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-074": {
+      "id": "a1-074",
+      "text": "Если вы подъезжаете к школьной зоне, что нужно сделать?",
+      "options": {
+        "a": "Никаких обязанностей, если нет знаков.",
+        "b": "Снизить скорость до 40 км/ч.",
+        "c": "Снизить скорость до 30 км/ч.",
+        "d": "Снизить скорость до 35 км/ч."
+      },
+      "gist": "Скорость у школьной зоны",
+      "explanation": "В школьной зоне снижаем скорость до 30 км/ч. Это правило действует и без знака. 40 и 35 — ловушки.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si se aproxima",
+            "tr": "Если вы приближаетесь"
+          },
+          {
+            "es": "a una zona escolar,",
+            "tr": "к школьной зоне,"
+          },
+          {
+            "es": "¿qué acción debe realizar?",
+            "tr": "что нужно сделать?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No tiene ninguna obligación",
+              "tr": "Нет никакой обязанности",
+              "kind": "logic"
+            },
+            {
+              "es": "si no hay señalización.",
+              "tr": "если нет знаков.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Disminuir la velocidad",
+              "tr": "Снизить скорость"
+            },
+            {
+              "es": "a 40 Km/h.",
+              "tr": "до 40 км/ч."
+            }
+          ],
+          "c": [
+            {
+              "es": "Disminuir la velocidad",
+              "tr": "Снизить скорость"
+            },
+            {
+              "es": "a 30 Km/h.",
+              "tr": "до 30 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Disminuir la velocidad",
+              "tr": "Снизить скорость"
+            },
+            {
+              "es": "a 35 km/h.",
+              "tr": "до 35 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-075": {
+      "id": "a1-075",
+      "text": "Их цель — сообщать участникам движения об ограничениях, запретах и правилах использования дороги.",
+      "options": {
+        "a": "Регулирующие (предписывающие и запрещающие) знаки.",
+        "b": "Предупреждающие знаки.",
+        "c": "Информационные знаки.",
+        "d": "Горизонтальная разметка."
+      },
+      "gist": "Какие знаки запрещают и ограничивают",
+      "explanation": "Запреты и ограничения — это знаки «reguladoras» (регулирующие). «Preventivas» предупреждают об опасности. «Informativas» дают информацию: направления, места.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Tienen el objetivo",
+            "tr": "Их цель —"
+          },
+          {
+            "es": "de notificar a los usuarios",
+            "tr": "сообщать пользователям"
+          },
+          {
+            "es": "las limitaciones, prohibiciones o restricciones",
+            "tr": "об ограничениях и запретах"
+          },
+          {
+            "es": "en el uso de la vía.",
+            "tr": "при использовании дороги."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señales reguladoras",
+              "tr": "Регулирующие знаки",
+              "kind": "anchor"
+            },
+            {
+              "es": "o de reglamentación.",
+              "tr": "или регламентирующие.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Señales preventivas.",
+              "tr": "Предупреждающие знаки."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señales informativas.",
+              "tr": "Информационные знаки."
+            }
+          ],
+          "d": [
+            {
+              "es": "Señales horizontales.",
+              "tr": "Горизонтальные знаки (разметка)."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "en": {
+    "a1-051": {
+      "id": "a1-051",
+      "text": "If you find a double yellow line made of one solid line and one broken line on a two-way road, what should you do?",
+      "options": {
+        "a": "You may overtake in both directions.",
+        "b": "Overtaking is not allowed in either direction.",
+        "c": "Follow the line on your side (if it is solid, do not overtake; if it is broken, overtaking is allowed).",
+        "d": "Follow the line on your side (if it is broken, do not overtake; if it is solid, overtaking is allowed)"
+      },
+      "gist": "Double yellow line: solid plus broken",
+      "explanation": "Look at the line on your side. Solid means no overtaking. Broken means you may overtake. Option d says the opposite.",
+      "trap": "Options c and d look almost the same. The right one says «si es continua, no adelantar» (if solid, do not overtake). Option d swaps them.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "En caso de encontrar",
+            "tr": "If you find"
+          },
+          {
+            "es": "marcación de doble línea amarilla",
+            "tr": "a double yellow line marking"
+          },
+          {
+            "es": "compuesta por",
+            "tr": "made of"
+          },
+          {
+            "es": "un trazo continuo",
+            "tr": "one solid line"
+          },
+          {
+            "es": "y otro trazo discontinuo",
+            "tr": "and another broken line"
+          },
+          {
+            "es": "en una vía de doble sentido,",
+            "tr": "on a two-way road,"
+          },
+          {
+            "es": "¿qué se debe hacer?",
+            "tr": "what must you do?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se puede adelantar",
+              "tr": "You may overtake",
+              "kind": "logic"
+            },
+            {
+              "es": "en ambos sentidos.",
+              "tr": "in both directions.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "No está permitido adelantar",
+              "tr": "It is not allowed to overtake",
+              "kind": "logic"
+            },
+            {
+              "es": "en ningún sentido.",
+              "tr": "in either direction.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Respetar la línea",
+              "tr": "Follow the line"
+            },
+            {
+              "es": "que está de su lado",
+              "tr": "that is on your side"
+            },
+            {
+              "es": "(si es continua, no adelantar;",
+              "tr": "(if solid, do not overtake;",
+              "kind": "anchor"
+            },
+            {
+              "es": "si es discontinua,",
+              "tr": "if broken,"
+            },
+            {
+              "es": "está permitido adelantar).",
+              "tr": "overtaking is allowed).",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Respetar la línea",
+              "tr": "Follow the line"
+            },
+            {
+              "es": "que está de su lado",
+              "tr": "that is on your side"
+            },
+            {
+              "es": "(si es discontinua, no adelantar;",
+              "tr": "(if broken, do not overtake;",
+              "kind": "logic"
+            },
+            {
+              "es": "si es continua,",
+              "tr": "if solid,"
+            },
+            {
+              "es": "está permitido adelantar)",
+              "tr": "overtaking is allowed)",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-052": {
+      "id": "a1-052",
+      "text": "A \"zona rígida\" (rigid zone) is defined as:",
+      "options": {
+        "a": "Area where vehicle traffic is prohibited.",
+        "b": "Area where pedestrian traffic is prohibited.",
+        "c": "Area of the road where parking vehicles is prohibited.",
+        "d": "All options are correct."
+      },
+      "gist": "What a zona rígida is",
+      "explanation": "A zona rígida is a stretch of road where parking is prohibited. Driving and walking there are fine. So \"all options\" is wrong.",
+      "legalRef": "RNT art. 2",
+      "gloss": {
+        "text": [
+          {
+            "es": "Se define como",
+            "tr": "Is defined as"
+          },
+          {
+            "es": "zona rígida",
+            "tr": "rigid zone"
+          },
+          {
+            "es": "al:",
+            "tr": "the:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Área donde",
+              "tr": "Area where"
+            },
+            {
+              "es": "se prohíbe",
+              "tr": "is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "la circulación de vehículos.",
+              "tr": "vehicle traffic."
+            }
+          ],
+          "b": [
+            {
+              "es": "Área donde",
+              "tr": "Area where"
+            },
+            {
+              "es": "se prohíbe",
+              "tr": "is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "la circulación de peatones.",
+              "tr": "pedestrian traffic."
+            }
+          ],
+          "c": [
+            {
+              "es": "Área de la vía",
+              "tr": "Area of the road"
+            },
+            {
+              "es": "en la que se prohíbe",
+              "tr": "where is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "el estacionamiento de vehículos.",
+              "tr": "parking of vehicles.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All options",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-053": {
+      "id": "a1-053",
+      "text": "When the traffic police officer stands facing you or with his back to you, it means:",
+      "options": {
+        "a": "Whoever faces him this way must stop.",
+        "b": "Continue driving in the left lane of the road.",
+        "c": "Continue driving.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Officer facing you or back turned",
+      "explanation": "The officer's chest or back toward you works like a red light. You must stop. You may go when he stands sideways to you.",
+      "gloss": {
+        "text": [
+          {
+            "es": "La posición de frente",
+            "tr": "The position facing you"
+          },
+          {
+            "es": "o de espaldas",
+            "tr": "or with the back to you"
+          },
+          {
+            "es": "ejecutada por el efectivo",
+            "tr": "performed by the officer"
+          },
+          {
+            "es": "de la Policía Nacional del Perú",
+            "tr": "of the National Police of Peru"
+          },
+          {
+            "es": "asignado al control de tránsito",
+            "tr": "assigned to traffic control"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Obligación de detenerse",
+              "tr": "Obligation to stop",
+              "kind": "anchor"
+            },
+            {
+              "es": "de quien así lo enfrente.",
+              "tr": "for whoever faces him this way."
+            }
+          ],
+          "b": [
+            {
+              "es": "Continuar la marcha",
+              "tr": "Continue driving"
+            },
+            {
+              "es": "por el carril izquierdo",
+              "tr": "in the left lane",
+              "kind": "logic"
+            },
+            {
+              "es": "de la calzada.",
+              "tr": "of the roadway."
+            }
+          ],
+          "c": [
+            {
+              "es": "Continuar la marcha.",
+              "tr": "Continue driving."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-054": {
+      "id": "a1-054",
+      "text": "If there is no speed limit sign, the maximum speed in urban areas on streets (calles y jirones) is:",
+      "options": {
+        "a": "30 km/h.",
+        "b": "40 km/h.",
+        "c": "60 km/h.",
+        "d": "80 km/h."
+      },
+      "gist": "Maximum speed on city streets",
+      "explanation": "On ordinary streets and \"jirones\" it is 40 km/h. On avenues (avenidas) it is 60. On expressways (vías expresas) it is 80. In school zones it is 30.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Whenever there is no",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad,",
+            "tr": "speed limit sign,"
+          },
+          {
+            "es": "en zonas urbanas",
+            "tr": "in urban areas"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "the maximum speed limit"
+          },
+          {
+            "es": "en calles y jirones",
+            "tr": "on streets and jirones"
+          },
+          {
+            "es": "es de:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "30km/h.",
+              "tr": "30 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "40km/h.",
+              "tr": "40 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "60km/h.",
+              "tr": "60 km/h."
+            }
+          ],
+          "d": [
+            {
+              "es": "80km/h.",
+              "tr": "80 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-055": {
+      "id": "a1-055",
+      "text": "If there is no speed limit sign, the maximum speed in urban areas on avenues (avenidas) is:",
+      "options": {
+        "a": "30 km/h.",
+        "b": "40 km/h.",
+        "c": "60 km/h.",
+        "d": "80 km/h."
+      },
+      "gist": "Maximum speed on avenues",
+      "explanation": "On avenues (avenidas) it is 60 km/h. On ordinary streets it is 40. On expressways it is 80.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Whenever there is no",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad,",
+            "tr": "speed limit sign,"
+          },
+          {
+            "es": "en zonas urbanas",
+            "tr": "in urban areas"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "the maximum speed limit"
+          },
+          {
+            "es": "en avenidas",
+            "tr": "on avenues"
+          },
+          {
+            "es": "es de:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "30km/h.",
+              "tr": "30 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "40km/h.",
+              "tr": "40 km/h."
+            }
+          ],
+          "c": [
+            {
+              "es": "60km/h.",
+              "tr": "60 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "80km/h.",
+              "tr": "80 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-056": {
+      "id": "a1-056",
+      "text": "If there is no speed limit sign, the maximum speed in urban areas on expressways (vías expresas) is:",
+      "options": {
+        "a": "60 km/h.",
+        "b": "70 km/h.",
+        "c": "80 km/h.",
+        "d": "100 km/h."
+      },
+      "gist": "Maximum speed on expressways",
+      "explanation": "On urban expressways (vías expresas) it is 80 km/h. That is the highest urban limit. 100 km/h applies only on highways (carreteras).",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Whenever there is no",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad,",
+            "tr": "speed limit sign,"
+          },
+          {
+            "es": "en zonas urbanas",
+            "tr": "in urban areas"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "the maximum speed limit"
+          },
+          {
+            "es": "en vías expresas",
+            "tr": "on expressways"
+          },
+          {
+            "es": "es de:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "60km/h.",
+              "tr": "60 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "70km/h.",
+              "tr": "70 km/h."
+            }
+          ],
+          "c": [
+            {
+              "es": "80km/h.",
+              "tr": "80 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "100km/h.",
+              "tr": "100 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-057": {
+      "id": "a1-057",
+      "text": "If there is no speed limit sign in urban areas, the maximum speed in a school zone is:",
+      "options": {
+        "a": "20 km/h.",
+        "b": "30 km/h.",
+        "c": "35 km/h.",
+        "d": "50 km/h."
+      },
+      "gist": "Maximum speed in school zone",
+      "explanation": "In a school zone it is 30 km/h. Remember: school = 30. Options 35 and 20 are traps.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Whenever there is no",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad",
+            "tr": "speed limit sign"
+          },
+          {
+            "es": "en zonas urbanas,",
+            "tr": "in urban areas,"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "the maximum speed limit"
+          },
+          {
+            "es": "en zona escolar",
+            "tr": "in a school zone"
+          },
+          {
+            "es": "es de:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "20km/h.",
+              "tr": "20 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "30km/h.",
+              "tr": "30 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "35km/h.",
+              "tr": "35 km/h."
+            }
+          ],
+          "d": [
+            {
+              "es": "50km/h.",
+              "tr": "50 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-058": {
+      "id": "a1-058",
+      "text": "If there is no speed limit sign on highways, the maximum speed for cars, pickups and motorcycles is:",
+      "options": {
+        "a": "80 km/h.",
+        "b": "90 km/h.",
+        "c": "100 km/h.",
+        "d": "110 km/h."
+      },
+      "gist": "Highway maximum for cars and motorcycles",
+      "explanation": "On highways (carreteras) cars, pickups and motorcycles may go 100 km/h. Buses and trucks have lower limits. 80 is the urban expressway limit.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Whenever there is no",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad",
+            "tr": "speed limit sign"
+          },
+          {
+            "es": "en carreteras,",
+            "tr": "on highways,"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "the maximum speed limit"
+          },
+          {
+            "es": "para automóviles, camionetas y motocicletas",
+            "tr": "for cars, pickups and motorcycles"
+          },
+          {
+            "es": "es de:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "80km/h.",
+              "tr": "80 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "90km/h.",
+              "tr": "90 km/h."
+            }
+          ],
+          "c": [
+            {
+              "es": "100km/h.",
+              "tr": "100 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "110km/h.",
+              "tr": "110 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-059": {
+      "id": "a1-059",
+      "text": "If there is no minimum speed sign, the minimum speed in urban areas and on highways is:",
+      "options": {
+        "a": "30 km/h.",
+        "b": "Half of the maximum speed set for each type of road.",
+        "c": "20 km/h.",
+        "d": "15 km/h."
+      },
+      "gist": "Minimum speed without a sign",
+      "explanation": "The minimum is half the maximum for that road. Street 40 → minimum 20. Highway 100 → minimum 50. The rule gives no fixed number.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Siempre que no exista",
+            "tr": "Whenever there is no",
+            "kind": "logic"
+          },
+          {
+            "es": "una señal de límite de velocidad mínima,",
+            "tr": "minimum speed limit sign,"
+          },
+          {
+            "es": "el límite mínimo de velocidad",
+            "tr": "the minimum speed limit"
+          },
+          {
+            "es": "en zona urbana y en carreteras",
+            "tr": "in urban areas and on highways"
+          },
+          {
+            "es": "es de:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "30km/h.",
+              "tr": "30 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "La mitad",
+              "tr": "Half",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la velocidad máxima",
+              "tr": "of the maximum speed"
+            },
+            {
+              "es": "establecida para cada tipo de vía.",
+              "tr": "set for each type of road."
+            }
+          ],
+          "c": [
+            {
+              "es": "20 km/h.",
+              "tr": "20 km/h."
+            }
+          ],
+          "d": [
+            {
+              "es": "15 km/h.",
+              "tr": "15 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-060": {
+      "id": "a1-060",
+      "text": "What is the penalty for driving with blood alcohol above the Penal Code limit, or under the effect of drugs confirmed by a test, or for refusing the test, when the driver was involved in a traffic accident?",
+      "options": {
+        "a": "A fine.",
+        "b": "Cancellation of the driving licence.",
+        "c": "Suspension of the driving licence.",
+        "d": "A fine, cancellation of the licence and a permanent ban on getting a licence."
+      },
+      "gist": "Penalty: alcohol plus an accident",
+      "explanation": "The key word is \"accidente\" (accident). Alcohol or drugs plus an accident gets the harshest penalty. Fine, licence cancelled and a lifetime ban. Without an accident it is a fine and a 3-year suspension.",
+      "trap": "Option b also mentions cancellation, but it is only part. The right answer is the full set: «Multa, cancelación... e inhabilitación definitiva».",
+      "legalRef": "RNT Anexo I, M.1",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es la sanción",
+            "tr": "What is the penalty"
+          },
+          {
+            "es": "por conducir",
+            "tr": "for driving"
+          },
+          {
+            "es": "con presencia de alcohol en la sangre",
+            "tr": "with alcohol in the blood"
+          },
+          {
+            "es": "en proporción mayor",
+            "tr": "in a proportion higher",
+            "kind": "logic"
+          },
+          {
+            "es": "a lo previsto en el Código Penal,",
+            "tr": "than the Penal Code allows,"
+          },
+          {
+            "es": "o bajo los efectos",
+            "tr": "or under the effects"
+          },
+          {
+            "es": "de estupefacientes, narcóticos y/o alucinógenos",
+            "tr": "of drugs, narcotics and/or hallucinogens"
+          },
+          {
+            "es": "comprobados con el examen respectivo,",
+            "tr": "confirmed by the respective test,"
+          },
+          {
+            "es": "o por negarse al mismo",
+            "tr": "or for refusing it (the test)"
+          },
+          {
+            "es": "y que haya participado",
+            "tr": "and having been involved"
+          },
+          {
+            "es": "en un accidente de tránsito?",
+            "tr": "in a traffic accident?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Multa.",
+              "tr": "A fine."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cancelación",
+              "tr": "Cancellation"
+            },
+            {
+              "es": "de licencia de conducir.",
+              "tr": "of the driving licence."
+            }
+          ],
+          "c": [
+            {
+              "es": "Suspensión",
+              "tr": "Suspension"
+            },
+            {
+              "es": "de la licencia de conducir.",
+              "tr": "of the driving licence."
+            }
+          ],
+          "d": [
+            {
+              "es": "Multa,",
+              "tr": "A fine,"
+            },
+            {
+              "es": "cancelación de la licencia de conducir",
+              "tr": "cancellation of the driving licence"
+            },
+            {
+              "es": "e inhabilitación definitiva",
+              "tr": "and a permanent ban",
+              "kind": "anchor"
+            },
+            {
+              "es": "para obtener una licencia de conducir.",
+              "tr": "on obtaining a driving licence."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-061": {
+      "id": "a1-061",
+      "text": "What is the penalty if you are stopped at an alcohol checkpoint and a test shows alcohol above the legal limit or drugs?",
+      "options": {
+        "a": "A fine",
+        "b": "Suspension of the driving licence.",
+        "c": "A fine and suspension of the licence for 3 years.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Penalty: alcohol without an accident",
+      "explanation": "Here there was no accident. The penalty is a fine plus a 3-year licence suspension. A fine alone or suspension alone is incomplete. With an accident it would be cancellation.",
+      "trap": "Options a and b are each half the answer. Look for «Multa y suspensión... por 3 años» (fine and 3-year suspension).",
+      "legalRef": "RNT Anexo I, M.2",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es la sanción",
+            "tr": "What is the penalty"
+          },
+          {
+            "es": "si en un operativo de alcoholemia",
+            "tr": "if at an alcohol checkpoint"
+          },
+          {
+            "es": "usted es intervenido",
+            "tr": "you are stopped"
+          },
+          {
+            "es": "y se comprueba",
+            "tr": "and it is confirmed"
+          },
+          {
+            "es": "que ha consumido alcohol",
+            "tr": "that you drank alcohol"
+          },
+          {
+            "es": "por encima del límite legal,",
+            "tr": "above the legal limit,"
+          },
+          {
+            "es": "o está conduciendo",
+            "tr": "or you are driving"
+          },
+          {
+            "es": "bajo los efectos",
+            "tr": "under the effects"
+          },
+          {
+            "es": "de estupefacientes, narcóticos y/o alucinógenos",
+            "tr": "of drugs, narcotics and/or hallucinogens"
+          },
+          {
+            "es": "comprobada con el examen respectivo?",
+            "tr": "confirmed by the respective test?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Una multa",
+              "tr": "A fine"
+            }
+          ],
+          "b": [
+            {
+              "es": "La suspensión",
+              "tr": "Suspension"
+            },
+            {
+              "es": "de la licencia de conducir.",
+              "tr": "of the driving licence."
+            }
+          ],
+          "c": [
+            {
+              "es": "Multa y suspensión",
+              "tr": "Fine and suspension"
+            },
+            {
+              "es": "de la licencia de conducir",
+              "tr": "of the driving licence"
+            },
+            {
+              "es": "por 3 años.",
+              "tr": "for 3 years.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-062": {
+      "id": "a1-062",
+      "text": "How often a private vehicle must pass the technical inspection:",
+      "options": {
+        "a": "Every six months.",
+        "b": "Every year.",
+        "c": "Every two years.",
+        "d": "Every three years."
+      },
+      "gist": "How often private car inspection",
+      "explanation": "A private car passes the technical inspection once a year. Commercial vehicles are inspected more often.",
+      "gloss": {
+        "text": [
+          {
+            "es": "La frecuencia",
+            "tr": "The frequency"
+          },
+          {
+            "es": "de la inspección técnica",
+            "tr": "of the technical inspection"
+          },
+          {
+            "es": "de un vehículo particular",
+            "tr": "of a private vehicle"
+          },
+          {
+            "es": "es:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cada medio año.",
+              "tr": "Every half year."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cada año.",
+              "tr": "Every year.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Cada dos años.",
+              "tr": "Every two years."
+            }
+          ],
+          "d": [
+            {
+              "es": "Cada tres años.",
+              "tr": "Every three years."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-063": {
+      "id": "a1-063",
+      "text": "From what age must a private M1 vehicle (up to 9 seats including the driver) undergo the technical inspection?",
+      "options": {
+        "a": "From the second year, counted from the year after manufacture.",
+        "b": "From the fourth year, counted from the year after manufacture.",
+        "c": "From the fifth year, counted from the year after manufacture.",
+        "d": "It is not subject to technical inspection."
+      },
+      "gist": "From what year M1 inspection",
+      "explanation": "A new private M1 car skips inspection for its first years. The first inspection is from the fourth year after the year of manufacture. Remember: \"cuarto\" = fourth.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿A partir de qué año",
+            "tr": "From what year"
+          },
+          {
+            "es": "de antigüedad",
+            "tr": "of age"
+          },
+          {
+            "es": "debe realizarse",
+            "tr": "must be done",
+            "kind": "logic"
+          },
+          {
+            "es": "la inspección técnica",
+            "tr": "the technical inspection"
+          },
+          {
+            "es": "de un vehículo particular",
+            "tr": "of a private vehicle"
+          },
+          {
+            "es": "para transporte de personas",
+            "tr": "for carrying people"
+          },
+          {
+            "es": "de hasta 9 asientos",
+            "tr": "with up to 9 seats"
+          },
+          {
+            "es": "incluido el conductor",
+            "tr": "including the driver"
+          },
+          {
+            "es": "de la categoría M1?",
+            "tr": "of category M1?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "A partir del segundo año",
+              "tr": "From the second year"
+            },
+            {
+              "es": "contado desde el año siguiente",
+              "tr": "counted from the year after"
+            },
+            {
+              "es": "de su fabricación.",
+              "tr": "its manufacture."
+            }
+          ],
+          "b": [
+            {
+              "es": "A partir del cuarto año",
+              "tr": "From the fourth year",
+              "kind": "anchor"
+            },
+            {
+              "es": "contado desde el año siguiente",
+              "tr": "counted from the year after"
+            },
+            {
+              "es": "de su fabricación.",
+              "tr": "its manufacture."
+            }
+          ],
+          "c": [
+            {
+              "es": "A partir del quinto año",
+              "tr": "From the fifth year"
+            },
+            {
+              "es": "contado desde el año siguiente",
+              "tr": "counted from the year after"
+            },
+            {
+              "es": "de su fabricación.",
+              "tr": "its manufacture."
+            }
+          ],
+          "d": [
+            {
+              "es": "No está sujeto",
+              "tr": "Is not subject",
+              "kind": "logic"
+            },
+            {
+              "es": "a inspección técnica.",
+              "tr": "to technical inspection."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-064": {
+      "id": "a1-064",
+      "text": "How long is the SOAT (compulsory insurance) valid?",
+      "options": {
+        "a": "1 year.",
+        "b": "6 months.",
+        "c": "4 years.",
+        "d": "2 years."
+      },
+      "gist": "How long SOAT is valid",
+      "explanation": "SOAT is the compulsory accident insurance. It is valid for 1 year, then you must renew it. Driving without SOAT is not allowed.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál es el plazo",
+            "tr": "What is the period"
+          },
+          {
+            "es": "de vigencia",
+            "tr": "of validity"
+          },
+          {
+            "es": "del SOAT?",
+            "tr": "of the SOAT?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "1 año.",
+              "tr": "1 year.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "6 meses.",
+              "tr": "6 months."
+            }
+          ],
+          "c": [
+            {
+              "es": "4 años.",
+              "tr": "4 years."
+            }
+          ],
+          "d": [
+            {
+              "es": "2 años.",
+              "tr": "2 years."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-065": {
+      "id": "a1-065",
+      "text": "If a traffic accident happens, what must the driver, the vehicle owner or the transport operator do?",
+      "options": {
+        "a": "Notify the fire brigade.",
+        "b": "Notify only the insurance company.",
+        "c": "Notify the insurance company and file a report at the nearest police station.",
+        "d": "Notify only the National Police of Peru."
+      },
+      "gist": "What to do after an accident",
+      "explanation": "After an accident you must do two things. Notify the insurer and report at the police station. Options with \"solo\" and \"únicamente\" (only) are incomplete.",
+      "trap": "b and d use «solo» / «únicamente» (only): one action. The right answer has «y» (and): insurer and police.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si ocurre",
+            "tr": "If there is"
+          },
+          {
+            "es": "un accidente de tránsito,",
+            "tr": "a traffic accident,"
+          },
+          {
+            "es": "¿qué obligación tiene",
+            "tr": "what obligation has"
+          },
+          {
+            "es": "el conductor,",
+            "tr": "the driver,"
+          },
+          {
+            "es": "el propietario del vehículo",
+            "tr": "the vehicle owner"
+          },
+          {
+            "es": "o el prestador del servicio de transporte?",
+            "tr": "or the transport service provider?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Dar aviso",
+              "tr": "Notify"
+            },
+            {
+              "es": "a los bomberos.",
+              "tr": "the fire brigade."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dar aviso",
+              "tr": "Notify"
+            },
+            {
+              "es": "solo",
+              "tr": "only",
+              "kind": "logic"
+            },
+            {
+              "es": "a la compañía de seguros.",
+              "tr": "the insurance company."
+            }
+          ],
+          "c": [
+            {
+              "es": "Dar aviso",
+              "tr": "Notify"
+            },
+            {
+              "es": "a la compañía de seguros",
+              "tr": "the insurance company"
+            },
+            {
+              "es": "y dejar constancia",
+              "tr": "and file a report",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la delegación",
+              "tr": "at the station",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la Policía Nacional del Perú",
+              "tr": "of the National Police of Peru"
+            },
+            {
+              "es": "más cercana.",
+              "tr": "nearest.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Dar aviso",
+              "tr": "Notify"
+            },
+            {
+              "es": "únicamente",
+              "tr": "only",
+              "kind": "logic"
+            },
+            {
+              "es": "a la Policía Nacional del Perú.",
+              "tr": "the National Police of Peru."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-066": {
+      "id": "a1-066",
+      "text": "If a driving licence has a restriction noted, it is correct to say that:",
+      "options": {
+        "a": "That restriction is merely informative.",
+        "b": "It is mandatory to comply with the restriction.",
+        "c": "Breaking the restriction creates no road safety risk.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Licence restriction must be followed",
+      "explanation": "A restriction on the licence (for example \"glasses\") must be followed. It is a duty, not advice. Breaking it is a risk and an offence.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si una licencia de conducir",
+            "tr": "If a driving licence"
+          },
+          {
+            "es": "consiga alguna restricción,",
+            "tr": "has a restriction noted,"
+          },
+          {
+            "es": "es correcto afirmar que:",
+            "tr": "it is correct to say that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Dicha restricción",
+              "tr": "That restriction"
+            },
+            {
+              "es": "es meramente informativa.",
+              "tr": "is merely informative."
+            }
+          ],
+          "b": [
+            {
+              "es": "Es una obligación",
+              "tr": "It is an obligation",
+              "kind": "anchor"
+            },
+            {
+              "es": "cumplir con la restricción.",
+              "tr": "to comply with the restriction."
+            }
+          ],
+          "c": [
+            {
+              "es": "Incumplir la restricción",
+              "tr": "Breaking the restriction"
+            },
+            {
+              "es": "no genera un riesgo",
+              "tr": "creates no risk",
+              "kind": "logic"
+            },
+            {
+              "es": "para la seguridad vial.",
+              "tr": "for road safety."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-067": {
+      "id": "a1-067",
+      "text": "Warning sign P-33A means:",
+      "options": {
+        "a": "Winding road sign.",
+        "b": "Sign for a dip in the road (badén) ahead.",
+        "c": "Sign for a speed bump ahead.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Sign P-33A: speed bump",
+      "explanation": "P-33A warns of a speed bump (resalto). A badén is the opposite: a dip in the road. The picture shows a bump, so it is resalto.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal preventiva",
+            "tr": "The warning sign"
+          },
+          {
+            "es": "P-33A,",
+            "tr": "P-33A,"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señal de curva sinuosa.",
+              "tr": "Winding road sign."
+            }
+          ],
+          "b": [
+            {
+              "es": "Señal de proximidad",
+              "tr": "Sign of proximity"
+            },
+            {
+              "es": "a un badén.",
+              "tr": "to a dip (badén)."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señal de proximidad",
+              "tr": "Sign of proximity"
+            },
+            {
+              "es": "de un reductor de velocidad",
+              "tr": "of a speed reducer",
+              "kind": "anchor"
+            },
+            {
+              "es": "tipo resalto.",
+              "tr": "of the bump type.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-068": {
+      "id": "a1-068",
+      "text": "If your vehicle stops working or starts having problems and you try to move it to the side of the highway, you must:",
+      "options": {
+        "a": "Turn on the hazard warning lights.",
+        "b": "Stop where you are.",
+        "c": "Get out of the vehicle quickly.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Car breaks down on highway",
+      "explanation": "First turn on the hazard lights so others see you. Then move the car to the side. Stopping in the road or jumping out is dangerous.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si su vehículo",
+            "tr": "If your vehicle"
+          },
+          {
+            "es": "deja de funcionar",
+            "tr": "stops working"
+          },
+          {
+            "es": "o comienza a tener problemas",
+            "tr": "or starts having problems"
+          },
+          {
+            "es": "y usted trata de moverlo",
+            "tr": "and you try to move it"
+          },
+          {
+            "es": "al costado de la autopista,",
+            "tr": "to the side of the highway,"
+          },
+          {
+            "es": "debe:",
+            "tr": "you must:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Activar",
+              "tr": "Turn on"
+            },
+            {
+              "es": "las luces intermitentes de emergencia.",
+              "tr": "the hazard warning lights.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Parar",
+              "tr": "Stop"
+            },
+            {
+              "es": "en su posición actual.",
+              "tr": "in your current position."
+            }
+          ],
+          "c": [
+            {
+              "es": "Salir del vehículo",
+              "tr": "Get out of the vehicle"
+            },
+            {
+              "es": "rápidamente.",
+              "tr": "quickly."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-069": {
+      "id": "a1-069",
+      "text": "May you use your horn to warn the driver ahead that you are going to overtake?",
+      "options": {
+        "a": "Yes, as long as the sound is not shrill.",
+        "b": "Yes, unless a sign expressly prohibits it.",
+        "c": "No, it is prohibited.",
+        "d": "None of the options is correct."
+      },
+      "gist": "May you honk before overtaking",
+      "explanation": "In Peru the horn is only for avoiding danger. Honking to announce an overtake is prohibited. Both \"Sí\" options are traps.",
+      "trap": "Options a and b start with «Sí» (yes) and sound reasonable. The right one is «No, está prohibido» (no, it is prohibited).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Está permitido",
+            "tr": "Is it allowed",
+            "kind": "logic"
+          },
+          {
+            "es": "usar la bocina",
+            "tr": "to use the horn"
+          },
+          {
+            "es": "de su vehículo",
+            "tr": "of your vehicle"
+          },
+          {
+            "es": "para advertir",
+            "tr": "to warn"
+          },
+          {
+            "es": "al conductor del vehículo",
+            "tr": "the driver of the vehicle"
+          },
+          {
+            "es": "que circula delante,",
+            "tr": "that is driving ahead,"
+          },
+          {
+            "es": "que será adelantado?",
+            "tr": "that he will be overtaken?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Sí,",
+              "tr": "Yes,"
+            },
+            {
+              "es": "siempre y cuando",
+              "tr": "as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "el sonido no sea estridente.",
+              "tr": "the sound is not shrill.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Si,",
+              "tr": "Yes,"
+            },
+            {
+              "es": "salvo prohibición expresa",
+              "tr": "except an express prohibition",
+              "kind": "logic"
+            },
+            {
+              "es": "mediante la correspondiente señal.",
+              "tr": "by the corresponding sign."
+            }
+          ],
+          "c": [
+            {
+              "es": "No,",
+              "tr": "No,",
+              "kind": "logic"
+            },
+            {
+              "es": "está prohibido.",
+              "tr": "it is prohibited.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-070": {
+      "id": "a1-070",
+      "text": "If an ambulance approaches without its special lights on and without a siren, it is correct to say that:",
+      "options": {
+        "a": "We are not required to give it right of way.",
+        "b": "We must give it priority because it is an ambulance.",
+        "c": "It is signalling that it is on an emergency call.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Ambulance without siren or lights",
+      "explanation": "An ambulance has priority only with its lights and siren on. Without them it is an ordinary vehicle. You do not have to yield.",
+      "trap": "Option b sounds \"right\", but the key is «sin sirena» (without siren). The right answer starts with «No estamos obligados» (not required).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si observa",
+            "tr": "If you see"
+          },
+          {
+            "es": "que se aproxima una ambulancia",
+            "tr": "that an ambulance approaches"
+          },
+          {
+            "es": "sin las luces especiales encendidas",
+            "tr": "without the special lights on"
+          },
+          {
+            "es": "y sin sirena,",
+            "tr": "and without siren,"
+          },
+          {
+            "es": "es correcto afirmar que:",
+            "tr": "it is correct to say that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No estamos obligados",
+              "tr": "We are not required",
+              "kind": "anchor"
+            },
+            {
+              "es": "a darle preferencia de paso.",
+              "tr": "to give it right of way."
+            }
+          ],
+          "b": [
+            {
+              "es": "Estamos obligados",
+              "tr": "We are required"
+            },
+            {
+              "es": "a darle prioridad de paso",
+              "tr": "to give it priority"
+            },
+            {
+              "es": "por ser una ambulancia.",
+              "tr": "because it is an ambulance."
+            }
+          ],
+          "c": [
+            {
+              "es": "Está informando",
+              "tr": "It is informing"
+            },
+            {
+              "es": "que está en servicio de urgencia.",
+              "tr": "that it is on emergency duty."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-071": {
+      "id": "a1-071",
+      "text": "You are at an intersection, the light turns green, but vehicles or people on the cross street are still clearing the intersection. What should you do?",
+      "options": {
+        "a": "Do not start moving until the vehicle or the people finish crossing.",
+        "b": "Honk so they hurry up.",
+        "c": "Get out of the vehicle and confront the offender.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Green light but intersection still busy",
+      "explanation": "Green does not mean \"go no matter what\". Wait until the intersection is clear. Honking or arguing is not the answer.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si se encuentra en una intersección",
+            "tr": "If you are at an intersection"
+          },
+          {
+            "es": "y se enciende la luz verde",
+            "tr": "and the green light comes on"
+          },
+          {
+            "es": "del semáforo",
+            "tr": "of the traffic light"
+          },
+          {
+            "es": "y observa que",
+            "tr": "and you see that"
+          },
+          {
+            "es": "en la calle transversal",
+            "tr": "on the cross street"
+          },
+          {
+            "es": "hay vehículos o personas",
+            "tr": "there are vehicles or people"
+          },
+          {
+            "es": "despejando la intersección,",
+            "tr": "clearing the intersection,"
+          },
+          {
+            "es": "¿qué debe hacer?",
+            "tr": "what must you do?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No iniciar la marcha",
+              "tr": "Do not start moving",
+              "kind": "logic"
+            },
+            {
+              "es": "hasta que el vehículo o las personas",
+              "tr": "until the vehicle or the people"
+            },
+            {
+              "es": "terminen de cruzar.",
+              "tr": "finish crossing.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Tocar el claxon",
+              "tr": "Honk the horn"
+            },
+            {
+              "es": "para que se apuren en pasar.",
+              "tr": "so they hurry up crossing."
+            }
+          ],
+          "c": [
+            {
+              "es": "Bajar del vehículo",
+              "tr": "Get out of the vehicle"
+            },
+            {
+              "es": "y reclamar la falta al infractor.",
+              "tr": "and confront the offender."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-072": {
+      "id": "a1-072",
+      "text": "In road markings, the colour ______ on the pavement separates traffic in opposite directions, and the colour ______ separates lanes going in the same direction.",
+      "options": {
+        "a": "Yellow - white.",
+        "b": "White - yellow.",
+        "c": "Blue - red.",
+        "d": "Red - yellow."
+      },
+      "gist": "Marking colours: opposite and same direction",
+      "explanation": "A yellow line separates opposite directions. A white line separates lanes in the same direction. Order matters: yellow first, then white.",
+      "trap": "a and b use the same colours in a different order. The first blank is «sentido opuesto» (opposite direction) = amarillo (yellow).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "En señalética vial,",
+            "tr": "In road signage,"
+          },
+          {
+            "es": "el color __________",
+            "tr": "the colour ____"
+          },
+          {
+            "es": "en el pavimento",
+            "tr": "on the pavement"
+          },
+          {
+            "es": "es utilizado",
+            "tr": "is used"
+          },
+          {
+            "es": "para carriles de tráfico",
+            "tr": "for traffic lanes"
+          },
+          {
+            "es": "en sentido opuesto",
+            "tr": "in the opposite direction"
+          },
+          {
+            "es": "y el color __________",
+            "tr": "and the colour ____"
+          },
+          {
+            "es": "en el pavimento",
+            "tr": "on the pavement"
+          },
+          {
+            "es": "es utilizado",
+            "tr": "is used"
+          },
+          {
+            "es": "como separador de carriles",
+            "tr": "as a separator of lanes"
+          },
+          {
+            "es": "de tráfico en el mismo sentido.",
+            "tr": "of traffic in the same direction."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Amarillo - blanco.",
+              "tr": "Yellow - white.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Blanco - Amarillo.",
+              "tr": "White - yellow."
+            }
+          ],
+          "c": [
+            {
+              "es": "Azul - rojo.",
+              "tr": "Blue - red."
+            }
+          ],
+          "d": [
+            {
+              "es": "Rojo - Amarillo.",
+              "tr": "Red - yellow."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-073": {
+      "id": "a1-073",
+      "text": "If a line of schoolchildren crosses the road outside the pedestrian crossing, what should you do?",
+      "options": {
+        "a": "Warn with the horn.",
+        "b": "Warn by shouting.",
+        "c": "Stop and give way.",
+        "d": "Continue driving slowly."
+      },
+      "gist": "Schoolchildren crossing outside crosswalk",
+      "explanation": "Always give way to schoolchildren, even outside the crossing. Stop and let them pass. Honking, shouting or creeping forward is wrong.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si una fila de escolares",
+            "tr": "If a line of schoolchildren"
+          },
+          {
+            "es": "cruza la calzada",
+            "tr": "crosses the roadway"
+          },
+          {
+            "es": "fuera del crucero peatonal,",
+            "tr": "outside the pedestrian crossing,"
+          },
+          {
+            "es": "¿qué acción se debe tomar?",
+            "tr": "what action must be taken?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Advertir",
+              "tr": "Warn"
+            },
+            {
+              "es": "con el claxon.",
+              "tr": "with the horn."
+            }
+          ],
+          "b": [
+            {
+              "es": "Advertir",
+              "tr": "Warn"
+            },
+            {
+              "es": "a viva voz.",
+              "tr": "by shouting."
+            }
+          ],
+          "c": [
+            {
+              "es": "Parar",
+              "tr": "Stop"
+            },
+            {
+              "es": "y ceder el paso.",
+              "tr": "and give way.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Continuar la marcha",
+              "tr": "Continue driving"
+            },
+            {
+              "es": "lentamente.",
+              "tr": "slowly."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-074": {
+      "id": "a1-074",
+      "text": "If you approach a school zone, what should you do?",
+      "options": {
+        "a": "You have no obligation if there are no signs.",
+        "b": "Reduce speed to 40 km/h.",
+        "c": "Reduce speed to 30 km/h.",
+        "d": "Reduce speed to 35 km/h."
+      },
+      "gist": "Speed near a school zone",
+      "explanation": "In a school zone slow down to 30 km/h. This applies even without a sign. 40 and 35 are traps.",
+      "legalRef": "RNT art. 162",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si se aproxima",
+            "tr": "If you approach"
+          },
+          {
+            "es": "a una zona escolar,",
+            "tr": "a school zone,"
+          },
+          {
+            "es": "¿qué acción debe realizar?",
+            "tr": "what action must you take?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No tiene ninguna obligación",
+              "tr": "You have no obligation",
+              "kind": "logic"
+            },
+            {
+              "es": "si no hay señalización.",
+              "tr": "if there are no signs.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Disminuir la velocidad",
+              "tr": "Reduce the speed"
+            },
+            {
+              "es": "a 40 Km/h.",
+              "tr": "to 40 km/h."
+            }
+          ],
+          "c": [
+            {
+              "es": "Disminuir la velocidad",
+              "tr": "Reduce the speed"
+            },
+            {
+              "es": "a 30 Km/h.",
+              "tr": "to 30 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Disminuir la velocidad",
+              "tr": "Reduce the speed"
+            },
+            {
+              "es": "a 35 km/h.",
+              "tr": "to 35 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-075": {
+      "id": "a1-075",
+      "text": "Their purpose is to inform road users about limitations, prohibitions or restrictions on the use of the road.",
+      "options": {
+        "a": "Regulatory signs.",
+        "b": "Warning signs.",
+        "c": "Information signs.",
+        "d": "Horizontal signs (road markings)."
+      },
+      "gist": "Which signs prohibit and restrict",
+      "explanation": "Prohibitions and restrictions are \"reguladoras\" (regulatory) signs. \"Preventivas\" warn about dangers. \"Informativas\" give information: directions, places.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Tienen el objetivo",
+            "tr": "Their purpose is"
+          },
+          {
+            "es": "de notificar a los usuarios",
+            "tr": "to notify users"
+          },
+          {
+            "es": "las limitaciones, prohibiciones o restricciones",
+            "tr": "the limitations, prohibitions or restrictions"
+          },
+          {
+            "es": "en el uso de la vía.",
+            "tr": "in the use of the road."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señales reguladoras",
+              "tr": "Regulatory signs",
+              "kind": "anchor"
+            },
+            {
+              "es": "o de reglamentación.",
+              "tr": "or rule signs.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Señales preventivas.",
+              "tr": "Warning signs."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señales informativas.",
+              "tr": "Information signs."
+            }
+          ],
+          "d": [
+            {
+              "es": "Señales horizontales.",
+              "tr": "Horizontal signs (markings)."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "disputed": []
+}

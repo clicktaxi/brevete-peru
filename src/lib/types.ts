@@ -97,6 +97,7 @@ const PartialLangRecord = z.object({ es: z.string().optional(), ru: z.string().o
 export const GlossaryTermSchema = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
   es: z.string().min(1),
+  forms: z.array(z.string()).optional(),
   tr: PartialLangRecord,
   note: PartialLangRecord.optional(),
   example: z.string().optional(),
@@ -117,7 +118,9 @@ export const ExamFormulaSchema = z.object({
   id: z.string(),
   es: z.string().min(1),
   kind: z.enum(["question", "option"]),
+  forms: z.array(z.string()).optional(),
   tr: PartialLangRecord,
-  note: PartialLangRecord,
+  note: PartialLangRecord.optional(),
+  count: z.number().int().nonnegative().optional(),
 });
 export type ExamFormula = z.infer<typeof ExamFormulaSchema>;

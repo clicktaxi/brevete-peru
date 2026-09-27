@@ -1,0 +1,5054 @@
+{
+  "meta": {
+    "a1-001": {
+      "topic": "estacionamiento",
+      "terms": [
+        "recoger",
+        "dejar",
+        "pasajero",
+        "carga",
+        "lugar autorizado",
+        "comercio ambulatorio"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "permitido",
+          "vía"
+        ],
+        "answerKeys": [
+          "lugares autorizados"
+        ]
+      }
+    },
+    "a1-002": {
+      "topic": "otros",
+      "terms": [
+        "dispositivo de control",
+        "peatón",
+        "conductor",
+        "obediencia",
+        "policía nacional del perú"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "dispositivos de control",
+          "regulación del tránsito"
+        ],
+        "answerKeys": [
+          "conductores y los peatones",
+          "salvo"
+        ]
+      }
+    },
+    "a1-003": {
+      "topic": "senales",
+      "terms": [
+        "señal vertical",
+        "señal reglamentaria",
+        "voltear",
+        "giro en u",
+        "sentido"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-6",
+          "prohibido voltear a la izquierda"
+        ],
+        "answerKeys": [
+          "prohibido el giro en U"
+        ]
+      }
+    },
+    "a1-004": {
+      "topic": "senales",
+      "terms": [
+        "señal vertical",
+        "señal reglamentaria",
+        "zona restringida",
+        "adelantar",
+        "continuar de frente"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-3",
+          "señal vertical reglamentaria"
+        ],
+        "answerKeys": [
+          "continuar de frente"
+        ]
+      }
+    },
+    "a1-005": {
+      "topic": "marcas",
+      "terms": [
+        "marca en el pavimento",
+        "línea discontinua",
+        "carril",
+        "adelantamiento",
+        "calzada",
+        "cruce peatonal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "marcas en el pavimento",
+          "discontinua",
+          "amarillo"
+        ],
+        "answerKeys": [
+          "si es que es seguro"
+        ]
+      }
+    },
+    "a1-006": {
+      "topic": "semaforos",
+      "terms": [
+        "semáforo",
+        "ámbar",
+        "detenerse",
+        "intersección",
+        "despejar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "ámbar",
+          "amarillo",
+          "semáforo"
+        ],
+        "answerKeys": [
+          "antes de ingresar a la intersección"
+        ]
+      }
+    },
+    "a1-007": {
+      "topic": "semaforos",
+      "terms": [
+        "semáforo",
+        "detención",
+        "prevención",
+        "paso",
+        "circulación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "colores del semáforo",
+          "rojo",
+          "verde"
+        ],
+        "answerKeys": [
+          "Detención - prevención"
+        ]
+      }
+    },
+    "a1-008": {
+      "topic": "semaforos",
+      "terms": [
+        "flecha verde",
+        "semáforo",
+        "carril",
+        "precaución",
+        "luz circular"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "flecha verde",
+          "semáforo vehicular"
+        ],
+        "answerKeys": [
+          "dirección de la flecha",
+          "carril"
+        ]
+      }
+    },
+    "a1-009": {
+      "topic": "senales",
+      "terms": [
+        "señal reglamentaria",
+        "estacionar",
+        "detener",
+        "intersección",
+        "carga y descarga"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-53",
+          "señal vertical reglamentaria"
+        ],
+        "answerKeys": [
+          "intersección",
+          "detener"
+        ]
+      }
+    },
+    "a1-010": {
+      "topic": "semaforos",
+      "terms": [
+        "intersección",
+        "semáforo",
+        "flecha roja",
+        "luz circular",
+        "giro"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "flecha roja hacia la izquierda",
+          "luz circular verde"
+        ],
+        "answerKeys": [
+          "flecha roja",
+          "giro a la izquierda"
+        ]
+      }
+    },
+    "a1-011": {
+      "topic": "semaforos",
+      "terms": [
+        "luz intermitente",
+        "semáforo",
+        "ceda el paso",
+        "pare",
+        "preferencia",
+        "precaución"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "luz intermitente",
+          "semáforo muestra"
+        ],
+        "answerKeys": [
+          "ámbar",
+          "precaución"
+        ]
+      }
+    },
+    "a1-012": {
+      "topic": "semaforos",
+      "terms": [
+        "luz intermitente",
+        "pare",
+        "policía de tránsito"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "luz intermitente roja",
+          "señal de PARE"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-013": {
+      "topic": "seguridad",
+      "terms": [
+        "intersección",
+        "giro",
+        "carril",
+        "luces direccionales",
+        "precaución"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "giro permitido a la izquierda",
+          "intersección"
+        ],
+        "answerKeys": [
+          "luces direccionales",
+          "carril de circulación de la izquierda"
+        ]
+      }
+    },
+    "a1-014": {
+      "topic": "seguridad",
+      "terms": [
+        "cambio de carril",
+        "vía de un solo sentido",
+        "luces direccionales",
+        "brecha",
+        "claxon"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "cambiar de carril",
+          "un solo sentido"
+        ],
+        "answerKeys": [
+          "encender las luces direccionales"
+        ]
+      }
+    },
+    "a1-015": {
+      "topic": "preferencia",
+      "terms": [
+        "cruce a nivel",
+        "vía férrea",
+        "preferencia de paso",
+        "derecha"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "cruces a nivel",
+          "vías férreas"
+        ],
+        "answerKeys": [
+          "vía férrea tienen preferencia"
+        ]
+      }
+    },
+    "a1-016": {
+      "topic": "semaforos",
+      "terms": [
+        "semáforo",
+        "policía nacional del perú",
+        "continuar la marcha",
+        "detenerse"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "rojo del semáforo",
+          "Policía Nacional del Perú"
+        ],
+        "answerKeys": [
+          "Continuar la marcha"
+        ]
+      }
+    },
+    "a1-017": {
+      "topic": "estacionamiento",
+      "terms": [
+        "estacionar",
+        "curva",
+        "intersección",
+        "garaje",
+        "recinto militar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "prohibido estacionar"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-018": {
+      "topic": "senales",
+      "terms": [
+        "señal reglamentaria",
+        "bocina",
+        "vía urbana",
+        "carretera",
+        "ruido"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-29",
+          "señal vertical reglamentaria"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-019": {
+      "topic": "infracciones",
+      "terms": [
+        "multa",
+        "licencia de conducir",
+        "vehículo automotor",
+        "soat",
+        "equipamiento"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "multa",
+          "licencia de conducir por 3 años"
+        ],
+        "answerKeys": [
+          "sin tener licencia de conducir"
+        ]
+      }
+    },
+    "a1-020": {
+      "topic": "adelantamiento",
+      "terms": [
+        "sobrepasar",
+        "adelantar",
+        "velocidad",
+        "detener"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "sobrepasarlo o adelantarlo",
+          "lo alcance"
+        ],
+        "answerKeys": [
+          "No debe aumentar",
+          "hasta que"
+        ]
+      }
+    },
+    "a1-021": {
+      "topic": "velocidad",
+      "terms": [
+        "límite de velocidad",
+        "límite máximo",
+        "límite mínimo",
+        "conductor",
+        "prudente"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "Cuál de las siguientes afirmaciones"
+        ],
+        "answerKeys": [
+          "máximos y mínimos"
+        ]
+      }
+    },
+    "a1-022": {
+      "topic": "seguridad",
+      "terms": [
+        "luces bajas",
+        "luces altas",
+        "vía pública",
+        "intersección",
+        "avenida"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "luces",
+          "vías públicas urbanas",
+          "por la noche"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-023": {
+      "topic": "documentos",
+      "terms": [
+        "soat",
+        "accidente",
+        "ocupante",
+        "tercero",
+        "daño"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "SOAT",
+          "cubre los daños"
+        ],
+        "answerKeys": [
+          "ocupantes y terceros"
+        ]
+      }
+    },
+    "a1-024": {
+      "topic": "documentos",
+      "terms": [
+        "seguro",
+        "soat",
+        "vehículo automotor",
+        "ocupante",
+        "tercero",
+        "accidente de tránsito"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "seguros es exigible",
+          "vehículo automotor"
+        ],
+        "answerKeys": [
+          "SOAT",
+          "Seguro Obligatorio"
+        ]
+      }
+    },
+    "a1-025": {
+      "topic": "preferencia",
+      "terms": [
+        "preferencia de paso",
+        "vehículo de emergencia",
+        "vehículo oficial",
+        "señal audible",
+        "señal visible"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "vehículo de emergencia",
+          "vehículo oficial",
+          "preferencia de paso"
+        ],
+        "answerKeys": [
+          "audibles y visibles"
+        ]
+      }
+    }
+  },
+  "ru": {
+    "a1-001": {
+      "id": "a1-001",
+      "text": "На дороге разрешено:",
+      "options": {
+        "a": "Сажать или высаживать пассажиров или груз где угодно",
+        "b": "Оставлять животных без привязи или ставить их так, чтобы они лишь немного мешали движению",
+        "c": "Сажать или высаживать пассажиров в разрешённых местах.",
+        "d": "Вести уличную торговлю — разносную или стационарную"
+      },
+      "gist": "Где можно высаживать пассажиров",
+      "explanation": "Пассажиров сажают и высаживают только в разрешённых местах. Остальные варианты — нарушения. «Где угодно» нельзя, животные и торговля на дороге запрещены.",
+      "trap": "Вариант a тоже про пассажиров, но «en cualquier lugar» (где угодно) — это нарушение. Правильный — «lugares autorizados» (разрешённые места).",
+      "legalRef": "RNT art. 90",
+      "gloss": {
+        "text": [
+          {
+            "es": "Está permitido",
+            "tr": "Разрешено",
+            "kind": "logic"
+          },
+          {
+            "es": "en la vía:",
+            "tr": "на дороге:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Recoger o dejar",
+              "tr": "Сажать или высаживать"
+            },
+            {
+              "es": "pasajeros o carga",
+              "tr": "пассажиров или груз"
+            },
+            {
+              "es": "en cualquier lugar",
+              "tr": "где угодно",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Dejar animales sueltos",
+              "tr": "Оставлять животных без привязи"
+            },
+            {
+              "es": "o situarlos",
+              "tr": "или ставить их"
+            },
+            {
+              "es": "de forma tal que",
+              "tr": "так, чтобы"
+            },
+            {
+              "es": "obstaculicen",
+              "tr": "они мешали"
+            },
+            {
+              "es": "solo un poco",
+              "tr": "лишь немного",
+              "kind": "logic"
+            },
+            {
+              "es": "el tránsito",
+              "tr": "движению"
+            }
+          ],
+          "c": [
+            {
+              "es": "Recoger o dejar pasajeros",
+              "tr": "Сажать или высаживать пассажиров"
+            },
+            {
+              "es": "en lugares autorizados.",
+              "tr": "в разрешённых местах.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ejercer el comercio",
+              "tr": "Вести торговлю"
+            },
+            {
+              "es": "ambulatorio o estacionario",
+              "tr": "разносную или стационарную"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-002": {
+      "id": "a1-002",
+      "text": "Об устройствах контроля или регулирования движения (знаки, светофоры, разметка):",
+      "options": {
+        "a": "Только пешеходы обязаны им подчиняться",
+        "b": "Водители и пешеходы обязаны им подчиняться, кроме случаев, когда полицейский-регулировщик указывает иное",
+        "c": "Только водители обязаны им подчиняться.",
+        "d": "Водители обязаны им подчиняться, даже если полицейский-регулировщик указывает иное."
+      },
+      "gist": "Кто обязан подчиняться знакам и светофорам",
+      "explanation": "Знакам, светофорам и разметке подчиняются все: и водители, и пешеходы. Но команда полицейского-регулировщика важнее любого знака. Поэтому правильный ответ — с оговоркой «salvo» (кроме).",
+      "trap": "Вариант d похож, но «aun cuando» (даже если) значит: слушать знак даже против полицейского. Это неверно. Ищите «salvo» (кроме) и «conductores y peatones» (водители и пешеходы).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Respecto de",
+            "tr": "Относительно"
+          },
+          {
+            "es": "los dispositivos de control",
+            "tr": "устройств контроля"
+          },
+          {
+            "es": "o regulación del tránsito:",
+            "tr": "или регулирования движения:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Solo los peatones",
+              "tr": "Только пешеходы",
+              "kind": "logic"
+            },
+            {
+              "es": "están obligados",
+              "tr": "обязаны"
+            },
+            {
+              "es": "a su obediencia",
+              "tr": "им подчиняться"
+            }
+          ],
+          "b": [
+            {
+              "es": "Los conductores y los peatones",
+              "tr": "Водители и пешеходы",
+              "kind": "anchor"
+            },
+            {
+              "es": "están obligados a su obediencia,",
+              "tr": "обязаны им подчиняться,"
+            },
+            {
+              "es": "salvo instrucción",
+              "tr": "кроме указания",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la Policía Nacional del Perú",
+              "tr": "полиции Перу,"
+            },
+            {
+              "es": "asignada al tránsito",
+              "tr": "регулирующей движение,"
+            },
+            {
+              "es": "que indique lo contrario",
+              "tr": "которое говорит иное"
+            }
+          ],
+          "c": [
+            {
+              "es": "Solo los conductores",
+              "tr": "Только водители",
+              "kind": "logic"
+            },
+            {
+              "es": "están obligados",
+              "tr": "обязаны"
+            },
+            {
+              "es": "a su obediencia.",
+              "tr": "им подчиняться."
+            }
+          ],
+          "d": [
+            {
+              "es": "Los conductores",
+              "tr": "Водители"
+            },
+            {
+              "es": "están obligados a su obediencia,",
+              "tr": "обязаны им подчиняться,"
+            },
+            {
+              "es": "aun cuando",
+              "tr": "даже если",
+              "kind": "logic"
+            },
+            {
+              "es": "la Policía Nacional del Perú",
+              "tr": "полиция Перу,"
+            },
+            {
+              "es": "asignada al tránsito",
+              "tr": "регулирующая движение,"
+            },
+            {
+              "es": "pueda indicar lo contrario.",
+              "tr": "указывает иное."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-003": {
+      "id": "a1-003",
+      "text": "Вертикальный предписывающий знак R-6 «поворот налево запрещён» означает, что:",
+      "options": {
+        "a": "Поворот налево запрещён, и поэтому разворот тоже запрещён.",
+        "b": "Поворот налево запрещён, однако разворот разрешён.",
+        "c": "Единственное разрешённое направление — прямо.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Знак «поворот налево запрещён» и разворот",
+      "explanation": "Разворот — это по сути двойной поворот налево. Поэтому там, где запрещён поворот налево, запрещён и разворот. Вариант b говорит обратное и потому неверен.",
+      "trap": "a и b начинаются одинаково. Разница в конце: «también está prohibido» (тоже запрещён) — верно; «está permitido el giro en U» (разворот разрешён) — неверно.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal vertical reglamentaria R-6",
+            "tr": "Вертикальный предписывающий знак R-6"
+          },
+          {
+            "es": "«prohibido voltear a la izquierda»,",
+            "tr": "«поворот налево запрещён»,",
+            "kind": "logic"
+          },
+          {
+            "es": "significa que:",
+            "tr": "означает, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está prohibido voltear a la izquierda",
+              "tr": "Запрещено поворачивать налево",
+              "kind": "logic"
+            },
+            {
+              "es": "y, por lo tanto también",
+              "tr": "и, следовательно, также"
+            },
+            {
+              "es": "está prohibido el giro en U.",
+              "tr": "запрещён разворот.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Está prohibido voltear a la izquierda,",
+              "tr": "Запрещено поворачивать налево,",
+              "kind": "logic"
+            },
+            {
+              "es": "sin embargo,",
+              "tr": "однако",
+              "kind": "logic"
+            },
+            {
+              "es": "está permitido el giro en U.",
+              "tr": "разворот разрешён.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "El único sentido",
+              "tr": "Единственное направление",
+              "kind": "logic"
+            },
+            {
+              "es": "de desplazamiento",
+              "tr": "движения"
+            },
+            {
+              "es": "es continuar de frente.",
+              "tr": "— ехать прямо."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-004": {
+      "id": "a1-004",
+      "text": "Вертикальный предписывающий знак R-3 означает, что:",
+      "options": {
+        "a": "Мы приближаемся к зоне с ограниченным движением.",
+        "b": "Разрешён обгон.",
+        "c": "Единственное разрешённое направление — прямо.",
+        "d": "Ни один из вариантов не верен"
+      },
+      "gist": "Что означает знак R-3",
+      "explanation": "R-3 — синий круг с белой стрелкой вверх. Это знак обязательного направления: ехать только прямо. Поворачивать налево или направо здесь нельзя.",
+      "trap": "Синий круг — это обязанность, а не запрет. Ключ: «continuar de frente» (ехать прямо).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal vertical reglamentaria R-3",
+            "tr": "Вертикальный предписывающий знак R-3"
+          },
+          {
+            "es": "significa que:",
+            "tr": "означает, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Nos acercamos",
+              "tr": "Мы приближаемся"
+            },
+            {
+              "es": "a una zona restringida",
+              "tr": "к зоне, закрытой"
+            },
+            {
+              "es": "al tránsito.",
+              "tr": "для движения."
+            }
+          ],
+          "b": [
+            {
+              "es": "Está permitido",
+              "tr": "Разрешено",
+              "kind": "logic"
+            },
+            {
+              "es": "adelantar vehículos.",
+              "tr": "обгонять машины."
+            }
+          ],
+          "c": [
+            {
+              "es": "El único sentido",
+              "tr": "Единственное направление",
+              "kind": "logic"
+            },
+            {
+              "es": "de desplazamiento",
+              "tr": "движения"
+            },
+            {
+              "es": "es continuar de frente.",
+              "tr": "— ехать прямо.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta",
+              "tr": "не верен"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-005": {
+      "id": "a1-005",
+      "text": "На дорогах прерывистая жёлтая линия по центру означает, что:",
+      "options": {
+        "a": "Разрешено выезжать на другую полосу для обгона, если это безопасно.",
+        "b": "Запрещено выезжать на другую полосу для обгона.",
+        "c": "Проезжая часть дороги, по которой вы едете, сужается.",
+        "d": "Впереди пешеходный переход."
+      },
+      "gist": "Прерывистая жёлтая линия по центру",
+      "explanation": "Жёлтая линия делит потоки встречного направления. Прерывистая линия — пересекать можно. Значит, обгон через неё разрешён, но только если это безопасно. Сплошную жёлтую линию пересекать нельзя.",
+      "trap": "a и b различаются одним словом: «No está permitido» (не разрешено) — это про сплошную линию. Для прерывистой верно «Está permitido… si es seguro» (разрешено, если безопасно).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "En las vías,",
+            "tr": "На дорогах"
+          },
+          {
+            "es": "las marcas en el pavimento",
+            "tr": "разметка на асфальте,"
+          },
+          {
+            "es": "que son del tipo central",
+            "tr": "которая идёт по центру,"
+          },
+          {
+            "es": "discontinua",
+            "tr": "прерывистая"
+          },
+          {
+            "es": "y de color amarillo",
+            "tr": "и жёлтого цвета,"
+          },
+          {
+            "es": "significan que:",
+            "tr": "означает, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está permitido cruzar",
+              "tr": "Разрешено пересекать",
+              "kind": "logic"
+            },
+            {
+              "es": "al otro carril",
+              "tr": "на другую полосу"
+            },
+            {
+              "es": "para el adelantamiento vehicular,",
+              "tr": "для обгона,"
+            },
+            {
+              "es": "si es que es seguro hacerlo.",
+              "tr": "если это безопасно.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "No está permitido cruzar",
+              "tr": "Не разрешено пересекать",
+              "kind": "logic"
+            },
+            {
+              "es": "al otro carril",
+              "tr": "на другую полосу"
+            },
+            {
+              "es": "para el adelantamiento vehicular.",
+              "tr": "для обгона."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se está reduciendo",
+              "tr": "Уменьшается"
+            },
+            {
+              "es": "el ancho de la calzada",
+              "tr": "ширина проезжей части"
+            },
+            {
+              "es": "de la vía por donde se circula.",
+              "tr": "дороги, по которой едут."
+            }
+          ],
+          "d": [
+            {
+              "es": "Se está frente a",
+              "tr": "Вы находитесь перед"
+            },
+            {
+              "es": "un lugar de cruce peatonal.",
+              "tr": "пешеходным переходом."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-006": {
+      "id": "a1-006",
+      "text": "Янтарный (жёлтый) сигнал светофора означает, что:",
+      "options": {
+        "a": "Автомобили должны ехать.",
+        "b": "Автомобили должны остановиться.",
+        "c": "Автомобили должны ускориться.",
+        "d": "Автомобили должны остановиться перед перекрёстком, если скорость и положение позволяют; иначе они должны проехать и освободить перекрёсток."
+      },
+      "gist": "Что делать на жёлтый сигнал",
+      "explanation": "Жёлтый — сигнал предупреждения: сейчас будет красный. Если можете безопасно остановиться перед перекрёстком — остановитесь. Если уже поздно тормозить — проезжайте и освободите перекрёсток. Ускоряться на жёлтый нельзя.",
+      "trap": "Вариант b «deben detenerse» (должны остановиться) — неполный. Правильный ответ длинный, с условием «si su velocidad y ubicación lo permiten» (если скорость и положение позволяют).",
+      "gloss": {
+        "text": [
+          {
+            "es": "El color ámbar o amarillo",
+            "tr": "Янтарный или жёлтый цвет"
+          },
+          {
+            "es": "del semáforo",
+            "tr": "светофора"
+          },
+          {
+            "es": "significa que:",
+            "tr": "означает, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Los vehículos deben",
+              "tr": "Автомобили должны",
+              "kind": "logic"
+            },
+            {
+              "es": "avanzar.",
+              "tr": "ехать вперёд."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los vehículos deben",
+              "tr": "Автомобили должны",
+              "kind": "logic"
+            },
+            {
+              "es": "detenerse.",
+              "tr": "остановиться."
+            }
+          ],
+          "c": [
+            {
+              "es": "Los vehículos deben",
+              "tr": "Автомобили должны",
+              "kind": "logic"
+            },
+            {
+              "es": "acelerar la marcha.",
+              "tr": "ускориться."
+            }
+          ],
+          "d": [
+            {
+              "es": "Los vehículos deben detenerse",
+              "tr": "Автомобили должны остановиться",
+              "kind": "logic"
+            },
+            {
+              "es": "antes de ingresar a la intersección",
+              "tr": "перед въездом на перекрёсток,",
+              "kind": "anchor"
+            },
+            {
+              "es": "si su velocidad y ubicación",
+              "tr": "если их скорость и положение"
+            },
+            {
+              "es": "lo permiten;",
+              "tr": "это позволяют;"
+            },
+            {
+              "es": "de lo contrario,",
+              "tr": "в противном случае",
+              "kind": "logic"
+            },
+            {
+              "es": "deberán cruzar",
+              "tr": "они должны проехать"
+            },
+            {
+              "es": "y despejar la intersección.",
+              "tr": "и освободить перекрёсток."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-007": {
+      "id": "a1-007",
+      "text": "Цвета светофора означают: красный: _____; янтарный (жёлтый): _____; зелёный: ____.",
+      "options": {
+        "a": "Остановка — внимание — проезд.",
+        "b": "Остановка — проезд с осторожностью — быстрое движение.",
+        "c": "Снижение скорости — внимание — быстрый проезд.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Значение красного, жёлтого и зелёного",
+      "explanation": "Красный — стоп (detención). Жёлтый — внимание, готовьтесь остановиться (prevención). Зелёный — можно ехать (paso). Ни один цвет не означает «ехать быстро».",
+      "trap": "Варианты b и c содержат «rápida/rápido» (быстро) — это всегда неверно. Верный порядок: «Detención - prevención - paso».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Los colores del semáforo",
+            "tr": "Цвета светофора"
+          },
+          {
+            "es": "tienen el siguiente significado:",
+            "tr": "имеют следующее значение:"
+          },
+          {
+            "es": "rojo: _____ ;",
+            "tr": "красный: _____ ;"
+          },
+          {
+            "es": "ámbar o amarillo: _____;",
+            "tr": "янтарный или жёлтый: _____;"
+          },
+          {
+            "es": "verde: ____.",
+            "tr": "зелёный: ____."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Detención - prevención",
+              "tr": "Остановка — внимание",
+              "kind": "anchor"
+            },
+            {
+              "es": "- paso.",
+              "tr": "— проезд."
+            }
+          ],
+          "b": [
+            {
+              "es": "Detención",
+              "tr": "Остановка"
+            },
+            {
+              "es": "- paso con prevención",
+              "tr": "— проезд с осторожностью"
+            },
+            {
+              "es": "- circulación rápida.",
+              "tr": "— быстрое движение."
+            }
+          ],
+          "c": [
+            {
+              "es": "Disminución de la velocidad",
+              "tr": "Снижение скорости"
+            },
+            {
+              "es": "- prevención",
+              "tr": "— внимание"
+            },
+            {
+              "es": "- paso rápido.",
+              "tr": "— быстрый проезд."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-008": {
+      "id": "a1-008",
+      "text": "Что означает зелёная стрелка на транспортном светофоре?",
+      "options": {
+        "a": "Можно ехать с осторожностью только в направлении стрелки и только с полосы, которой эта стрелка управляет.",
+        "b": "Движение в направлении стрелки запрещено.",
+        "c": "Нужно смотреть только на круглый сигнал.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Зелёная стрелка на светофоре",
+      "explanation": "Зелёная стрелка разрешает ехать только туда, куда она показывает. И только с той полосы, которой она управляет. Ехать нужно осторожно: могут быть пешеходы.",
+      "trap": "Вариант b говорит «No está permitida» (не разрешено) — наоборот: зелёная стрелка разрешает. Ищите «dirección de la flecha» (направление стрелки) и «carril» (полоса).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Qué indica",
+            "tr": "Что означает"
+          },
+          {
+            "es": "una flecha verde",
+            "tr": "зелёная стрелка"
+          },
+          {
+            "es": "en un semáforo vehicular?",
+            "tr": "на транспортном светофоре?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se puede continuar",
+              "tr": "Можно продолжать движение",
+              "kind": "logic"
+            },
+            {
+              "es": "con precaución",
+              "tr": "с осторожностью"
+            },
+            {
+              "es": "únicamente",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "en la dirección de la flecha",
+              "tr": "в направлении стрелки",
+              "kind": "anchor"
+            },
+            {
+              "es": "y desde el carril",
+              "tr": "и с той полосы,",
+              "kind": "anchor"
+            },
+            {
+              "es": "que esta flecha controla.",
+              "tr": "которой управляет эта стрелка."
+            }
+          ],
+          "b": [
+            {
+              "es": "No está permitida",
+              "tr": "Не разрешено",
+              "kind": "logic"
+            },
+            {
+              "es": "la circulación",
+              "tr": "движение"
+            },
+            {
+              "es": "en el sentido que indica la flecha.",
+              "tr": "в направлении, которое показывает стрелка."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se debe respetar",
+              "tr": "Нужно соблюдать",
+              "kind": "logic"
+            },
+            {
+              "es": "únicamente",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "la luz circular.",
+              "tr": "круглый сигнал."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-009": {
+      "id": "a1-009",
+      "text": "Следующий вертикальный предписывающий знак R-53:",
+      "options": {
+        "a": "Запрещает стоянку.",
+        "b": "Запрещает водителю останавливать автомобиль в зоне перекрёстка.",
+        "c": "Запрещает погрузку и разгрузку.",
+        "d": "Запрещает движение моторных транспортных средств"
+      },
+      "gist": "Что означает знак R-53",
+      "explanation": "R-53 — «не останавливаться на перекрёстке». Нельзя въезжать на перекрёсток, если за ним нет места. Иначе вы заблокируете движение. Это не про стоянку, а про остановку в зоне перекрёстка.",
+      "trap": "Все варианты начинаются с «Prohíbe» (запрещает). Ищите «intersección» (перекрёсток) и «detener» (останавливать).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal vertical",
+            "tr": "Следующий вертикальный знак"
+          },
+          {
+            "es": "reglamentaria R-53:",
+            "tr": "предписывающий R-53:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Prohíbe estacionar.",
+              "tr": "Запрещает стоянку.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Prohíbe al conductor",
+              "tr": "Запрещает водителю",
+              "kind": "logic"
+            },
+            {
+              "es": "detener el vehículo",
+              "tr": "останавливать автомобиль",
+              "kind": "anchor"
+            },
+            {
+              "es": "dentro del área de la intersección.",
+              "tr": "в зоне перекрёстка.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Prohíbe",
+              "tr": "Запрещает",
+              "kind": "logic"
+            },
+            {
+              "es": "la carga y descarga.",
+              "tr": "погрузку и разгрузку."
+            }
+          ],
+          "d": [
+            {
+              "es": "Prohíbe la circulación",
+              "tr": "Запрещает движение",
+              "kind": "logic"
+            },
+            {
+              "es": "de vehículos motorizados",
+              "tr": "моторных транспортных средств"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-010": {
+      "id": "a1-010",
+      "text": "Вы подъезжаете к перекрёстку и видите на светофоре одновременно красную стрелку налево и зелёный круглый сигнал. Правильное действие:",
+      "options": {
+        "a": "Ехать в любом направлении, так как круглый сигнал зелёный.",
+        "b": "Ехать, но поворот налево запрещён красной стрелкой.",
+        "c": "Ехать только налево, так как прямо ехать запрещено.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Красная стрелка налево и зелёный круг",
+      "explanation": "Зелёный круг разрешает ехать прямо и направо. Красная стрелка запрещает только поворот налево. Значит: едем, но налево не поворачиваем.",
+      "trap": "Вариант c переворачивает всё: «únicamente hacia la izquierda» (только налево). Верно наоборот: «giro a la izquierda está prohibido» (поворот налево запрещён).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si llega a una intersección",
+            "tr": "Если вы подъезжаете к перекрёстку"
+          },
+          {
+            "es": "y visualiza el semáforo",
+            "tr": "и видите светофор"
+          },
+          {
+            "es": "con una flecha roja",
+            "tr": "с красной стрелкой"
+          },
+          {
+            "es": "hacia la izquierda",
+            "tr": "налево",
+            "kind": "logic"
+          },
+          {
+            "es": "y la luz circular verde",
+            "tr": "и зелёным круглым сигналом,"
+          },
+          {
+            "es": "prendidas al mismo tiempo,",
+            "tr": "горящими одновременно,"
+          },
+          {
+            "es": "la acción correcta es:",
+            "tr": "правильное действие:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Avanzar en cualquier sentido,",
+              "tr": "Ехать в любом направлении,",
+              "kind": "logic"
+            },
+            {
+              "es": "ya que la luz circular",
+              "tr": "так как круглый сигнал"
+            },
+            {
+              "es": "está en verde.",
+              "tr": "зелёный."
+            }
+          ],
+          "b": [
+            {
+              "es": "Avanzar, pero",
+              "tr": "Ехать, но"
+            },
+            {
+              "es": "el giro a la izquierda",
+              "tr": "поворот налево",
+              "kind": "anchor"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "запрещён",
+              "kind": "logic"
+            },
+            {
+              "es": "por la flecha roja.",
+              "tr": "красной стрелкой.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Avanzar únicamente",
+              "tr": "Ехать только",
+              "kind": "logic"
+            },
+            {
+              "es": "hacia la izquierda,",
+              "tr": "налево,",
+              "kind": "logic"
+            },
+            {
+              "es": "pues continuar de frente",
+              "tr": "так как ехать прямо"
+            },
+            {
+              "es": "está prohibido.",
+              "tr": "запрещено.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-011": {
+      "id": "a1-011",
+      "text": "Вы подъезжаете к перекрёстку, где светофор мигает. Какое утверждение верно:",
+      "options": {
+        "a": "Если мигает красный, это равно знаку «УСТУПИ ДОРОГУ»",
+        "b": "Если мигает жёлтый, у вас преимущество, но нужно снизить скорость и ехать осторожно.",
+        "c": "Если мигает зелёный, это равно знаку «СТОП».",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Мигающий сигнал светофора",
+      "explanation": "Мигающий красный = знак «PARE» (стоп): остановиться, потом ехать. Мигающий жёлтый = преимущество у вас, но снизьте скорость и будьте осторожны. Мигающего зелёного как знака «стоп» не существует.",
+      "trap": "Вариант a путает: мигающий красный — это «PARE» (стоп), а не «CEDA EL PASO» (уступи дорогу). Ищите «ámbar» (жёлтый) и «precaución» (осторожность).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si llega a una intersección",
+            "tr": "Если вы подъезжаете к перекрёстку,"
+          },
+          {
+            "es": "donde el semáforo muestra",
+            "tr": "где светофор показывает"
+          },
+          {
+            "es": "una luz intermitente,",
+            "tr": "мигающий сигнал,"
+          },
+          {
+            "es": "qué afirmación es correcta:",
+            "tr": "какое утверждение верно:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si la luz intermitente es roja,",
+              "tr": "Если мигающий сигнал красный,"
+            },
+            {
+              "es": "ésta es equivalente a",
+              "tr": "он равнозначен"
+            },
+            {
+              "es": "un «CEDA EL PASO»",
+              "tr": "знаку «УСТУПИ ДОРОГУ»"
+            }
+          ],
+          "b": [
+            {
+              "es": "Si la luz intermitente es ámbar,",
+              "tr": "Если мигающий сигнал жёлтый,",
+              "kind": "anchor"
+            },
+            {
+              "es": "tiene preferencia,",
+              "tr": "у вас преимущество,"
+            },
+            {
+              "es": "debiendo reducir la velocidad",
+              "tr": "но нужно снизить скорость"
+            },
+            {
+              "es": "y continuar con precaución.",
+              "tr": "и ехать осторожно.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Si la luz intermitente es verde,",
+              "tr": "Если мигающий сигнал зелёный,"
+            },
+            {
+              "es": "ésta es equivalente a",
+              "tr": "он равнозначен"
+            },
+            {
+              "es": "un “PARE”.",
+              "tr": "знаку «СТОП»."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-012": {
+      "id": "a1-012",
+      "text": "Мигающий красный сигнал — то же самое, что знак «PARE» (стоп)?",
+      "options": {
+        "a": "Верно.",
+        "b": "Верно, только если там же есть полицейский-регулировщик, показывающий сигнал «стоп».",
+        "c": "Неверно",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Мигающий красный равен знаку «стоп»",
+      "explanation": "Да, это верно. Мигающий красный работает как знак «PARE»: полная остановка, потом едете, если свободно. Полицейский для этого не нужен.",
+      "trap": "Вариант b тоже начинается с «verdad» (верно), но добавляет условие «siempre y cuando… Policía» (только если есть полицейский). Условие ложное — это ловушка. Правильный ответ — короткое «Verdad.»",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿La luz intermitente roja",
+            "tr": "Мигающий красный сигнал"
+          },
+          {
+            "es": "es igual que",
+            "tr": "то же самое, что"
+          },
+          {
+            "es": "una señal de PARE?",
+            "tr": "знак «PARE» (стоп)?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Verdad.",
+              "tr": "Верно."
+            }
+          ],
+          "b": [
+            {
+              "es": "Es verdad",
+              "tr": "Верно"
+            },
+            {
+              "es": "siempre y cuando",
+              "tr": "только при условии, что",
+              "kind": "logic"
+            },
+            {
+              "es": "también se encuentre",
+              "tr": "там также есть"
+            },
+            {
+              "es": "un Policía de Tránsito",
+              "tr": "полицейский-регулировщик,"
+            },
+            {
+              "es": "indicando la señal de Pare.",
+              "tr": "показывающий сигнал «стоп»."
+            }
+          ],
+          "c": [
+            {
+              "es": "Falso",
+              "tr": "Неверно"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-013": {
+      "id": "a1-013",
+      "text": "Подъезжая к перекрёстку, где разрешён поворот налево, правильно:",
+      "options": {
+        "a": "Поворачивать с любой полосы.",
+        "b": "Занять правую полосу, затем осторожно повернуть.",
+        "c": "Занять самую свободную полосу, затем осторожно повернуть.",
+        "d": "Включить левый указатель поворота, заранее перестроиться в левую полосу и осторожно повернуть."
+      },
+      "gist": "Как правильно повернуть налево",
+      "explanation": "Поворот налево делают из левой полосы. Сначала включите левый поворотник, потом заранее перестройтесь налево. Потом осторожно поворачивайте. Правая или «свободная» полоса — неверно.",
+      "trap": "Три варианта заканчиваются на «girar con precaución» (осторожно повернуть). Верен тот, где есть «luces direccionales» (поворотники) и «carril… de la izquierda» (левая полоса).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Al aproximarse a una intersección",
+            "tr": "Подъезжая к перекрёстку"
+          },
+          {
+            "es": "con giro permitido a la izquierda,",
+            "tr": "с разрешённым поворотом налево,",
+            "kind": "logic"
+          },
+          {
+            "es": "la conducta correcta es:",
+            "tr": "правильное поведение:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Girar desde",
+              "tr": "Поворачивать с"
+            },
+            {
+              "es": "cualquier carril.",
+              "tr": "любой полосы."
+            }
+          ],
+          "b": [
+            {
+              "es": "Colocarse en el carril derecho,",
+              "tr": "Занять правую полосу,",
+              "kind": "logic"
+            },
+            {
+              "es": "luego girar con precaución.",
+              "tr": "затем осторожно повернуть."
+            }
+          ],
+          "c": [
+            {
+              "es": "Colocarse en el carril",
+              "tr": "Занять полосу,"
+            },
+            {
+              "es": "más despejado de tráfico,",
+              "tr": "наиболее свободную от машин,",
+              "kind": "logic"
+            },
+            {
+              "es": "luego girar con precaución.",
+              "tr": "затем осторожно повернуть."
+            }
+          ],
+          "d": [
+            {
+              "es": "Hacer la señal de volteo a la izquierda",
+              "tr": "Подать сигнал поворота налево",
+              "kind": "logic"
+            },
+            {
+              "es": "con las luces direccionales,",
+              "tr": "указателями поворота,",
+              "kind": "anchor"
+            },
+            {
+              "es": "ubicar con antelación el vehículo",
+              "tr": "заранее поставить автомобиль"
+            },
+            {
+              "es": "en el carril de circulación de la izquierda",
+              "tr": "в левую полосу",
+              "kind": "anchor"
+            },
+            {
+              "es": "y girar con precaución.",
+              "tr": "и осторожно повернуть."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-014": {
+      "id": "a1-014",
+      "text": "При смене полосы на дороге с односторонним движением и несколькими полосами что правильно?",
+      "options": {
+        "a": "Сначала включить поворотник, найти промежуток и осторожно перестроиться.",
+        "b": "Найти промежуток, затем осторожно перестроиться; поворотники при смене полосы не нужны.",
+        "c": "Предупредить клаксоном, найти промежуток и осторожно перестроиться.",
+        "d": "Смена полосы на дорогах с односторонним движением запрещена."
+      },
+      "gist": "Как правильно менять полосу",
+      "explanation": "Порядок простой: поворотник, потом ищем промежуток, потом осторожно перестраиваемся. Поворотник обязателен всегда. Клаксон для этого не используют.",
+      "trap": "Вариант b тоже содержит «luces direccionales», но с «no es necesario» (не нужно) — это неверно. Ищите «encender las luces direccionales primero» (сначала включить поворотник).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Al cambiar de carril",
+            "tr": "При смене полосы"
+          },
+          {
+            "es": "en una vía de un solo sentido",
+            "tr": "на дороге с односторонним движением"
+          },
+          {
+            "es": "con múltiples carriles,",
+            "tr": "с несколькими полосами,"
+          },
+          {
+            "es": "¿cuál es la conducta correcta?",
+            "tr": "какое поведение правильное?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se deben encender las luces direccionales",
+              "tr": "Нужно включить указатели поворота",
+              "kind": "anchor"
+            },
+            {
+              "es": "primero,",
+              "tr": "сначала,"
+            },
+            {
+              "es": "buscar una brecha",
+              "tr": "найти промежуток"
+            },
+            {
+              "es": "y realizar el cambio de carril",
+              "tr": "и выполнить смену полосы"
+            },
+            {
+              "es": "con precaución.",
+              "tr": "осторожно."
+            }
+          ],
+          "b": [
+            {
+              "es": "Se debe encontrar una brecha,",
+              "tr": "Нужно найти промежуток,",
+              "kind": "logic"
+            },
+            {
+              "es": "luego cambiar de carril con precaución;",
+              "tr": "затем осторожно сменить полосу;"
+            },
+            {
+              "es": "no es necesario",
+              "tr": "не нужно",
+              "kind": "logic"
+            },
+            {
+              "es": "el uso de luces direccionales",
+              "tr": "использовать поворотники"
+            },
+            {
+              "es": "para cambios de carril.",
+              "tr": "при смене полосы."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se debe advertir",
+              "tr": "Нужно предупредить",
+              "kind": "logic"
+            },
+            {
+              "es": "utilizando el claxon,",
+              "tr": "клаксоном,"
+            },
+            {
+              "es": "identificar una brecha",
+              "tr": "найти промежуток"
+            },
+            {
+              "es": "y realizar el cambio de carril",
+              "tr": "и выполнить смену полосы"
+            },
+            {
+              "es": "con precaución.",
+              "tr": "осторожно."
+            }
+          ],
+          "d": [
+            {
+              "es": "Está prohibido",
+              "tr": "Запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "el cambio de carril",
+              "tr": "менять полосу"
+            },
+            {
+              "es": "en vías de un solo sentido.",
+              "tr": "на дорогах с односторонним движением."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-015": {
+      "id": "a1-015",
+      "text": "О железнодорожных переездах: укажите верное утверждение:",
+      "options": {
+        "a": "Транспорт, идущий по железной дороге, имеет преимущество перед тем, кто едет по пересекающей её дороге.",
+        "b": "Транспорт на дороге, пересекающей железнодорожные пути, имеет преимущество перед поездами.",
+        "c": "Преимущество у того, кто приехал первым.",
+        "d": "Преимущество у водителя, который едет справа от другого."
+      },
+      "gist": "Кто главный на ж/д переезде",
+      "explanation": "Поезд всегда имеет преимущество. Он не может быстро остановиться или свернуть. Машины на переезде обязаны уступить.",
+      "trap": "a и b звучат почти одинаково, слова переставлены. Верно: «por la vía férrea tienen preferencia» (по железной дороге имеют преимущество).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Respecto a los cruces a nivel",
+            "tr": "Относительно переездов"
+          },
+          {
+            "es": "con vías férreas,",
+            "tr": "через железнодорожные пути"
+          },
+          {
+            "es": "señale la afirmación correcta:",
+            "tr": "укажите верное утверждение:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Los vehículos que transitan",
+              "tr": "Транспорт, который движется"
+            },
+            {
+              "es": "por la vía férrea tienen preferencia",
+              "tr": "по железной дороге, имеет преимущество",
+              "kind": "anchor"
+            },
+            {
+              "es": "de paso",
+              "tr": "проезда"
+            },
+            {
+              "es": "sobre los que transitan",
+              "tr": "перед теми, кто едет"
+            },
+            {
+              "es": "por la vía que la cruza.",
+              "tr": "по дороге, которая её пересекает."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los vehículos que transitan",
+              "tr": "Транспорт, который движется"
+            },
+            {
+              "es": "por la vía que cruza la línea férrea",
+              "tr": "по дороге, пересекающей ж/д линию,"
+            },
+            {
+              "es": "tienen preferencia de paso",
+              "tr": "имеют преимущество проезда"
+            },
+            {
+              "es": "sobre los que transitan",
+              "tr": "перед теми, кто едет"
+            },
+            {
+              "es": "por la vía férrea.",
+              "tr": "по железной дороге."
+            }
+          ],
+          "c": [
+            {
+              "es": "El vehículo que llegue primero",
+              "tr": "Транспорт, который приехал первым,"
+            },
+            {
+              "es": "tiene preferencia.",
+              "tr": "имеет преимущество."
+            }
+          ],
+          "d": [
+            {
+              "es": "Tiene preferencia el conductor",
+              "tr": "Преимущество у водителя,"
+            },
+            {
+              "es": "que viene por la derecha del otro.",
+              "tr": "который едет справа от другого.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-016": {
+      "id": "a1-016",
+      "text": "На светофоре красный, а полицейский-регулировщик показывает «продолжать движение». Что нужно делать:",
+      "options": {
+        "a": "Остановиться и ждать зелёного.",
+        "b": "Продолжать движение.",
+        "c": "Быть настороже.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Красный светофор против команды полицейского",
+      "explanation": "Команда регулировщика важнее светофора. Если полицейский показывает «ехать» — едете, даже на красный. Порядок приоритета: полицейский, потом светофор, потом знаки.",
+      "trap": "Ищите «Continuar la marcha» (продолжать движение). «Detenerse» (остановиться) — ловушка для тех, кто смотрит только на светофор.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Ante la señal de color rojo",
+            "tr": "При красном сигнале"
+          },
+          {
+            "es": "del semáforo",
+            "tr": "светофора"
+          },
+          {
+            "es": "y la indicación de continuar la marcha",
+            "tr": "и указании продолжать движение"
+          },
+          {
+            "es": "del efectivo de la Policía Nacional del Perú",
+            "tr": "от сотрудника полиции Перу,"
+          },
+          {
+            "es": "asignado al control del tránsito,",
+            "tr": "назначенного регулировать движение,"
+          },
+          {
+            "es": "corresponde:",
+            "tr": "следует:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Detenerse",
+              "tr": "Остановиться"
+            },
+            {
+              "es": "hasta que cambie a luz verde.",
+              "tr": "пока не загорится зелёный."
+            }
+          ],
+          "b": [
+            {
+              "es": "Continuar la marcha.",
+              "tr": "Продолжать движение.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Estar prevenido.",
+              "tr": "Быть настороже."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-017": {
+      "id": "a1-017",
+      "text": "Запрещено ставить автомобиль на стоянку:",
+      "options": {
+        "a": "На поворотах.",
+        "b": "На перекрёстке.",
+        "c": "Перед въездом в гаражи и на военные или полицейские объекты.",
+        "d": "Все варианты верны."
+      },
+      "gist": "Где запрещена стоянка",
+      "explanation": "Все три места из списка — запрещённые для стоянки. Поворот: вас не видно. Перекрёсток: мешаете движению. Въезд в гараж или военный объект: блокируете проезд.",
+      "trap": "Каждый из вариантов a, b, c верен сам по себе. Когда все верны — выбирайте «Todas las alternativas son correctas» (все варианты верны).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Está prohibido estacionar",
+            "tr": "Запрещено парковать",
+            "kind": "logic"
+          },
+          {
+            "es": "un vehículo:",
+            "tr": "автомобиль:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "En las curvas.",
+              "tr": "На поворотах."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dentro de una intersección.",
+              "tr": "На перекрёстке."
+            }
+          ],
+          "c": [
+            {
+              "es": "Frente a la entrada",
+              "tr": "Перед въездом"
+            },
+            {
+              "es": "de garajes",
+              "tr": "в гаражи"
+            },
+            {
+              "es": "y de recintos militares o policiales.",
+              "tr": "и на военные или полицейские объекты."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "верны."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-018": {
+      "id": "a1-018",
+      "text": "Следующий вертикальный предписывающий знак (R-29):",
+      "options": {
+        "a": "Запрещает сигналить на городских улицах.",
+        "b": "Запрещает сигналить на шоссе.",
+        "c": "Запрещает использовать клаксон.",
+        "d": "Запрещает шуметь."
+      },
+      "gist": "Что означает знак R-29",
+      "explanation": "R-29 — перечёркнутый клаксон в красном круге. Значит: сигналить запрещено. Без уточнений — ни в городе, ни на трассе. Знак только про клаксон, а не про любой шум.",
+      "trap": "Варианты a и b добавляют место: «en vías urbanas» (в городе), «en carreteras» (на шоссе). Знак ничего не уточняет. Верен самый короткий вариант — «Prohíbe el uso de la bocina.»",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal vertical",
+            "tr": "Следующий вертикальный знак"
+          },
+          {
+            "es": "reglamentaria (R-29):",
+            "tr": "предписывающий (R-29):"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Prohíbe el uso de la bocina",
+              "tr": "Запрещает использовать клаксон",
+              "kind": "logic"
+            },
+            {
+              "es": "en vías urbanas.",
+              "tr": "на городских улицах."
+            }
+          ],
+          "b": [
+            {
+              "es": "Prohíbe el uso de la bocina",
+              "tr": "Запрещает использовать клаксон",
+              "kind": "logic"
+            },
+            {
+              "es": "en carreteras.",
+              "tr": "на шоссе."
+            }
+          ],
+          "c": [
+            {
+              "es": "Prohíbe el uso de la bocina.",
+              "tr": "Запрещает использовать клаксон.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Prohíbe hacer ruido.",
+              "tr": "Запрещает шуметь.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-019": {
+      "id": "a1-019",
+      "text": "Штраф и запрет на получение прав на 3 года грозит тому, кто:",
+      "options": {
+        "a": "Управляет автомобилем, не имея водительских прав.",
+        "b": "Управляет автомобилем без оборудования для максимального комфорта пассажиров.",
+        "c": "Управляет автомобилем без SOAT.",
+        "d": "a и c верны"
+      },
+      "gist": "Штраф и 3 года без прав",
+      "explanation": "Езда без прав — очень тяжёлое нарушение (M.1). За него штраф и 3 года без права получить лицензию. Езда без SOAT — тоже нарушение, но без запрета на 3 года. Поэтому «a y c» — неверно.",
+      "trap": "Вариант d «a y c son correctas» (a и c верны) заманчив. Но за SOAT нет 3-летнего запрета. Ищите «sin tener licencia de conducir» (без прав).",
+      "legalRef": "RNT Anexo I, M.1",
+      "gloss": {
+        "text": [
+          {
+            "es": "Se le impondrá",
+            "tr": "Будет наложена"
+          },
+          {
+            "es": "el pago de una multa",
+            "tr": "оплата штрафа"
+          },
+          {
+            "es": "y no podrá obtener",
+            "tr": "и не сможет получить",
+            "kind": "logic"
+          },
+          {
+            "es": "la licencia de conducir",
+            "tr": "водительские права"
+          },
+          {
+            "es": "por 3 años",
+            "tr": "в течение 3 лет"
+          },
+          {
+            "es": "a la persona que:",
+            "tr": "тот, кто:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Conduzca un vehículo automotor",
+              "tr": "Управляет моторным транспортным средством"
+            },
+            {
+              "es": "sin tener licencia de conducir.",
+              "tr": "не имея водительских прав.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Conduzca un vehículo",
+              "tr": "Управляет автомобилем"
+            },
+            {
+              "es": "que no cuente con el equipamiento",
+              "tr": "у которого нет оборудования",
+              "kind": "logic"
+            },
+            {
+              "es": "para brindar una máxima comodidad",
+              "tr": "для максимального комфорта"
+            },
+            {
+              "es": "a sus ocupantes.",
+              "tr": "пассажиров."
+            }
+          ],
+          "c": [
+            {
+              "es": "Conduzca un vehículo",
+              "tr": "Управляет автомобилем"
+            },
+            {
+              "es": "sin contar con el SOAT.",
+              "tr": "без SOAT."
+            }
+          ],
+          "d": [
+            {
+              "es": "a y c son correctas",
+              "tr": "a и c верны"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-020": {
+      "id": "a1-020",
+      "text": "Вы едете, и вас догоняет автомобиль, который хочет вас обогнать. Что вы должны делать?",
+      "options": {
+        "a": "Нужно увеличить скорость, чтобы другой автомобиль вас не обогнал.",
+        "b": "Нельзя увеличивать скорость, пока автомобиль вас не обгонит.",
+        "c": "Нужно резко снизить скорость.",
+        "d": "Нужно остановить автомобиль."
+      },
+      "gist": "Что делать, когда вас обгоняют",
+      "explanation": "Когда вас обгоняют, не мешайте. Не ускоряйтесь, пока обгон не закончится. Резко тормозить или останавливаться тоже не нужно — это опасно.",
+      "trap": "a и b различаются одним «No»: «Debe aumentar» (нужно ускориться) — неверно; «No debe aumentar» (нельзя ускоряться) — верно.",
+      "gloss": {
+        "text": [
+          {
+            "es": "En el supuesto que",
+            "tr": "Предположим, что"
+          },
+          {
+            "es": "se encuentre manejando",
+            "tr": "вы за рулём"
+          },
+          {
+            "es": "y un vehículo",
+            "tr": "и автомобиль,"
+          },
+          {
+            "es": "que tiene la intención",
+            "tr": "который намерен"
+          },
+          {
+            "es": "de sobrepasarlo o adelantarlo",
+            "tr": "вас обогнать,"
+          },
+          {
+            "es": "lo alcance,",
+            "tr": "вас догоняет."
+          },
+          {
+            "es": "¿qué debería hacer usted?",
+            "tr": "Что вам следует делать?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Debe aumentar la velocidad",
+              "tr": "Нужно увеличить скорость,",
+              "kind": "logic"
+            },
+            {
+              "es": "para no dejar que",
+              "tr": "чтобы не дать",
+              "kind": "logic"
+            },
+            {
+              "es": "el otro vehículo lo pase.",
+              "tr": "другому автомобилю вас обогнать."
+            }
+          ],
+          "b": [
+            {
+              "es": "No debe aumentar la velocidad",
+              "tr": "Нельзя увеличивать скорость,",
+              "kind": "anchor"
+            },
+            {
+              "es": "hasta que",
+              "tr": "пока не",
+              "kind": "anchor"
+            },
+            {
+              "es": "el vehículo lo sobrepase.",
+              "tr": "автомобиль вас обгонит."
+            }
+          ],
+          "c": [
+            {
+              "es": "Debe disminuir drásticamente",
+              "tr": "Нужно резко снизить",
+              "kind": "logic"
+            },
+            {
+              "es": "la velocidad de su vehículo.",
+              "tr": "скорость своего автомобиля."
+            }
+          ],
+          "d": [
+            {
+              "es": "Debe detener",
+              "tr": "Нужно остановить",
+              "kind": "logic"
+            },
+            {
+              "es": "su vehículo.",
+              "tr": "свой автомобиль."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-021": {
+      "id": "a1-021",
+      "text": "Какое из утверждений верно?",
+      "options": {
+        "a": "Водитель должен соблюдать установленные максимальные и минимальные ограничения скорости.",
+        "b": "Водитель должен соблюдать только максимальные ограничения, потому что минимальных не существует.",
+        "c": "Водитель может ехать с любой скоростью, если делает это осторожно.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Максимальная и минимальная скорость",
+      "explanation": "В Перу есть и максимальные, и минимальные ограничения скорости. Слишком медленная езда тоже опасна. Водитель обязан соблюдать оба.",
+      "trap": "Вариант b говорит «no existen límites mínimos» (минимальных нет) — это ложь. Ищите «máximos y mínimos» (максимальные и минимальные).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál de las siguientes afirmaciones",
+            "tr": "Какое из следующих утверждений"
+          },
+          {
+            "es": "es correcta?",
+            "tr": "верно?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El conductor debe respetar",
+              "tr": "Водитель должен соблюдать",
+              "kind": "logic"
+            },
+            {
+              "es": "los límites máximos y mínimos",
+              "tr": "максимальные и минимальные пределы",
+              "kind": "anchor"
+            },
+            {
+              "es": "de velocidad establecidos.",
+              "tr": "установленной скорости."
+            }
+          ],
+          "b": [
+            {
+              "es": "El conductor debe respetar",
+              "tr": "Водитель должен соблюдать",
+              "kind": "logic"
+            },
+            {
+              "es": "únicamente los límites máximos",
+              "tr": "только максимальные пределы",
+              "kind": "logic"
+            },
+            {
+              "es": "de velocidad,",
+              "tr": "скорости,"
+            },
+            {
+              "es": "pues no existen límites mínimos.",
+              "tr": "потому что минимальных пределов нет.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "El conductor puede conducir",
+              "tr": "Водитель может ехать",
+              "kind": "logic"
+            },
+            {
+              "es": "a la velocidad que desee,",
+              "tr": "с любой скоростью,"
+            },
+            {
+              "es": "siempre que lo haga",
+              "tr": "при условии, что делает это",
+              "kind": "logic"
+            },
+            {
+              "es": "de manera prudente.",
+              "tr": "осторожно."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-022": {
+      "id": "a1-022",
+      "text": "Какой свет должен использовать водитель на городских улицах ночью?",
+      "options": {
+        "a": "Ближний.",
+        "b": "Дальний.",
+        "c": "Дальний на перекрёстках и ближний на проспектах.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Какой свет ночью в городе",
+      "explanation": "В городе ночью — только ближний свет. Дальний слепит других водителей и пешеходов. Дальний свет используют за городом, где нет освещения и встречных.",
+      "trap": "«Bajas» — ближний, «Altas» — дальний. Не путайте! Вариант c с «altas en las intersecciones» (дальний на перекрёстках) — неверен.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Qué luces debe utilizar",
+            "tr": "Какие фары должен использовать",
+            "kind": "logic"
+          },
+          {
+            "es": "un conductor que circula",
+            "tr": "водитель, который едет"
+          },
+          {
+            "es": "en las vías públicas urbanas",
+            "tr": "по городским улицам"
+          },
+          {
+            "es": "por la noche?",
+            "tr": "ночью?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Bajas.",
+              "tr": "Ближний."
+            }
+          ],
+          "b": [
+            {
+              "es": "Altas.",
+              "tr": "Дальний."
+            }
+          ],
+          "c": [
+            {
+              "es": "Luces altas",
+              "tr": "Дальний свет"
+            },
+            {
+              "es": "en las intersecciones",
+              "tr": "на перекрёстках"
+            },
+            {
+              "es": "y bajas en las avenidas.",
+              "tr": "и ближний на проспектах."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-023": {
+      "id": "a1-023",
+      "text": "При ДТП SOAT покрывает ущерб, который получают:",
+      "options": {
+        "a": "Только люди в автомобиле.",
+        "b": "Люди в автомобиле и третьи лица вне автомобиля.",
+        "c": "Только пострадавшие третьи лица.",
+        "d": "Только водитель автомобиля."
+      },
+      "gist": "Кого защищает SOAT",
+      "explanation": "SOAT покрывает всех пострадавших в ДТП. Это и люди в машине, и люди вне её: пешеходы, другие водители. Любой вариант с «solo» (только) — неверен.",
+      "trap": "Три варианта начинаются с «Solo» (только) — они сужают круг. Верен вариант с «ocupantes y terceros» (пассажиры и третьи лица).",
+      "gloss": {
+        "text": [
+          {
+            "es": "En caso de accidentes,",
+            "tr": "В случае ДТП"
+          },
+          {
+            "es": "el SOAT cubre",
+            "tr": "SOAT покрывает"
+          },
+          {
+            "es": "los daños que sufren:",
+            "tr": "ущерб, который получают:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Solo los ocupantes",
+              "tr": "Только находящиеся",
+              "kind": "logic"
+            },
+            {
+              "es": "del vehículo.",
+              "tr": "в автомобиле."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los ocupantes y terceros",
+              "tr": "Люди в автомобиле и третьи лица",
+              "kind": "anchor"
+            },
+            {
+              "es": "no ocupantes del vehículo.",
+              "tr": "вне автомобиля.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Solo terceros afectados.",
+              "tr": "Только пострадавшие третьи лица.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Solo el conductor",
+              "tr": "Только водитель",
+              "kind": "logic"
+            },
+            {
+              "es": "del vehículo.",
+              "tr": "автомобиля."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-024": {
+      "id": "a1-024",
+      "text": "Какая страховка обязательна, чтобы управлять автомобилем?",
+      "options": {
+        "a": "Любая страховка от несчастных случаев, которую продают страховые компании.",
+        "b": "Любая автостраховка, если она покрывает пассажиров и третьих лиц, пострадавших в ДТП.",
+        "c": "Обязательное страхование от ДТП — SOAT.",
+        "d": "Страховка не обязательна."
+      },
+      "gist": "Какая страховка обязательна",
+      "explanation": "Обязательна только SOAT — государственная страховка от ДТП. Без неё ездить нельзя. Другие страховки — по желанию, они SOAT не заменяют.",
+      "trap": "Вариант b описывает похожее покрытие, но «cualquier tipo de seguro vehicular» (любая автостраховка) — неверно. Ищите «SOAT».",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál de los siguientes seguros",
+            "tr": "Какая из следующих страховок"
+          },
+          {
+            "es": "es exigible",
+            "tr": "обязательна"
+          },
+          {
+            "es": "para conducir un vehículo automotor?",
+            "tr": "для управления автомобилем?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cualquier tipo de seguro",
+              "tr": "Любая страховка"
+            },
+            {
+              "es": "de accidentes personales",
+              "tr": "от несчастных случаев,"
+            },
+            {
+              "es": "que comercialicen",
+              "tr": "которую продают"
+            },
+            {
+              "es": "las empresas de seguro.",
+              "tr": "страховые компании."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cualquier tipo de seguro vehicular,",
+              "tr": "Любая автостраховка,"
+            },
+            {
+              "es": "siempre que cubra",
+              "tr": "при условии, что покрывает",
+              "kind": "logic"
+            },
+            {
+              "es": "a los ocupantes del vehículo",
+              "tr": "людей в автомобиле"
+            },
+            {
+              "es": "y terceros afectados",
+              "tr": "и пострадавших третьих лиц"
+            },
+            {
+              "es": "por un accidente de tránsito.",
+              "tr": "в ДТП."
+            }
+          ],
+          "c": [
+            {
+              "es": "El Seguro Obligatorio",
+              "tr": "Обязательное страхование",
+              "kind": "anchor"
+            },
+            {
+              "es": "de Accidentes de Tránsito",
+              "tr": "от дорожных происшествий"
+            },
+            {
+              "es": "- SOAT.",
+              "tr": "— SOAT.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "No es obligatorio",
+              "tr": "Не обязательно",
+              "kind": "logic"
+            },
+            {
+              "es": "contar con un seguro.",
+              "tr": "иметь страховку."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-025": {
+      "id": "a1-025",
+      "text": "Когда обязательно уступать дорогу спецтранспорту (скорая, пожарные, полиция) или официальному автомобилю:",
+      "options": {
+        "a": "Когда он подаёт световые сигналы.",
+        "b": "Когда он подаёт звуковые сигналы.",
+        "c": "Когда он подаёт звуковые и световые сигналы.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Когда уступать спецтранспорту",
+      "explanation": "Уступать обязательно, когда включены и сирена, и мигалки одновременно. Одного сигнала по правилам недостаточно. Ключ: «audibles y visibles» — и звук, и свет.",
+      "trap": "a и b называют только один вид сигнала. Верен вариант с союзом «y» (и): «audibles y visibles».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Cuándo es obligatorio",
+            "tr": "Когда обязательно",
+            "kind": "logic"
+          },
+          {
+            "es": "darle preferencia de paso",
+            "tr": "уступить дорогу"
+          },
+          {
+            "es": "a un vehículo de emergencia",
+            "tr": "спецтранспорту"
+          },
+          {
+            "es": "o vehículo oficial:",
+            "tr": "или официальному автомобилю:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cuando emita",
+              "tr": "Когда он подаёт"
+            },
+            {
+              "es": "señales visibles.",
+              "tr": "видимые сигналы."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cuando emita",
+              "tr": "Когда он подаёт"
+            },
+            {
+              "es": "señales audibles.",
+              "tr": "звуковые сигналы."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cuando emita señales",
+              "tr": "Когда он подаёт сигналы"
+            },
+            {
+              "es": "audibles y visibles.",
+              "tr": "звуковые и световые.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "en": {
+    "a1-001": {
+      "id": "a1-001",
+      "text": "On the road it is allowed to:",
+      "options": {
+        "a": "Pick up or drop off passengers or cargo anywhere",
+        "b": "Leave animals loose or place them so that they block traffic only a little",
+        "c": "Pick up or drop off passengers in authorized places.",
+        "d": "Carry out street trading, mobile or stationary"
+      },
+      "gist": "Where you may drop off passengers",
+      "explanation": "Passengers may be picked up or dropped off only in authorized places. The other options are all violations. Anywhere is not allowed; animals and street trading on the road are banned.",
+      "trap": "Option a also mentions passengers, but «en cualquier lugar» (anywhere) is a violation. Look for «lugares autorizados» (authorized places).",
+      "legalRef": "RNT art. 90",
+      "gloss": {
+        "text": [
+          {
+            "es": "Está permitido",
+            "tr": "It is allowed",
+            "kind": "logic"
+          },
+          {
+            "es": "en la vía:",
+            "tr": "on the road:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Recoger o dejar",
+              "tr": "Pick up or drop off"
+            },
+            {
+              "es": "pasajeros o carga",
+              "tr": "passengers or cargo"
+            },
+            {
+              "es": "en cualquier lugar",
+              "tr": "anywhere",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Dejar animales sueltos",
+              "tr": "Leave animals loose"
+            },
+            {
+              "es": "o situarlos",
+              "tr": "or place them"
+            },
+            {
+              "es": "de forma tal que",
+              "tr": "in such a way that"
+            },
+            {
+              "es": "obstaculicen",
+              "tr": "they obstruct"
+            },
+            {
+              "es": "solo un poco",
+              "tr": "only a little",
+              "kind": "logic"
+            },
+            {
+              "es": "el tránsito",
+              "tr": "the traffic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Recoger o dejar pasajeros",
+              "tr": "Pick up or drop off passengers"
+            },
+            {
+              "es": "en lugares autorizados.",
+              "tr": "in authorized places.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ejercer el comercio",
+              "tr": "Carry out trade"
+            },
+            {
+              "es": "ambulatorio o estacionario",
+              "tr": "mobile or stationary"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-002": {
+      "id": "a1-002",
+      "text": "Regarding traffic control or regulation devices (signs, lights, markings):",
+      "options": {
+        "a": "Only pedestrians are required to obey them",
+        "b": "Drivers and pedestrians are required to obey them, except when an instruction from the National Police of Peru assigned to traffic indicates otherwise",
+        "c": "Only drivers are required to obey them.",
+        "d": "Drivers are required to obey them, even when the National Police of Peru assigned to traffic may indicate otherwise."
+      },
+      "gist": "Who must obey traffic control devices",
+      "explanation": "Everyone must obey signs, lights and markings: drivers and pedestrians alike. But a traffic police officer's instruction overrides any device. So the right answer is the one with «salvo» (except).",
+      "trap": "Option d looks similar, but «aun cuando» (even when) means obeying the device even against the officer. That is wrong. Look for «salvo» (except) and «conductores y peatones» (drivers and pedestrians).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Respecto de",
+            "tr": "Regarding"
+          },
+          {
+            "es": "los dispositivos de control",
+            "tr": "the control devices"
+          },
+          {
+            "es": "o regulación del tránsito:",
+            "tr": "or traffic regulation:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Solo los peatones",
+              "tr": "Only pedestrians",
+              "kind": "logic"
+            },
+            {
+              "es": "están obligados",
+              "tr": "are required"
+            },
+            {
+              "es": "a su obediencia",
+              "tr": "to obey them"
+            }
+          ],
+          "b": [
+            {
+              "es": "Los conductores y los peatones",
+              "tr": "Drivers and pedestrians",
+              "kind": "anchor"
+            },
+            {
+              "es": "están obligados a su obediencia,",
+              "tr": "are required to obey them,"
+            },
+            {
+              "es": "salvo instrucción",
+              "tr": "except an instruction",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la Policía Nacional del Perú",
+              "tr": "from the National Police of Peru"
+            },
+            {
+              "es": "asignada al tránsito",
+              "tr": "assigned to traffic"
+            },
+            {
+              "es": "que indique lo contrario",
+              "tr": "that indicates otherwise"
+            }
+          ],
+          "c": [
+            {
+              "es": "Solo los conductores",
+              "tr": "Only drivers",
+              "kind": "logic"
+            },
+            {
+              "es": "están obligados",
+              "tr": "are required"
+            },
+            {
+              "es": "a su obediencia.",
+              "tr": "to obey them."
+            }
+          ],
+          "d": [
+            {
+              "es": "Los conductores",
+              "tr": "Drivers"
+            },
+            {
+              "es": "están obligados a su obediencia,",
+              "tr": "are required to obey them,"
+            },
+            {
+              "es": "aun cuando",
+              "tr": "even when",
+              "kind": "logic"
+            },
+            {
+              "es": "la Policía Nacional del Perú",
+              "tr": "the National Police of Peru"
+            },
+            {
+              "es": "asignada al tránsito",
+              "tr": "assigned to traffic"
+            },
+            {
+              "es": "pueda indicar lo contrario.",
+              "tr": "may indicate otherwise."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-003": {
+      "id": "a1-003",
+      "text": "The regulatory vertical sign R-6 «no left turn» means that:",
+      "options": {
+        "a": "Turning left is prohibited, and therefore the U-turn is also prohibited.",
+        "b": "Turning left is prohibited; however, the U-turn is allowed.",
+        "c": "The only direction of travel is straight ahead.",
+        "d": "None of the options is correct."
+      },
+      "gist": "No-left-turn sign and U-turns",
+      "explanation": "A U-turn is basically a double left turn. So where left turns are banned, U-turns are banned too. Option b says the opposite, so it is wrong.",
+      "trap": "Options a and b start the same. The difference is at the end: «también está prohibido» (also prohibited) is right; «está permitido el giro en U» (U-turn allowed) is wrong.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal vertical reglamentaria R-6",
+            "tr": "The regulatory vertical sign R-6"
+          },
+          {
+            "es": "«prohibido voltear a la izquierda»,",
+            "tr": "«no left turn»,",
+            "kind": "logic"
+          },
+          {
+            "es": "significa que:",
+            "tr": "means that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está prohibido voltear a la izquierda",
+              "tr": "It is prohibited to turn left",
+              "kind": "logic"
+            },
+            {
+              "es": "y, por lo tanto también",
+              "tr": "and, therefore, also"
+            },
+            {
+              "es": "está prohibido el giro en U.",
+              "tr": "the U-turn is prohibited.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Está prohibido voltear a la izquierda,",
+              "tr": "It is prohibited to turn left,",
+              "kind": "logic"
+            },
+            {
+              "es": "sin embargo,",
+              "tr": "however,",
+              "kind": "logic"
+            },
+            {
+              "es": "está permitido el giro en U.",
+              "tr": "the U-turn is allowed.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "El único sentido",
+              "tr": "The only direction",
+              "kind": "logic"
+            },
+            {
+              "es": "de desplazamiento",
+              "tr": "of travel"
+            },
+            {
+              "es": "es continuar de frente.",
+              "tr": "is to continue straight."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-004": {
+      "id": "a1-004",
+      "text": "The regulatory vertical sign R-3 means that:",
+      "options": {
+        "a": "We are approaching an area where traffic is restricted.",
+        "b": "Overtaking vehicles is allowed.",
+        "c": "The only direction of travel is straight ahead.",
+        "d": "None of the options is correct"
+      },
+      "gist": "What sign R-3 means",
+      "explanation": "R-3 is a blue circle with a white arrow pointing up. It is a mandatory direction sign: go straight only. Turning left or right is not allowed here.",
+      "trap": "A blue circle means an obligation, not a prohibition. Key words: «continuar de frente» (go straight ahead).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal vertical reglamentaria R-3",
+            "tr": "The regulatory vertical sign R-3"
+          },
+          {
+            "es": "significa que:",
+            "tr": "means that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Nos acercamos",
+              "tr": "We are approaching"
+            },
+            {
+              "es": "a una zona restringida",
+              "tr": "an area restricted"
+            },
+            {
+              "es": "al tránsito.",
+              "tr": "to traffic."
+            }
+          ],
+          "b": [
+            {
+              "es": "Está permitido",
+              "tr": "It is allowed",
+              "kind": "logic"
+            },
+            {
+              "es": "adelantar vehículos.",
+              "tr": "to overtake vehicles."
+            }
+          ],
+          "c": [
+            {
+              "es": "El único sentido",
+              "tr": "The only direction",
+              "kind": "logic"
+            },
+            {
+              "es": "de desplazamiento",
+              "tr": "of travel"
+            },
+            {
+              "es": "es continuar de frente.",
+              "tr": "is to continue straight.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta",
+              "tr": "is correct"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-005": {
+      "id": "a1-005",
+      "text": "On roads, a broken yellow centre line on the pavement means that:",
+      "options": {
+        "a": "It is allowed to cross into the other lane to overtake, if it is safe to do so.",
+        "b": "It is not allowed to cross into the other lane to overtake.",
+        "c": "The carriageway of the road you are driving on is narrowing.",
+        "d": "You are at a pedestrian crossing."
+      },
+      "gist": "Broken yellow centre line meaning",
+      "explanation": "A yellow line separates opposite directions of traffic. A broken line may be crossed. So overtaking across it is allowed, but only when it is safe. A solid yellow line must not be crossed.",
+      "trap": "Options a and b differ by one word: «No está permitido» (not allowed) applies to a solid line. For a broken line the right one is «Está permitido… si es seguro» (allowed if safe).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "En las vías,",
+            "tr": "On roads,"
+          },
+          {
+            "es": "las marcas en el pavimento",
+            "tr": "the road markings"
+          },
+          {
+            "es": "que son del tipo central",
+            "tr": "that are of the central type"
+          },
+          {
+            "es": "discontinua",
+            "tr": "broken"
+          },
+          {
+            "es": "y de color amarillo",
+            "tr": "and yellow in colour"
+          },
+          {
+            "es": "significan que:",
+            "tr": "mean that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está permitido cruzar",
+              "tr": "It is allowed to cross",
+              "kind": "logic"
+            },
+            {
+              "es": "al otro carril",
+              "tr": "into the other lane"
+            },
+            {
+              "es": "para el adelantamiento vehicular,",
+              "tr": "for overtaking,"
+            },
+            {
+              "es": "si es que es seguro hacerlo.",
+              "tr": "if it is safe to do so.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "No está permitido cruzar",
+              "tr": "It is not allowed to cross",
+              "kind": "logic"
+            },
+            {
+              "es": "al otro carril",
+              "tr": "into the other lane"
+            },
+            {
+              "es": "para el adelantamiento vehicular.",
+              "tr": "for overtaking."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se está reduciendo",
+              "tr": "It is narrowing"
+            },
+            {
+              "es": "el ancho de la calzada",
+              "tr": "the width of the carriageway"
+            },
+            {
+              "es": "de la vía por donde se circula.",
+              "tr": "of the road being driven on."
+            }
+          ],
+          "d": [
+            {
+              "es": "Se está frente a",
+              "tr": "You are in front of"
+            },
+            {
+              "es": "un lugar de cruce peatonal.",
+              "tr": "a pedestrian crossing."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-006": {
+      "id": "a1-006",
+      "text": "The amber or yellow light of a traffic signal means that:",
+      "options": {
+        "a": "Vehicles must proceed.",
+        "b": "Vehicles must stop.",
+        "c": "Vehicles must speed up.",
+        "d": "Vehicles must stop before entering the intersection if their speed and position allow it; otherwise, they must cross and clear the intersection."
+      },
+      "gist": "What the amber light means",
+      "explanation": "Amber is a warning: red is coming next. If you can stop safely before the intersection, stop. If it is too late to brake, cross and clear the intersection. Speeding up on amber is not allowed.",
+      "trap": "Option b «deben detenerse» (must stop) is incomplete. The right answer is the long one with the condition «si su velocidad y ubicación lo permiten» (if speed and position allow).",
+      "gloss": {
+        "text": [
+          {
+            "es": "El color ámbar o amarillo",
+            "tr": "The amber or yellow colour"
+          },
+          {
+            "es": "del semáforo",
+            "tr": "of the traffic light"
+          },
+          {
+            "es": "significa que:",
+            "tr": "means that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Los vehículos deben",
+              "tr": "Vehicles must",
+              "kind": "logic"
+            },
+            {
+              "es": "avanzar.",
+              "tr": "go ahead."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los vehículos deben",
+              "tr": "Vehicles must",
+              "kind": "logic"
+            },
+            {
+              "es": "detenerse.",
+              "tr": "stop."
+            }
+          ],
+          "c": [
+            {
+              "es": "Los vehículos deben",
+              "tr": "Vehicles must",
+              "kind": "logic"
+            },
+            {
+              "es": "acelerar la marcha.",
+              "tr": "speed up."
+            }
+          ],
+          "d": [
+            {
+              "es": "Los vehículos deben detenerse",
+              "tr": "Vehicles must stop",
+              "kind": "logic"
+            },
+            {
+              "es": "antes de ingresar a la intersección",
+              "tr": "before entering the intersection",
+              "kind": "anchor"
+            },
+            {
+              "es": "si su velocidad y ubicación",
+              "tr": "if their speed and position"
+            },
+            {
+              "es": "lo permiten;",
+              "tr": "allow it;"
+            },
+            {
+              "es": "de lo contrario,",
+              "tr": "otherwise,",
+              "kind": "logic"
+            },
+            {
+              "es": "deberán cruzar",
+              "tr": "they must cross"
+            },
+            {
+              "es": "y despejar la intersección.",
+              "tr": "and clear the intersection."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-007": {
+      "id": "a1-007",
+      "text": "The traffic light colours mean the following: red: _____; amber or yellow: _____; green: ____.",
+      "options": {
+        "a": "Stop - caution - go.",
+        "b": "Stop - go with caution - fast traffic.",
+        "c": "Slow down - caution - go fast.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Meaning of red, amber and green",
+      "explanation": "Red means stop (detención). Amber means caution, get ready to stop (prevención). Green means go (paso). No colour ever means «drive fast».",
+      "trap": "Options b and c contain «rápida/rápido» (fast), which is always wrong. The right sequence is «Detención - prevención - paso».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Los colores del semáforo",
+            "tr": "The traffic light colours"
+          },
+          {
+            "es": "tienen el siguiente significado:",
+            "tr": "have the following meaning:"
+          },
+          {
+            "es": "rojo: _____ ;",
+            "tr": "red: _____ ;"
+          },
+          {
+            "es": "ámbar o amarillo: _____;",
+            "tr": "amber or yellow: _____;"
+          },
+          {
+            "es": "verde: ____.",
+            "tr": "green: ____."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Detención - prevención",
+              "tr": "Stop - caution",
+              "kind": "anchor"
+            },
+            {
+              "es": "- paso.",
+              "tr": "- go."
+            }
+          ],
+          "b": [
+            {
+              "es": "Detención",
+              "tr": "Stop"
+            },
+            {
+              "es": "- paso con prevención",
+              "tr": "- go with caution"
+            },
+            {
+              "es": "- circulación rápida.",
+              "tr": "- fast driving."
+            }
+          ],
+          "c": [
+            {
+              "es": "Disminución de la velocidad",
+              "tr": "Reduction of speed"
+            },
+            {
+              "es": "- prevención",
+              "tr": "- caution"
+            },
+            {
+              "es": "- paso rápido.",
+              "tr": "- fast passage."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-008": {
+      "id": "a1-008",
+      "text": "What does a green arrow on a vehicle traffic light indicate?",
+      "options": {
+        "a": "You may continue with caution only in the direction of the arrow and from the lane that this arrow controls.",
+        "b": "Driving in the direction shown by the arrow is not allowed.",
+        "c": "Only the round light must be obeyed.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Green arrow on a traffic light",
+      "explanation": "A green arrow allows you to go only where it points. And only from the lane it controls. Drive with caution: there may be pedestrians.",
+      "trap": "Option b says «No está permitida» (not allowed); it is the opposite: a green arrow allows. Look for «dirección de la flecha» (direction of the arrow) and «carril» (lane).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Qué indica",
+            "tr": "What does it indicate,"
+          },
+          {
+            "es": "una flecha verde",
+            "tr": "a green arrow"
+          },
+          {
+            "es": "en un semáforo vehicular?",
+            "tr": "on a vehicle traffic light?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se puede continuar",
+              "tr": "You may continue",
+              "kind": "logic"
+            },
+            {
+              "es": "con precaución",
+              "tr": "with caution"
+            },
+            {
+              "es": "únicamente",
+              "tr": "only",
+              "kind": "logic"
+            },
+            {
+              "es": "en la dirección de la flecha",
+              "tr": "in the direction of the arrow",
+              "kind": "anchor"
+            },
+            {
+              "es": "y desde el carril",
+              "tr": "and from the lane",
+              "kind": "anchor"
+            },
+            {
+              "es": "que esta flecha controla.",
+              "tr": "that this arrow controls."
+            }
+          ],
+          "b": [
+            {
+              "es": "No está permitida",
+              "tr": "It is not allowed",
+              "kind": "logic"
+            },
+            {
+              "es": "la circulación",
+              "tr": "driving"
+            },
+            {
+              "es": "en el sentido que indica la flecha.",
+              "tr": "in the direction the arrow shows."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se debe respetar",
+              "tr": "One must obey",
+              "kind": "logic"
+            },
+            {
+              "es": "únicamente",
+              "tr": "only",
+              "kind": "logic"
+            },
+            {
+              "es": "la luz circular.",
+              "tr": "the round light."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-009": {
+      "id": "a1-009",
+      "text": "The following regulatory vertical sign R-53:",
+      "options": {
+        "a": "Prohibits parking.",
+        "b": "Prohibits the driver from stopping the vehicle inside the intersection area.",
+        "c": "Prohibits loading and unloading.",
+        "d": "Prohibits the movement of motor vehicles"
+      },
+      "gist": "What sign R-53 means",
+      "explanation": "R-53 means «do not stop inside the intersection». Do not enter the intersection if there is no room beyond it. Otherwise you block the traffic. It is about stopping in the intersection, not about parking.",
+      "trap": "All options start with «Prohíbe» (prohibits). Look for «intersección» (intersection) and «detener» (to stop).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal vertical",
+            "tr": "The following vertical sign"
+          },
+          {
+            "es": "reglamentaria R-53:",
+            "tr": "regulatory R-53:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Prohíbe estacionar.",
+              "tr": "Prohibits parking.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Prohíbe al conductor",
+              "tr": "Prohibits the driver",
+              "kind": "logic"
+            },
+            {
+              "es": "detener el vehículo",
+              "tr": "stopping the vehicle",
+              "kind": "anchor"
+            },
+            {
+              "es": "dentro del área de la intersección.",
+              "tr": "inside the intersection area.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Prohíbe",
+              "tr": "Prohibits",
+              "kind": "logic"
+            },
+            {
+              "es": "la carga y descarga.",
+              "tr": "loading and unloading."
+            }
+          ],
+          "d": [
+            {
+              "es": "Prohíbe la circulación",
+              "tr": "Prohibits the movement",
+              "kind": "logic"
+            },
+            {
+              "es": "de vehículos motorizados",
+              "tr": "of motor vehicles"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-010": {
+      "id": "a1-010",
+      "text": "You reach an intersection and see the traffic light with a red left arrow and the round green light on at the same time. The correct action is:",
+      "options": {
+        "a": "Go in any direction, since the round light is green.",
+        "b": "Go, but the left turn is prohibited by the red arrow.",
+        "c": "Go only to the left, since going straight is prohibited.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Red left arrow with green light",
+      "explanation": "The round green light allows going straight and turning right. The red arrow bans only the left turn. So: go, but do not turn left.",
+      "trap": "Option c reverses it: «únicamente hacia la izquierda» (only to the left). The truth is the opposite: «giro a la izquierda está prohibido» (left turn prohibited).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si llega a una intersección",
+            "tr": "If you reach an intersection"
+          },
+          {
+            "es": "y visualiza el semáforo",
+            "tr": "and see the traffic light"
+          },
+          {
+            "es": "con una flecha roja",
+            "tr": "with a red arrow"
+          },
+          {
+            "es": "hacia la izquierda",
+            "tr": "to the left",
+            "kind": "logic"
+          },
+          {
+            "es": "y la luz circular verde",
+            "tr": "and the round green light"
+          },
+          {
+            "es": "prendidas al mismo tiempo,",
+            "tr": "lit at the same time,"
+          },
+          {
+            "es": "la acción correcta es:",
+            "tr": "the correct action is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Avanzar en cualquier sentido,",
+              "tr": "Go in any direction,",
+              "kind": "logic"
+            },
+            {
+              "es": "ya que la luz circular",
+              "tr": "since the round light"
+            },
+            {
+              "es": "está en verde.",
+              "tr": "is green."
+            }
+          ],
+          "b": [
+            {
+              "es": "Avanzar, pero",
+              "tr": "Go, but"
+            },
+            {
+              "es": "el giro a la izquierda",
+              "tr": "the left turn",
+              "kind": "anchor"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "por la flecha roja.",
+              "tr": "by the red arrow.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Avanzar únicamente",
+              "tr": "Go only",
+              "kind": "logic"
+            },
+            {
+              "es": "hacia la izquierda,",
+              "tr": "to the left,",
+              "kind": "logic"
+            },
+            {
+              "es": "pues continuar de frente",
+              "tr": "since going straight"
+            },
+            {
+              "es": "está prohibido.",
+              "tr": "is prohibited.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-011": {
+      "id": "a1-011",
+      "text": "You reach an intersection where the traffic light shows a flashing light. Which statement is correct:",
+      "options": {
+        "a": "If the flashing light is red, it is equivalent to a «YIELD» sign",
+        "b": "If the flashing light is amber, you have priority, but must slow down and continue with caution.",
+        "c": "If the flashing light is green, it is equivalent to a “STOP” sign.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Flashing traffic light meaning",
+      "explanation": "Flashing red equals a «PARE» (stop) sign: stop, then go. Flashing amber means you have priority, but slow down and be careful. A flashing green is never a stop sign.",
+      "trap": "Option a is a mix-up: flashing red means «PARE» (stop), not «CEDA EL PASO» (yield). Look for «ámbar» (amber) and «precaución» (caution).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si llega a una intersección",
+            "tr": "If you reach an intersection"
+          },
+          {
+            "es": "donde el semáforo muestra",
+            "tr": "where the traffic light shows"
+          },
+          {
+            "es": "una luz intermitente,",
+            "tr": "a flashing light,"
+          },
+          {
+            "es": "qué afirmación es correcta:",
+            "tr": "which statement is correct:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si la luz intermitente es roja,",
+              "tr": "If the flashing light is red,"
+            },
+            {
+              "es": "ésta es equivalente a",
+              "tr": "it is equivalent to"
+            },
+            {
+              "es": "un «CEDA EL PASO»",
+              "tr": "a «YIELD» sign"
+            }
+          ],
+          "b": [
+            {
+              "es": "Si la luz intermitente es ámbar,",
+              "tr": "If the flashing light is amber,",
+              "kind": "anchor"
+            },
+            {
+              "es": "tiene preferencia,",
+              "tr": "you have priority,"
+            },
+            {
+              "es": "debiendo reducir la velocidad",
+              "tr": "and must reduce speed"
+            },
+            {
+              "es": "y continuar con precaución.",
+              "tr": "and continue with caution.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Si la luz intermitente es verde,",
+              "tr": "If the flashing light is green,"
+            },
+            {
+              "es": "ésta es equivalente a",
+              "tr": "it is equivalent to"
+            },
+            {
+              "es": "un “PARE”.",
+              "tr": "a “STOP” sign."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-012": {
+      "id": "a1-012",
+      "text": "Is a flashing red light the same as a STOP (PARE) sign?",
+      "options": {
+        "a": "True.",
+        "b": "It is true only as long as a traffic police officer is also there signalling stop.",
+        "c": "False",
+        "d": "None of the options is correct."
+      },
+      "gist": "Flashing red equals stop sign",
+      "explanation": "Yes, it is true. A flashing red works like a PARE sign: full stop, then go when clear. No police officer is needed for this.",
+      "trap": "Option b also starts with «verdad» (true) but adds the condition «siempre y cuando… Policía» (only if a police officer is there). The condition is false; it is a trap. The right answer is the short «Verdad.»",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿La luz intermitente roja",
+            "tr": "Is the flashing red light"
+          },
+          {
+            "es": "es igual que",
+            "tr": "the same as"
+          },
+          {
+            "es": "una señal de PARE?",
+            "tr": "a PARE (stop) sign?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Verdad.",
+              "tr": "True."
+            }
+          ],
+          "b": [
+            {
+              "es": "Es verdad",
+              "tr": "It is true"
+            },
+            {
+              "es": "siempre y cuando",
+              "tr": "as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "también se encuentre",
+              "tr": "there is also"
+            },
+            {
+              "es": "un Policía de Tránsito",
+              "tr": "a traffic police officer"
+            },
+            {
+              "es": "indicando la señal de Pare.",
+              "tr": "signalling stop."
+            }
+          ],
+          "c": [
+            {
+              "es": "Falso",
+              "tr": "False"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-013": {
+      "id": "a1-013",
+      "text": "When approaching an intersection where a left turn is allowed, the correct behaviour is:",
+      "options": {
+        "a": "Turn from any lane.",
+        "b": "Move into the right lane, then turn with caution.",
+        "c": "Move into the lane with the least traffic, then turn with caution.",
+        "d": "Signal the left turn with the indicators, position the vehicle in advance in the left lane and turn with caution."
+      },
+      "gist": "How to turn left correctly",
+      "explanation": "A left turn is made from the left lane. First switch on the left indicator, then move into the left lane in advance. Then turn with caution. The right lane or the «emptiest» lane is wrong.",
+      "trap": "Three options end with «girar con precaución» (turn with caution). The right one has «luces direccionales» (indicators) and «carril… de la izquierda» (left lane).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Al aproximarse a una intersección",
+            "tr": "When approaching an intersection"
+          },
+          {
+            "es": "con giro permitido a la izquierda,",
+            "tr": "with a permitted left turn,",
+            "kind": "logic"
+          },
+          {
+            "es": "la conducta correcta es:",
+            "tr": "the correct behaviour is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Girar desde",
+              "tr": "Turn from"
+            },
+            {
+              "es": "cualquier carril.",
+              "tr": "any lane."
+            }
+          ],
+          "b": [
+            {
+              "es": "Colocarse en el carril derecho,",
+              "tr": "Get into the right lane,",
+              "kind": "logic"
+            },
+            {
+              "es": "luego girar con precaución.",
+              "tr": "then turn with caution."
+            }
+          ],
+          "c": [
+            {
+              "es": "Colocarse en el carril",
+              "tr": "Get into the lane"
+            },
+            {
+              "es": "más despejado de tráfico,",
+              "tr": "clearest of traffic,",
+              "kind": "logic"
+            },
+            {
+              "es": "luego girar con precaución.",
+              "tr": "then turn with caution."
+            }
+          ],
+          "d": [
+            {
+              "es": "Hacer la señal de volteo a la izquierda",
+              "tr": "Signal the left turn",
+              "kind": "logic"
+            },
+            {
+              "es": "con las luces direccionales,",
+              "tr": "with the turn indicators,",
+              "kind": "anchor"
+            },
+            {
+              "es": "ubicar con antelación el vehículo",
+              "tr": "position the vehicle in advance"
+            },
+            {
+              "es": "en el carril de circulación de la izquierda",
+              "tr": "in the left lane",
+              "kind": "anchor"
+            },
+            {
+              "es": "y girar con precaución.",
+              "tr": "and turn with caution."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-014": {
+      "id": "a1-014",
+      "text": "When changing lanes on a one-way road with multiple lanes, what is the correct behaviour?",
+      "options": {
+        "a": "Switch on the indicators first, look for a gap and change lanes with caution.",
+        "b": "Find a gap, then change lanes with caution; indicators are not necessary for lane changes.",
+        "c": "Warn by using the horn, identify a gap and change lanes with caution.",
+        "d": "Changing lanes on one-way roads is prohibited."
+      },
+      "gist": "How to change lanes correctly",
+      "explanation": "The order is simple: indicator first, then find a gap, then change lanes carefully. The indicator is always mandatory. The horn is not used for this.",
+      "trap": "Option b also mentions «luces direccionales», but with «no es necesario» (not necessary), which is wrong. Look for «encender las luces direccionales primero» (switch on the indicators first).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Al cambiar de carril",
+            "tr": "When changing lanes"
+          },
+          {
+            "es": "en una vía de un solo sentido",
+            "tr": "on a one-way road"
+          },
+          {
+            "es": "con múltiples carriles,",
+            "tr": "with multiple lanes,"
+          },
+          {
+            "es": "¿cuál es la conducta correcta?",
+            "tr": "what is the correct behaviour?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se deben encender las luces direccionales",
+              "tr": "The indicators must be switched on",
+              "kind": "anchor"
+            },
+            {
+              "es": "primero,",
+              "tr": "first,"
+            },
+            {
+              "es": "buscar una brecha",
+              "tr": "look for a gap"
+            },
+            {
+              "es": "y realizar el cambio de carril",
+              "tr": "and make the lane change"
+            },
+            {
+              "es": "con precaución.",
+              "tr": "with caution."
+            }
+          ],
+          "b": [
+            {
+              "es": "Se debe encontrar una brecha,",
+              "tr": "One must find a gap,",
+              "kind": "logic"
+            },
+            {
+              "es": "luego cambiar de carril con precaución;",
+              "tr": "then change lanes with caution;"
+            },
+            {
+              "es": "no es necesario",
+              "tr": "it is not necessary",
+              "kind": "logic"
+            },
+            {
+              "es": "el uso de luces direccionales",
+              "tr": "to use the indicators"
+            },
+            {
+              "es": "para cambios de carril.",
+              "tr": "for lane changes."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se debe advertir",
+              "tr": "One must warn",
+              "kind": "logic"
+            },
+            {
+              "es": "utilizando el claxon,",
+              "tr": "using the horn,"
+            },
+            {
+              "es": "identificar una brecha",
+              "tr": "identify a gap"
+            },
+            {
+              "es": "y realizar el cambio de carril",
+              "tr": "and make the lane change"
+            },
+            {
+              "es": "con precaución.",
+              "tr": "with caution."
+            }
+          ],
+          "d": [
+            {
+              "es": "Está prohibido",
+              "tr": "It is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "el cambio de carril",
+              "tr": "to change lanes"
+            },
+            {
+              "es": "en vías de un solo sentido.",
+              "tr": "on one-way roads."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-015": {
+      "id": "a1-015",
+      "text": "Regarding level crossings with railway tracks, choose the correct statement:",
+      "options": {
+        "a": "Vehicles travelling on the railway have right of way over those travelling on the road that crosses it.",
+        "b": "Vehicles on the road that crosses the railway line have right of way over those on the railway.",
+        "c": "The vehicle that arrives first has priority.",
+        "d": "The driver coming from the right of the other has priority."
+      },
+      "gist": "Right of way at railway crossings",
+      "explanation": "The train always has right of way. It cannot stop quickly or swerve. Cars at the crossing must yield.",
+      "trap": "Options a and b sound almost the same, with the words swapped. Correct: «por la vía férrea tienen preferencia» (those on the railway have priority).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Respecto a los cruces a nivel",
+            "tr": "Regarding level crossings"
+          },
+          {
+            "es": "con vías férreas,",
+            "tr": "with railway tracks,"
+          },
+          {
+            "es": "señale la afirmación correcta:",
+            "tr": "choose the correct statement:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Los vehículos que transitan",
+              "tr": "The vehicles that travel"
+            },
+            {
+              "es": "por la vía férrea tienen preferencia",
+              "tr": "on the railway have priority",
+              "kind": "anchor"
+            },
+            {
+              "es": "de paso",
+              "tr": "of way"
+            },
+            {
+              "es": "sobre los que transitan",
+              "tr": "over those that travel"
+            },
+            {
+              "es": "por la vía que la cruza.",
+              "tr": "on the road that crosses it."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los vehículos que transitan",
+              "tr": "The vehicles that travel"
+            },
+            {
+              "es": "por la vía que cruza la línea férrea",
+              "tr": "on the road that crosses the railway line"
+            },
+            {
+              "es": "tienen preferencia de paso",
+              "tr": "have right of way"
+            },
+            {
+              "es": "sobre los que transitan",
+              "tr": "over those that travel"
+            },
+            {
+              "es": "por la vía férrea.",
+              "tr": "on the railway."
+            }
+          ],
+          "c": [
+            {
+              "es": "El vehículo que llegue primero",
+              "tr": "The vehicle that arrives first"
+            },
+            {
+              "es": "tiene preferencia.",
+              "tr": "has priority."
+            }
+          ],
+          "d": [
+            {
+              "es": "Tiene preferencia el conductor",
+              "tr": "The driver has priority"
+            },
+            {
+              "es": "que viene por la derecha del otro.",
+              "tr": "who comes from the right of the other.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-016": {
+      "id": "a1-016",
+      "text": "The traffic light is red, but the National Police officer controlling traffic signals to continue. You should:",
+      "options": {
+        "a": "Stop until it changes to green.",
+        "b": "Continue driving.",
+        "c": "Be alert.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Red light versus police officer's signal",
+      "explanation": "The officer's signal outranks the traffic light. If the officer signals «go», you go, even on red. The order of priority: police officer, then traffic light, then signs.",
+      "trap": "Look for «Continuar la marcha» (continue driving). «Detenerse» (stop) is the trap for those who only look at the light.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Ante la señal de color rojo",
+            "tr": "Faced with the red signal"
+          },
+          {
+            "es": "del semáforo",
+            "tr": "of the traffic light"
+          },
+          {
+            "es": "y la indicación de continuar la marcha",
+            "tr": "and the instruction to continue"
+          },
+          {
+            "es": "del efectivo de la Policía Nacional del Perú",
+            "tr": "from the National Police officer"
+          },
+          {
+            "es": "asignado al control del tránsito,",
+            "tr": "assigned to traffic control,"
+          },
+          {
+            "es": "corresponde:",
+            "tr": "you should:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Detenerse",
+              "tr": "Stop"
+            },
+            {
+              "es": "hasta que cambie a luz verde.",
+              "tr": "until it changes to green."
+            }
+          ],
+          "b": [
+            {
+              "es": "Continuar la marcha.",
+              "tr": "Continue driving.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Estar prevenido.",
+              "tr": "Be alert."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-017": {
+      "id": "a1-017",
+      "text": "It is prohibited to park a vehicle:",
+      "options": {
+        "a": "On curves.",
+        "b": "Inside an intersection.",
+        "c": "In front of the entrance to garages and military or police premises.",
+        "d": "All of the options are correct."
+      },
+      "gist": "Where parking is prohibited",
+      "explanation": "All three places listed are no-parking places. A curve: you cannot be seen. An intersection: you block traffic. A garage or military entrance: you block access.",
+      "trap": "Each of a, b and c is true on its own. When all are true, choose «Todas las alternativas son correctas» (all options are correct).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Está prohibido estacionar",
+            "tr": "It is prohibited to park",
+            "kind": "logic"
+          },
+          {
+            "es": "un vehículo:",
+            "tr": "a vehicle:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "En las curvas.",
+              "tr": "On curves."
+            }
+          ],
+          "b": [
+            {
+              "es": "Dentro de una intersección.",
+              "tr": "Inside an intersection."
+            }
+          ],
+          "c": [
+            {
+              "es": "Frente a la entrada",
+              "tr": "In front of the entrance"
+            },
+            {
+              "es": "de garajes",
+              "tr": "to garages"
+            },
+            {
+              "es": "y de recintos militares o policiales.",
+              "tr": "and military or police premises."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the options",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-018": {
+      "id": "a1-018",
+      "text": "The following regulatory vertical sign (R-29):",
+      "options": {
+        "a": "Prohibits the use of the horn on urban roads.",
+        "b": "Prohibits the use of the horn on highways.",
+        "c": "Prohibits the use of the horn.",
+        "d": "Prohibits making noise."
+      },
+      "gist": "What sign R-29 means",
+      "explanation": "R-29 shows a crossed-out horn in a red circle. It means: using the horn is prohibited. No conditions: neither urban roads nor highways are mentioned. It is only about the horn, not any noise.",
+      "trap": "Options a and b add a place: «en vías urbanas» (urban roads), «en carreteras» (highways). The sign specifies nothing. The right one is the shortest: «Prohíbe el uso de la bocina.»",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal vertical",
+            "tr": "The following vertical sign"
+          },
+          {
+            "es": "reglamentaria (R-29):",
+            "tr": "regulatory (R-29):"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Prohíbe el uso de la bocina",
+              "tr": "Prohibits the use of the horn",
+              "kind": "logic"
+            },
+            {
+              "es": "en vías urbanas.",
+              "tr": "on urban roads."
+            }
+          ],
+          "b": [
+            {
+              "es": "Prohíbe el uso de la bocina",
+              "tr": "Prohibits the use of the horn",
+              "kind": "logic"
+            },
+            {
+              "es": "en carreteras.",
+              "tr": "on highways."
+            }
+          ],
+          "c": [
+            {
+              "es": "Prohíbe el uso de la bocina.",
+              "tr": "Prohibits the use of the horn.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Prohíbe hacer ruido.",
+              "tr": "Prohibits making noise.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-019": {
+      "id": "a1-019",
+      "text": "A fine will be imposed, and the licence cannot be obtained for 3 years, on a person who:",
+      "options": {
+        "a": "Drives a motor vehicle without having a driving licence.",
+        "b": "Drives a vehicle that lacks the equipment to provide maximum comfort to its occupants.",
+        "c": "Drives a vehicle without SOAT.",
+        "d": "a and c are correct"
+      },
+      "gist": "Fine plus 3-year licence ban",
+      "explanation": "Driving without a licence is a very serious offence (M.1). It brings a fine and a 3-year ban on getting a licence. Driving without SOAT is also an offence, but with no 3-year ban. So «a y c» is wrong.",
+      "trap": "Option d «a y c son correctas» (a and c are correct) is tempting. But SOAT carries no 3-year ban. Look for «sin tener licencia de conducir» (without a licence).",
+      "legalRef": "RNT Anexo I, M.1",
+      "gloss": {
+        "text": [
+          {
+            "es": "Se le impondrá",
+            "tr": "Will be imposed"
+          },
+          {
+            "es": "el pago de una multa",
+            "tr": "the payment of a fine"
+          },
+          {
+            "es": "y no podrá obtener",
+            "tr": "and cannot obtain",
+            "kind": "logic"
+          },
+          {
+            "es": "la licencia de conducir",
+            "tr": "the driving licence"
+          },
+          {
+            "es": "por 3 años",
+            "tr": "for 3 years"
+          },
+          {
+            "es": "a la persona que:",
+            "tr": "on the person who:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Conduzca un vehículo automotor",
+              "tr": "Drives a motor vehicle"
+            },
+            {
+              "es": "sin tener licencia de conducir.",
+              "tr": "without having a driving licence.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Conduzca un vehículo",
+              "tr": "Drives a vehicle"
+            },
+            {
+              "es": "que no cuente con el equipamiento",
+              "tr": "that lacks the equipment",
+              "kind": "logic"
+            },
+            {
+              "es": "para brindar una máxima comodidad",
+              "tr": "to provide maximum comfort"
+            },
+            {
+              "es": "a sus ocupantes.",
+              "tr": "to its occupants."
+            }
+          ],
+          "c": [
+            {
+              "es": "Conduzca un vehículo",
+              "tr": "Drives a vehicle"
+            },
+            {
+              "es": "sin contar con el SOAT.",
+              "tr": "without having SOAT."
+            }
+          ],
+          "d": [
+            {
+              "es": "a y c son correctas",
+              "tr": "a and c are correct"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-020": {
+      "id": "a1-020",
+      "text": "Suppose you are driving and a vehicle that intends to pass or overtake you catches up with you. What should you do?",
+      "options": {
+        "a": "You must increase speed so the other vehicle cannot pass you.",
+        "b": "You must not increase speed until the vehicle has passed you.",
+        "c": "You must drastically reduce your vehicle's speed.",
+        "d": "You must stop your vehicle."
+      },
+      "gist": "What to do when being overtaken",
+      "explanation": "When being overtaken, do not get in the way. Do not speed up until the overtaking is complete. Braking hard or stopping is not needed either; it is dangerous.",
+      "trap": "Options a and b differ by one «No»: «Debe aumentar» (must speed up) is wrong; «No debe aumentar» (must not speed up) is right.",
+      "gloss": {
+        "text": [
+          {
+            "es": "En el supuesto que",
+            "tr": "Suppose that"
+          },
+          {
+            "es": "se encuentre manejando",
+            "tr": "you are driving"
+          },
+          {
+            "es": "y un vehículo",
+            "tr": "and a vehicle"
+          },
+          {
+            "es": "que tiene la intención",
+            "tr": "that intends"
+          },
+          {
+            "es": "de sobrepasarlo o adelantarlo",
+            "tr": "to pass or overtake you"
+          },
+          {
+            "es": "lo alcance,",
+            "tr": "catches up with you,"
+          },
+          {
+            "es": "¿qué debería hacer usted?",
+            "tr": "what should you do?",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Debe aumentar la velocidad",
+              "tr": "You must increase speed",
+              "kind": "logic"
+            },
+            {
+              "es": "para no dejar que",
+              "tr": "so as not to let",
+              "kind": "logic"
+            },
+            {
+              "es": "el otro vehículo lo pase.",
+              "tr": "the other vehicle pass you."
+            }
+          ],
+          "b": [
+            {
+              "es": "No debe aumentar la velocidad",
+              "tr": "You must not increase speed",
+              "kind": "anchor"
+            },
+            {
+              "es": "hasta que",
+              "tr": "until",
+              "kind": "anchor"
+            },
+            {
+              "es": "el vehículo lo sobrepase.",
+              "tr": "the vehicle passes you."
+            }
+          ],
+          "c": [
+            {
+              "es": "Debe disminuir drásticamente",
+              "tr": "You must drastically reduce",
+              "kind": "logic"
+            },
+            {
+              "es": "la velocidad de su vehículo.",
+              "tr": "the speed of your vehicle."
+            }
+          ],
+          "d": [
+            {
+              "es": "Debe detener",
+              "tr": "You must stop",
+              "kind": "logic"
+            },
+            {
+              "es": "su vehículo.",
+              "tr": "your vehicle."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-021": {
+      "id": "a1-021",
+      "text": "Which of the following statements is correct?",
+      "options": {
+        "a": "The driver must respect the established maximum and minimum speed limits.",
+        "b": "The driver must respect only the maximum speed limits, because there are no minimum limits.",
+        "c": "The driver may drive at any speed he wishes, as long as he does so prudently.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Maximum and minimum speed limits",
+      "explanation": "Peru has both maximum and minimum speed limits. Driving too slowly is also dangerous. The driver must respect both.",
+      "trap": "Option b claims «no existen límites mínimos» (there are no minimum limits), which is false. Look for «máximos y mínimos» (maximum and minimum).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál de las siguientes afirmaciones",
+            "tr": "Which of the following statements"
+          },
+          {
+            "es": "es correcta?",
+            "tr": "is correct?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El conductor debe respetar",
+              "tr": "The driver must respect",
+              "kind": "logic"
+            },
+            {
+              "es": "los límites máximos y mínimos",
+              "tr": "the maximum and minimum limits",
+              "kind": "anchor"
+            },
+            {
+              "es": "de velocidad establecidos.",
+              "tr": "of speed that are established."
+            }
+          ],
+          "b": [
+            {
+              "es": "El conductor debe respetar",
+              "tr": "The driver must respect",
+              "kind": "logic"
+            },
+            {
+              "es": "únicamente los límites máximos",
+              "tr": "only the maximum limits",
+              "kind": "logic"
+            },
+            {
+              "es": "de velocidad,",
+              "tr": "of speed,"
+            },
+            {
+              "es": "pues no existen límites mínimos.",
+              "tr": "since there are no minimum limits.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "El conductor puede conducir",
+              "tr": "The driver may drive",
+              "kind": "logic"
+            },
+            {
+              "es": "a la velocidad que desee,",
+              "tr": "at whatever speed he wishes,"
+            },
+            {
+              "es": "siempre que lo haga",
+              "tr": "as long as he does so",
+              "kind": "logic"
+            },
+            {
+              "es": "de manera prudente.",
+              "tr": "prudently."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-022": {
+      "id": "a1-022",
+      "text": "Which lights must a driver use on urban public roads at night?",
+      "options": {
+        "a": "Low beam.",
+        "b": "High beam.",
+        "c": "High beam at intersections and low beam on avenues.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Which headlights at night in town",
+      "explanation": "In town at night use low beam only. High beam dazzles other drivers and pedestrians. High beam is for roads outside town with no lighting and no oncoming traffic.",
+      "trap": "«Bajas» means low beam, «Altas» means high beam. Do not mix them up. Option c with «altas en las intersecciones» (high beam at intersections) is wrong.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Qué luces debe utilizar",
+            "tr": "Which lights must be used by",
+            "kind": "logic"
+          },
+          {
+            "es": "un conductor que circula",
+            "tr": "a driver who drives"
+          },
+          {
+            "es": "en las vías públicas urbanas",
+            "tr": "on urban public roads"
+          },
+          {
+            "es": "por la noche?",
+            "tr": "at night?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Bajas.",
+              "tr": "Low beam."
+            }
+          ],
+          "b": [
+            {
+              "es": "Altas.",
+              "tr": "High beam."
+            }
+          ],
+          "c": [
+            {
+              "es": "Luces altas",
+              "tr": "High beams"
+            },
+            {
+              "es": "en las intersecciones",
+              "tr": "at intersections"
+            },
+            {
+              "es": "y bajas en las avenidas.",
+              "tr": "and low beams on avenues."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-023": {
+      "id": "a1-023",
+      "text": "In case of accidents, SOAT covers the injuries suffered by:",
+      "options": {
+        "a": "Only the occupants of the vehicle.",
+        "b": "The occupants and third parties who are not occupants of the vehicle.",
+        "c": "Only affected third parties.",
+        "d": "Only the driver of the vehicle."
+      },
+      "gist": "Who SOAT covers",
+      "explanation": "SOAT covers everyone injured in the accident. That means people inside the vehicle and outside it: pedestrians, other drivers. Any option with «solo» (only) is wrong.",
+      "trap": "Three options start with «Solo» (only), which narrows the coverage. The right one has «ocupantes y terceros» (occupants and third parties).",
+      "gloss": {
+        "text": [
+          {
+            "es": "En caso de accidentes,",
+            "tr": "In case of accidents,"
+          },
+          {
+            "es": "el SOAT cubre",
+            "tr": "SOAT covers"
+          },
+          {
+            "es": "los daños que sufren:",
+            "tr": "the damage suffered by:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Solo los ocupantes",
+              "tr": "Only the occupants",
+              "kind": "logic"
+            },
+            {
+              "es": "del vehículo.",
+              "tr": "of the vehicle."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los ocupantes y terceros",
+              "tr": "The occupants and third parties",
+              "kind": "anchor"
+            },
+            {
+              "es": "no ocupantes del vehículo.",
+              "tr": "not occupants of the vehicle.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Solo terceros afectados.",
+              "tr": "Only affected third parties.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Solo el conductor",
+              "tr": "Only the driver",
+              "kind": "logic"
+            },
+            {
+              "es": "del vehículo.",
+              "tr": "of the vehicle."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-024": {
+      "id": "a1-024",
+      "text": "Which of the following insurances is required to drive a motor vehicle?",
+      "options": {
+        "a": "Any type of personal accident insurance sold by insurance companies.",
+        "b": "Any type of vehicle insurance, provided it covers the occupants and third parties affected by a traffic accident.",
+        "c": "The Compulsory Traffic Accident Insurance - SOAT.",
+        "d": "It is not mandatory to have insurance."
+      },
+      "gist": "Which insurance is mandatory",
+      "explanation": "Only SOAT is mandatory, the compulsory traffic accident insurance. You may not drive without it. Other policies are optional and do not replace SOAT.",
+      "trap": "Option b describes similar coverage, but «cualquier tipo de seguro vehicular» (any vehicle insurance) is wrong. Look for «SOAT».",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Cuál de los siguientes seguros",
+            "tr": "Which of the following insurances"
+          },
+          {
+            "es": "es exigible",
+            "tr": "is required"
+          },
+          {
+            "es": "para conducir un vehículo automotor?",
+            "tr": "to drive a motor vehicle?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cualquier tipo de seguro",
+              "tr": "Any type of insurance"
+            },
+            {
+              "es": "de accidentes personales",
+              "tr": "for personal accidents"
+            },
+            {
+              "es": "que comercialicen",
+              "tr": "that are sold by"
+            },
+            {
+              "es": "las empresas de seguro.",
+              "tr": "insurance companies."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cualquier tipo de seguro vehicular,",
+              "tr": "Any type of vehicle insurance,"
+            },
+            {
+              "es": "siempre que cubra",
+              "tr": "provided it covers",
+              "kind": "logic"
+            },
+            {
+              "es": "a los ocupantes del vehículo",
+              "tr": "the vehicle occupants"
+            },
+            {
+              "es": "y terceros afectados",
+              "tr": "and third parties affected"
+            },
+            {
+              "es": "por un accidente de tránsito.",
+              "tr": "by a traffic accident."
+            }
+          ],
+          "c": [
+            {
+              "es": "El Seguro Obligatorio",
+              "tr": "The Compulsory Insurance",
+              "kind": "anchor"
+            },
+            {
+              "es": "de Accidentes de Tránsito",
+              "tr": "for Traffic Accidents"
+            },
+            {
+              "es": "- SOAT.",
+              "tr": "- SOAT.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "No es obligatorio",
+              "tr": "It is not mandatory",
+              "kind": "logic"
+            },
+            {
+              "es": "contar con un seguro.",
+              "tr": "to have insurance."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-025": {
+      "id": "a1-025",
+      "text": "When is it mandatory to give way to an emergency vehicle or an official vehicle:",
+      "options": {
+        "a": "When it emits visible signals.",
+        "b": "When it emits audible signals.",
+        "c": "When it emits audible and visible signals.",
+        "d": "None of the options is correct."
+      },
+      "gist": "When to yield to emergency vehicles",
+      "explanation": "You must give way when both the siren and the flashing lights are on. One signal alone is not enough under the rules. Key: «audibles y visibles», both sound and light.",
+      "trap": "Options a and b name only one kind of signal. The right one has the word «y» (and): «audibles y visibles».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Cuándo es obligatorio",
+            "tr": "When is it mandatory",
+            "kind": "logic"
+          },
+          {
+            "es": "darle preferencia de paso",
+            "tr": "to give way"
+          },
+          {
+            "es": "a un vehículo de emergencia",
+            "tr": "to an emergency vehicle"
+          },
+          {
+            "es": "o vehículo oficial:",
+            "tr": "or official vehicle:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cuando emita",
+              "tr": "When it emits"
+            },
+            {
+              "es": "señales visibles.",
+              "tr": "visible signals."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cuando emita",
+              "tr": "When it emits"
+            },
+            {
+              "es": "señales audibles.",
+              "tr": "audible signals."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cuando emita señales",
+              "tr": "When it emits signals"
+            },
+            {
+              "es": "audibles y visibles.",
+              "tr": "audible and visible.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "disputed": []
+}

@@ -1,0 +1,4598 @@
+{
+  "meta": {
+    "a1-126": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "zona escolar",
+        "cruce peatonal",
+        "proximidad"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-49",
+          "señal"
+        ],
+        "answerKeys": [
+          "escolar"
+        ]
+      }
+    },
+    "a1-127": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "cruce escolar",
+        "proximidad",
+        "ubicación",
+        "zona escolar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-49a",
+          "señal"
+        ],
+        "answerKeys": [
+          "Proximidad"
+        ]
+      }
+    },
+    "a1-128": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "cruce escolar",
+        "ubicación",
+        "cruce peatonal"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-49b",
+          "señal"
+        ],
+        "answerKeys": [
+          "Ubicación"
+        ]
+      }
+    },
+    "a1-129": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "niño",
+        "jugar",
+        "campo deportivo",
+        "zona urbana"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-50",
+          "señal"
+        ],
+        "answerKeys": [
+          "Niños jugando"
+        ]
+      }
+    },
+    "a1-130": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "maquinaria agrícola",
+        "vehículo pesado",
+        "zona rural",
+        "parqueo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-51",
+          "señal"
+        ],
+        "answerKeys": [
+          "Maquinaria agrícola"
+        ]
+      }
+    },
+    "a1-131": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "animal",
+        "establo",
+        "zona agrícola",
+        "vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-53",
+          "señal"
+        ],
+        "answerKeys": [
+          "Animales"
+        ]
+      }
+    },
+    "a1-132": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "semáforo",
+        "proximidad",
+        "malogrado",
+        "ola verde"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-55",
+          "señal"
+        ],
+        "answerKeys": [
+          "Proximidad"
+        ]
+      }
+    },
+    "a1-133": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "pare",
+        "aproximarse",
+        "parar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-58",
+          "le indica"
+        ],
+        "answerKeys": [
+          "se aproxima"
+        ]
+      }
+    },
+    "a1-134": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "ceder el paso",
+        "aproximarse",
+        "pare"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-59",
+          "le indica"
+        ],
+        "answerKeys": [
+          "se aproxima",
+          "CEDA EL PASO"
+        ]
+      }
+    },
+    "a1-135": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "túnel",
+        "camión",
+        "luces",
+        "visibilidad"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-41",
+          "le indica"
+        ],
+        "answerKeys": [
+          "túnel"
+        ]
+      }
+    },
+    "a1-136": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "avión",
+        "baja altura",
+        "aeropuerto",
+        "ruido"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-45",
+          "señal"
+        ],
+        "answerKeys": [
+          "baja altura"
+        ]
+      }
+    },
+    "a1-137": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "bombero",
+        "salida",
+        "prioridad de paso",
+        "ambulancia"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-52",
+          "le indica"
+        ],
+        "answerKeys": [
+          "salida"
+        ]
+      }
+    },
+    "a1-138": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "viento lateral",
+        "ráfaga",
+        "arenamiento",
+        "desierto"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-66",
+          "le indica"
+        ],
+        "answerKeys": [
+          "viento lateral"
+        ]
+      }
+    },
+    "a1-139": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "arenamiento",
+        "viento lateral",
+        "tormenta",
+        "vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-66a",
+          "le indica"
+        ],
+        "answerKeys": [
+          "arenamiento"
+        ]
+      }
+    },
+    "a1-140": {
+      "topic": "senales",
+      "terms": [
+        "señal vertical",
+        "intersección",
+        "girar",
+        "camino alternativo",
+        "vía interrumpida"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "señal vertical",
+          "se muestra",
+          "debe entender"
+        ],
+        "answerKeys": [
+          "girar a la izquierda"
+        ]
+      }
+    },
+    "a1-141": {
+      "topic": "senales",
+      "terms": [
+        "señal vertical",
+        "girar",
+        "intersección",
+        "manzana",
+        "cuadra",
+        "zona de parqueo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "señal vertical",
+          "se muestra",
+          "debe entender"
+        ],
+        "answerKeys": [
+          "vuelta a la manzana"
+        ]
+      }
+    },
+    "a1-142": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "hospital",
+        "hostal",
+        "hospedaje"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "I-14",
+          "significa"
+        ],
+        "answerKeys": [
+          "hospital"
+        ]
+      }
+    },
+    "a1-143": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "estacionamiento",
+        "emergencia",
+        "bahía",
+        "taxi",
+        "parqueo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "I-31",
+          "significa"
+        ],
+        "answerKeys": [
+          "emergencias"
+        ]
+      }
+    },
+    "a1-144": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "zona militar",
+        "control policial",
+        "aduana"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "I-9",
+          "significa"
+        ],
+        "answerKeys": [
+          "militar"
+        ]
+      }
+    },
+    "a1-145": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "servicio mecánico",
+        "grifo",
+        "ferretería",
+        "cercanía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "I-18",
+          "se utiliza para indicar"
+        ],
+        "answerKeys": [
+          "servicio mecánico"
+        ]
+      }
+    },
+    "a1-146": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "grifo",
+        "servicio mecánico",
+        "tienda",
+        "cercanía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "I-19",
+          "se utiliza para indicar"
+        ],
+        "answerKeys": [
+          "grifo"
+        ]
+      }
+    },
+    "a1-147": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "llantería",
+        "llanta",
+        "cadena",
+        "servicio mecánico",
+        "grifo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "I-20",
+          "se utiliza para indicar"
+        ],
+        "answerKeys": [
+          "llantería"
+        ]
+      }
+    },
+    "a1-148": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "fin de restricción",
+        "adelantar",
+        "automotor",
+        "doble sentido"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-16a",
+          "se utiliza para indicar"
+        ],
+        "answerKeys": [
+          "adelantar"
+        ]
+      }
+    },
+    "a1-149": {
+      "topic": "seguridad",
+      "terms": [
+        "comportamiento",
+        "conductor",
+        "usuario de la vía",
+        "integridad física",
+        "autoridad",
+        "tráfico"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "comportamiento del conductor",
+          "usuario de la vía",
+          "orientado"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-150": {
+      "topic": "peatones",
+      "terms": [
+        "usuario vulnerable",
+        "peatón",
+        "niño",
+        "adulto mayor",
+        "movilidad reducida",
+        "ciclista",
+        "protección"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "usuarios vulnerables",
+          "especial protección"
+        ],
+        "answerKeys": [
+          "movilidad reducida"
+        ]
+      }
+    }
+  },
+  "ru": {
+    "a1-126": {
+      "id": "a1-126",
+      "text": "Следующий знак (P-49) означает:",
+      "options": {
+        "a": "Школьная зона.",
+        "b": "Приближение к пешеходному переходу.",
+        "c": "Оживлённая зона.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-49",
+      "explanation": "P-49 — жёлто-зелёный знак с двумя школьниками. Он предупреждает: впереди школьная зона. Вариант b говорит про переход, а не про школу.",
+      "trap": "Знаки P-49, P-49a и P-49b все показывают школьников. Без «зебры» и без стрелки — это «zona escolar» (школьная зона).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-49),",
+            "tr": "(P-49),"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona escolar.",
+              "tr": "Школьная зона.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "un cruce peatonal.",
+              "tr": "пешеходному переходу."
+            }
+          ],
+          "c": [
+            {
+              "es": "Zona transitada.",
+              "tr": "Оживлённая зона."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-127": {
+      "id": "a1-127",
+      "text": "Следующий знак (P-49a) означает:",
+      "options": {
+        "a": "Школьная зона.",
+        "b": "Приближение к школьному переходу.",
+        "c": "Место школьного перехода.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-49a",
+      "explanation": "На P-49a школьники идут по «зебре». Знак предупреждает: впереди школьный переход. «Proximidad» — переход ещё впереди. Само место перехода показывает P-49b со стрелкой.",
+      "trap": "«Proximidad» (приближение) — переход впереди; «Ubicación» (место) — переход прямо здесь. У P-49a нет стрелки, значит «proximidad».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-49a)",
+            "tr": "(P-49a)"
+          },
+          {
+            "es": ", indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona escolar.",
+              "tr": "Школьная зона."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к",
+              "kind": "anchor"
+            },
+            {
+              "es": "un cruce escolar.",
+              "tr": "школьному переходу."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación de",
+              "tr": "Место"
+            },
+            {
+              "es": "un cruce escolar.",
+              "tr": "школьного перехода."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-128": {
+      "id": "a1-128",
+      "text": "Следующий знак (P-49b) означает:",
+      "options": {
+        "a": "Оживлённая зона.",
+        "b": "Приближение к пешеходному переходу.",
+        "c": "Место школьного перехода",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-49b",
+      "explanation": "P-49b — тот же знак со школьниками, но со стрелкой вниз. Стрелка показывает: переход находится прямо здесь. Это «ubicación» (место), а не «proximidad» (приближение).",
+      "trap": "Вариант b говорит «cruce peatonal» (пешеходный переход), но на знаке школьники — это «cruce escolar». Стрелка = «ubicación».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-49b)",
+            "tr": "(P-49b)"
+          },
+          {
+            "es": ", indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona transitada.",
+              "tr": "Оживлённая зона."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "un cruce peatonal.",
+              "tr": "пешеходному переходу."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación de",
+              "tr": "Место",
+              "kind": "anchor"
+            },
+            {
+              "es": "un cruce escolar",
+              "tr": "школьного перехода"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-129": {
+      "id": "a1-129",
+      "text": "Следующий знак (P-50) означает:",
+      "options": {
+        "a": "Спортивная зона.",
+        "b": "Приближение к спортивной площадке.",
+        "c": "Приближение к городской зоне.",
+        "d": "Играющие дети."
+      },
+      "gist": "Что означает знак P-50",
+      "explanation": "На P-50 нарисован ребёнок с мячом. Знак предупреждает: рядом могут играть дети, они могут выбежать на дорогу. Про спорт или город знак ничего не говорит.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-50),",
+            "tr": "(P-50),"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona de deportes.",
+              "tr": "Спортивная зона."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "campo deportivo.",
+              "tr": "спортивной площадке."
+            }
+          ],
+          "c": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "zona urbana.",
+              "tr": "городской зоне."
+            }
+          ],
+          "d": [
+            {
+              "es": "Niños jugando.",
+              "tr": "Играющие дети.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-130": {
+      "id": "a1-130",
+      "text": "Следующий знак (P-51) означает:",
+      "options": {
+        "a": "Зона парковки тяжёлых машин.",
+        "b": "Приближение к сельской зоне.",
+        "c": "Сельхозтехника на дороге.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-51",
+      "explanation": "На знаке P-51 нарисован трактор. Он предупреждает: на дорогу может выезжать медленная сельхозтехника. Это не стоянка и не просто сельская зона.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-51),",
+            "tr": "(P-51),"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona de parqueo",
+              "tr": "Зона парковки"
+            },
+            {
+              "es": "de vehículos pesados.",
+              "tr": "тяжёлых машин."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "zona rural.",
+              "tr": "сельской зоне."
+            }
+          ],
+          "c": [
+            {
+              "es": "Maquinaria agrícola",
+              "tr": "Сельхозтехника",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "на дороге."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-131": {
+      "id": "a1-131",
+      "text": "Следующий знак (P-53) означает:",
+      "options": {
+        "a": "Приближение к хлеву.",
+        "b": "Приближение к сельскохозяйственной зоне.",
+        "c": "Животные на дороге.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-53",
+      "explanation": "На знаке P-53 нарисована корова. Он предупреждает: на дороге могут быть животные. Не хлев и не поле — именно животные на проезжей части.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-53),",
+            "tr": "(P-53),"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "un establo.",
+              "tr": "хлеву."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "zona agrícola.",
+              "tr": "сельскохозяйственной зоне."
+            }
+          ],
+          "c": [
+            {
+              "es": "Animales",
+              "tr": "Животные",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "на дороге."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-132": {
+      "id": "a1-132",
+      "text": "Следующий знак (P-55) означает:",
+      "options": {
+        "a": "Сломанный светофор.",
+        "b": "Приближение к светофору.",
+        "c": "Светофоры в «зелёной волне».",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-55",
+      "explanation": "На знаке P-55 нарисован светофор. Он предупреждает: впереди светофор, будьте готовы остановиться. Знак не говорит, что светофор сломан («malogrado»).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-55),",
+            "tr": "(P-55),"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Semáforo malogrado.",
+              "tr": "Сломанный светофор."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к",
+              "kind": "anchor"
+            },
+            {
+              "es": "un semáforo.",
+              "tr": "светофору."
+            }
+          ],
+          "c": [
+            {
+              "es": "Semáforos en ola verde.",
+              "tr": "Светофоры в «зелёной волне»."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-133": {
+      "id": "a1-133",
+      "text": "Следующий знак (P-58) говорит вам:",
+      "options": {
+        "a": "Что вы приближаетесь к знаку PARE (стоп).",
+        "b": "Что вы должны остановиться там, где стоит знак P-58.",
+        "c": "Что это знак PARE, но можно ехать дальше.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-58",
+      "explanation": "P-58 — жёлтый знак со стрелкой и маленьким PARE внутри. Он предупреждает: впереди знак «стоп». Останавливаться нужно у самого знака PARE, а не здесь.",
+      "trap": "Вариант b — остановиться «donde está la señal P-58» (там, где стоит P-58). Нет: P-58 только предупреждает, остановка — у настоящего PARE.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-58),",
+            "tr": "(P-58),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "говорит вам:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "приближаетесь к",
+              "kind": "anchor"
+            },
+            {
+              "es": "una señal de PARE.",
+              "tr": "знаку PARE (стоп)."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "debe parar",
+              "tr": "должны остановиться",
+              "kind": "logic"
+            },
+            {
+              "es": "donde está",
+              "tr": "там, где стоит"
+            },
+            {
+              "es": "la señal P-58.",
+              "tr": "знак P-58."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se trata de",
+              "tr": "Что это"
+            },
+            {
+              "es": "un PARE,",
+              "tr": "знак PARE,"
+            },
+            {
+              "es": "pero puede",
+              "tr": "но можно",
+              "kind": "logic"
+            },
+            {
+              "es": "seguir adelante.",
+              "tr": "ехать дальше."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-134": {
+      "id": "a1-134",
+      "text": "Следующий знак (P-59) говорит вам:",
+      "options": {
+        "a": "Что вы приближаетесь к знаку CEDA EL PASO (уступи дорогу).",
+        "b": "Что вы должны уступить дорогу там, где стоит знак P-59.",
+        "c": "Что это знак PARE, но можно ехать дальше.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-59",
+      "explanation": "P-59 — жёлтый знак с маленьким треугольником «уступи дорогу» внутри. Он предупреждает: впереди знак CEDA EL PASO. Уступать нужно у самого знака, а не здесь. Вариант c про PARE — это другой знак.",
+      "trap": "Вариант b — уступить «donde está la señal P-59» (там, где стоит P-59). Нет: P-59 только предупреждает.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-59),",
+            "tr": "(P-59),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "говорит вам:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "приближаетесь к",
+              "kind": "anchor"
+            },
+            {
+              "es": "una señal de CEDA EL PASO.",
+              "tr": "знаку CEDA EL PASO (уступи дорогу).",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "debe ceder el paso",
+              "tr": "должны уступить дорогу",
+              "kind": "logic"
+            },
+            {
+              "es": "donde está",
+              "tr": "там, где стоит"
+            },
+            {
+              "es": "la señal P-59.",
+              "tr": "знак P-59."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se trata de",
+              "tr": "Что это"
+            },
+            {
+              "es": "un PARE,",
+              "tr": "знак PARE,"
+            },
+            {
+              "es": "pero puede",
+              "tr": "но можно",
+              "kind": "logic"
+            },
+            {
+              "es": "seguir adelante.",
+              "tr": "ехать дальше."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-135": {
+      "id": "a1-135",
+      "text": "Следующий знак (P-41) говорит вам:",
+      "options": {
+        "a": "Что вы приближаетесь к зоне грузовиков.",
+        "b": "Что вы должны включить фары, так как приближаетесь к зоне с плохой видимостью.",
+        "c": "Что вы приближаетесь к тоннелю.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-41",
+      "explanation": "На знаке P-41 нарисован въезд в тоннель. Он предупреждает: впереди тоннель. Вариант b звучит разумно, но знак говорит именно про тоннель.",
+      "trap": "Вариант b про фары и «poca visibilidad» (плохая видимость) — логично в тоннеле, но это не значение знака. Ищите слово «túnel».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-41),",
+            "tr": "(P-41),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "говорит вам:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "приближаетесь к"
+            },
+            {
+              "es": "una zona de camiones.",
+              "tr": "зоне грузовиков."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "debe encender",
+              "tr": "должны включить",
+              "kind": "logic"
+            },
+            {
+              "es": "sus luces",
+              "tr": "фары,"
+            },
+            {
+              "es": "pues se aproxima a",
+              "tr": "так как приближаетесь к"
+            },
+            {
+              "es": "una zona con poca visibilidad.",
+              "tr": "зоне с плохой видимостью."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "приближаетесь к"
+            },
+            {
+              "es": "un túnel.",
+              "tr": "тоннелю.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-136": {
+      "id": "a1-136",
+      "text": "Следующий знак (P-45) означает:",
+      "options": {
+        "a": "Приближение к аэропорту.",
+        "b": "Приближение к взлётной полосе.",
+        "c": "Полёт самолётов на малой высоте.",
+        "d": "Самолёты, которые шумят."
+      },
+      "gist": "Что означает знак P-45",
+      "explanation": "На знаке P-45 нарисован самолёт. Он предупреждает: самолёты летают низко, это может отвлечь или напугать. Про аэропорт, полосу или шум знак не говорит.",
+      "trap": "Все варианты про самолёты. Правильный — с «baja altura» (малая высота): знак именно об этом.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-45),",
+            "tr": "(P-45),"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "un aeropuerto.",
+              "tr": "аэропорту."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "una pista de aviones.",
+              "tr": "взлётной полосе."
+            }
+          ],
+          "c": [
+            {
+              "es": "Vuelo de aviones",
+              "tr": "Полёт самолётов"
+            },
+            {
+              "es": "a baja altura.",
+              "tr": "на малой высоте.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Aviones que generan ruido.",
+              "tr": "Самолёты, которые шумят."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-137": {
+      "id": "a1-137",
+      "text": "Следующий знак (P-52) говорит вам:",
+      "options": {
+        "a": "Что вы должны уступить дорогу машинам скорой помощи.",
+        "b": "Что вы должны уступить дорогу пожарным.",
+        "c": "Что вы приближаетесь к выезду пожарных машин.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-52",
+      "explanation": "На знаке P-52 нарисована пожарная машина. Он предупреждает: впереди выезд пожарных машин, например из пожарной части. Знак не приказывает уступать, он только предупреждает.",
+      "trap": "Варианты a и b — про «prioridad de paso» (приоритет). Знак P-52 предупреждающий, ищите слово «salida» (выезд).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-52),",
+            "tr": "(P-52),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "говорит вам:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "debe dar prioridad de paso",
+              "tr": "должны уступить дорогу",
+              "kind": "logic"
+            },
+            {
+              "es": "a las ambulancias.",
+              "tr": "машинам скорой помощи."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "Что вы"
+            },
+            {
+              "es": "debe dar prioridad de paso",
+              "tr": "должны уступить дорогу",
+              "kind": "logic"
+            },
+            {
+              "es": "a los bomberos.",
+              "tr": "пожарным."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se aproxima a",
+              "tr": "Что вы приближаетесь к"
+            },
+            {
+              "es": "una salida de",
+              "tr": "выезду",
+              "kind": "anchor"
+            },
+            {
+              "es": "vehículos de bomberos.",
+              "tr": "пожарных машин."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-138": {
+      "id": "a1-138",
+      "text": "Следующий знак (P-66) говорит вам:",
+      "options": {
+        "a": "Что приближается пустыня.",
+        "b": "Что приближается зона, где бывают порывы бокового ветра.",
+        "c": "Что вы приближаетесь к зоне песчаных заносов на дороге.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-66",
+      "explanation": "На P-66 нарисована пальма, которую гнёт ветер. Знак предупреждает: боковой ветер, крепче держите руль. Песок на дороге — это другой знак, P-66a.",
+      "trap": "P-66 (пальма) — «viento lateral» (боковой ветер). P-66a (песок на дороге) — «arenamiento». Не путайте два знака.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-66),",
+            "tr": "(P-66),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "говорит вам:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que se aproxima",
+              "tr": "Что приближается"
+            },
+            {
+              "es": "un desierto.",
+              "tr": "пустыня."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que se aproxima",
+              "tr": "Что приближается"
+            },
+            {
+              "es": "una zona donde hay",
+              "tr": "зона, где бывают"
+            },
+            {
+              "es": "ráfagas de viento lateral.",
+              "tr": "порывы бокового ветра.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se acerca a",
+              "tr": "Что вы приближаетесь к"
+            },
+            {
+              "es": "una zona de arenamiento",
+              "tr": "зоне песчаных заносов"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "на дороге."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-139": {
+      "id": "a1-139",
+      "text": "Следующий знак (P-66a) говорит вам:",
+      "options": {
+        "a": "Что приближается буря.",
+        "b": "Что вы проезжаете зону, где бывают порывы бокового ветра.",
+        "c": "Что вы приближаетесь к зоне песчаных заносов на дороге.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-66a",
+      "explanation": "На P-66a нарисована дорога, которую засыпает песком. Знак предупреждает: песок на проезжей части, сцепление хуже. Пальма и ветер — это знак P-66.",
+      "trap": "«Arenamiento» — от «arena» (песок). Вариант b про «viento lateral» (боковой ветер) — это соседний знак P-66.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-66a)",
+            "tr": "(P-66a)"
+          },
+          {
+            "es": ", le indica:",
+            "tr": "говорит вам:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que se aproxima",
+              "tr": "Что приближается"
+            },
+            {
+              "es": "una tormenta.",
+              "tr": "буря."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que está pasando por",
+              "tr": "Что вы проезжаете"
+            },
+            {
+              "es": "una zona donde hay",
+              "tr": "зону, где бывают"
+            },
+            {
+              "es": "ráfagas de viento lateral.",
+              "tr": "порывы бокового ветра."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se acerca a",
+              "tr": "Что вы приближаетесь к"
+            },
+            {
+              "es": "una zona de arenamiento",
+              "tr": "зоне песчаных заносов",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "на дороге."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-140": {
+      "id": "a1-140",
+      "text": "Если, управляя автомобилем, вы встречаете показанный дорожный знак, вы должны понимать, что:",
+      "options": {
+        "a": "Дорога перекрыта, и нужно ехать по объезду, который показывает знак.",
+        "b": "На следующем перекрёстке запрещено поворачивать налево, и поэтому, если хотите ехать в ту сторону, нужно ехать по объезду, который показывает знак.",
+        "c": "На следующем перекрёстке запрещено поворачивать направо, и поэтому, если хотите ехать в ту сторону, нужно ехать по объезду, который показывает знак.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Знак: налево нельзя, есть объезд",
+      "explanation": "На знаке — запрет поворота налево и схема объезда к авениде Oriente. Значит, на перекрёстке налево нельзя, едем по объезду. Вариант c говорит «derecha» (направо) — это ошибка. Дорога не перекрыта, вариант a неверен.",
+      "trap": "Варианты b и c отличаются одним словом: «izquierda» (налево) и «derecha» (направо). На знаке перечёркнут поворот налево — значит b.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir su vehículo",
+            "tr": "Если, управляя автомобилем,"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "вы встречаете"
+          },
+          {
+            "es": "la señal vertical",
+            "tr": "дорожный знак,"
+          },
+          {
+            "es": "que se muestra,",
+            "tr": "который показан,"
+          },
+          {
+            "es": "usted debe entender que:",
+            "tr": "вы должны понимать, что:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La vía está interrumpida",
+              "tr": "Дорога перекрыта"
+            },
+            {
+              "es": "y debe tomar",
+              "tr": "и нужно ехать по",
+              "kind": "logic"
+            },
+            {
+              "es": "el camino alternativo",
+              "tr": "объезду,"
+            },
+            {
+              "es": "que muestra la señal.",
+              "tr": "который показывает знак."
+            }
+          ],
+          "b": [
+            {
+              "es": "En la siguiente intersección",
+              "tr": "На следующем перекрёстке"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la izquierda",
+              "tr": "поворачивать налево,",
+              "kind": "anchor"
+            },
+            {
+              "es": "y por lo tanto,",
+              "tr": "и поэтому,"
+            },
+            {
+              "es": "si desea seguir esa ruta",
+              "tr": "если хотите ехать в ту сторону,"
+            },
+            {
+              "es": "debe tomar",
+              "tr": "нужно ехать по",
+              "kind": "logic"
+            },
+            {
+              "es": "el camino alternativo",
+              "tr": "объезду,"
+            },
+            {
+              "es": "que muestra la señal.",
+              "tr": "который показывает знак."
+            }
+          ],
+          "c": [
+            {
+              "es": "En la siguiente intersección",
+              "tr": "На следующем перекрёстке"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la derecha",
+              "tr": "поворачивать направо,",
+              "kind": "logic"
+            },
+            {
+              "es": "y por lo tanto,",
+              "tr": "и поэтому,"
+            },
+            {
+              "es": "si desea seguir esa ruta",
+              "tr": "если хотите ехать в ту сторону,"
+            },
+            {
+              "es": "debe tomar",
+              "tr": "нужно ехать по",
+              "kind": "logic"
+            },
+            {
+              "es": "el camino alternativo",
+              "tr": "объезду,"
+            },
+            {
+              "es": "que muestra la señal.",
+              "tr": "который показывает знак."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-141": {
+      "id": "a1-141",
+      "text": "Если, управляя автомобилем, вы встречаете показанный дорожный знак, вы должны понимать, что:",
+      "options": {
+        "a": "Если хотите повернуть налево, нужно проехать перекрёсток и объехать квартал.",
+        "b": "На следующем перекрёстке запрещено поворачивать налево, и поэтому, если хотите ехать в ту сторону, нужно сделать это на квартал раньше.",
+        "c": "В том направлении есть парковка.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Знак: налево — объехав квартал",
+      "explanation": "На знаке стрелка проходит перекрёсток, огибает квартал и выходит налево. Так поворачивают налево там, где прямой поворот запрещён. Вариант b говорит «una cuadra antes» (кварталом раньше) — на знаке этого нет.",
+      "trap": "Варианты a и b оба про поворот налево. Ключ — «dar la vuelta a la manzana» (объехать квартал): именно это рисует стрелка.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir su vehículo",
+            "tr": "Если, управляя автомобилем,"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "вы встречаете"
+          },
+          {
+            "es": "la señal vertical",
+            "tr": "дорожный знак,"
+          },
+          {
+            "es": "que se muestra,",
+            "tr": "который показан,"
+          },
+          {
+            "es": "usted debe entender que:",
+            "tr": "вы должны понимать, что:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si quiere girar a la izquierda",
+              "tr": "Если хотите повернуть налево,",
+              "kind": "logic"
+            },
+            {
+              "es": "debe pasar la intersección",
+              "tr": "нужно проехать перекрёсток",
+              "kind": "logic"
+            },
+            {
+              "es": "y dar la vuelta a la manzana.",
+              "tr": "и объехать квартал.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "En la siguiente intersección",
+              "tr": "На следующем перекрёстке"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la izquierda",
+              "tr": "поворачивать налево,",
+              "kind": "logic"
+            },
+            {
+              "es": "y por lo tanto,",
+              "tr": "и поэтому,"
+            },
+            {
+              "es": "si desea seguir esa ruta",
+              "tr": "если хотите ехать в ту сторону,"
+            },
+            {
+              "es": "debe hacerlo",
+              "tr": "нужно сделать это",
+              "kind": "logic"
+            },
+            {
+              "es": "una cuadra antes.",
+              "tr": "на квартал раньше.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "En esa dirección",
+              "tr": "В том направлении"
+            },
+            {
+              "es": "hay una zona de parqueo.",
+              "tr": "есть парковка."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-142": {
+      "id": "a1-142",
+      "text": "Следующий знак (I-14) значит:",
+      "options": {
+        "a": "Знак хостела.",
+        "b": "Знак ночлега (гостиницы).",
+        "c": "Знак больницы.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что значит знак I-14",
+      "explanation": "I-14 — синий знак с большой белой буквой H. Он показывает: рядом больница («hospital»). «Hostal» и «hospedaje» — это ночлег, слова похожи, но смысл другой.",
+      "trap": "Три похожих слова: «hostal» (хостел), «hospedaje» (ночлег), «hospital» (больница). Буква H на синем — больница.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(I-14),",
+            "tr": "(I-14),"
+          },
+          {
+            "es": "significa:",
+            "tr": "значит:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señal de",
+              "tr": "Знак"
+            },
+            {
+              "es": "hostal.",
+              "tr": "хостела."
+            }
+          ],
+          "b": [
+            {
+              "es": "Señal de",
+              "tr": "Знак"
+            },
+            {
+              "es": "hospedaje.",
+              "tr": "ночлега (гостиницы)."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señal de",
+              "tr": "Знак"
+            },
+            {
+              "es": "hospital.",
+              "tr": "больницы.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-143": {
+      "id": "a1-143",
+      "text": "Следующий знак (I-31) значит:",
+      "options": {
+        "a": "Приближение к стоянке такси.",
+        "b": "Приближение к разрешённой стоянке.",
+        "c": "Приближение к парковке для жителей.",
+        "d": "Приближение к стоянке для экстренных случаев."
+      },
+      "gist": "Что значит знак I-31",
+      "explanation": "На знаке I-31 нарисован карман у края дороги. Это место аварийной остановки: поломка, плохое самочувствие. Не такси, не обычная стоянка и не парковка жителей.",
+      "trap": "Все варианты про стоянку. Правильный — со словом «emergencias» (экстренные случаи).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(I-31),",
+            "tr": "(I-31),"
+          },
+          {
+            "es": "significa:",
+            "tr": "значит:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad de",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "una bahía de taxis.",
+              "tr": "стоянке такси."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "un estacionamiento permitido.",
+              "tr": "разрешённой стоянке."
+            }
+          ],
+          "c": [
+            {
+              "es": "Proximidad de",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "una zona de parqueo",
+              "tr": "парковке"
+            },
+            {
+              "es": "para vecinos.",
+              "tr": "для жителей."
+            }
+          ],
+          "d": [
+            {
+              "es": "Proximidad de",
+              "tr": "Приближение к"
+            },
+            {
+              "es": "un estacionamiento",
+              "tr": "стоянке"
+            },
+            {
+              "es": "para emergencias.",
+              "tr": "для экстренных случаев.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-144": {
+      "id": "a1-144",
+      "text": "Следующий знак (I-9) значит:",
+      "options": {
+        "a": "Зона полицейского контроля.",
+        "b": "Зона таможенного контроля.",
+        "c": "Военная зона.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что значит знак I-9",
+      "explanation": "На синем знаке I-9 нарисован солдат в каске. Это информационный знак «военная зона». Полиция и таможня — другие знаки. Ищите слово «militar».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(I-9),",
+            "tr": "(I-9),"
+          },
+          {
+            "es": "significa:",
+            "tr": "значит:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona de control policial.",
+              "tr": "Зона полицейского контроля."
+            }
+          ],
+          "b": [
+            {
+              "es": "Zona de control de aduanas.",
+              "tr": "Зона таможенного контроля."
+            }
+          ],
+          "c": [
+            {
+              "es": "Zona militar.",
+              "tr": "Военная зона.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-145": {
+      "id": "a1-145",
+      "text": "Следующий знак (I-18) используется, чтобы указать:",
+      "options": {
+        "a": "Близость к хозяйственному магазину.",
+        "b": "Близость к автосервису.",
+        "c": "Близость к заправке.",
+        "d": "Ни один из вариантов не верен"
+      },
+      "gist": "Что значит знак I-18",
+      "explanation": "На знаке I-18 нарисован гаечный ключ. Он показывает: рядом автосервис. «Grifo» в Перу — это заправка, «ferretería» — магазин инструментов.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(I-18),",
+            "tr": "(I-18),"
+          },
+          {
+            "es": "se utiliza para indicar:",
+            "tr": "используется, чтобы указать:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "una ferretería.",
+              "tr": "хозяйственному магазину."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "un servicio mecánico.",
+              "tr": "автосервису.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "un grifo.",
+              "tr": "заправке."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta",
+              "tr": "не верен"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-146": {
+      "id": "a1-146",
+      "text": "Следующий знак (I-19) используется, чтобы указать:",
+      "options": {
+        "a": "Близость к автосервису.",
+        "b": "Близость к магазину.",
+        "c": "Близость к заправке.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что значит знак I-19",
+      "explanation": "На знаке I-19 нарисована бензоколонка. «Grifo» в Перу — это заправка. Гаечный ключ — автосервис (I-18), шина — шиномонтаж (I-20).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(I-19),",
+            "tr": "(I-19),"
+          },
+          {
+            "es": "se utiliza para indicar:",
+            "tr": "используется, чтобы указать:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "un servicio mecánico.",
+              "tr": "автосервису."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "una tienda.",
+              "tr": "магазину."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "un grifo.",
+              "tr": "заправке.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-147": {
+      "id": "a1-147",
+      "text": "Следующий знак (I-20) используется, чтобы указать:",
+      "options": {
+        "a": "Близость к автосервису.",
+        "b": "Близость к зоне, где нужно ехать с цепями на колёсах.",
+        "c": "Близость к заправке.",
+        "d": "Близость к шиномонтажу."
+      },
+      "gist": "Что значит знак I-20",
+      "explanation": "На знаке I-20 нарисована шина. Он показывает: рядом шиномонтаж («llantería»). Вариант b тоже про «llantas» (шины), но цепи на колёсах — это другой знак.",
+      "trap": "«Llantería» (шиномонтаж) и «llantas» (шины) похожи. Синий знак с шиной — это сервис, а не приказ надеть цепи.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(I-20),",
+            "tr": "(I-20),"
+          },
+          {
+            "es": "se utiliza para indicar:",
+            "tr": "используется, чтобы указать:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "un servicio mecánico.",
+              "tr": "автосервису."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "una zona donde",
+              "tr": "зоне, где"
+            },
+            {
+              "es": "debe circular",
+              "tr": "нужно ехать",
+              "kind": "logic"
+            },
+            {
+              "es": "con cadenas en las llantas.",
+              "tr": "с цепями на колёсах."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "un grifo.",
+              "tr": "заправке."
+            }
+          ],
+          "d": [
+            {
+              "es": "Cercanía a",
+              "tr": "Близость к"
+            },
+            {
+              "es": "una llantería.",
+              "tr": "шиномонтажу.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-148": {
+      "id": "a1-148",
+      "text": "Следующий знак (R-16a) используется, чтобы указать:",
+      "options": {
+        "a": "Конец ограничения движения автотранспорта.",
+        "b": "Конец ограничения «обгон запрещён».",
+        "c": "Конец ограничения двустороннего движения.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что значит знак R-16a",
+      "explanation": "На R-16a две машины рядом, перечёркнутые серыми линиями, и надпись FIN RESTRICCIÓN. Это конец зоны «обгон запрещён» (знак R-16). Дальше обгонять снова можно.",
+      "trap": "Все три варианта начинаются с «Fin de la restricción». Смотрите на конец: две машины рядом = «adelantar» (обгонять).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-16a)",
+            "tr": "(R-16a)"
+          },
+          {
+            "es": ", se utiliza para indicar:",
+            "tr": "используется, чтобы указать:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Fin de la restricción",
+              "tr": "Конец ограничения"
+            },
+            {
+              "es": "de circulación de automotores.",
+              "tr": "движения автотранспорта."
+            }
+          ],
+          "b": [
+            {
+              "es": "Fin de la restricción",
+              "tr": "Конец ограничения"
+            },
+            {
+              "es": "de prohibido adelantar.",
+              "tr": "«обгон запрещён».",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Fin de la restricción",
+              "tr": "Конец ограничения"
+            },
+            {
+              "es": "de circulación en doble sentido.",
+              "tr": "двустороннего движения."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-149": {
+      "id": "a1-149",
+      "text": "Поведение водителя как участника движения должно быть направлено на:",
+      "options": {
+        "a": "Ценность жизни.",
+        "b": "Уважение к физической неприкосновенности остальных участников движения.",
+        "c": "Уважение к органам, отвечающим за надзор и дисциплину движения.",
+        "d": "Все варианты верны."
+      },
+      "gist": "На что направлено поведение водителя",
+      "explanation": "Все три пункта — правильные принципы поведения водителя. Ценить жизнь, беречь здоровье других, уважать власти — всё вместе. Поэтому верный ответ — «Todas» (все).",
+      "trap": "Каждый вариант a, b, c сам по себе верен — в этом ловушка. Если все три верны, выбирайте «Todas las alternativas son correctas» (все варианты верны).",
+      "gloss": {
+        "text": [
+          {
+            "es": "El comportamiento del conductor",
+            "tr": "Поведение водителя"
+          },
+          {
+            "es": "como usuario de la vía,",
+            "tr": "как участника движения"
+          },
+          {
+            "es": "debe estar orientado a:",
+            "tr": "должно быть направлено на:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Valor por la vida.",
+              "tr": "Ценность жизни."
+            }
+          ],
+          "b": [
+            {
+              "es": "Respeto por",
+              "tr": "Уважение к"
+            },
+            {
+              "es": "la integridad física",
+              "tr": "физической неприкосновенности"
+            },
+            {
+              "es": "del resto de los usuarios.",
+              "tr": "остальных участников движения."
+            }
+          ],
+          "c": [
+            {
+              "es": "Respeto a la autoridad",
+              "tr": "Уважение к органам,"
+            },
+            {
+              "es": "encargada de",
+              "tr": "отвечающим за"
+            },
+            {
+              "es": "la vigilancia y disciplina de tráfico.",
+              "tr": "надзор и дисциплину движения."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "верны."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-150": {
+      "id": "a1-150",
+      "text": "Уязвимыми участниками движения считаются и поэтому заслуживают особой защиты:",
+      "options": {
+        "a": "Пешеходы, дети, пожилые люди, люди с ограниченной подвижностью, велосипедисты.",
+        "b": "Только пешеходы и велосипедисты.",
+        "c": "Только пешеходы и дети.",
+        "d": "Все варианты верны, кроме велосипедистов."
+      },
+      "gist": "Кто уязвимые участники движения",
+      "explanation": "Уязвимые — все, кого не защищает кузов автомобиля. Это пешеходы, дети, пожилые, люди с ограниченной подвижностью и велосипедисты. Варианты с «únicamente» (только) сужают список — они неверны.",
+      "trap": "«Únicamente» (только) — сигнал ловушки: список неполный. Вариант d исключает велосипедистов, а они тоже уязвимы. Верный — самый полный список.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Son considerados",
+            "tr": "Считаются"
+          },
+          {
+            "es": "usuarios vulnerables de la vía",
+            "tr": "уязвимыми участниками движения"
+          },
+          {
+            "es": "y por tanto merecen",
+            "tr": "и поэтому заслуживают"
+          },
+          {
+            "es": "especial protección:",
+            "tr": "особой защиты:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Peatones, niños,",
+              "tr": "Пешеходы, дети,"
+            },
+            {
+              "es": "adultos mayores,",
+              "tr": "пожилые люди,"
+            },
+            {
+              "es": "personas con movilidad reducida,",
+              "tr": "люди с ограниченной подвижностью,",
+              "kind": "anchor"
+            },
+            {
+              "es": "ciclistas.",
+              "tr": "велосипедисты."
+            }
+          ],
+          "b": [
+            {
+              "es": "Únicamente",
+              "tr": "Только",
+              "kind": "logic"
+            },
+            {
+              "es": "los peatones y ciclistas.",
+              "tr": "пешеходы и велосипедисты."
+            }
+          ],
+          "c": [
+            {
+              "es": "Únicamente",
+              "tr": "Только",
+              "kind": "logic"
+            },
+            {
+              "es": "los peatones y niños.",
+              "tr": "пешеходы и дети."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas son correctas,",
+              "tr": "Все варианты верны,",
+              "kind": "logic"
+            },
+            {
+              "es": "con excepción de los ciclistas.",
+              "tr": "кроме велосипедистов.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "en": {
+    "a1-126": {
+      "id": "a1-126",
+      "text": "The following sign (P-49) indicates:",
+      "options": {
+        "a": "School zone.",
+        "b": "Approach to a pedestrian crossing.",
+        "c": "Busy area.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-49",
+      "explanation": "P-49 is a yellow-green sign with two schoolchildren. It warns: school zone ahead. Option b talks about a crossing, not a school.",
+      "trap": "Signs P-49, P-49a and P-49b all show schoolchildren. No zebra stripes and no arrow means «zona escolar» (school zone).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-49),",
+            "tr": "(P-49),"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona escolar.",
+              "tr": "School zone.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "un cruce peatonal.",
+              "tr": "a pedestrian crossing."
+            }
+          ],
+          "c": [
+            {
+              "es": "Zona transitada.",
+              "tr": "Busy area."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-127": {
+      "id": "a1-127",
+      "text": "The following sign (P-49a) indicates:",
+      "options": {
+        "a": "School zone.",
+        "b": "Approach to a school crossing.",
+        "c": "Location of a school crossing.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-49a",
+      "explanation": "On P-49a the schoolchildren walk on zebra stripes. The sign warns: school crossing ahead. «Proximidad» means the crossing is still ahead. The exact spot is shown by P-49b with an arrow.",
+      "trap": "«Proximidad» (approach) means the crossing is ahead; «Ubicación» (location) means it is right here. P-49a has no arrow, so it is «proximidad».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-49a)",
+            "tr": "(P-49a)"
+          },
+          {
+            "es": ", indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona escolar.",
+              "tr": "School zone."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to",
+              "kind": "anchor"
+            },
+            {
+              "es": "un cruce escolar.",
+              "tr": "a school crossing."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación de",
+              "tr": "Location of"
+            },
+            {
+              "es": "un cruce escolar.",
+              "tr": "a school crossing."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-128": {
+      "id": "a1-128",
+      "text": "The following sign (P-49b) indicates:",
+      "options": {
+        "a": "Busy area.",
+        "b": "Approach to a pedestrian crossing.",
+        "c": "Location of a school crossing",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-49b",
+      "explanation": "P-49b is the same schoolchildren sign, but with a downward arrow. The arrow shows: the crossing is right here. That is «ubicación» (location), not «proximidad» (approach).",
+      "trap": "Option b says «cruce peatonal» (pedestrian crossing), but the sign shows schoolchildren: a «cruce escolar». The arrow means «ubicación».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-49b)",
+            "tr": "(P-49b)"
+          },
+          {
+            "es": ", indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona transitada.",
+              "tr": "Busy area."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "un cruce peatonal.",
+              "tr": "a pedestrian crossing."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación de",
+              "tr": "Location of",
+              "kind": "anchor"
+            },
+            {
+              "es": "un cruce escolar",
+              "tr": "a school crossing"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-129": {
+      "id": "a1-129",
+      "text": "The following sign (P-50) indicates:",
+      "options": {
+        "a": "Sports area.",
+        "b": "Approach to a sports field.",
+        "c": "Approach to an urban area.",
+        "d": "Children playing."
+      },
+      "gist": "Meaning of sign P-50",
+      "explanation": "P-50 shows a child with a ball. The sign warns: children may be playing nearby and can run onto the road. The sign says nothing about sports or a city.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-50),",
+            "tr": "(P-50),"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona de deportes.",
+              "tr": "Sports area."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "campo deportivo.",
+              "tr": "a sports field."
+            }
+          ],
+          "c": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "zona urbana.",
+              "tr": "an urban area."
+            }
+          ],
+          "d": [
+            {
+              "es": "Niños jugando.",
+              "tr": "Children playing.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-130": {
+      "id": "a1-130",
+      "text": "The following sign (P-51) indicates:",
+      "options": {
+        "a": "Parking area for heavy vehicles.",
+        "b": "Approach to a rural area.",
+        "c": "Farm machinery on the road.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-51",
+      "explanation": "Sign P-51 shows a tractor. It warns: slow farm machinery may enter the road. It is not a parking area and not just a rural zone.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-51),",
+            "tr": "(P-51),"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona de parqueo",
+              "tr": "Parking area"
+            },
+            {
+              "es": "de vehículos pesados.",
+              "tr": "for heavy vehicles."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "zona rural.",
+              "tr": "a rural area."
+            }
+          ],
+          "c": [
+            {
+              "es": "Maquinaria agrícola",
+              "tr": "Farm machinery",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "on the road."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-131": {
+      "id": "a1-131",
+      "text": "The following sign (P-53) indicates:",
+      "options": {
+        "a": "Approach to a stable.",
+        "b": "Approach to a farming area.",
+        "c": "Animals on the road.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-53",
+      "explanation": "Sign P-53 shows a cow. It warns: there may be animals on the road. Not a stable, not a field: animals on the roadway itself.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-53),",
+            "tr": "(P-53),"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "un establo.",
+              "tr": "a stable."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "zona agrícola.",
+              "tr": "a farming area."
+            }
+          ],
+          "c": [
+            {
+              "es": "Animales",
+              "tr": "Animals",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "on the road."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-132": {
+      "id": "a1-132",
+      "text": "The following sign (P-55) indicates:",
+      "options": {
+        "a": "Broken traffic light.",
+        "b": "Approach to a traffic light.",
+        "c": "Traffic lights in a green wave.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-55",
+      "explanation": "Sign P-55 shows a traffic light. It warns: traffic light ahead, be ready to stop. The sign does not say the light is broken («malogrado»).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-55),",
+            "tr": "(P-55),"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Semáforo malogrado.",
+              "tr": "Broken traffic light."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to",
+              "kind": "anchor"
+            },
+            {
+              "es": "un semáforo.",
+              "tr": "a traffic light."
+            }
+          ],
+          "c": [
+            {
+              "es": "Semáforos en ola verde.",
+              "tr": "Traffic lights in a green wave."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-133": {
+      "id": "a1-133",
+      "text": "The following sign (P-58) tells you:",
+      "options": {
+        "a": "That you are approaching a STOP (PARE) sign.",
+        "b": "That you must stop where the P-58 sign is.",
+        "c": "That it is a STOP, but you may keep going.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-58",
+      "explanation": "P-58 is a yellow sign with an arrow and a small STOP inside. It warns: a STOP sign is ahead. You stop at the real STOP sign, not here.",
+      "trap": "Option b says stop «donde está la señal P-58» (where the P-58 sign is). No: P-58 only warns; you stop at the real STOP sign.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-58),",
+            "tr": "(P-58),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "are approaching",
+              "kind": "anchor"
+            },
+            {
+              "es": "una señal de PARE.",
+              "tr": "a STOP (PARE) sign."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "debe parar",
+              "tr": "must stop",
+              "kind": "logic"
+            },
+            {
+              "es": "donde está",
+              "tr": "where"
+            },
+            {
+              "es": "la señal P-58.",
+              "tr": "the P-58 sign is."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se trata de",
+              "tr": "That it is"
+            },
+            {
+              "es": "un PARE,",
+              "tr": "a STOP,"
+            },
+            {
+              "es": "pero puede",
+              "tr": "but you may",
+              "kind": "logic"
+            },
+            {
+              "es": "seguir adelante.",
+              "tr": "keep going."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-134": {
+      "id": "a1-134",
+      "text": "The following sign (P-59) tells you:",
+      "options": {
+        "a": "That you are approaching a CEDA EL PASO (yield) sign.",
+        "b": "That you must yield where the P-59 sign is.",
+        "c": "That it is a STOP, but you may keep going.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-59",
+      "explanation": "P-59 is a yellow sign with a small yield triangle inside. It warns: a CEDA EL PASO sign is ahead. You yield at the real sign, not here. Option c is about STOP, a different sign.",
+      "trap": "Option b says yield «donde está la señal P-59» (where the P-59 sign is). No: P-59 only warns.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-59),",
+            "tr": "(P-59),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "are approaching",
+              "kind": "anchor"
+            },
+            {
+              "es": "una señal de CEDA EL PASO.",
+              "tr": "a CEDA EL PASO (yield) sign.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "debe ceder el paso",
+              "tr": "must yield",
+              "kind": "logic"
+            },
+            {
+              "es": "donde está",
+              "tr": "where"
+            },
+            {
+              "es": "la señal P-59.",
+              "tr": "the P-59 sign is."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se trata de",
+              "tr": "That it is"
+            },
+            {
+              "es": "un PARE,",
+              "tr": "a STOP,"
+            },
+            {
+              "es": "pero puede",
+              "tr": "but you may",
+              "kind": "logic"
+            },
+            {
+              "es": "seguir adelante.",
+              "tr": "keep going."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-135": {
+      "id": "a1-135",
+      "text": "The following sign (P-41) tells you:",
+      "options": {
+        "a": "That you are approaching a truck area.",
+        "b": "That you must turn on your lights because you are approaching an area with poor visibility.",
+        "c": "That you are approaching a tunnel.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-41",
+      "explanation": "Sign P-41 shows a tunnel entrance. It warns: tunnel ahead. Option b sounds sensible, but the sign is specifically about a tunnel.",
+      "trap": "Option b about lights and «poca visibilidad» (poor visibility) makes sense in a tunnel, but it is not the sign's meaning. Look for the word «túnel».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-41),",
+            "tr": "(P-41),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "are approaching"
+            },
+            {
+              "es": "una zona de camiones.",
+              "tr": "a truck area."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "debe encender",
+              "tr": "must turn on",
+              "kind": "logic"
+            },
+            {
+              "es": "sus luces",
+              "tr": "your lights"
+            },
+            {
+              "es": "pues se aproxima a",
+              "tr": "because you are approaching"
+            },
+            {
+              "es": "una zona con poca visibilidad.",
+              "tr": "an area with poor visibility."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "se aproxima a",
+              "tr": "are approaching"
+            },
+            {
+              "es": "un túnel.",
+              "tr": "a tunnel.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-136": {
+      "id": "a1-136",
+      "text": "The following sign (P-45) indicates:",
+      "options": {
+        "a": "Approach to an airport.",
+        "b": "Approach to an aircraft runway.",
+        "c": "Aircraft flying at low altitude.",
+        "d": "Aircraft that make noise."
+      },
+      "gist": "Meaning of sign P-45",
+      "explanation": "Sign P-45 shows an aeroplane. It warns: aircraft fly low here, which can distract or startle you. The sign says nothing about an airport, a runway or noise.",
+      "trap": "All options mention aircraft. The right one has «baja altura» (low altitude): that is what the sign means.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-45),",
+            "tr": "(P-45),"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "un aeropuerto.",
+              "tr": "an airport."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "una pista de aviones.",
+              "tr": "an aircraft runway."
+            }
+          ],
+          "c": [
+            {
+              "es": "Vuelo de aviones",
+              "tr": "Aircraft flying"
+            },
+            {
+              "es": "a baja altura.",
+              "tr": "at low altitude.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Aviones que generan ruido.",
+              "tr": "Aircraft that make noise."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-137": {
+      "id": "a1-137",
+      "text": "The following sign (P-52) tells you:",
+      "options": {
+        "a": "That you must give priority to ambulances.",
+        "b": "That you must give priority to fire fighters.",
+        "c": "That you are approaching an exit of fire engines.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-52",
+      "explanation": "Sign P-52 shows a fire engine. It warns: fire engines exit ahead, for example from a fire station. The sign does not order you to yield; it only warns.",
+      "trap": "Options a and b talk about «prioridad de paso» (priority). P-52 is a warning sign; look for the word «salida» (exit).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-52),",
+            "tr": "(P-52),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "debe dar prioridad de paso",
+              "tr": "must give priority",
+              "kind": "logic"
+            },
+            {
+              "es": "a las ambulancias.",
+              "tr": "to ambulances."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que usted",
+              "tr": "That you"
+            },
+            {
+              "es": "debe dar prioridad de paso",
+              "tr": "must give priority",
+              "kind": "logic"
+            },
+            {
+              "es": "a los bomberos.",
+              "tr": "to fire fighters."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se aproxima a",
+              "tr": "That you are approaching"
+            },
+            {
+              "es": "una salida de",
+              "tr": "an exit of",
+              "kind": "anchor"
+            },
+            {
+              "es": "vehículos de bomberos.",
+              "tr": "fire engines."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-138": {
+      "id": "a1-138",
+      "text": "The following sign (P-66) tells you:",
+      "options": {
+        "a": "That you are approaching a desert.",
+        "b": "That you are approaching an area where there are gusts of side wind.",
+        "c": "That you are getting close to an area of sand drifts on the road.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-66",
+      "explanation": "P-66 shows a palm tree bent by the wind. The sign warns: side wind, hold the wheel firmly. Sand on the road is a different sign, P-66a.",
+      "trap": "P-66 (palm tree) is «viento lateral» (side wind). P-66a (sand on the road) is «arenamiento». Do not mix up the two signs.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-66),",
+            "tr": "(P-66),"
+          },
+          {
+            "es": "le indica:",
+            "tr": "tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que se aproxima",
+              "tr": "That you are approaching"
+            },
+            {
+              "es": "un desierto.",
+              "tr": "a desert."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que se aproxima",
+              "tr": "That you are approaching"
+            },
+            {
+              "es": "una zona donde hay",
+              "tr": "an area where there are"
+            },
+            {
+              "es": "ráfagas de viento lateral.",
+              "tr": "gusts of side wind.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se acerca a",
+              "tr": "That you are getting close to"
+            },
+            {
+              "es": "una zona de arenamiento",
+              "tr": "an area of sand drifts"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "on the road."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-139": {
+      "id": "a1-139",
+      "text": "The following sign (P-66a) tells you:",
+      "options": {
+        "a": "That you are approaching a storm.",
+        "b": "That you are passing through an area where there are gusts of side wind.",
+        "c": "That you are getting close to an area of sand drifts on the road.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-66a",
+      "explanation": "P-66a shows a road being covered by sand. The sign warns: sand on the roadway, less grip. The palm tree and wind is sign P-66.",
+      "trap": "«Arenamiento» comes from «arena» (sand). Option b about «viento lateral» (side wind) is the neighbouring sign P-66.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-66a)",
+            "tr": "(P-66a)"
+          },
+          {
+            "es": ", le indica:",
+            "tr": "tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que se aproxima",
+              "tr": "That you are approaching"
+            },
+            {
+              "es": "una tormenta.",
+              "tr": "a storm."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que está pasando por",
+              "tr": "That you are passing through"
+            },
+            {
+              "es": "una zona donde hay",
+              "tr": "an area where there are"
+            },
+            {
+              "es": "ráfagas de viento lateral.",
+              "tr": "gusts of side wind."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que se acerca a",
+              "tr": "That you are getting close to"
+            },
+            {
+              "es": "una zona de arenamiento",
+              "tr": "an area of sand drifts",
+              "kind": "anchor"
+            },
+            {
+              "es": "en la vía.",
+              "tr": "on the road."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-140": {
+      "id": "a1-140",
+      "text": "If while driving your vehicle you come across the vertical sign shown, you must understand that:",
+      "options": {
+        "a": "The road is closed and you must take the alternative route that the sign shows.",
+        "b": "At the next intersection it is prohibited to turn left, and therefore, if you want to follow that route, you must take the alternative route that the sign shows.",
+        "c": "At the next intersection it is prohibited to turn right, and therefore, if you want to follow that route, you must take the alternative route that the sign shows.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Sign: no left turn, use detour",
+      "explanation": "The sign shows a no-left-turn symbol and a detour to avenue Oriente. So you cannot turn left at the intersection; you follow the detour. Option c says «derecha» (right), which is wrong. The road is not closed, so option a is wrong.",
+      "trap": "Options b and c differ by one word: «izquierda» (left) and «derecha» (right). The sign crosses out the left turn, so b.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir su vehículo",
+            "tr": "If while driving your vehicle"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "you come across"
+          },
+          {
+            "es": "la señal vertical",
+            "tr": "the vertical sign"
+          },
+          {
+            "es": "que se muestra,",
+            "tr": "shown,"
+          },
+          {
+            "es": "usted debe entender que:",
+            "tr": "you must understand that:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La vía está interrumpida",
+              "tr": "The road is closed"
+            },
+            {
+              "es": "y debe tomar",
+              "tr": "and you must take",
+              "kind": "logic"
+            },
+            {
+              "es": "el camino alternativo",
+              "tr": "the alternative route"
+            },
+            {
+              "es": "que muestra la señal.",
+              "tr": "that the sign shows."
+            }
+          ],
+          "b": [
+            {
+              "es": "En la siguiente intersección",
+              "tr": "At the next intersection"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "it is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la izquierda",
+              "tr": "to turn left",
+              "kind": "anchor"
+            },
+            {
+              "es": "y por lo tanto,",
+              "tr": "and therefore,"
+            },
+            {
+              "es": "si desea seguir esa ruta",
+              "tr": "if you want to follow that route,"
+            },
+            {
+              "es": "debe tomar",
+              "tr": "you must take",
+              "kind": "logic"
+            },
+            {
+              "es": "el camino alternativo",
+              "tr": "the alternative route"
+            },
+            {
+              "es": "que muestra la señal.",
+              "tr": "that the sign shows."
+            }
+          ],
+          "c": [
+            {
+              "es": "En la siguiente intersección",
+              "tr": "At the next intersection"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "it is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la derecha",
+              "tr": "to turn right",
+              "kind": "logic"
+            },
+            {
+              "es": "y por lo tanto,",
+              "tr": "and therefore,"
+            },
+            {
+              "es": "si desea seguir esa ruta",
+              "tr": "if you want to follow that route,"
+            },
+            {
+              "es": "debe tomar",
+              "tr": "you must take",
+              "kind": "logic"
+            },
+            {
+              "es": "el camino alternativo",
+              "tr": "the alternative route"
+            },
+            {
+              "es": "que muestra la señal.",
+              "tr": "that the sign shows."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-141": {
+      "id": "a1-141",
+      "text": "If while driving your vehicle you come across the vertical sign shown, you must understand that:",
+      "options": {
+        "a": "If you want to turn left, you must go past the intersection and go around the block.",
+        "b": "At the next intersection it is prohibited to turn left, and therefore, if you want to follow that route, you must do it one block before.",
+        "c": "In that direction there is a parking area.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Sign: turn left by circling block",
+      "explanation": "The arrow on the sign passes the intersection, circles the block and exits left. This is how you turn left where a direct turn is not allowed. Option b says «una cuadra antes» (one block before), which the sign does not show.",
+      "trap": "Options a and b are both about turning left. The key is «dar la vuelta a la manzana» (go around the block): that is what the arrow draws.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir su vehículo",
+            "tr": "If while driving your vehicle"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "you come across"
+          },
+          {
+            "es": "la señal vertical",
+            "tr": "the vertical sign"
+          },
+          {
+            "es": "que se muestra,",
+            "tr": "shown,"
+          },
+          {
+            "es": "usted debe entender que:",
+            "tr": "you must understand that:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Si quiere girar a la izquierda",
+              "tr": "If you want to turn left,",
+              "kind": "logic"
+            },
+            {
+              "es": "debe pasar la intersección",
+              "tr": "you must go past the intersection",
+              "kind": "logic"
+            },
+            {
+              "es": "y dar la vuelta a la manzana.",
+              "tr": "and go around the block.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "En la siguiente intersección",
+              "tr": "At the next intersection"
+            },
+            {
+              "es": "está prohibido",
+              "tr": "it is prohibited",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la izquierda",
+              "tr": "to turn left,",
+              "kind": "logic"
+            },
+            {
+              "es": "y por lo tanto,",
+              "tr": "and therefore,"
+            },
+            {
+              "es": "si desea seguir esa ruta",
+              "tr": "if you want to follow that route,"
+            },
+            {
+              "es": "debe hacerlo",
+              "tr": "you must do it",
+              "kind": "logic"
+            },
+            {
+              "es": "una cuadra antes.",
+              "tr": "one block before.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "En esa dirección",
+              "tr": "In that direction"
+            },
+            {
+              "es": "hay una zona de parqueo.",
+              "tr": "there is a parking area."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-142": {
+      "id": "a1-142",
+      "text": "The following sign (I-14) means:",
+      "options": {
+        "a": "Sign for a hostel.",
+        "b": "Sign for lodging.",
+        "c": "Sign for a hospital.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign I-14",
+      "explanation": "I-14 is a blue sign with a big white letter H. It shows: hospital («hospital») nearby. «Hostal» and «hospedaje» mean lodging; the words look similar, but the meaning is different.",
+      "trap": "Three similar words: «hostal» (hostel), «hospedaje» (lodging), «hospital» (hospital). The letter H on blue is a hospital.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(I-14),",
+            "tr": "(I-14),"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Señal de",
+              "tr": "Sign for"
+            },
+            {
+              "es": "hostal.",
+              "tr": "a hostel."
+            }
+          ],
+          "b": [
+            {
+              "es": "Señal de",
+              "tr": "Sign for"
+            },
+            {
+              "es": "hospedaje.",
+              "tr": "lodging."
+            }
+          ],
+          "c": [
+            {
+              "es": "Señal de",
+              "tr": "Sign for"
+            },
+            {
+              "es": "hospital.",
+              "tr": "a hospital.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-143": {
+      "id": "a1-143",
+      "text": "The following sign (I-31) means:",
+      "options": {
+        "a": "Approach to a taxi bay.",
+        "b": "Approach to a permitted parking place.",
+        "c": "Approach to a parking area for residents.",
+        "d": "Approach to a parking place for emergencies."
+      },
+      "gist": "Meaning of sign I-31",
+      "explanation": "Sign I-31 shows a lay-by at the edge of the road. It is an emergency stopping place: breakdown, feeling unwell. Not taxis, not ordinary parking, not residents' parking.",
+      "trap": "All options are about parking. The right one has the word «emergencias» (emergencies).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(I-31),",
+            "tr": "(I-31),"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad de",
+              "tr": "Approach to"
+            },
+            {
+              "es": "una bahía de taxis.",
+              "tr": "a taxi bay."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad a",
+              "tr": "Approach to"
+            },
+            {
+              "es": "un estacionamiento permitido.",
+              "tr": "a permitted parking place."
+            }
+          ],
+          "c": [
+            {
+              "es": "Proximidad de",
+              "tr": "Approach to"
+            },
+            {
+              "es": "una zona de parqueo",
+              "tr": "a parking area"
+            },
+            {
+              "es": "para vecinos.",
+              "tr": "for residents."
+            }
+          ],
+          "d": [
+            {
+              "es": "Proximidad de",
+              "tr": "Approach to"
+            },
+            {
+              "es": "un estacionamiento",
+              "tr": "a parking place"
+            },
+            {
+              "es": "para emergencias.",
+              "tr": "for emergencies.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-144": {
+      "id": "a1-144",
+      "text": "The following sign (I-9) means:",
+      "options": {
+        "a": "Police control area.",
+        "b": "Customs control area.",
+        "c": "Military area.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign I-9",
+      "explanation": "Blue sign I-9 shows a soldier in a helmet. It is the information sign for a military area. Police and customs are different signs. Look for the word «militar».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(I-9),",
+            "tr": "(I-9),"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Zona de control policial.",
+              "tr": "Police control area."
+            }
+          ],
+          "b": [
+            {
+              "es": "Zona de control de aduanas.",
+              "tr": "Customs control area."
+            }
+          ],
+          "c": [
+            {
+              "es": "Zona militar.",
+              "tr": "Military area.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-145": {
+      "id": "a1-145",
+      "text": "The following sign (I-18) is used to indicate:",
+      "options": {
+        "a": "A hardware store nearby.",
+        "b": "A mechanic's workshop nearby.",
+        "c": "A petrol station nearby.",
+        "d": "None of the alternatives is correct"
+      },
+      "gist": "Meaning of sign I-18",
+      "explanation": "Sign I-18 shows a spanner. It shows: a mechanic's workshop nearby. In Peru «grifo» is a petrol station; «ferretería» is a hardware store.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(I-18),",
+            "tr": "(I-18),"
+          },
+          {
+            "es": "se utiliza para indicar:",
+            "tr": "is used to indicate:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "una ferretería.",
+              "tr": "a hardware store."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "un servicio mecánico.",
+              "tr": "a mechanic's workshop.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "un grifo.",
+              "tr": "a petrol station."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta",
+              "tr": "is correct"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-146": {
+      "id": "a1-146",
+      "text": "The following sign (I-19) is used to indicate:",
+      "options": {
+        "a": "A mechanic's workshop nearby.",
+        "b": "A shop nearby.",
+        "c": "A petrol station nearby.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign I-19",
+      "explanation": "Sign I-19 shows a fuel pump. In Peru «grifo» means a petrol station. A spanner is a mechanic (I-18); a tyre is a tyre shop (I-20).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(I-19),",
+            "tr": "(I-19),"
+          },
+          {
+            "es": "se utiliza para indicar:",
+            "tr": "is used to indicate:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "un servicio mecánico.",
+              "tr": "a mechanic's workshop."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "una tienda.",
+              "tr": "a shop."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "un grifo.",
+              "tr": "a petrol station.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-147": {
+      "id": "a1-147",
+      "text": "The following sign (I-20) is used to indicate:",
+      "options": {
+        "a": "A mechanic's workshop nearby.",
+        "b": "An area nearby where you must drive with chains on the tyres.",
+        "c": "A petrol station nearby.",
+        "d": "A tyre shop nearby."
+      },
+      "gist": "Meaning of sign I-20",
+      "explanation": "Sign I-20 shows a tyre. It shows: a tyre shop («llantería») nearby. Option b also mentions «llantas» (tyres), but chains on the tyres is a different sign.",
+      "trap": "«Llantería» (tyre shop) and «llantas» (tyres) look alike. The blue sign with a tyre is a service, not an order to fit chains.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(I-20),",
+            "tr": "(I-20),"
+          },
+          {
+            "es": "se utiliza para indicar:",
+            "tr": "is used to indicate:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "un servicio mecánico.",
+              "tr": "a mechanic's workshop."
+            }
+          ],
+          "b": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "una zona donde",
+              "tr": "an area where"
+            },
+            {
+              "es": "debe circular",
+              "tr": "you must drive",
+              "kind": "logic"
+            },
+            {
+              "es": "con cadenas en las llantas.",
+              "tr": "with chains on the tyres."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "un grifo.",
+              "tr": "a petrol station."
+            }
+          ],
+          "d": [
+            {
+              "es": "Cercanía a",
+              "tr": "Nearby:"
+            },
+            {
+              "es": "una llantería.",
+              "tr": "a tyre shop.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-148": {
+      "id": "a1-148",
+      "text": "The following sign (R-16a) is used to indicate:",
+      "options": {
+        "a": "End of the restriction on motor vehicle traffic.",
+        "b": "End of the «no overtaking» restriction.",
+        "c": "End of the restriction on two-way traffic.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-16a",
+      "explanation": "R-16a shows two cars crossed by grey lines and the words FIN RESTRICCIÓN. It is the end of the «no overtaking» zone (sign R-16). After it you may overtake again.",
+      "trap": "All three options start with «Fin de la restricción». Look at the ending: two cars side by side = «adelantar» (overtake).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-16a)",
+            "tr": "(R-16a)"
+          },
+          {
+            "es": ", se utiliza para indicar:",
+            "tr": "is used to indicate:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Fin de la restricción",
+              "tr": "End of the restriction"
+            },
+            {
+              "es": "de circulación de automotores.",
+              "tr": "on motor vehicle traffic."
+            }
+          ],
+          "b": [
+            {
+              "es": "Fin de la restricción",
+              "tr": "End of the restriction"
+            },
+            {
+              "es": "de prohibido adelantar.",
+              "tr": "«no overtaking».",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Fin de la restricción",
+              "tr": "End of the restriction"
+            },
+            {
+              "es": "de circulación en doble sentido.",
+              "tr": "on two-way traffic."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-149": {
+      "id": "a1-149",
+      "text": "The driver's behaviour as a road user must be oriented towards:",
+      "options": {
+        "a": "Value for life.",
+        "b": "Respect for the physical integrity of the other road users.",
+        "c": "Respect for the authority in charge of traffic supervision and discipline.",
+        "d": "All the alternatives are correct."
+      },
+      "gist": "What driver behaviour is oriented to",
+      "explanation": "All three points are correct principles of driver behaviour. Value life, protect others' health, respect the authorities: all together. So the right answer is «Todas» (all).",
+      "trap": "Each of options a, b and c is true on its own; that is the trap. When all three are true, pick «Todas las alternativas son correctas» (all the alternatives are correct).",
+      "gloss": {
+        "text": [
+          {
+            "es": "El comportamiento del conductor",
+            "tr": "The driver's behaviour"
+          },
+          {
+            "es": "como usuario de la vía,",
+            "tr": "as a road user"
+          },
+          {
+            "es": "debe estar orientado a:",
+            "tr": "must be oriented towards:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Valor por la vida.",
+              "tr": "Value for life."
+            }
+          ],
+          "b": [
+            {
+              "es": "Respeto por",
+              "tr": "Respect for"
+            },
+            {
+              "es": "la integridad física",
+              "tr": "the physical integrity"
+            },
+            {
+              "es": "del resto de los usuarios.",
+              "tr": "of the other road users."
+            }
+          ],
+          "c": [
+            {
+              "es": "Respeto a la autoridad",
+              "tr": "Respect for the authority"
+            },
+            {
+              "es": "encargada de",
+              "tr": "in charge of"
+            },
+            {
+              "es": "la vigilancia y disciplina de tráfico.",
+              "tr": "traffic supervision and discipline."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-150": {
+      "id": "a1-150",
+      "text": "The following are considered vulnerable road users and therefore deserve special protection:",
+      "options": {
+        "a": "Pedestrians, children, older adults, people with reduced mobility, cyclists.",
+        "b": "Only pedestrians and cyclists.",
+        "c": "Only pedestrians and children.",
+        "d": "All the alternatives are correct, except for cyclists."
+      },
+      "gist": "Who are vulnerable road users",
+      "explanation": "Vulnerable users are all those not protected by a car body. That is pedestrians, children, older adults, people with reduced mobility and cyclists. Options with «únicamente» (only) shorten the list; they are wrong.",
+      "trap": "«Únicamente» (only) signals a trap: the list is incomplete. Option d excludes cyclists, but they are vulnerable too. The right answer is the fullest list.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Son considerados",
+            "tr": "Are considered"
+          },
+          {
+            "es": "usuarios vulnerables de la vía",
+            "tr": "vulnerable road users"
+          },
+          {
+            "es": "y por tanto merecen",
+            "tr": "and therefore deserve"
+          },
+          {
+            "es": "especial protección:",
+            "tr": "special protection:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Peatones, niños,",
+              "tr": "Pedestrians, children,"
+            },
+            {
+              "es": "adultos mayores,",
+              "tr": "older adults,"
+            },
+            {
+              "es": "personas con movilidad reducida,",
+              "tr": "people with reduced mobility,",
+              "kind": "anchor"
+            },
+            {
+              "es": "ciclistas.",
+              "tr": "cyclists."
+            }
+          ],
+          "b": [
+            {
+              "es": "Únicamente",
+              "tr": "Only",
+              "kind": "logic"
+            },
+            {
+              "es": "los peatones y ciclistas.",
+              "tr": "pedestrians and cyclists."
+            }
+          ],
+          "c": [
+            {
+              "es": "Únicamente",
+              "tr": "Only",
+              "kind": "logic"
+            },
+            {
+              "es": "los peatones y niños.",
+              "tr": "pedestrians and children."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas son correctas,",
+              "tr": "All the alternatives are correct,",
+              "kind": "logic"
+            },
+            {
+              "es": "con excepción de los ciclistas.",
+              "tr": "except for cyclists.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "disputed": []
+}

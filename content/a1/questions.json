@@ -3,7 +3,7 @@
     "id": "a1-001",
     "category": "a1",
     "number": 1,
-    "topic": "otros",
+    "topic": "estacionamiento",
     "text": "Está permitido en la vía:",
     "options": {
       "a": "Recoger o dejar pasajeros o carga en cualquier lugar",
@@ -13,10 +13,22 @@
     },
     "correct": "c",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "recoger",
+      "dejar",
+      "pasajeros",
+      "carga",
+      "autorizado",
+      "comercio-ambulatorio"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "permitido",
+        "vía"
+      ],
+      "answerKeys": [
+        "lugares autorizados"
+      ]
     },
     "answerType": "text"
   },
@@ -34,10 +46,22 @@
     },
     "correct": "b",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "dispositivos-de-control",
+      "peaton",
+      "conductor",
+      "obedecer",
+      "policia-nacional-del-peru"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "dispositivos de control",
+        "regulación del tránsito"
+      ],
+      "answerKeys": [
+        "conductores y los peatones",
+        "salvo"
+      ]
     },
     "answerType": "text"
   },
@@ -45,7 +69,7 @@
     "id": "a1-003",
     "category": "a1",
     "number": 3,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La señal vertical reglamentaria R-6 «prohibido voltear a la izquierda», significa que:",
     "options": {
       "a": "Está prohibido voltear a la izquierda y, por lo tanto también está prohibido el giro en U.",
@@ -55,10 +79,21 @@
     },
     "correct": "a",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "senal-reglamentaria",
+      "voltear",
+      "giro-en-u",
+      "sentido"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-6",
+        "prohibido voltear a la izquierda"
+      ],
+      "answerKeys": [
+        "prohibido el giro en U"
+      ]
     },
     "answerType": "text"
   },
@@ -66,7 +101,7 @@
     "id": "a1-004",
     "category": "a1",
     "number": 4,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La señal vertical reglamentaria R-3 significa que:",
     "options": {
       "a": "Nos acercamos a una zona restringida al tránsito.",
@@ -77,10 +112,21 @@
     "correct": "c",
     "image": "/images/a1/004.webp",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "senal-reglamentaria",
+      "zona",
+      "restriccion",
+      "adelantar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-3",
+        "señal vertical reglamentaria"
+      ],
+      "answerKeys": [
+        "continuar de frente"
+      ]
     },
     "answerType": "text"
   },
@@ -88,7 +134,7 @@
     "id": "a1-005",
     "category": "a1",
     "number": 5,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "En las vías, las marcas en el pavimento que son del tipo central discontinua y de color amarillo significan que:",
     "options": {
       "a": "Está permitido cruzar al otro carril para el adelantamiento vehicular, si es que es seguro hacerlo.",
@@ -98,10 +144,23 @@
     },
     "correct": "a",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "marcas-en-el-pavimento",
+      "linea-discontinua",
+      "carril",
+      "adelantar",
+      "calzada",
+      "cruce-peatonal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "marcas en el pavimento",
+        "discontinua",
+        "amarillo"
+      ],
+      "answerKeys": [
+        "si es que es seguro"
+      ]
     },
     "answerType": "text"
   },
@@ -109,7 +168,7 @@
     "id": "a1-006",
     "category": "a1",
     "number": 6,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "El color ámbar o amarillo del semáforo significa que:",
     "options": {
       "a": "Los vehículos deben avanzar.",
@@ -119,10 +178,22 @@
     },
     "correct": "d",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "semaforo",
+      "amarillo",
+      "detener",
+      "interseccion",
+      "despejar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "ámbar",
+        "amarillo",
+        "semáforo"
+      ],
+      "answerKeys": [
+        "antes de ingresar a la intersección"
+      ]
     },
     "answerType": "text"
   },
@@ -130,7 +201,7 @@
     "id": "a1-007",
     "category": "a1",
     "number": 7,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "Los colores del semáforo tienen el siguiente significado: rojo: _____ ; ámbar o amarillo: _____; verde: ____.",
     "options": {
       "a": "Detención - prevención - paso.",
@@ -140,10 +211,21 @@
     },
     "correct": "a",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "semaforo",
+      "detener",
+      "prevencion",
+      "circular"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "colores del semáforo",
+        "rojo",
+        "verde"
+      ],
+      "answerKeys": [
+        "Detención - prevención"
+      ]
     },
     "answerType": "text"
   },
@@ -151,7 +233,7 @@
     "id": "a1-008",
     "category": "a1",
     "number": 8,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "¿Qué indica una flecha verde en un semáforo vehicular?",
     "options": {
       "a": "Se puede continuar con precaución únicamente en la dirección de la flecha y desde el carril que esta flecha controla.",
@@ -161,10 +243,22 @@
     },
     "correct": "a",
     "sourcePage": 1,
-    "terms": [],
+    "terms": [
+      "flecha",
+      "semaforo",
+      "carril",
+      "precaucion",
+      "luz-circular"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "flecha verde",
+        "semáforo vehicular"
+      ],
+      "answerKeys": [
+        "dirección de la flecha",
+        "carril"
+      ]
     },
     "answerType": "text"
   },
@@ -172,7 +266,7 @@
     "id": "a1-009",
     "category": "a1",
     "number": 9,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal vertical reglamentaria R-53:",
     "options": {
       "a": "Prohíbe estacionar.",
@@ -183,10 +277,22 @@
     "correct": "b",
     "image": "/images/a1/009.webp",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "senal-reglamentaria",
+      "estacionar",
+      "detener",
+      "interseccion",
+      "carga"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-53",
+        "señal vertical reglamentaria"
+      ],
+      "answerKeys": [
+        "intersección",
+        "detener"
+      ]
     },
     "answerType": "text"
   },
@@ -194,7 +300,7 @@
     "id": "a1-010",
     "category": "a1",
     "number": 10,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "Si llega a una intersección y visualiza el semáforo con una flecha roja hacia la izquierda y la luz circular verde prendidas al mismo tiempo, la acción correcta es:",
     "options": {
       "a": "Avanzar en cualquier sentido, ya que la luz circular está en verde.",
@@ -204,10 +310,22 @@
     },
     "correct": "b",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "semaforo",
+      "flecha",
+      "luz-circular",
+      "girar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "flecha roja hacia la izquierda",
+        "luz circular verde"
+      ],
+      "answerKeys": [
+        "flecha roja",
+        "giro a la izquierda"
+      ]
     },
     "answerType": "text"
   },
@@ -215,7 +333,7 @@
     "id": "a1-011",
     "category": "a1",
     "number": 11,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "Si llega a una intersección donde el semáforo muestra una luz intermitente, qué afirmación es correcta:",
     "options": {
       "a": "Si la luz intermitente es roja, ésta es equivalente a un «CEDA EL PASO»",
@@ -225,10 +343,23 @@
     },
     "correct": "b",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "luz-intermitente",
+      "semaforo",
+      "ceder-el-paso",
+      "pare",
+      "preferencia-de-paso",
+      "precaucion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "luz intermitente",
+        "semáforo muestra"
+      ],
+      "answerKeys": [
+        "ámbar",
+        "precaución"
+      ]
     },
     "answerType": "text"
   },
@@ -236,7 +367,7 @@
     "id": "a1-012",
     "category": "a1",
     "number": 12,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "¿La luz intermitente roja es igual que una señal de PARE?",
     "options": {
       "a": "Verdad.",
@@ -246,9 +377,16 @@
     },
     "correct": "a",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "luz-intermitente",
+      "pare",
+      "policia"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "luz intermitente roja",
+        "señal de PARE"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -257,7 +395,7 @@
     "id": "a1-013",
     "category": "a1",
     "number": 13,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Al aproximarse a una intersección con giro permitido a la izquierda, la conducta correcta es:",
     "options": {
       "a": "Girar desde cualquier carril.",
@@ -267,10 +405,22 @@
     },
     "correct": "d",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "girar",
+      "carril",
+      "luces-direccionales",
+      "precaucion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "giro permitido a la izquierda",
+        "intersección"
+      ],
+      "answerKeys": [
+        "luces direccionales",
+        "carril de circulación de la izquierda"
+      ]
     },
     "answerType": "text"
   },
@@ -278,7 +428,7 @@
     "id": "a1-014",
     "category": "a1",
     "number": 14,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Al cambiar de carril en una vía de un solo sentido con múltiples carriles, ¿cuál es la conducta correcta?",
     "options": {
       "a": "Se deben encender las luces direccionales primero, buscar una brecha y realizar el cambio de carril con precaución.",
@@ -288,10 +438,22 @@
     },
     "correct": "a",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "cambiar-de-carril",
+      "via",
+      "sentido",
+      "luces-direccionales",
+      "brecha",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "cambiar de carril",
+        "un solo sentido"
+      ],
+      "answerKeys": [
+        "encender las luces direccionales"
+      ]
     },
     "answerType": "text"
   },
@@ -299,7 +461,7 @@
     "id": "a1-015",
     "category": "a1",
     "number": 15,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "Respecto a los cruces a nivel con vías férreas, señale la afirmación correcta:",
     "options": {
       "a": "Los vehículos que transitan por la vía férrea tienen preferencia de paso sobre los que transitan por la vía que la cruza.",
@@ -309,10 +471,19 @@
     },
     "correct": "a",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "cruce",
+      "via-ferrea",
+      "preferencia-de-paso"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "cruces a nivel",
+        "vías férreas"
+      ],
+      "answerKeys": [
+        "vía férrea tienen preferencia"
+      ]
     },
     "answerType": "text"
   },
@@ -320,7 +491,7 @@
     "id": "a1-016",
     "category": "a1",
     "number": 16,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "Ante la señal de color rojo del semáforo y la indicación de continuar la marcha del efectivo de la Policía Nacional del Perú asignado al control del tránsito, corresponde:",
     "options": {
       "a": "Detenerse hasta que cambie a luz verde.",
@@ -330,10 +501,20 @@
     },
     "correct": "b",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "semaforo",
+      "policia-nacional-del-peru",
+      "marcha",
+      "detener"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "rojo del semáforo",
+        "Policía Nacional del Perú"
+      ],
+      "answerKeys": [
+        "Continuar la marcha"
+      ]
     },
     "answerType": "text"
   },
@@ -341,7 +522,7 @@
     "id": "a1-017",
     "category": "a1",
     "number": 17,
-    "topic": "otros",
+    "topic": "estacionamiento",
     "text": "Está prohibido estacionar un vehículo:",
     "options": {
       "a": "En las curvas.",
@@ -351,9 +532,17 @@
     },
     "correct": "d",
     "sourcePage": 2,
-    "terms": [],
+    "terms": [
+      "estacionar",
+      "curva",
+      "interseccion",
+      "garaje",
+      "zona-militar"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "prohibido estacionar"
+      ],
       "answerKeys": []
     },
     "answerType": "all"
@@ -362,7 +551,7 @@
     "id": "a1-018",
     "category": "a1",
     "number": 18,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal vertical reglamentaria (R-29):",
     "options": {
       "a": "Prohíbe el uso de la bocina en vías urbanas.",
@@ -373,9 +562,18 @@
     "correct": "c",
     "image": "/images/a1/018.webp",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "senal-reglamentaria",
+      "bocina",
+      "via",
+      "carretera",
+      "ruido"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "R-29",
+        "señal vertical reglamentaria"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -384,7 +582,7 @@
     "id": "a1-019",
     "category": "a1",
     "number": 19,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "Se le impondrá el pago de una multa y no podrá obtener la licencia de conducir por 3 años a la persona que:",
     "options": {
       "a": "Conduzca un vehículo automotor sin tener licencia de conducir.",
@@ -394,10 +592,20 @@
     },
     "correct": "a",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "multa",
+      "licencia-de-conducir",
+      "vehiculo-automotor",
+      "soat"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "multa",
+        "licencia de conducir por 3 años"
+      ],
+      "answerKeys": [
+        "sin tener licencia de conducir"
+      ]
     },
     "answerType": "text"
   },
@@ -405,7 +613,7 @@
     "id": "a1-020",
     "category": "a1",
     "number": 20,
-    "topic": "otros",
+    "topic": "adelantamiento",
     "text": "En el supuesto que se encuentre manejando y un vehículo que tiene la intención de sobrepasarlo o adelantarlo lo alcance, ¿qué debería hacer usted?",
     "options": {
       "a": "Debe aumentar la velocidad para no dejar que el otro vehículo lo pase.",
@@ -415,10 +623,21 @@
     },
     "correct": "b",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "sobrepasar",
+      "adelantar",
+      "velocidad",
+      "detener"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "sobrepasarlo o adelantarlo",
+        "lo alcance"
+      ],
+      "answerKeys": [
+        "No debe aumentar",
+        "hasta que"
+      ]
     },
     "answerType": "text"
   },
@@ -426,7 +645,7 @@
     "id": "a1-021",
     "category": "a1",
     "number": 21,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "¿Cuál de las siguientes afirmaciones es correcta?",
     "options": {
       "a": "El conductor debe respetar los límites máximos y mínimos de velocidad establecidos.",
@@ -436,10 +655,19 @@
     },
     "correct": "a",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "limite-maximo",
+      "limite-minimo",
+      "conductor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "Cuál de las siguientes afirmaciones"
+      ],
+      "answerKeys": [
+        "máximos y mínimos"
+      ]
     },
     "answerType": "text"
   },
@@ -447,7 +675,7 @@
     "id": "a1-022",
     "category": "a1",
     "number": 22,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿Qué luces debe utilizar un conductor que circula en las vías públicas urbanas por la noche?",
     "options": {
       "a": "Bajas.",
@@ -457,9 +685,19 @@
     },
     "correct": "a",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "luces-bajas",
+      "luces-altas",
+      "via-publica",
+      "interseccion",
+      "avenida"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "luces",
+        "vías públicas urbanas",
+        "por la noche"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -468,7 +706,7 @@
     "id": "a1-023",
     "category": "a1",
     "number": 23,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "En caso de accidentes, el SOAT cubre los daños que sufren:",
     "options": {
       "a": "Solo los ocupantes del vehículo.",
@@ -478,10 +716,21 @@
     },
     "correct": "b",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "soat",
+      "accidente-de-transito",
+      "ocupante",
+      "terceros",
+      "danos"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "SOAT",
+        "cubre los daños"
+      ],
+      "answerKeys": [
+        "ocupantes y terceros"
+      ]
     },
     "answerType": "text"
   },
@@ -489,7 +738,7 @@
     "id": "a1-024",
     "category": "a1",
     "number": 24,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "¿Cuál de los siguientes seguros es exigible para conducir un vehículo automotor?",
     "options": {
       "a": "Cualquier tipo de seguro de accidentes personales que comercialicen las empresas de seguro.",
@@ -499,10 +748,23 @@
     },
     "correct": "c",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "seguro",
+      "soat",
+      "vehiculo-automotor",
+      "ocupante",
+      "terceros",
+      "accidente-de-transito"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "seguros es exigible",
+        "vehículo automotor"
+      ],
+      "answerKeys": [
+        "SOAT",
+        "Seguro Obligatorio"
+      ]
     },
     "answerType": "text"
   },
@@ -510,7 +772,7 @@
     "id": "a1-025",
     "category": "a1",
     "number": 25,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "Cuándo es obligatorio darle preferencia de paso a un vehículo de emergencia o vehículo oficial:",
     "options": {
       "a": "Cuando emita señales visibles.",
@@ -520,10 +782,20 @@
     },
     "correct": "c",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "preferencia-de-paso",
+      "vehiculo-de-emergencia",
+      "senal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "vehículo de emergencia",
+        "vehículo oficial",
+        "preferencia de paso"
+      ],
+      "answerKeys": [
+        "audibles y visibles"
+      ]
     },
     "answerType": "text"
   },
@@ -531,7 +803,7 @@
     "id": "a1-026",
     "category": "a1",
     "number": 26,
-    "topic": "otros",
+    "topic": "peatones",
     "text": "Si por el carril por donde está conduciendo se aproxima a un vehículo de transporte escolar que se encuentra detenido, recogiendo o dejando escolares ¿Qué debe hacer?",
     "options": {
       "a": "Detener el vehículo y no continuar la marcha hasta que haya culminado el ascenso o descenso de los escolares.",
@@ -541,10 +813,22 @@
     },
     "correct": "a",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "carril",
+      "escolares",
+      "detener",
+      "adelantar",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "transporte escolar",
+        "detenido",
+        "escolares"
+      ],
+      "answerKeys": [
+        "Detener el vehículo"
+      ]
     },
     "answerType": "text"
   },
@@ -552,7 +836,7 @@
     "id": "a1-027",
     "category": "a1",
     "number": 27,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿Qué significa un triángulo rojo de seguridad colocado en la calzada?",
     "options": {
       "a": "La presencia de un vehículo inmovilizado en la vía pública por alguna circunstancia.",
@@ -562,10 +846,23 @@
     },
     "correct": "a",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "triangulo-de-seguridad",
+      "calzada",
+      "vehiculo",
+      "inmovilizado",
+      "via-publica",
+      "zona",
+      "obras"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "triángulo rojo",
+        "calzada"
+      ],
+      "answerKeys": [
+        "inmovilizado"
+      ]
     },
     "answerType": "text"
   },
@@ -573,7 +870,7 @@
     "id": "a1-028",
     "category": "a1",
     "number": 28,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal vertical reglamentaria P-22C indica que:",
     "options": {
       "a": "Está permitido adelantar.",
@@ -584,10 +881,20 @@
     "correct": "b",
     "image": "/images/a1/028.webp",
     "sourcePage": 3,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "carril",
+      "adelantar",
+      "cambiar-de-carril"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-22C",
+        "señal vertical reglamentaria"
+      ],
+      "answerKeys": [
+        "carril adicional"
+      ]
     },
     "answerType": "text"
   },
@@ -595,7 +902,7 @@
     "id": "a1-029",
     "category": "a1",
     "number": 29,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Las luces intermitentes de emergencia del vehículo deben utilizarse obligatoriamente:",
     "options": {
       "a": "Para girar en las intersecciones y para advertir los cambios de carril.",
@@ -605,10 +912,24 @@
     },
     "correct": "b",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "luces-intermitentes-de-emergencia",
+      "detener",
+      "estacionar",
+      "zona",
+      "peligro",
+      "maniobra",
+      "cambiar-de-carril"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "luces intermitentes de emergencia",
+        "obligatoriamente"
+      ],
+      "answerKeys": [
+        "zona peligrosa",
+        "maniobras riesgosas"
+      ]
     },
     "answerType": "text"
   },
@@ -616,7 +937,7 @@
     "id": "a1-030",
     "category": "a1",
     "number": 30,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "En intersecciones que no tienen señales de Pare, Ceda el Paso o Semáforo, ¿las vías de doble sentido tienen prioridad de paso respecto a las vías de un solo sentido de igual clasificación?",
     "options": {
       "a": "No.",
@@ -626,9 +947,21 @@
     },
     "correct": "b",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "pare",
+      "ceder-el-paso",
+      "semaforo",
+      "via",
+      "sentido",
+      "preferencia-de-paso"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "doble sentido",
+        "un solo sentido",
+        "igual clasificación"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -637,7 +970,7 @@
     "id": "a1-031",
     "category": "a1",
     "number": 31,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Si usted se aproxima a una señal de PARE colocada verticalmente o pintada en la vía, la acción correcta es:",
     "options": {
       "a": "Disminuir su velocidad y cederle el paso a los vehículos que circulan por la transversal.",
@@ -647,10 +980,25 @@
     },
     "correct": "d",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "pare",
+      "parar",
+      "ceder-el-paso",
+      "preferencia-de-paso",
+      "via",
+      "transversal",
+      "disminuir",
+      "velocidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "señal de PARE",
+        "acción correcta"
+      ],
+      "answerKeys": [
+        "por completo",
+        "preferencia"
+      ]
     },
     "answerType": "text"
   },
@@ -658,7 +1006,7 @@
     "id": "a1-032",
     "category": "a1",
     "number": 32,
-    "topic": "otros",
+    "topic": "senales",
     "text": "¿Cuál es la diferencia entre las señales P-2A y P-1A?",
     "options": {
       "a": "No hay diferencia, se usan indistintamente.",
@@ -669,9 +1017,18 @@
     "correct": "c",
     "image": "/images/a1/032.webp",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "senal",
+      "curva",
+      "pronunciada",
+      "suave",
+      "riesgo"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "diferencia",
+        "P-2A y P-1A"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -680,7 +1037,7 @@
     "id": "a1-033",
     "category": "a1",
     "number": 33,
-    "topic": "otros",
+    "topic": "senales",
     "text": "¿Qué indica la señal R-30F?",
     "options": {
       "a": "Tener precaución con vehículos lentos.",
@@ -691,10 +1048,20 @@
     "correct": "b",
     "image": "/images/a1/033.webp",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "senal-reglamentaria",
+      "velocidad",
+      "curva",
+      "zona-rural"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-30F",
+        "indica"
+      ],
+      "answerKeys": [
+        "en curvas"
+      ]
     },
     "answerType": "text"
   },
@@ -702,7 +1069,7 @@
     "id": "a1-034",
     "category": "a1",
     "number": 34,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿Qué señal debe utilizar el conductor para disminuir la velocidad o detener el vehículo cuando está en marcha?",
     "options": {
       "a": "Luces direccionales.",
@@ -712,10 +1079,26 @@
     },
     "correct": "c",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "luces-intermitentes-de-emergencia",
+      "luces-direccionales",
+      "luces-bajas",
+      "brazo",
+      "senal",
+      "disminuir",
+      "velocidad",
+      "fuerza-mayor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "disminuir la velocidad",
+        "detener el vehículo",
+        "señal"
+      ],
+      "answerKeys": [
+        "Luces intermitentes",
+        "ángulo recto"
+      ]
     },
     "answerType": "text"
   },
@@ -723,7 +1106,7 @@
     "id": "a1-035",
     "category": "a1",
     "number": 35,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "Si dos vehículos se aproximan simultáneamente a una intersección no regulada (sin señalización) procedentes de vías diferentes, ¿quién tiene preferencia de paso?",
     "options": {
       "a": "Cualquiera de los dos.",
@@ -734,10 +1117,21 @@
     "correct": "b",
     "image": "/images/a1/035.webp",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "preferencia-de-paso",
+      "bocina",
+      "senalizar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "dos vehículos",
+        "simultáneamente",
+        "vías diferentes"
+      ],
+      "answerKeys": [
+        "derecha"
+      ]
     },
     "answerType": "text"
   },
@@ -745,7 +1139,7 @@
     "id": "a1-036",
     "category": "a1",
     "number": 36,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "En una intersección no regulada (sin señalización) tiene preferencia de paso:",
     "options": {
       "a": "El vehículo que ingresó primero a la intersección.",
@@ -755,10 +1149,20 @@
     },
     "correct": "a",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "preferencia-de-paso",
+      "bocina",
+      "luces"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "intersección no regulada",
+        "tiene preferencia de paso"
+      ],
+      "answerKeys": [
+        "ingresó primero"
+      ]
     },
     "answerType": "text"
   },
@@ -766,7 +1170,7 @@
     "id": "a1-037",
     "category": "a1",
     "number": 37,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "En una rotonda, tiene prioridad de paso el vehículo que:",
     "options": {
       "a": "Quiere ingresar a la rotonda.",
@@ -776,10 +1180,20 @@
     },
     "correct": "b",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "rotonda",
+      "preferencia-de-paso",
+      "ingresar",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "rotonda",
+        "prioridad de paso"
+      ],
+      "answerKeys": [
+        "Circula por ella"
+      ]
     },
     "answerType": "text"
   },
@@ -787,7 +1201,7 @@
     "id": "a1-038",
     "category": "a1",
     "number": 38,
-    "topic": "otros",
+    "topic": "adelantamiento",
     "text": "El sobrepaso o adelantamiento de un vehículo en movimiento se efectúa, salvo excepciones, por la _________ retornando el vehículo después de la maniobra a su carril original.",
     "options": {
       "a": "Derecha.",
@@ -797,9 +1211,19 @@
     },
     "correct": "b",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "sobrepasar",
+      "adelantar",
+      "berma",
+      "carril",
+      "maniobra"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "sobrepaso",
+        "adelantamiento",
+        "salvo excepciones"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -808,7 +1232,7 @@
     "id": "a1-039",
     "category": "a1",
     "number": 39,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si un conductor está tomando medicamentos y por ello siente sueño ¿qué debe hacer?",
     "options": {
       "a": "Manejar normalmente.",
@@ -818,10 +1242,20 @@
     },
     "correct": "c",
     "sourcePage": 4,
-    "terms": [],
+    "terms": [
+      "medicamentos",
+      "somnolencia",
+      "manejar",
+      "copiloto"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "medicamentos",
+        "sueño"
+      ],
+      "answerKeys": [
+        "Abstenerse"
+      ]
     },
     "answerType": "text"
   },
@@ -829,7 +1263,7 @@
     "id": "a1-040",
     "category": "a1",
     "number": 40,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "Son documentos que deben portarse obligatoriamente, durante la conducción del vehículo, y exhibirse cuando la autoridad competente lo solicite:",
     "options": {
       "a": "Documento de identidad, SOAT vigente (puede ser virtual) y tarjeta de identificación vehicular.",
@@ -839,10 +1273,22 @@
     },
     "correct": "a",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "soat",
+      "tarjeta-de-identificacion-vehicular",
+      "compraventa",
+      "autoridad-competente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "documentos",
+        "portarse obligatoriamente",
+        "autoridad competente"
+      ],
+      "answerKeys": [
+        "SOAT",
+        "tarjeta de identificación vehicular"
+      ]
     },
     "answerType": "text"
   },
@@ -850,7 +1296,7 @@
     "id": "a1-041",
     "category": "a1",
     "number": 41,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "En los tramos de una vía con pendiente pronunciada, que permite la circulación de un solo vehículo, se debe de tener en cuenta que el vehículo que asciende respecto al vehículo que desciende:",
     "options": {
       "a": "No tiene preferencia de paso.",
@@ -860,9 +1306,18 @@
     },
     "correct": "b",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "pendiente",
+      "pronunciada",
+      "preferencia-de-paso",
+      "retroceder"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "pendiente pronunciada",
+        "un solo vehículo",
+        "asciende"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -871,7 +1326,7 @@
     "id": "a1-042",
     "category": "a1",
     "number": 42,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Al cambiar de dirección, un conductor debe:",
     "options": {
       "a": "Señalizar toda la maniobra hasta su culminación.",
@@ -881,10 +1336,21 @@
     },
     "correct": "a",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "cambiar-de-direccion",
+      "senalizar",
+      "maniobra",
+      "obligacion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "cambiar de dirección",
+        "conductor debe"
+      ],
+      "answerKeys": [
+        "toda la maniobra",
+        "culminación"
+      ]
     },
     "answerType": "text"
   },
@@ -892,7 +1358,7 @@
     "id": "a1-043",
     "category": "a1",
     "number": 43,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿Se puede conducir un vehículo con el motor en punto neutro?",
     "options": {
       "a": "Sí, pero solo si está bajando una pendiente.",
@@ -902,10 +1368,21 @@
     },
     "correct": "b",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "punto-neutro",
+      "motor",
+      "pendiente",
+      "conductor",
+      "novato"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "punto neutro",
+        "motor"
+      ],
+      "answerKeys": [
+        "prohibido"
+      ]
     },
     "answerType": "text"
   },
@@ -913,7 +1390,7 @@
     "id": "a1-044",
     "category": "a1",
     "number": 44,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Para girar o cambiar de carril hacia la derecha, el conductor debe utilizar las luces direccionales y, en casos de fuerza mayor, la siguiente señal manual:",
     "options": {
       "a": "Brazo, antebrazo izquierdo y mano extendidos hacia afuera del vehículo.",
@@ -923,10 +1400,24 @@
     },
     "correct": "b",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "girar",
+      "cambiar-de-carril",
+      "luces-direccionales",
+      "senal",
+      "brazo",
+      "fuerza-mayor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "hacia la derecha",
+        "señal manual",
+        "fuerza mayor"
+      ],
+      "answerKeys": [
+        "hacia arriba",
+        "ángulo recto"
+      ]
     },
     "answerType": "text"
   },
@@ -934,7 +1425,7 @@
     "id": "a1-045",
     "category": "a1",
     "number": 45,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "Si la licencia de conducir no se encuentra vigente, los vehículos que autoriza a conducir dicha licencia:",
     "options": {
       "a": "No podrán ser conducidos.",
@@ -944,9 +1435,17 @@
     },
     "correct": "a",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "licencia-de-conducir",
+      "vigente",
+      "zona-urbana",
+      "renovar"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "licencia de conducir",
+        "no se encuentra vigente"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -955,7 +1454,7 @@
     "id": "a1-046",
     "category": "a1",
     "number": 46,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "De acuerdo con el sistema de control de licencias de conducir por puntos:",
     "options": {
       "a": "Determinadas infracciones suman puntos.",
@@ -965,10 +1464,19 @@
     },
     "correct": "a",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "puntos",
+      "licencia-de-conducir",
+      "infraccion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "control de licencias",
+        "por puntos"
+      ],
+      "answerKeys": [
+        "suman puntos"
+      ]
     },
     "answerType": "text"
   },
@@ -976,7 +1484,7 @@
     "id": "a1-047",
     "category": "a1",
     "number": 47,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿Cuál es la consecuencia de acumular 100 puntos en la licencia de conducir en un período de 24 meses?",
     "options": {
       "a": "Suspensión de licencia de conducir.",
@@ -986,10 +1494,22 @@
     },
     "correct": "a",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "puntos",
+      "licencia-de-conducir",
+      "suspension",
+      "inhabilitacion",
+      "internamiento-vehicular",
+      "placa-de-rodaje"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "100 puntos",
+        "24 meses"
+      ],
+      "answerKeys": [
+        "Suspensión"
+      ]
     },
     "answerType": "text"
   },
@@ -1007,10 +1527,22 @@
     },
     "correct": "b",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "carril",
+      "calzada",
+      "via",
+      "peaton",
+      "zona-rural"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "carril",
+        "Se entiende por"
+      ],
+      "answerKeys": [
+        "calzada",
+        "fila de vehículos"
+      ]
     },
     "answerType": "text"
   },
@@ -1018,7 +1550,7 @@
     "id": "a1-049",
     "category": "a1",
     "number": 49,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Se entiende por línea de parada a:",
     "options": {
       "a": "La línea transversal marcada en la calzada antes de la intersección, que indica al conductor el límite para detener el vehículo.",
@@ -1028,10 +1560,21 @@
     },
     "correct": "a",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "linea-de-parada",
+      "calzada",
+      "interseccion",
+      "estacionar",
+      "pasajeros"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "línea de parada"
+      ],
+      "answerKeys": [
+        "línea transversal",
+        "límite para detener"
+      ]
     },
     "answerType": "text"
   },
@@ -1039,7 +1582,7 @@
     "id": "a1-050",
     "category": "a1",
     "number": 50,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal vertical reglamentaria P-17A, indica:",
     "options": {
       "a": "Reducción de la calzada al lado derecho.",
@@ -1050,9 +1593,16 @@
     "correct": "c",
     "image": "/images/a1/050.webp",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "reducir",
+      "calzada"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "P-17A",
+        "señal vertical reglamentaria"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -1061,7 +1611,7 @@
     "id": "a1-051",
     "category": "a1",
     "number": 51,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "En caso de encontrar marcación de doble línea amarilla compuesta por un trazo continuo y otro trazo discontinuo en una vía de doble sentido, ¿qué se debe hacer?",
     "options": {
       "a": "Se puede adelantar en ambos sentidos.",
@@ -1071,10 +1621,23 @@
     },
     "correct": "c",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "doble-linea-amarilla",
+      "linea-continua",
+      "linea-discontinua",
+      "adelantar",
+      "via",
+      "sentido"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "doble línea amarilla",
+        "trazo continuo",
+        "trazo discontinuo"
+      ],
+      "answerKeys": [
+        "si es continua, no adelantar"
+      ]
     },
     "answerType": "text"
   },
@@ -1082,7 +1645,7 @@
     "id": "a1-052",
     "category": "a1",
     "number": 52,
-    "topic": "otros",
+    "topic": "estacionamiento",
     "text": "Se define como zona rígida al:",
     "options": {
       "a": "Área donde se prohíbe la circulación de vehículos.",
@@ -1092,10 +1655,19 @@
     },
     "correct": "c",
     "sourcePage": 5,
-    "terms": [],
+    "terms": [
+      "zona-rigida",
+      "estacionar",
+      "circular",
+      "peaton"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "zona rígida"
+      ],
+      "answerKeys": [
+        "estacionamiento"
+      ]
     },
     "answerType": "text"
   },
@@ -1113,10 +1685,21 @@
     },
     "correct": "a",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "policia",
+      "transito",
+      "detener",
+      "marcha",
+      "de-frente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "de frente o de espaldas",
+        "Policía Nacional"
+      ],
+      "answerKeys": [
+        "detenerse"
+      ]
     },
     "answerType": "text"
   },
@@ -1124,7 +1707,7 @@
     "id": "a1-054",
     "category": "a1",
     "number": 54,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "Siempre que no exista una señal de límite de velocidad, en zonas urbanas el límite máximo de velocidad en calles y jirones es de:",
     "options": {
       "a": "30km/h.",
@@ -1134,18 +1717,33 @@
     },
     "correct": "b",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "zona-urbana",
+      "calle",
+      "jiron"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "calles y jirones",
+        "límite máximo"
+      ],
+      "answerKeys": [
+        "40km/h"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-055",
+      "a1-056",
+      "a1-057"
+    ]
   },
   {
     "id": "a1-055",
     "category": "a1",
     "number": 55,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "Siempre que no exista una señal de límite de velocidad, en zonas urbanas el límite máximo de velocidad en avenidas es de:",
     "options": {
       "a": "30km/h.",
@@ -1155,18 +1753,32 @@
     },
     "correct": "c",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "zona-urbana",
+      "avenida"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "avenidas",
+        "límite máximo"
+      ],
+      "answerKeys": [
+        "60km/h"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-054",
+      "a1-056",
+      "a1-057"
+    ]
   },
   {
     "id": "a1-056",
     "category": "a1",
     "number": 56,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "Siempre que no exista una señal de límite de velocidad, en zonas urbanas el límite máximo de velocidad en vías expresas es de:",
     "options": {
       "a": "60km/h.",
@@ -1176,18 +1788,32 @@
     },
     "correct": "c",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "zona-urbana",
+      "via-expresa"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "vías expresas",
+        "límite máximo"
+      ],
+      "answerKeys": [
+        "80km/h"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-055",
+      "a1-054",
+      "a1-058"
+    ]
   },
   {
     "id": "a1-057",
     "category": "a1",
     "number": 57,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "Siempre que no exista una señal de límite de velocidad en zonas urbanas, el límite máximo de velocidad en zona escolar es de:",
     "options": {
       "a": "20km/h.",
@@ -1197,18 +1823,32 @@
     },
     "correct": "b",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "zona-urbana",
+      "zona-escolar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "zona escolar",
+        "límite máximo"
+      ],
+      "answerKeys": [
+        "30km/h"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-055",
+      "a1-054",
+      "a1-056"
+    ]
   },
   {
     "id": "a1-058",
     "category": "a1",
     "number": 58,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "Siempre que no exista una señal de límite de velocidad en carreteras, el límite máximo de velocidad para automóviles, camionetas y motocicletas es de:",
     "options": {
       "a": "80km/h.",
@@ -1218,18 +1858,32 @@
     },
     "correct": "c",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "carretera",
+      "automovil",
+      "camioneta",
+      "motocicleta"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "carreteras",
+        "automóviles, camionetas y motocicletas"
+      ],
+      "answerKeys": [
+        "100km/h"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-056"
+    ]
   },
   {
     "id": "a1-059",
     "category": "a1",
     "number": 59,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "Siempre que no exista una señal de límite de velocidad mínima, el límite mínimo de velocidad en zona urbana y en carreteras es de:",
     "options": {
       "a": "30km/h.",
@@ -1239,10 +1893,20 @@
     },
     "correct": "b",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "velocidad",
+      "zona-urbana",
+      "carretera",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "límite mínimo",
+        "velocidad mínima"
+      ],
+      "answerKeys": [
+        "La mitad"
+      ]
     },
     "answerType": "text"
   },
@@ -1250,7 +1914,7 @@
     "id": "a1-060",
     "category": "a1",
     "number": 60,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿Cuál es la sanción por conducir con presencia de alcohol en la sangre en proporción mayor a lo previsto en el Código Penal, o bajo los efectos de estupefacientes, narcóticos y/o alucinógenos comprobados con el examen respectivo, o por negarse al mismo y que haya participado en un accidente de tránsito?",
     "options": {
       "a": "Multa.",
@@ -1260,10 +1924,25 @@
     },
     "correct": "d",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "sancion",
+      "alcohol",
+      "estupefaciente",
+      "accidente-de-transito",
+      "multa",
+      "cancelacion",
+      "inhabilitacion",
+      "licencia-de-conducir"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "alcohol en la sangre",
+        "accidente de tránsito",
+        "negarse"
+      ],
+      "answerKeys": [
+        "inhabilitación definitiva"
+      ]
     },
     "answerType": "text"
   },
@@ -1271,7 +1950,7 @@
     "id": "a1-061",
     "category": "a1",
     "number": 61,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿Cuál es la sanción si en un operativo de alcoholemia usted es intervenido y se comprueba que ha consumido alcohol por encima del límite legal, o está conduciendo bajo los efectos de estupefacientes, narcóticos y/o alucinógenos comprobada con el examen respectivo?",
     "options": {
       "a": "Una multa",
@@ -1281,10 +1960,23 @@
     },
     "correct": "c",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "sancion",
+      "alcoholemia",
+      "alcohol",
+      "estupefaciente",
+      "multa",
+      "suspension",
+      "licencia-de-conducir"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "operativo de alcoholemia",
+        "por encima del límite legal"
+      ],
+      "answerKeys": [
+        "3 años"
+      ]
     },
     "answerType": "text"
   },
@@ -1292,7 +1984,7 @@
     "id": "a1-062",
     "category": "a1",
     "number": 62,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "La frecuencia de la inspección técnica de un vehículo particular es:",
     "options": {
       "a": "Cada medio año.",
@@ -1302,10 +1994,19 @@
     },
     "correct": "b",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "inspeccion-tecnica",
+      "vehiculo-particular"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "inspección técnica",
+        "vehículo particular",
+        "frecuencia"
+      ],
+      "answerKeys": [
+        "Cada año"
+      ]
     },
     "answerType": "text"
   },
@@ -1313,7 +2014,7 @@
     "id": "a1-063",
     "category": "a1",
     "number": 63,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "¿A partir de qué año de antigüedad debe realizarse la inspección técnica de un vehículo particular para transporte de personas de hasta 9 asientos incluido el conductor de la categoría M1?",
     "options": {
       "a": "A partir del segundo año contado desde el año siguiente de su fabricación.",
@@ -1323,10 +2024,22 @@
     },
     "correct": "b",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "inspeccion-tecnica",
+      "vehiculo-particular",
+      "antiguedad",
+      "categoria",
+      "fabricacion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "inspección técnica",
+        "categoría M1",
+        "9 asientos"
+      ],
+      "answerKeys": [
+        "cuarto año"
+      ]
     },
     "answerType": "text"
   },
@@ -1334,7 +2047,7 @@
     "id": "a1-064",
     "category": "a1",
     "number": 64,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "¿Cuál es el plazo de vigencia del SOAT?",
     "options": {
       "a": "1 año.",
@@ -1344,10 +2057,19 @@
     },
     "correct": "a",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "soat",
+      "plazo",
+      "vigente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "SOAT",
+        "plazo de vigencia"
+      ],
+      "answerKeys": [
+        "1 año"
+      ]
     },
     "answerType": "text"
   },
@@ -1365,10 +2087,25 @@
     },
     "correct": "c",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "accidente-de-transito",
+      "seguro",
+      "dejar",
+      "constancia",
+      "policia",
+      "propietario",
+      "bomberos"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "accidente de tránsito",
+        "obligación",
+        "propietario"
+      ],
+      "answerKeys": [
+        "dejar constancia",
+        "delegación"
+      ]
     },
     "answerType": "text"
   },
@@ -1376,7 +2113,7 @@
     "id": "a1-066",
     "category": "a1",
     "number": 66,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "Si una licencia de conducir consiga alguna restricción, es correcto afirmar que:",
     "options": {
       "a": "Dicha restricción es meramente informativa.",
@@ -1386,10 +2123,19 @@
     },
     "correct": "b",
     "sourcePage": 6,
-    "terms": [],
+    "terms": [
+      "licencia-de-conducir",
+      "restriccion",
+      "seguridad-vial"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "licencia de conducir",
+        "restricción"
+      ],
+      "answerKeys": [
+        "una obligación"
+      ]
     },
     "answerType": "text"
   },
@@ -1397,7 +2143,7 @@
     "id": "a1-067",
     "category": "a1",
     "number": 67,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La señal preventiva P-33A, significa:",
     "options": {
       "a": "Señal de curva sinuosa.",
@@ -1408,10 +2154,22 @@
     "correct": "c",
     "image": "/images/a1/067.webp",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "senal-preventiva",
+      "resalto",
+      "baden",
+      "curva",
+      "sinuoso"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-33A",
+        "preventiva"
+      ],
+      "answerKeys": [
+        "reductor de velocidad",
+        "resalto"
+      ]
     },
     "answerType": "text"
   },
@@ -1419,7 +2177,7 @@
     "id": "a1-068",
     "category": "a1",
     "number": 68,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si su vehículo deja de funcionar o comienza a tener problemas y usted trata de moverlo al costado de la autopista, debe:",
     "options": {
       "a": "Activar las luces intermitentes de emergencia.",
@@ -1429,10 +2187,21 @@
     },
     "correct": "a",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "luces-intermitentes-de-emergencia",
+      "autopista",
+      "averia",
+      "parar",
+      "vehiculo"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "deja de funcionar",
+        "costado de la autopista"
+      ],
+      "answerKeys": [
+        "luces intermitentes"
+      ]
     },
     "answerType": "text"
   },
@@ -1440,7 +2209,7 @@
     "id": "a1-069",
     "category": "a1",
     "number": 69,
-    "topic": "otros",
+    "topic": "adelantamiento",
     "text": "¿Está permitido usar la bocina de su vehículo para advertir al conductor del vehículo que circula delante, que será adelantado?",
     "options": {
       "a": "Sí, siempre y cuando el sonido no sea estridente.",
@@ -1450,10 +2219,21 @@
     },
     "correct": "c",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "bocina",
+      "adelantar",
+      "advertir",
+      "prohibicion",
+      "senal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "bocina",
+        "será adelantado"
+      ],
+      "answerKeys": [
+        "está prohibido"
+      ]
     },
     "answerType": "text"
   },
@@ -1461,7 +2241,7 @@
     "id": "a1-070",
     "category": "a1",
     "number": 70,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "Si observa que se aproxima una ambulancia sin las luces especiales encendidas y sin sirena, es correcto afirmar que:",
     "options": {
       "a": "No estamos obligados a darle preferencia de paso.",
@@ -1471,10 +2251,20 @@
     },
     "correct": "a",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "ambulancia",
+      "sirena",
+      "luces",
+      "preferencia-de-paso"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "ambulancia",
+        "sin sirena"
+      ],
+      "answerKeys": [
+        "No estamos obligados"
+      ]
     },
     "answerType": "text"
   },
@@ -1482,7 +2272,7 @@
     "id": "a1-071",
     "category": "a1",
     "number": 71,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "Si se encuentra en una intersección y se enciende la luz verde del semáforo y observa que en la calle transversal hay vehículos o personas despejando la intersección, ¿qué debe hacer?",
     "options": {
       "a": "No iniciar la marcha hasta que el vehículo o las personas terminen de cruzar.",
@@ -1492,10 +2282,22 @@
     },
     "correct": "a",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "luz-verde",
+      "semaforo",
+      "despejar",
+      "marcha",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "luz verde",
+        "despejando la intersección"
+      ],
+      "answerKeys": [
+        "terminen de cruzar"
+      ]
     },
     "answerType": "text"
   },
@@ -1503,7 +2305,7 @@
     "id": "a1-072",
     "category": "a1",
     "number": 72,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "En señalética vial, el color __________ en el pavimento es utilizado para carriles de tráfico en sentido opuesto y el color __________ en el pavimento es utilizado como separador de carriles de tráfico en el mismo sentido.",
     "options": {
       "a": "Amarillo - blanco.",
@@ -1513,10 +2315,24 @@
     },
     "correct": "a",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "senalizar",
+      "pavimento",
+      "carril",
+      "sentido-contrario",
+      "sentido",
+      "amarillo",
+      "blanco"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "sentido opuesto",
+        "mismo sentido",
+        "color"
+      ],
+      "answerKeys": [
+        "Amarillo - blanco"
+      ]
     },
     "answerType": "text"
   },
@@ -1524,7 +2340,7 @@
     "id": "a1-073",
     "category": "a1",
     "number": 73,
-    "topic": "otros",
+    "topic": "peatones",
     "text": "Si una fila de escolares cruza la calzada fuera del crucero peatonal, ¿qué acción se debe tomar?",
     "options": {
       "a": "Advertir con el claxon.",
@@ -1534,10 +2350,21 @@
     },
     "correct": "c",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "escolares",
+      "calzada",
+      "cruce-peatonal",
+      "ceder-el-paso",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "fila de escolares",
+        "crucero peatonal"
+      ],
+      "answerKeys": [
+        "ceder el paso"
+      ]
     },
     "answerType": "text"
   },
@@ -1545,7 +2372,7 @@
     "id": "a1-074",
     "category": "a1",
     "number": 74,
-    "topic": "otros",
+    "topic": "peatones",
     "text": "Si se aproxima a una zona escolar, ¿qué acción debe realizar?",
     "options": {
       "a": "No tiene ninguna obligación si no hay señalización.",
@@ -1555,10 +2382,20 @@
     },
     "correct": "c",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "zona-escolar",
+      "disminuir",
+      "velocidad",
+      "senalizar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "zona escolar",
+        "se aproxima"
+      ],
+      "answerKeys": [
+        "30 Km/h"
+      ]
     },
     "answerType": "text"
   },
@@ -1566,7 +2403,7 @@
     "id": "a1-075",
     "category": "a1",
     "number": 75,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Tienen el objetivo de notificar a los usuarios las limitaciones, prohibiciones o restricciones en el uso de la vía.",
     "options": {
       "a": "Señales reguladoras o de reglamentación.",
@@ -1576,18 +2413,34 @@
     },
     "correct": "a",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "senal-reglamentaria",
+      "senal-preventiva",
+      "senal-informativa",
+      "senal-horizontal",
+      "prohibicion",
+      "restriccion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "limitaciones, prohibiciones o restricciones",
+        "uso de la vía"
+      ],
+      "answerKeys": [
+        "reguladoras",
+        "reglamentación"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-076"
+    ]
   },
   {
     "id": "a1-076",
     "category": "a1",
     "number": 76,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Tienen el propósito de advertir a los usuarios sobre la existencia y naturaleza de un peligro en la vía.",
     "options": {
       "a": "Señales reguladoras o de reglamentación.",
@@ -1597,18 +2450,33 @@
     },
     "correct": "b",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "senal-preventiva",
+      "senal-reglamentaria",
+      "senal-informativa",
+      "senal-horizontal",
+      "advertir",
+      "peligro"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "advertir",
+        "peligro en la vía"
+      ],
+      "answerKeys": [
+        "preventivas"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-075"
+    ]
   },
   {
     "id": "a1-077",
     "category": "a1",
     "number": 77,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "Es una infracción de tránsito:",
     "options": {
       "a": "No detenerse totalmente en una señal de PARE.",
@@ -1618,18 +2486,30 @@
     },
     "correct": "d",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "infraccion",
+      "detener",
+      "pare",
+      "arrojar",
+      "via-publica",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "infracción de tránsito"
+      ],
       "answerKeys": []
     },
-    "answerType": "all"
+    "answerType": "all",
+    "twins": [
+      "a1-095"
+    ]
   },
   {
     "id": "a1-078",
     "category": "a1",
     "number": 78,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "¿Qué debería hacer el conductor al acercarse a una señal de “CEDA EL PASO” en una intersección?",
     "options": {
       "a": "Ceder el paso a los vehículos de emergencia.",
@@ -1639,10 +2519,24 @@
     },
     "correct": "c",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "ceder-el-paso",
+      "interseccion",
+      "disminuir",
+      "velocidad",
+      "via",
+      "transversal",
+      "vehiculo-de-emergencia"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "CEDA EL PASO",
+        "intersección"
+      ],
+      "answerKeys": [
+        "Disminuir la velocidad",
+        "vía transversal"
+      ]
     },
     "answerType": "text"
   },
@@ -1650,7 +2544,7 @@
     "id": "a1-079",
     "category": "a1",
     "number": 79,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "No se debe conducir un vehículo:",
     "options": {
       "a": "Si no se cuenta con el SOAT.",
@@ -1660,9 +2554,17 @@
     },
     "correct": "d",
     "sourcePage": 7,
-    "terms": [],
+    "terms": [
+      "conducir",
+      "soat",
+      "retroceder",
+      "licencia-de-conducir",
+      "norma"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "No se debe conducir"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -1671,7 +2573,7 @@
     "id": "a1-080",
     "category": "a1",
     "number": 80,
-    "topic": "otros",
+    "topic": "peatones",
     "text": "¿Qué debe hacer si se aproxima a una intersección sin semáforo y sin presencia de la Policía de Tránsito, y observa que un peatón está cruzando por el paso peatonal?",
     "options": {
       "a": "Disminuir la velocidad y pasar con cuidado.",
@@ -1681,10 +2583,25 @@
     },
     "correct": "b",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "semaforo",
+      "policia",
+      "peaton",
+      "cruce-peatonal",
+      "ceder-el-paso",
+      "preferencia-de-paso"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "sin semáforo",
+        "peatón está cruzando",
+        "paso peatonal"
+      ],
+      "answerKeys": [
+        "Detener el vehículo",
+        "ceder el paso"
+      ]
     },
     "answerType": "text"
   },
@@ -1692,7 +2609,7 @@
     "id": "a1-081",
     "category": "a1",
     "number": 81,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Sobre el uso del cinturón de seguridad en los vehículos que se encuentran en circulación, es correcto afirmar que:",
     "options": {
       "a": "El uso del cinturón de seguridad es obligatorio para las personas que ocupen los asientos delanteros.",
@@ -1702,9 +2619,16 @@
     },
     "correct": "d",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "cinturon-de-seguridad",
+      "asiento",
+      "conductor"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "cinturón de seguridad",
+        "en circulación"
+      ],
       "answerKeys": []
     },
     "answerType": "all"
@@ -1713,7 +2637,7 @@
     "id": "a1-082",
     "category": "a1",
     "number": 82,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si en una vía de dos carriles con tránsito en un mismo sentido usted se desplaza lentamente en su vehículo, debe circular por el carril de la _________ y los vehículos que circulen a mayor velocidad deben hacerlo por el carril de la ___________",
     "options": {
       "a": "Izquierda / Derecha.",
@@ -1723,10 +2647,21 @@
     },
     "correct": "c",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "carril",
+      "sentido",
+      "velocidad",
+      "circular"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "dos carriles",
+        "lentamente",
+        "mayor velocidad"
+      ],
+      "answerKeys": [
+        "Derecha / Izquierda"
+      ]
     },
     "answerType": "text"
   },
@@ -1734,7 +2669,7 @@
     "id": "a1-083",
     "category": "a1",
     "number": 83,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Sobre el uso de la bocina del vehículo, es correcto afirmar que:",
     "options": {
       "a": "El conductor debe tratar de no utilizar la bocina para llamar la atención en forma innecesaria.",
@@ -1744,10 +2679,18 @@
     },
     "correct": "c",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "bocina",
+      "infraccion",
+      "peligro"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "bocina"
+      ],
+      "answerKeys": [
+        "situaciones peligrosas"
+      ]
     },
     "answerType": "text"
   },
@@ -1755,7 +2698,7 @@
     "id": "a1-084",
     "category": "a1",
     "number": 84,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Una línea blanca continua en el sentido longitudinal de una vía, que se coloca en el pavimento, le indica al conductor:",
     "options": {
       "a": "Que se puede adelantar, debido a que la línea no es amarilla continua.",
@@ -1765,10 +2708,23 @@
     },
     "correct": "c",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "blanco",
+      "linea-continua",
+      "pavimento",
+      "adelantar",
+      "cruzar",
+      "zona",
+      "peaton"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "línea blanca continua",
+        "longitudinal"
+      ],
+      "answerKeys": [
+        "algunas excepciones"
+      ]
     },
     "answerType": "text"
   },
@@ -1776,7 +2732,7 @@
     "id": "a1-085",
     "category": "a1",
     "number": 85,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿Cuál es el número máximo de personas que puede transportar un vehículo particular?",
     "options": {
       "a": "Es igual al número de asientos señalados en la tarjeta de identificación vehicular, con la excepción de niños en brazos en los asientos posteriores.",
@@ -1786,10 +2742,24 @@
     },
     "correct": "a",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "asiento",
+      "tarjeta-de-identificacion-vehicular",
+      "vehiculo-particular",
+      "nino",
+      "brazo",
+      "restriccion",
+      "visibilidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "número máximo de personas",
+        "vehículo particular"
+      ],
+      "answerKeys": [
+        "identificación vehicular",
+        "niños en brazos"
+      ]
     },
     "answerType": "text"
   },
@@ -1797,7 +2767,7 @@
     "id": "a1-086",
     "category": "a1",
     "number": 86,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "La acción correcta al abastecer de combustible su vehículo, es:",
     "options": {
       "a": "Asegurarse de que todos los pasajeros permanezcan a bordo del vehículo.",
@@ -1807,10 +2777,20 @@
     },
     "correct": "b",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "combustible",
+      "pasajeros",
+      "fumar",
+      "motor",
+      "acompanante"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "abastecer de combustible"
+      ],
+      "answerKeys": [
+        "Abstenerse de fumar"
+      ]
     },
     "answerType": "text"
   },
@@ -1818,7 +2798,7 @@
     "id": "a1-087",
     "category": "a1",
     "number": 87,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Mientras usted está conduciendo su vehículo automotor, ¿puede llevar sujeto a su auto al conductor de una bicicleta mientras éste la conduce?",
     "options": {
       "a": "Sí, siempre y cuando el conductor de la bicicleta se sujete a la parte posterior del auto, pero nunca a la parte lateral de éste.",
@@ -1828,10 +2808,23 @@
     },
     "correct": "d",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "vehiculo-automotor",
+      "bicicleta",
+      "sujetar",
+      "multa",
+      "sancionar",
+      "velocidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "bicicleta",
+        "sujeto a su auto"
+      ],
+      "answerKeys": [
+        "prohibida",
+        "multa"
+      ]
     },
     "answerType": "text"
   },
@@ -1839,7 +2832,7 @@
     "id": "a1-088",
     "category": "a1",
     "number": 88,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "Si usted desea realizar una competencia de carreras entre su vehículo y otro vehículo motorizado; para ello puede utilizar:",
     "options": {
       "a": "Las vías aledañas del parque del distrito en el cual reside, en el horario de 11:00 pm. a 5:00 am.",
@@ -1849,10 +2842,18 @@
     },
     "correct": "b",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "competencia",
+      "acelerar",
+      "autoridad-competente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "competencia de carreras"
+      ],
+      "answerKeys": [
+        "autódromo"
+      ]
     },
     "answerType": "text"
   },
@@ -1860,7 +2861,7 @@
     "id": "a1-089",
     "category": "a1",
     "number": 89,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "Señale cuáles de las siguientes conductas constituye una infracción al tránsito:",
     "options": {
       "a": "Tener la puerta, capot o maletera del vehículo abierta, cuando el vehículo está en marcha.",
@@ -1870,18 +2871,32 @@
     },
     "correct": "d",
     "sourcePage": 8,
-    "terms": [],
+    "terms": [
+      "infraccion",
+      "capot",
+      "maletera",
+      "carril",
+      "congestion",
+      "punto-neutro",
+      "motor"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "conductas",
+        "infracción al tránsito"
+      ],
       "answerKeys": []
     },
-    "answerType": "all"
+    "answerType": "all",
+    "twins": [
+      "a1-095"
+    ]
   },
   {
     "id": "a1-090",
     "category": "a1",
     "number": 90,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "La marcas en el pavimento constituyen un elemento indispensable para la operación vehicular, pues su función es:",
     "options": {
       "a": "Reemplazar a la señalización vertical cuando ésta no se encuentra en la vía, por tal motivo son colocadas donde no existe señales verticales.",
@@ -1891,10 +2906,21 @@
     },
     "correct": "c",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "marcas-en-el-pavimento",
+      "senal-vertical",
+      "advertir",
+      "usuarios-de-la-via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "marcas en el pavimento",
+        "elemento indispensable"
+      ],
+      "answerKeys": [
+        "Reglamentar",
+        "advertir"
+      ]
     },
     "answerType": "text"
   },
@@ -1902,7 +2928,7 @@
     "id": "a1-091",
     "category": "a1",
     "number": 91,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Las marcas en el pavimento de color __________ complementan las señales informativas, como por ejemplo las zonas de estacionamiento para personas con movilidad reducida.",
     "options": {
       "a": "Blanco.",
@@ -1912,10 +2938,21 @@
     },
     "correct": "b",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "marcas-en-el-pavimento",
+      "senal-informativa",
+      "estacionar",
+      "movilidad-reducida"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "de color",
+        "señales informativas",
+        "movilidad reducida"
+      ],
+      "answerKeys": [
+        "Azul"
+      ]
     },
     "answerType": "text"
   },
@@ -1923,7 +2960,7 @@
     "id": "a1-092",
     "category": "a1",
     "number": 92,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "La línea central de color amarillo en el pavimento es continua cuando:",
     "options": {
       "a": "No está permitido cruzar al otro carril.",
@@ -1933,9 +2970,20 @@
     },
     "correct": "a",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "linea-central",
+      "amarillo",
+      "linea-continua",
+      "carril",
+      "adelantar",
+      "sentido"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "línea central",
+        "amarillo",
+        "continua"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -1944,7 +2992,7 @@
     "id": "a1-093",
     "category": "a1",
     "number": 93,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Si un conductor que circula por el carril derecho de una vía se encuentra con las flechas inclinadas que se muestran en la figura, su conducta correcta es:",
     "options": {
       "a": "Continuar la circulación por el carril en que se encuentra.",
@@ -1955,10 +3003,22 @@
     "correct": "d",
     "image": "/images/a1/093.webp",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "carril",
+      "flecha",
+      "adelantar",
+      "cambiar-de-carril",
+      "precaucion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "carril derecho",
+        "flechas inclinadas"
+      ],
+      "answerKeys": [
+        "Cambiarse",
+        "precaución"
+      ]
     },
     "answerType": "text"
   },
@@ -1966,7 +3026,7 @@
     "id": "a1-094",
     "category": "a1",
     "number": 94,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si durante la conducción vehicular, un efectivo de la Policía de Tránsito le solicita al conductor someterse a una prueba de alcoholemia; la acción correcta del conductor es:",
     "options": {
       "a": "Someterse a la prueba de alcoholemia, ya que está obligado a ello ante la solicitud del efectivo de la Policía de Tránsito.",
@@ -1976,10 +3036,22 @@
     },
     "correct": "a",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "policia",
+      "alcoholemia",
+      "someterse",
+      "negarse",
+      "obligacion",
+      "accidente-de-transito"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "prueba de alcoholemia",
+        "Policía de Tránsito"
+      ],
+      "answerKeys": [
+        "está obligado"
+      ]
     },
     "answerType": "text"
   },
@@ -1987,7 +3059,7 @@
     "id": "a1-095",
     "category": "a1",
     "number": 95,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿Cuál de las siguientes conductas no es una infracción de tránsito?",
     "options": {
       "a": "Llevar las placas de rodaje en el lugar que no corresponde.",
@@ -1997,18 +3069,34 @@
     },
     "correct": "d",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "infraccion",
+      "placa-de-rodaje",
+      "vehiculo-de-emergencia",
+      "pare",
+      "via",
+      "transversal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "no es una infracción"
+      ],
+      "answerKeys": [
+        "Detenerse totalmente",
+        "señal de PARE"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-089",
+      "a1-077"
+    ]
   },
   {
     "id": "a1-096",
     "category": "a1",
     "number": 96,
-    "topic": "otros",
+    "topic": "preferencia",
     "text": "Si un conductor sale de su propiedad y tiene que cruzar la acera e ingresar a una vía, la conducta correcta es:",
     "options": {
       "a": "Dar preferencia de paso solo a los vehículos que circulan por la vía, pero no a los peatones.",
@@ -2018,10 +3106,21 @@
     },
     "correct": "b",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "propietario",
+      "acera",
+      "preferencia-de-paso",
+      "peaton",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "sale de su propiedad",
+        "cruzar la acera"
+      ],
+      "answerKeys": [
+        "peatones que circulan por la acera"
+      ]
     },
     "answerType": "text"
   },
@@ -2029,7 +3128,7 @@
     "id": "a1-097",
     "category": "a1",
     "number": 97,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "¿Qué significa una línea continua blanca pintada entre el carril de la derecha y la berma de una carretera?",
     "options": {
       "a": "Un carril para motocicletas.",
@@ -2039,10 +3138,22 @@
     },
     "correct": "d",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "linea-continua",
+      "carril",
+      "berma",
+      "carretera",
+      "rebasar",
+      "emergencia"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "línea continua blanca",
+        "berma"
+      ],
+      "answerKeys": [
+        "situación de emergencia"
+      ]
     },
     "answerType": "text"
   },
@@ -2050,7 +3161,7 @@
     "id": "a1-098",
     "category": "a1",
     "number": 98,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si maneja de noche, hubiera neblina y tuviera luces rompenieblas, debe utilizar:",
     "options": {
       "a": "Las luces bajas junto con las rompenieblas.",
@@ -2060,10 +3171,21 @@
     },
     "correct": "a",
     "sourcePage": 9,
-    "terms": [],
+    "terms": [
+      "neblina",
+      "luces-rompenieblas",
+      "luces-bajas",
+      "luces-altas"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "neblina",
+        "rompenieblas"
+      ],
+      "answerKeys": [
+        "rompenieblas",
+        "junto con"
+      ]
     },
     "answerType": "text"
   },
@@ -2071,7 +3193,7 @@
     "id": "a1-099",
     "category": "a1",
     "number": 99,
-    "topic": "otros",
+    "topic": "adelantamiento",
     "text": "En el caso representado en el siguiente gráfico ¿el vehículo rojo puede rebasar al azul?",
     "options": {
       "a": "Puede hacerlo si no viene un vehículo en el sentido contrario.",
@@ -2082,9 +3204,17 @@
     "correct": "c",
     "image": "/images/a1/099.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "rebasar",
+      "sentido-contrario",
+      "maniobra",
+      "linea-continua"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "vehículo rojo",
+        "rebasar al azul"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -2093,7 +3223,7 @@
     "id": "a1-100",
     "category": "a1",
     "number": 100,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-17), significa:",
     "options": {
       "a": "Prohibido estacionar.",
@@ -2104,10 +3234,20 @@
     "correct": "b",
     "image": "/images/a1/100.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "estacionar",
+      "circular",
+      "vehiculo-automotor",
+      "vehiculo-particular"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-17"
+      ],
+      "answerKeys": [
+        "vehículos automotores"
+      ]
     },
     "answerType": "text"
   },
@@ -2115,7 +3255,7 @@
     "id": "a1-101",
     "category": "a1",
     "number": 101,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Si usted se encuentra conduciendo su vehículo por una vía y antes de cruzar la intersección se encuentra con la señal R-4, esta le indica:",
     "options": {
       "a": "Que la calle está clausurada.",
@@ -2126,10 +3266,21 @@
     "correct": "b",
     "image": "/images/a1/101.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "interseccion",
+      "via",
+      "sentido-contrario"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-4",
+        "antes de cruzar",
+        "intersección"
+      ],
+      "answerKeys": [
+        "sentido contrario"
+      ]
     },
     "answerType": "text"
   },
@@ -2137,7 +3288,7 @@
     "id": "a1-102",
     "category": "a1",
     "number": 102,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-36), significa:",
     "options": {
       "a": "Proximidad de un túnel.",
@@ -2148,10 +3299,20 @@
     "correct": "b",
     "image": "/images/a1/102.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "deslizante",
+      "tunel",
+      "luces-bajas"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-36",
+        "significa"
+      ],
+      "answerKeys": [
+        "deslizante"
+      ]
     },
     "answerType": "text"
   },
@@ -2159,7 +3320,7 @@
     "id": "a1-103",
     "category": "a1",
     "number": 103,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-14), significa:",
     "options": {
       "a": "Circular por el carril de la derecha.",
@@ -2170,10 +3331,21 @@
     "correct": "c",
     "image": "/images/a1/103.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "circular",
+      "carril",
+      "sentido",
+      "flecha"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-14",
+        "significa"
+      ],
+      "answerKeys": [
+        "flecha"
+      ]
     },
     "answerType": "text"
   },
@@ -2181,7 +3353,7 @@
     "id": "a1-104",
     "category": "a1",
     "number": 104,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Si usted circula por una vía y se encuentra con la señal (R-11a) , ésta le indica:",
     "options": {
       "a": "Que es una vía de tres carriles de un solo sentido.",
@@ -2192,10 +3364,20 @@
     "correct": "c",
     "image": "/images/a1/104.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "via",
+      "carril",
+      "sentido"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-11a",
+        "circula por una vía"
+      ],
+      "answerKeys": [
+        "dos de la derecha"
+      ]
     },
     "answerType": "text"
   },
@@ -2203,7 +3385,7 @@
     "id": "a1-105",
     "category": "a1",
     "number": 105,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-30c) , significa:",
     "options": {
       "a": "Que la velocidad máxima de la vía es de 50 km/h.",
@@ -2214,10 +3396,19 @@
     "correct": "c",
     "image": "/images/a1/105.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "velocidad",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-30c",
+        "significa"
+      ],
+      "answerKeys": [
+        "máxima es 50"
+      ]
     },
     "answerType": "text"
   },
@@ -2225,7 +3416,7 @@
     "id": "a1-106",
     "category": "a1",
     "number": 106,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-5-4), significa:",
     "options": {
       "a": "Que la vía no continúa y los conductores deben girar a la izquierda.",
@@ -2236,10 +3427,21 @@
     "correct": "b",
     "image": "/images/a1/106.webp",
     "sourcePage": 10,
-    "terms": [],
+    "terms": [
+      "senal",
+      "interseccion",
+      "girar",
+      "sentido",
+      "mantener"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-5-4",
+        "significa"
+      ],
+      "answerKeys": [
+        "ambos sentidos"
+      ]
     },
     "answerType": "text"
   },
@@ -2247,7 +3449,7 @@
     "id": "a1-107",
     "category": "a1",
     "number": 107,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-9), significa:",
     "options": {
       "a": "Que no está permitido girar en U.",
@@ -2258,9 +3460,16 @@
     "correct": "b",
     "image": "/images/a1/107.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "giro-en-u",
+      "girar"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "R-9",
+        "significa"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -2269,7 +3478,7 @@
     "id": "a1-108",
     "category": "a1",
     "number": 108,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-5-2), significa:",
     "options": {
       "a": "Que la vía solo permite girar a la izquierda.",
@@ -2280,10 +3489,21 @@
     "correct": "c",
     "image": "/images/a1/108.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "carril",
+      "girar",
+      "bifurcacion",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-5-2",
+        "significa"
+      ],
+      "answerKeys": [
+        "seguir de frente"
+      ]
     },
     "answerType": "text"
   },
@@ -2291,7 +3511,7 @@
     "id": "a1-109",
     "category": "a1",
     "number": 109,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-20), significa:",
     "options": {
       "a": "Que el peatón antes de cruzar debe mirar si se acercan autos por la derecha.",
@@ -2302,10 +3522,21 @@
     "correct": "c",
     "image": "/images/a1/109.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "peaton",
+      "circular",
+      "cruzar",
+      "conductor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-20",
+        "significa"
+      ],
+      "answerKeys": [
+        "izquierda"
+      ]
     },
     "answerType": "text"
   },
@@ -2313,7 +3544,7 @@
     "id": "a1-110",
     "category": "a1",
     "number": 110,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-40), significa:",
     "options": {
       "a": "Crucero tipo cebra.",
@@ -2324,10 +3555,21 @@
     "correct": "d",
     "image": "/images/a1/110.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "luces-bajas",
+      "control-policial",
+      "pavimento",
+      "deslizante"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-40",
+        "significa"
+      ],
+      "answerKeys": [
+        "luces bajas"
+      ]
     },
     "answerType": "text"
   },
@@ -2335,7 +3577,7 @@
     "id": "a1-111",
     "category": "a1",
     "number": 111,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-48), significa:",
     "options": {
       "a": "Los peatones deben circular por la derecha y los camiones por la izquierda",
@@ -2346,10 +3588,21 @@
     "correct": "c",
     "image": "/images/a1/111.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "peaton",
+      "camion",
+      "carga",
+      "zona"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-48",
+        "significa"
+      ],
+      "answerKeys": [
+        "carga y descarga"
+      ]
     },
     "answerType": "text"
   },
@@ -2357,7 +3610,7 @@
     "id": "a1-112",
     "category": "a1",
     "number": 112,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-49), significa:",
     "options": {
       "a": "Está permitido cambiar de carril por la izquierda y por la derecha.",
@@ -2368,10 +3621,21 @@
     "correct": "b",
     "image": "/images/a1/112.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "distancia-de-seguridad",
+      "cambiar-de-carril",
+      "adelantar",
+      "vehiculo"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-49",
+        "significa"
+      ],
+      "answerKeys": [
+        "distancia de seguridad"
+      ]
     },
     "answerType": "text"
   },
@@ -2379,7 +3643,7 @@
     "id": "a1-113",
     "category": "a1",
     "number": 113,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-50), significa:",
     "options": {
       "a": "Que si solo hay un carril tiene preferencia de paso el conductor que llegó primero.",
@@ -2390,10 +3654,22 @@
     "correct": "c",
     "image": "/images/a1/113.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "carril",
+      "preferencia-de-paso",
+      "sentido-contrario",
+      "conductor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-50",
+        "significa"
+      ],
+      "answerKeys": [
+        "sentido contrario",
+        "darle paso"
+      ]
     },
     "answerType": "text"
   },
@@ -2401,7 +3677,7 @@
     "id": "a1-114",
     "category": "a1",
     "number": 114,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La señal (R-5-1), es:",
     "options": {
       "a": "Una señal informativa.",
@@ -2412,18 +3688,31 @@
     "correct": "c",
     "image": "/images/a1/114.webp",
     "sourcePage": 11,
-    "terms": [],
+    "terms": [
+      "senal",
+      "senal-informativa",
+      "senal-preventiva",
+      "senal-reglamentaria"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-5-1",
+        "es:"
+      ],
+      "answerKeys": [
+        "obligación"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-119"
+    ]
   },
   {
     "id": "a1-115",
     "category": "a1",
     "number": 115,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La señal (P-3a) , le indica al conductor que:",
     "options": {
       "a": "Hay una curva y contra-curva a la izquierda.",
@@ -2434,10 +3723,19 @@
     "correct": "c",
     "image": "/images/a1/115.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "curva",
+      "conductor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-3a",
+        "le indica al conductor"
+      ],
+      "answerKeys": [
+        "pronunciada a la derecha"
+      ]
     },
     "answerType": "text"
   },
@@ -2445,7 +3743,7 @@
     "id": "a1-116",
     "category": "a1",
     "number": 116,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-5-1a) , le advierte al conductor que:",
     "options": {
       "a": "Se aproxima a una curva y contra-curva a la izquierda.",
@@ -2456,18 +3754,32 @@
     "correct": "d",
     "image": "/images/a1/116.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "curva",
+      "sinuoso",
+      "aproximarse"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-5-1a",
+        "le advierte"
+      ],
+      "answerKeys": [
+        "sinuoso a la izquierda"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-117",
+      "a1-118"
+    ]
   },
   {
     "id": "a1-117",
     "category": "a1",
     "number": 117,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-61), le advierte al conductor que:",
     "options": {
       "a": "El sentido del tránsito es el que indica la flecha.",
@@ -2478,18 +3790,35 @@
     "correct": "c",
     "image": "/images/a1/117.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "curva",
+      "reducir",
+      "via",
+      "flecha",
+      "sentido",
+      "transito"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-61",
+        "le advierte"
+      ],
+      "answerKeys": [
+        "curva horizontal"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-116",
+      "a1-118"
+    ]
   },
   {
     "id": "a1-118",
     "category": "a1",
     "number": 118,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-34), le advierte al conductor que:",
     "options": {
       "a": "La vía está en mal estado y tiene baches.",
@@ -2500,18 +3829,33 @@
     "correct": "d",
     "image": "/images/a1/118.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "baden",
+      "resalto",
+      "bache",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-34",
+        "le advierte"
+      ],
+      "answerKeys": [
+        "badén"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-116",
+      "a1-117"
+    ]
   },
   {
     "id": "a1-119",
     "category": "a1",
     "number": 119,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-60), es:",
     "options": {
       "a": "Una señal turística.",
@@ -2522,18 +3866,31 @@
     "correct": "c",
     "image": "/images/a1/119.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "senal-preventiva",
+      "senal-informativa",
+      "adelantar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-60",
+        "es:"
+      ],
+      "answerKeys": [
+        "preventiva"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-114"
+    ]
   },
   {
     "id": "a1-120",
     "category": "a1",
     "number": 120,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-46), indica:",
     "options": {
       "a": "Existencia de una ciclovía.",
@@ -2544,10 +3901,21 @@
     "correct": "c",
     "image": "/images/a1/120.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "ciclista",
+      "ciclovia",
+      "cruce",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-46",
+        "indica"
+      ],
+      "answerKeys": [
+        "ciclistas en la vía"
+      ]
     },
     "answerType": "text"
   },
@@ -2555,7 +3923,7 @@
     "id": "a1-121",
     "category": "a1",
     "number": 121,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-46-a) , indica:",
     "options": {
       "a": "Que los ciclistas deben usar la ciclovía.",
@@ -2566,18 +3934,33 @@
     "correct": "b",
     "image": "/images/a1/121.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "ciclista",
+      "ciclovia",
+      "cruce",
+      "aproximarse"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-46-a",
+        "indica"
+      ],
+      "answerKeys": [
+        "cruce de ciclovía",
+        "nos aproximamos"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-122"
+    ]
   },
   {
     "id": "a1-122",
     "category": "a1",
     "number": 122,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-46b) , indica:",
     "options": {
       "a": "Que los ciclistas deben detenerse en ese punto.",
@@ -2588,18 +3971,34 @@
     "correct": "d",
     "image": "/images/a1/122.webp",
     "sourcePage": 12,
-    "terms": [],
+    "terms": [
+      "senal",
+      "ciclista",
+      "ciclovia",
+      "cruce",
+      "ubicacion",
+      "detener"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-46b",
+        "indica"
+      ],
+      "answerKeys": [
+        "ubicación",
+        "cruce de ciclistas"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-121"
+    ]
   },
   {
     "id": "a1-123",
     "category": "a1",
     "number": 123,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-48), indica:",
     "options": {
       "a": "Vía es de uso exclusivo de los peatones.",
@@ -2610,10 +4009,20 @@
     "correct": "b",
     "image": "/images/a1/123.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "peaton",
+      "cruce-escolar",
+      "zona"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-48",
+        "indica"
+      ],
+      "answerKeys": [
+        "presencia de peatones"
+      ]
     },
     "answerType": "text"
   },
@@ -2621,7 +4030,7 @@
     "id": "a1-124",
     "category": "a1",
     "number": 124,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-48a) , indica:",
     "options": {
       "a": "Vía es de uso exclusivo de peatones.",
@@ -2632,10 +4041,22 @@
     "correct": "b",
     "image": "/images/a1/124.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "peaton",
+      "cruce-peatonal",
+      "cruce-escolar",
+      "proximidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-48a",
+        "indica"
+      ],
+      "answerKeys": [
+        "proximidad",
+        "cruce peatonal"
+      ]
     },
     "answerType": "text"
   },
@@ -2643,7 +4064,7 @@
     "id": "a1-125",
     "category": "a1",
     "number": 125,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-48-b) , indica:",
     "options": {
       "a": "Ubicación de un cruce escolar.",
@@ -2654,10 +4075,21 @@
     "correct": "c",
     "image": "/images/a1/125.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "cruce-peatonal",
+      "cruce-escolar",
+      "calzada",
+      "ubicacion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-48-b",
+        "indica"
+      ],
+      "answerKeys": [
+        "cruce peatonal"
+      ]
     },
     "answerType": "text"
   },
@@ -2665,7 +4097,7 @@
     "id": "a1-126",
     "category": "a1",
     "number": 126,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-49), indica:",
     "options": {
       "a": "Zona escolar.",
@@ -2676,18 +4108,31 @@
     "correct": "a",
     "image": "/images/a1/126.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "zona-escolar",
+      "cruce-peatonal",
+      "proximidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-49",
+        "señal"
+      ],
+      "answerKeys": [
+        "escolar"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-128"
+    ]
   },
   {
     "id": "a1-127",
     "category": "a1",
     "number": 127,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-49a) , indica:",
     "options": {
       "a": "Zona escolar.",
@@ -2698,10 +4143,21 @@
     "correct": "b",
     "image": "/images/a1/127.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "cruce-escolar",
+      "proximidad",
+      "ubicacion",
+      "zona-escolar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-49a",
+        "señal"
+      ],
+      "answerKeys": [
+        "Proximidad"
+      ]
     },
     "answerType": "text"
   },
@@ -2709,7 +4165,7 @@
     "id": "a1-128",
     "category": "a1",
     "number": 128,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-49b) , indica:",
     "options": {
       "a": "Zona transitada.",
@@ -2720,18 +4176,31 @@
     "correct": "c",
     "image": "/images/a1/128.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "cruce-escolar",
+      "ubicacion",
+      "cruce-peatonal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-49b",
+        "señal"
+      ],
+      "answerKeys": [
+        "Ubicación"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-126"
+    ]
   },
   {
     "id": "a1-129",
     "category": "a1",
     "number": 129,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-50), indica:",
     "options": {
       "a": "Zona de deportes.",
@@ -2742,10 +4211,19 @@
     "correct": "d",
     "image": "/images/a1/129.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "nino",
+      "zona-urbana"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-50",
+        "señal"
+      ],
+      "answerKeys": [
+        "Niños jugando"
+      ]
     },
     "answerType": "text"
   },
@@ -2753,7 +4231,7 @@
     "id": "a1-130",
     "category": "a1",
     "number": 130,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-51), indica:",
     "options": {
       "a": "Zona de parqueo de vehículos pesados.",
@@ -2764,10 +4242,21 @@
     "correct": "c",
     "image": "/images/a1/130.webp",
     "sourcePage": 13,
-    "terms": [],
+    "terms": [
+      "senal",
+      "maquinaria-agricola",
+      "vehiculo-pesado",
+      "zona-rural",
+      "estacionar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-51",
+        "señal"
+      ],
+      "answerKeys": [
+        "Maquinaria agrícola"
+      ]
     },
     "answerType": "text"
   },
@@ -2775,7 +4264,7 @@
     "id": "a1-131",
     "category": "a1",
     "number": 131,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-53), indica:",
     "options": {
       "a": "Proximidad a un establo.",
@@ -2786,10 +4275,20 @@
     "correct": "c",
     "image": "/images/a1/131.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "animales",
+      "zona",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-53",
+        "señal"
+      ],
+      "answerKeys": [
+        "Animales"
+      ]
     },
     "answerType": "text"
   },
@@ -2797,7 +4296,7 @@
     "id": "a1-132",
     "category": "a1",
     "number": 132,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-55), indica:",
     "options": {
       "a": "Semáforo malogrado.",
@@ -2808,10 +4307,21 @@
     "correct": "b",
     "image": "/images/a1/132.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "semaforo",
+      "proximidad",
+      "malogrado",
+      "ola-verde"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-55",
+        "señal"
+      ],
+      "answerKeys": [
+        "Proximidad"
+      ]
     },
     "answerType": "text"
   },
@@ -2819,7 +4329,7 @@
     "id": "a1-133",
     "category": "a1",
     "number": 133,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-58), le indica:",
     "options": {
       "a": "Que usted se aproxima a una señal de PARE.",
@@ -2830,10 +4340,20 @@
     "correct": "a",
     "image": "/images/a1/133.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "pare",
+      "aproximarse",
+      "parar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-58",
+        "le indica"
+      ],
+      "answerKeys": [
+        "se aproxima"
+      ]
     },
     "answerType": "text"
   },
@@ -2841,7 +4361,7 @@
     "id": "a1-134",
     "category": "a1",
     "number": 134,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-59), le indica:",
     "options": {
       "a": "Que usted se aproxima a una señal de CEDA EL PASO.",
@@ -2852,10 +4372,21 @@
     "correct": "a",
     "image": "/images/a1/134.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "ceder-el-paso",
+      "aproximarse",
+      "pare"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-59",
+        "le indica"
+      ],
+      "answerKeys": [
+        "se aproxima",
+        "CEDA EL PASO"
+      ]
     },
     "answerType": "text"
   },
@@ -2863,7 +4394,7 @@
     "id": "a1-135",
     "category": "a1",
     "number": 135,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-41), le indica:",
     "options": {
       "a": "Que usted se aproxima a una zona de camiones.",
@@ -2874,10 +4405,21 @@
     "correct": "c",
     "image": "/images/a1/135.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "tunel",
+      "camion",
+      "luces",
+      "visibilidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-41",
+        "le indica"
+      ],
+      "answerKeys": [
+        "túnel"
+      ]
     },
     "answerType": "text"
   },
@@ -2885,7 +4427,7 @@
     "id": "a1-136",
     "category": "a1",
     "number": 136,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-45), indica:",
     "options": {
       "a": "Proximidad a un aeropuerto.",
@@ -2896,10 +4438,19 @@
     "correct": "c",
     "image": "/images/a1/136.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "vuelo-a-baja-altura",
+      "ruido"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-45",
+        "señal"
+      ],
+      "answerKeys": [
+        "baja altura"
+      ]
     },
     "answerType": "text"
   },
@@ -2907,7 +4458,7 @@
     "id": "a1-137",
     "category": "a1",
     "number": 137,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-52), le indica:",
     "options": {
       "a": "Que usted debe dar prioridad de paso a las ambulancias.",
@@ -2918,10 +4469,21 @@
     "correct": "c",
     "image": "/images/a1/137.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "bomberos",
+      "entrada",
+      "preferencia-de-paso",
+      "ambulancia"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-52",
+        "le indica"
+      ],
+      "answerKeys": [
+        "salida"
+      ]
     },
     "answerType": "text"
   },
@@ -2929,7 +4491,7 @@
     "id": "a1-138",
     "category": "a1",
     "number": 138,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-66), le indica:",
     "options": {
       "a": "Que se aproxima un desierto.",
@@ -2940,10 +4502,20 @@
     "correct": "b",
     "image": "/images/a1/138.webp",
     "sourcePage": 14,
-    "terms": [],
+    "terms": [
+      "senal",
+      "viento-lateral",
+      "rafaga",
+      "arenamiento"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-66",
+        "le indica"
+      ],
+      "answerKeys": [
+        "viento lateral"
+      ]
     },
     "answerType": "text"
   },
@@ -2951,7 +4523,7 @@
     "id": "a1-139",
     "category": "a1",
     "number": 139,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-66a) , le indica:",
     "options": {
       "a": "Que se aproxima una tormenta.",
@@ -2962,10 +4534,20 @@
     "correct": "c",
     "image": "/images/a1/139.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal",
+      "arenamiento",
+      "viento-lateral",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-66a",
+        "le indica"
+      ],
+      "answerKeys": [
+        "arenamiento"
+      ]
     },
     "answerType": "text"
   },
@@ -2973,7 +4555,7 @@
     "id": "a1-140",
     "category": "a1",
     "number": 140,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Si al conducir su vehículo se encuentra con la señal vertical que se muestra, usted debe entender que:",
     "options": {
       "a": "La vía está interrumpida y debe tomar el camino alternativo que muestra la señal.",
@@ -2984,18 +4566,32 @@
     "correct": "b",
     "image": "/images/a1/140.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "interseccion",
+      "girar",
+      "via"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "señal vertical",
+        "se muestra",
+        "debe entender"
+      ],
+      "answerKeys": [
+        "girar a la izquierda"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-141"
+    ]
   },
   {
     "id": "a1-141",
     "category": "a1",
     "number": 141,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Si al conducir su vehículo se encuentra con la señal vertical que se muestra, usted debe entender que:",
     "options": {
       "a": "Si quiere girar a la izquierda debe pasar la intersección y dar la vuelta a la manzana.",
@@ -3006,18 +4602,35 @@
     "correct": "a",
     "image": "/images/a1/141.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "girar",
+      "interseccion",
+      "manzana",
+      "cuadra",
+      "zona",
+      "estacionar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "señal vertical",
+        "se muestra",
+        "debe entender"
+      ],
+      "answerKeys": [
+        "vuelta a la manzana"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-140"
+    ]
   },
   {
     "id": "a1-142",
     "category": "a1",
     "number": 142,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (I-14), significa:",
     "options": {
       "a": "Señal de hostal.",
@@ -3028,10 +4641,18 @@
     "correct": "c",
     "image": "/images/a1/142.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal",
+      "hospedaje"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "I-14",
+        "significa"
+      ],
+      "answerKeys": [
+        "hospital"
+      ]
     },
     "answerType": "text"
   },
@@ -3039,7 +4660,7 @@
     "id": "a1-143",
     "category": "a1",
     "number": 143,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (I-31), significa:",
     "options": {
       "a": "Proximidad de una bahía de taxis.",
@@ -3050,10 +4671,20 @@
     "correct": "d",
     "image": "/images/a1/143.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal",
+      "estacionar",
+      "emergencia",
+      "taxi"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "I-31",
+        "significa"
+      ],
+      "answerKeys": [
+        "emergencias"
+      ]
     },
     "answerType": "text"
   },
@@ -3061,7 +4692,7 @@
     "id": "a1-144",
     "category": "a1",
     "number": 144,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (I-9), significa:",
     "options": {
       "a": "Zona de control policial.",
@@ -3072,10 +4703,20 @@
     "correct": "c",
     "image": "/images/a1/144.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal",
+      "zona-militar",
+      "control-policial",
+      "aduanas"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "I-9",
+        "significa"
+      ],
+      "answerKeys": [
+        "militar"
+      ]
     },
     "answerType": "text"
   },
@@ -3083,7 +4724,7 @@
     "id": "a1-145",
     "category": "a1",
     "number": 145,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (I-18), se utiliza para indicar:",
     "options": {
       "a": "Cercanía a una ferretería.",
@@ -3094,18 +4735,33 @@
     "correct": "b",
     "image": "/images/a1/145.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal",
+      "servicio-mecanico",
+      "grifo",
+      "proximidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "I-18",
+        "se utiliza para indicar"
+      ],
+      "answerKeys": [
+        "servicio mecánico"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-146",
+      "a1-147",
+      "a1-148"
+    ]
   },
   {
     "id": "a1-146",
     "category": "a1",
     "number": 146,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (I-19), se utiliza para indicar:",
     "options": {
       "a": "Cercanía a un servicio mecánico.",
@@ -3116,18 +4772,33 @@
     "correct": "c",
     "image": "/images/a1/146.webp",
     "sourcePage": 15,
-    "terms": [],
+    "terms": [
+      "senal",
+      "grifo",
+      "servicio-mecanico",
+      "proximidad"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "I-19",
+        "se utiliza para indicar"
+      ],
+      "answerKeys": [
+        "grifo"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-145",
+      "a1-147",
+      "a1-148"
+    ]
   },
   {
     "id": "a1-147",
     "category": "a1",
     "number": 147,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (I-20), se utiliza para indicar:",
     "options": {
       "a": "Cercanía a un servicio mecánico.",
@@ -3138,18 +4809,35 @@
     "correct": "d",
     "image": "/images/a1/147.webp",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "senal",
+      "llanteria",
+      "neumaticos",
+      "cadena",
+      "servicio-mecanico",
+      "grifo"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "I-20",
+        "se utiliza para indicar"
+      ],
+      "answerKeys": [
+        "llantería"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-145",
+      "a1-146",
+      "a1-148"
+    ]
   },
   {
     "id": "a1-148",
     "category": "a1",
     "number": 148,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (R-16a) , se utiliza para indicar:",
     "options": {
       "a": "Fin de la restricción de circulación de automotores.",
@@ -3160,18 +4848,34 @@
     "correct": "b",
     "image": "/images/a1/148.webp",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "senal",
+      "restriccion",
+      "adelantar",
+      "vehiculo-automotor",
+      "sentido"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "R-16a",
+        "se utiliza para indicar"
+      ],
+      "answerKeys": [
+        "adelantar"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-145",
+      "a1-146",
+      "a1-147"
+    ]
   },
   {
     "id": "a1-149",
     "category": "a1",
     "number": 149,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "El comportamiento del conductor como usuario de la vía, debe estar orientado a:",
     "options": {
       "a": "Valor por la vida.",
@@ -3181,9 +4885,18 @@
     },
     "correct": "d",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "conductor",
+      "usuarios-de-la-via",
+      "autoridad-competente",
+      "transito"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "comportamiento del conductor",
+        "usuario de la vía",
+        "orientado"
+      ],
       "answerKeys": []
     },
     "answerType": "all"
@@ -3192,7 +4905,7 @@
     "id": "a1-150",
     "category": "a1",
     "number": 150,
-    "topic": "otros",
+    "topic": "peatones",
     "text": "Son considerados usuarios vulnerables de la vía y por tanto merecen especial protección:",
     "options": {
       "a": "Peatones, niños, adultos mayores, personas con movilidad reducida, ciclistas.",
@@ -3202,10 +4915,22 @@
     },
     "correct": "a",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "usuarios-de-la-via",
+      "peaton",
+      "nino",
+      "adultos-mayores",
+      "movilidad-reducida",
+      "ciclista"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "usuarios vulnerables",
+        "especial protección"
+      ],
+      "answerKeys": [
+        "movilidad reducida"
+      ]
     },
     "answerType": "text"
   },
@@ -3213,7 +4938,7 @@
     "id": "a1-151",
     "category": "a1",
     "number": 151,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-61), muestra:",
     "options": {
       "a": "Flechas retroreflectivas que indican peligro.",
@@ -3224,10 +4949,21 @@
     "correct": "b",
     "image": "/images/a1/151.webp",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "senal",
+      "delineadores",
+      "curva",
+      "flecha",
+      "puente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-61",
+        "señal"
+      ],
+      "answerKeys": [
+        "Delineadores de curva"
+      ]
     },
     "answerType": "text"
   },
@@ -3235,7 +4971,7 @@
     "id": "a1-152",
     "category": "a1",
     "number": 152,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "Si usted es titular de una licencia particular A-I, está autorizado a conducir el siguiente vehículo:",
     "options": {
       "a": "Camión, tipo volquete.",
@@ -3245,10 +4981,21 @@
     },
     "correct": "d",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "licencia-de-conducir",
+      "automovil",
+      "camion",
+      "omnibus",
+      "mototaxi"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "licencia particular A-I",
+        "autorizado a conducir"
+      ],
+      "answerKeys": [
+        "Automóvil"
+      ]
     },
     "answerType": "text"
   },
@@ -3256,7 +5003,7 @@
     "id": "a1-153",
     "category": "a1",
     "number": 153,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Mientras la persona conduce, le está permitido:",
     "options": {
       "a": "Compartir su asiento con un niño, siempre y cuando éste sea menor de un año de edad.",
@@ -3266,10 +5013,20 @@
     },
     "correct": "c",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "volante",
+      "asiento",
+      "velocidad",
+      "nino"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "Mientras la persona conduce",
+        "permitido"
+      ],
+      "answerKeys": [
+        "una mano sobre el volante"
+      ]
     },
     "answerType": "text"
   },
@@ -3277,7 +5034,7 @@
     "id": "a1-154",
     "category": "a1",
     "number": 154,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "El conductor está ________ a ___________ a las pruebas que le solicite el Efectivo de la Policía Nacional del Perú, asignado al control del tránsito, para determinar su estado de intoxicación por alcohol, drogas, estupefacientes u otros tóxicos",
     "options": {
       "a": "En su derecho - negarse.",
@@ -3287,10 +5044,25 @@
     },
     "correct": "c",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "prueba",
+      "intoxicacion",
+      "alcohol",
+      "droga",
+      "estupefaciente",
+      "policia",
+      "someterse"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "pruebas",
+        "Policía Nacional del Perú",
+        "intoxicación por alcohol"
+      ],
+      "answerKeys": [
+        "Obligado",
+        "someterse"
+      ]
     },
     "answerType": "text"
   },
@@ -3298,7 +5070,7 @@
     "id": "a1-155",
     "category": "a1",
     "number": 155,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "Ante un conductor con evidente discapacidad física, la cual no figura en el rubro de restricciones de su licencia de conducir, procede:",
     "options": {
       "a": "Que la Policía de Tránsito intervenga a dicho conductor y que la autoridad que expidió la licencia de conducir ordene su reexaminación.",
@@ -3308,10 +5080,22 @@
     },
     "correct": "a",
     "sourcePage": 16,
-    "terms": [],
+    "terms": [
+      "discapacidad",
+      "restriccion",
+      "licencia-de-conducir",
+      "intervenir"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "discapacidad física",
+        "restricciones",
+        "licencia de conducir"
+      ],
+      "answerKeys": [
+        "intervenga",
+        "reexaminación"
+      ]
     },
     "answerType": "text"
   },
@@ -3319,7 +5103,7 @@
     "id": "a1-156",
     "category": "a1",
     "number": 156,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "¿Una persona con discapacidad física puede obtener una licencia de conducir particular?",
     "options": {
       "a": "Sí, siempre y cuando dicha discapacidad pueda ser superada con algún corrector que establezca alguna de las restricciones que prevé la norma vigente.",
@@ -3329,10 +5113,21 @@
     },
     "correct": "a",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "discapacidad",
+      "restriccion",
+      "vehiculo-particular",
+      "norma",
+      "vigente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "discapacidad física",
+        "licencia de conducir particular"
+      ],
+      "answerKeys": [
+        "corrector"
+      ]
     },
     "answerType": "text"
   },
@@ -3340,7 +5135,7 @@
     "id": "a1-157",
     "category": "a1",
     "number": 157,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "¿Puede una persona menor de edad conducir un vehículo?",
     "options": {
       "a": "Nunca.",
@@ -3350,10 +5145,20 @@
     },
     "correct": "d",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "menor-de-edad",
+      "licencia-de-conducir",
+      "permiso-provisional"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "menor de edad",
+        "conducir un vehículo"
+      ],
+      "answerKeys": [
+        "mayor de 16 años",
+        "permiso provisional"
+      ]
     },
     "answerType": "text"
   },
@@ -3371,10 +5176,22 @@
     },
     "correct": "b",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "usuarios-de-la-via",
+      "dispositivos-de-control",
+      "policia",
+      "norma",
+      "peaton"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "obligación general de tránsito",
+        "circulen respetando"
+      ],
+      "answerKeys": [
+        "usuarios",
+        "dispositivos de control"
+      ]
     },
     "answerType": "text"
   },
@@ -3382,7 +5199,7 @@
     "id": "a1-159",
     "category": "a1",
     "number": 159,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Marque la afirmación incorrecta:",
     "options": {
       "a": "Está prohibido arrojar, depositar o abandonar objetos en la vía pública, o cualquier otro obstáculo que pueda dificultar la circulación.",
@@ -3392,10 +5209,24 @@
     },
     "correct": "c",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "luces",
+      "luces-bajas",
+      "via",
+      "combustible",
+      "calzada",
+      "acera",
+      "obstaculizar",
+      "via-publica"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "afirmación incorrecta"
+      ],
+      "answerKeys": [
+        "luces bajas",
+        "24 horas"
+      ]
     },
     "answerType": "text"
   },
@@ -3403,7 +5234,7 @@
     "id": "a1-160",
     "category": "a1",
     "number": 160,
-    "topic": "otros",
+    "topic": "velocidad",
     "text": "¿Si al conducir por una avenida se encuentra con una señal en la vía que indica un límite máximo de 50 km/h, sin embargo, conforme a lo dispuesto en la norma el límite máximo de velocidad en dicha vía es de 60 km/h; usted:",
     "options": {
       "a": "Debe obedecer la señal de velocidad instalada en la vía.",
@@ -3413,10 +5244,22 @@
     },
     "correct": "a",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "senal",
+      "limite-maximo",
+      "velocidad",
+      "avenida",
+      "norma"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "50 km/h",
+        "60 km/h",
+        "señal en la vía"
+      ],
+      "answerKeys": [
+        "obedecer la señal"
+      ]
     },
     "answerType": "text"
   },
@@ -3424,7 +5267,7 @@
     "id": "a1-161",
     "category": "a1",
     "number": 161,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Sobre la conducción en retroceso, marque la opción correcta:",
     "options": {
       "a": "Está prohibida, salvo en casos estrictamente justificados.",
@@ -3434,10 +5277,18 @@
     },
     "correct": "a",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "conducir",
+      "retroceder",
+      "carretera"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "conducción en retroceso"
+      ],
+      "answerKeys": [
+        "estrictamente justificados"
+      ]
     },
     "answerType": "text"
   },
@@ -3445,7 +5296,7 @@
     "id": "a1-162",
     "category": "a1",
     "number": 162,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "El uso de la luz ___________ es obligatorio en __________ , debiendo cambiar por luz ____________ momentos previos al cruce con otro vehículo que circule en sentido contrario.",
     "options": {
       "a": "Baja - carreteras - alta.",
@@ -3455,9 +5306,21 @@
     },
     "correct": "d",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "luces",
+      "luces-altas",
+      "luces-bajas",
+      "carretera",
+      "via",
+      "luces-rompenieblas",
+      "sentido-contrario"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "uso de la luz",
+        "obligatorio",
+        "sentido contrario"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -3466,7 +5329,7 @@
     "id": "a1-163",
     "category": "a1",
     "number": 163,
-    "topic": "otros",
+    "topic": "estacionamiento",
     "text": "Indique la conducta permitida:",
     "options": {
       "a": "El estacionamiento de un vehículo a la salida de salas de espectáculos en funcionamiento.",
@@ -3476,10 +5339,21 @@
     },
     "correct": "b",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "estacionar",
+      "vehiculo-de-emergencia",
+      "cruce-peatonal",
+      "acera",
+      "espectaculos"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "conducta permitida"
+      ],
+      "answerKeys": [
+        "vehículo de emergencia",
+        "imprescindible"
+      ]
     },
     "answerType": "text"
   },
@@ -3487,7 +5361,7 @@
     "id": "a1-164",
     "category": "a1",
     "number": 164,
-    "topic": "otros",
+    "topic": "estacionamiento",
     "text": "Se considera el abandono de un vehículo cuando:",
     "options": {
       "a": "El vehículo está estacionado en un lugar permitido en la vía pública, pero sin conductor por un tiempo mayor de 72 horas.",
@@ -3497,10 +5371,18 @@
     },
     "correct": "c",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "abandonar",
+      "estacionar",
+      "via-publica"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "abandono de un vehículo"
+      ],
+      "answerKeys": [
+        "48 horas"
+      ]
     },
     "answerType": "text"
   },
@@ -3508,7 +5390,7 @@
     "id": "a1-165",
     "category": "a1",
     "number": 165,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Al transportar carga en su vehículo, usted debe:",
     "options": {
       "a": "Asegurarse, en caso la carga sobresalga lateralmente de la carrocería, esté bien sujeta.",
@@ -3518,10 +5400,20 @@
     },
     "correct": "d",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "carga",
+      "carroceria",
+      "sobresalir",
+      "sobrepasar",
+      "sujetar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "transportar carga"
+      ],
+      "answerKeys": [
+        "no sobrepase las dimensiones"
+      ]
     },
     "answerType": "text"
   },
@@ -3539,10 +5431,20 @@
     },
     "correct": "b",
     "sourcePage": 17,
-    "terms": [],
+    "terms": [
+      "contaminantes",
+      "limite-maximo",
+      "norma",
+      "zona-urbana"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "emisión vehicular",
+        "sustancias contaminantes"
+      ],
+      "answerKeys": [
+        "límite máximo"
+      ]
     },
     "answerType": "text"
   },
@@ -3560,9 +5462,19 @@
     },
     "correct": "a",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "autoridad-competente",
+      "prohibir",
+      "restriccion",
+      "circular",
+      "estacionar",
+      "via-publica"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "autoridad competente",
+        "prohibir o restringir"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -3571,7 +5483,7 @@
     "id": "a1-168",
     "category": "a1",
     "number": 168,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si al conducir en una carretera de noche se aproxima un vehículo en sentido contrario; usted debe:",
     "options": {
       "a": "Cambiar de luces bajas a luces altas",
@@ -3581,10 +5493,22 @@
     },
     "correct": "c",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "luces",
+      "luces-altas",
+      "luces-bajas",
+      "carretera",
+      "sentido-contrario",
+      "luces-intermitentes-de-emergencia"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "carretera de noche",
+        "sentido contrario"
+      ],
+      "answerKeys": [
+        "altas a luces bajas"
+      ]
     },
     "answerType": "text"
   },
@@ -3592,7 +5516,7 @@
     "id": "a1-169",
     "category": "a1",
     "number": 169,
-    "topic": "otros",
+    "topic": "estacionamiento",
     "text": "La detención de un vehículo debe efectuarse:",
     "options": {
       "a": "En el sentido contrario a la circulación y en el carril izquierdo de la vía.",
@@ -3602,9 +5526,19 @@
     },
     "correct": "d",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "detener",
+      "carril",
+      "luces-intermitentes-de-emergencia",
+      "sentido",
+      "circular",
+      "luces",
+      "luces-altas"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "detención de un vehículo"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -3623,10 +5557,21 @@
     },
     "correct": "c",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "accidente-de-transito",
+      "danos",
+      "autoridad-competente",
+      "policia-nacional-del-peru",
+      "abandonar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "accidente de tránsito",
+        "participantes"
+      ],
+      "answerKeys": [
+        "autoridad policial"
+      ]
     },
     "answerType": "text"
   },
@@ -3634,7 +5579,7 @@
     "id": "a1-171",
     "category": "a1",
     "number": 171,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "El conductor antes de iniciar la conducción de un vehículo no está obligado a:",
     "options": {
       "a": "Portar la tarjeta de identificación vehicular del vehículo que conduce.",
@@ -3644,9 +5589,18 @@
     },
     "correct": "d",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "tarjeta-de-identificacion-vehicular",
+      "placa-de-rodaje",
+      "soat",
+      "portar",
+      "exhibir"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "antes de iniciar la conducción",
+        "no está obligado"
+      ],
       "answerKeys": []
     },
     "answerType": "none"
@@ -3655,7 +5609,7 @@
     "id": "a1-172",
     "category": "a1",
     "number": 172,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "La faculta y autoriza la circulación del vehículo por la vía pública, identifica el bien, y, por ende, al titular responsable de las acciones que deriven de su propiedad.",
     "options": {
       "a": "Tarjeta de identificación vehicular.",
@@ -3665,10 +5619,21 @@
     },
     "correct": "d",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "placa-de-rodaje",
+      "tarjeta-de-identificacion-vehicular",
+      "titular",
+      "circular",
+      "via-publica"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "faculta y autoriza",
+        "identifica el bien"
+      ],
+      "answerKeys": [
+        "Placa"
+      ]
     },
     "answerType": "text"
   },
@@ -3676,7 +5641,7 @@
     "id": "a1-173",
     "category": "a1",
     "number": 173,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "A fin de determinar la presencia de alcohol o sustancias estupefacientes en el conductor, el efectivo de la Policía de Tránsito puede exigirle al momento de la intervención:",
     "options": {
       "a": "Que realice pruebas de coordinación y equilibrio.",
@@ -3686,9 +5651,19 @@
     },
     "correct": "d",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "alcoholimetro",
+      "alcoholemia",
+      "prueba",
+      "estupefaciente",
+      "intervenir"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "presencia de alcohol",
+        "Policía de Tránsito",
+        "intervención"
+      ],
       "answerKeys": []
     },
     "answerType": "all"
@@ -3697,7 +5672,7 @@
     "id": "a1-174",
     "category": "a1",
     "number": 174,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿El Reglamento Nacional de Tránsito considera la reincidencia en las infracciones de tránsito?",
     "options": {
       "a": "No, el conductor puede cometer la misma infracción varias veces y la sanción será la misma.",
@@ -3707,10 +5682,23 @@
     },
     "correct": "b",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "reincidencia",
+      "infraccion",
+      "multa",
+      "sancion",
+      "norma",
+      "transito"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "reincidencia",
+        "infracciones de tránsito"
+      ],
+      "answerKeys": [
+        "12 meses",
+        "doble de la multa"
+      ]
     },
     "answerType": "text"
   },
@@ -3718,7 +5706,7 @@
     "id": "a1-175",
     "category": "a1",
     "number": 175,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿Después de qué tiempo de haber cometido la misma infracción se llama reincidencia y es sancionada con el doble de la multa establecida?",
     "options": {
       "a": "06 meses.",
@@ -3728,10 +5716,19 @@
     },
     "correct": "b",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "reincidencia",
+      "infraccion",
+      "multa"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "reincidencia",
+        "doble de la multa"
+      ],
+      "answerKeys": [
+        "12 meses"
+      ]
     },
     "answerType": "text"
   },
@@ -3739,7 +5736,7 @@
     "id": "a1-176",
     "category": "a1",
     "number": 176,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "Si a un conductor infractor le suspendieron su licencia de conducir, éste se encuentra facultado para:",
     "options": {
       "a": "Tramitar el duplicado de su licencia de conducir.",
@@ -3749,9 +5746,19 @@
     },
     "correct": "d",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "suspender",
+      "licencia-de-conducir",
+      "duplicado",
+      "revalidacion",
+      "categoria",
+      "infraccion"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "suspendieron",
+        "facultado"
+      ],
       "answerKeys": []
     },
     "answerType": "none"
@@ -3760,7 +5767,7 @@
     "id": "a1-177",
     "category": "a1",
     "number": 177,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Las __________________ tienen por función informar a los usuarios sobre los servicios generales existentes próximos a la vía, tales como teléfono, hospedaje, restaurante, primeros auxilios, estación de combustibles, talleres, y otros.",
     "options": {
       "a": "Señales de localización.",
@@ -3770,10 +5777,21 @@
     },
     "correct": "c",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "senal",
+      "hospedaje",
+      "primeros-auxilios",
+      "combustible"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "servicios generales",
+        "hospedaje",
+        "primeros auxilios"
+      ],
+      "answerKeys": [
+        "servicios generales"
+      ]
     },
     "answerType": "text"
   },
@@ -3781,7 +5799,7 @@
     "id": "a1-178",
     "category": "a1",
     "number": 178,
-    "topic": "otros",
+    "topic": "infracciones",
     "text": "¿Constituye una infracción tramitar el duplicado de una licencia de conducir que se encuentra retenida?",
     "options": {
       "a": "No constituye una infracción.",
@@ -3791,10 +5809,20 @@
     },
     "correct": "c",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "infraccion",
+      "duplicado",
+      "licencia-de-conducir",
+      "retener"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "duplicado",
+        "retenida"
+      ],
+      "answerKeys": [
+        "Si, constituye"
+      ]
     },
     "answerType": "text"
   },
@@ -3802,7 +5830,7 @@
     "id": "a1-179",
     "category": "a1",
     "number": 179,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Las marcas en el pavimento constituyen la señalización ___________ y se emplean para _____________ la circulación.",
     "options": {
       "a": "Horizontal - reglamentar.",
@@ -3812,10 +5840,20 @@
     },
     "correct": "a",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "marcas-en-el-pavimento",
+      "senalizar",
+      "senal-vertical",
+      "circular"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "marcas en el pavimento",
+        "señalización"
+      ],
+      "answerKeys": [
+        "Horizontal"
+      ]
     },
     "answerType": "text"
   },
@@ -3833,10 +5871,22 @@
     },
     "correct": "b",
     "sourcePage": 18,
-    "terms": [],
+    "terms": [
+      "ciclista",
+      "ciclovia",
+      "calzada",
+      "acera",
+      "berma",
+      "autopista"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "Ciclista",
+        "ciclovía"
+      ],
+      "answerKeys": [
+        "calzada"
+      ]
     },
     "answerType": "text"
   },
@@ -3844,7 +5894,7 @@
     "id": "a1-181",
     "category": "a1",
     "number": 181,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-15), se utiliza para advertir al conductor:",
     "options": {
       "a": "La proximidad a una vía de tres carriles.",
@@ -3855,10 +5905,21 @@
     "correct": "d",
     "image": "/images/a1/181.webp",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "senal",
+      "advertir",
+      "rotonda",
+      "sinuoso"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-15",
+        "advertir"
+      ],
+      "answerKeys": [
+        "rotatoria",
+        "rotonda"
+      ]
     },
     "answerType": "text"
   },
@@ -3866,7 +5927,7 @@
     "id": "a1-182",
     "category": "a1",
     "number": 182,
-    "topic": "otros",
+    "topic": "senales",
     "text": "La siguiente señal (P-31a) , indica:",
     "options": {
       "a": "La proximidad del final de la vía.",
@@ -3877,10 +5938,19 @@
     "correct": "a",
     "image": "/images/a1/182.webp",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "senal",
+      "via",
+      "pendiente"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "P-31a",
+        "indica"
+      ],
+      "answerKeys": [
+        "final de la vía"
+      ]
     },
     "answerType": "text"
   },
@@ -3888,7 +5958,7 @@
     "id": "a1-183",
     "category": "a1",
     "number": 183,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Es una línea transversal a la calzada, que indica al conductor que debe detener completamente el vehículo, no debiendo sobrepasar el inicio de la indicada línea:",
     "options": {
       "a": "Línea de carril.",
@@ -3898,10 +5968,22 @@
     },
     "correct": "c",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "linea-de-parada",
+      "transversal",
+      "calzada",
+      "detener",
+      "carril",
+      "borde"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "línea transversal",
+        "detener completamente"
+      ],
+      "answerKeys": [
+        "pare"
+      ]
     },
     "answerType": "text"
   },
@@ -3909,7 +5991,7 @@
     "id": "a1-184",
     "category": "a1",
     "number": 184,
-    "topic": "otros",
+    "topic": "semaforos",
     "text": "Los semáforos son:",
     "options": {
       "a": "Dispositivos de control del tránsito que tienen por finalidad regular y controlar el tránsito vehicular, motorizado y no motorizado, y el peatonal, a través de las indicaciones de las luces respectivas.",
@@ -3919,10 +6001,19 @@
     },
     "correct": "a",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "semaforo",
+      "dispositivos-de-control",
+      "transito",
+      "peaton"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "Los semáforos son"
+      ],
+      "answerKeys": [
+        "no motorizado"
+      ]
     },
     "answerType": "text"
   },
@@ -3930,7 +6021,7 @@
     "id": "a1-185",
     "category": "a1",
     "number": 185,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "La conducción requiere un alto nivel de atención, pues existen distracciones que pueden ocasionar accidentes de tránsito, como por ejemplo:",
     "options": {
       "a": "Preocupaciones.",
@@ -3940,9 +6031,17 @@
     },
     "correct": "d",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "conducir",
+      "distraccion",
+      "accidente-de-transito",
+      "telefono-celular"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "distracciones",
+        "alto nivel de atención"
+      ],
       "answerKeys": []
     },
     "answerType": "all"
@@ -3951,7 +6050,7 @@
     "id": "a1-186",
     "category": "a1",
     "number": 186,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿Influye la somnolencia en la capacidad de conducir?",
     "options": {
       "a": "Si, pues el conductor tomará decisiones lentas que lo inducirán a cometer errores.",
@@ -3961,10 +6060,19 @@
     },
     "correct": "a",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "somnolencia",
+      "conducir",
+      "acompanante"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "somnolencia",
+        "capacidad de conducir"
+      ],
+      "answerKeys": [
+        "decisiones lentas"
+      ]
     },
     "answerType": "text"
   },
@@ -3972,7 +6080,7 @@
     "id": "a1-187",
     "category": "a1",
     "number": 187,
-    "topic": "otros",
+    "topic": "peatones",
     "text": "¿Cuál es la acción correcta del conductor, según las normas de tránsito, en la situación que plantea el siguiente gráfico?",
     "options": {
       "a": "Girar rápidamente a la derecha antes que el peatón cruce la calzada.",
@@ -3983,10 +6091,21 @@
     "correct": "b",
     "image": "/images/a1/187.webp",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "preferencia-de-paso",
+      "peaton",
+      "calzada",
+      "girar",
+      "bocina"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "acción correcta",
+        "gráfico"
+      ],
+      "answerKeys": [
+        "preferencia de paso"
+      ]
     },
     "answerType": "text"
   },
@@ -3994,7 +6113,7 @@
     "id": "a1-188",
     "category": "a1",
     "number": 188,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "¿En cuál de las siguientes opciones, los factores mencionados contribuyen a una colisión vehicular?",
     "options": {
       "a": "Pavimento seco, somnolencia, frenos desgastados.",
@@ -4004,10 +6123,25 @@
     },
     "correct": "b",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "colision",
+      "pavimento",
+      "humedo",
+      "neumaticos",
+      "desgastados",
+      "cansancio",
+      "somnolencia",
+      "resalto"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "factores",
+        "colisión vehicular"
+      ],
+      "answerKeys": [
+        "húmedo",
+        "neumáticos"
+      ]
     },
     "answerType": "text"
   },
@@ -4025,10 +6159,22 @@
     },
     "correct": "a",
     "sourcePage": 19,
-    "terms": [],
+    "terms": [
+      "berma",
+      "calzada",
+      "carretera",
+      "acera",
+      "autopista",
+      "demarcacion"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "contigua a la calzada",
+        "detención de vehículos en emergencia"
+      ],
+      "answerKeys": [
+        "Berma"
+      ]
     },
     "answerType": "text"
   },
@@ -4046,12 +6192,27 @@
     },
     "correct": "a",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "calzada",
+      "via",
+      "acera",
+      "berma",
+      "peaton",
+      "animales"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "circulación de vehículos",
+        "cruce de peatones y animales"
+      ],
+      "answerKeys": [
+        "calzada"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-191"
+    ]
   },
   {
     "id": "a1-191",
@@ -4067,18 +6228,31 @@
     },
     "correct": "a",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "acera",
+      "peaton",
+      "calzada",
+      "berma",
+      "autopista"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "uso de peatones"
+      ],
+      "answerKeys": [
+        "acera"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-190"
+    ]
   },
   {
     "id": "a1-192",
     "category": "a1",
     "number": 192,
-    "topic": "otros",
+    "topic": "senales",
     "text": "Son señales que regulan el tránsito:",
     "options": {
       "a": "Las bocinas y las marcas en la calzada o señales horizontales.",
@@ -4088,9 +6262,17 @@
     },
     "correct": "d",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "senal-vertical",
+      "senal-horizontal",
+      "marcas-en-el-pavimento",
+      "bocina",
+      "transito"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "regulan el tránsito"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -4099,7 +6281,7 @@
     "id": "a1-193",
     "category": "a1",
     "number": 193,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Los vehículos deben ser conducidos con:",
     "options": {
       "a": "Puertas y capot cerrados, permitiéndose la maletera entreabierta para casos especiales.",
@@ -4109,9 +6291,16 @@
     },
     "correct": "b",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "puerta",
+      "capot",
+      "maletera",
+      "autorizado"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "deben ser conducidos"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -4120,7 +6309,7 @@
     "id": "a1-194",
     "category": "a1",
     "number": 194,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "El conductor que en una vía urbana va a girar a la izquierda, a la derecha o en «U» debe hacer la señal respectiva con la luz direccional, por lo menos:",
     "options": {
       "a": "2 segundos antes de realizar la maniobra.",
@@ -4130,18 +6319,33 @@
     },
     "correct": "c",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "via",
+      "girar",
+      "luces-direccionales",
+      "maniobra",
+      "senal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "vía urbana",
+        "luz direccional",
+        "por lo menos"
+      ],
+      "answerKeys": [
+        "20 metros"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-195"
+    ]
   },
   {
     "id": "a1-195",
     "category": "a1",
     "number": 195,
-    "topic": "otros",
+    "topic": "seguridad",
     "text": "Si usted está conduciendo por una carretera y va girar a la izquierda, debe realizar la señal respectiva con la luz direccional por lo menos:",
     "options": {
       "a": "2 segundos antes de realizar la maniobra.",
@@ -4151,18 +6355,33 @@
     },
     "correct": "c",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "carretera",
+      "girar",
+      "luces-direccionales",
+      "maniobra",
+      "senal"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "carretera",
+        "luz direccional",
+        "girar a la izquierda"
+      ],
+      "answerKeys": [
+        "30 metros"
+      ]
     },
-    "answerType": "text"
+    "answerType": "text",
+    "twins": [
+      "a1-194"
+    ]
   },
   {
     "id": "a1-196",
     "category": "a1",
     "number": 196,
-    "topic": "otros",
+    "topic": "documentos",
     "text": "La licencia particular de la Clase y Categoría A-I, permite conducir motos?",
     "options": {
       "a": "Si.",
@@ -4172,9 +6391,18 @@
     },
     "correct": "b",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "licencia-de-conducir",
+      "categoria",
+      "motocicleta",
+      "zona-urbana",
+      "carretera"
+    ],
     "anchors": {
-      "questionKeys": [],
+      "questionKeys": [
+        "Clase y Categoría A-I",
+        "motos"
+      ],
       "answerKeys": []
     },
     "answerType": "text"
@@ -4183,7 +6411,7 @@
     "id": "a1-197",
     "category": "a1",
     "number": 197,
-    "topic": "otros",
+    "topic": "senales",
     "text": "El siguiente gráfico muestra:",
     "options": {
       "a": "Señalización de tránsito vertical y horizontal en una zona escolar.",
@@ -4194,10 +6422,18 @@
     "correct": "a",
     "image": "/images/a1/197.webp",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "zona-escolar",
+      "senal-vertical",
+      "senalizar"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "gráfico muestra"
+      ],
+      "answerKeys": [
+        "vertical y horizontal"
+      ]
     },
     "answerType": "text"
   },
@@ -4205,7 +6441,7 @@
     "id": "a1-198",
     "category": "a1",
     "number": 198,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Las __________canalizadoras, tiene por función conformar las islas canalizadoras del tránsito automotor en una _________.",
     "options": {
       "a": "Islas canalizadoras - vía.",
@@ -4215,10 +6451,20 @@
     },
     "correct": "b",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "isla",
+      "interseccion",
+      "transito",
+      "vehiculo-automotor"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "canalizadoras",
+        "islas canalizadoras"
+      ],
+      "answerKeys": [
+        "Líneas"
+      ]
     },
     "answerType": "text"
   },
@@ -4226,7 +6472,7 @@
     "id": "a1-199",
     "category": "a1",
     "number": 199,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "Si al conducir en una intersección se encuentra con las siguientes marcas en el pavimento (malla ortogonal de color amarillo), significa:",
     "options": {
       "a": "Que no puede detener el vehículo dentro del área de intersección.",
@@ -4237,10 +6483,21 @@
     "correct": "a",
     "image": "/images/a1/199.webp",
     "sourcePage": 20,
-    "terms": [],
+    "terms": [
+      "interseccion",
+      "marcas-en-el-pavimento",
+      "malla-ortogonal",
+      "detener",
+      "isla"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "malla ortogonal",
+        "color amarillo"
+      ],
+      "answerKeys": [
+        "no puede detener"
+      ]
     },
     "answerType": "text"
   },
@@ -4248,7 +6505,7 @@
     "id": "a1-200",
     "category": "a1",
     "number": 200,
-    "topic": "otros",
+    "topic": "marcas",
     "text": "De acuerdo al siguiente gráfico, es correcto afirmar que:",
     "options": {
       "a": "La zona que permite adelantar inicia con las líneas amarillas continuas.",
@@ -4259,10 +6516,22 @@
     "correct": "c",
     "image": "/images/a1/200.webp",
     "sourcePage": 21,
-    "terms": [],
+    "terms": [
+      "adelantar",
+      "amarillo",
+      "linea-continua",
+      "estacionar",
+      "camion",
+      "zona"
+    ],
     "anchors": {
-      "questionKeys": [],
-      "answerKeys": []
+      "questionKeys": [
+        "gráfico",
+        "es correcto afirmar"
+      ],
+      "answerKeys": [
+        "no adelantar"
+      ]
     },
     "answerType": "text"
   }

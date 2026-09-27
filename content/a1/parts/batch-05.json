@@ -1,0 +1,5052 @@
+{
+  "meta": {
+    "a1-101": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "intersección",
+        "vía",
+        "sentido contrario",
+        "entrar",
+        "clausurado"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-4",
+          "antes de cruzar",
+          "intersección"
+        ],
+        "answerKeys": [
+          "sentido contrario"
+        ]
+      }
+    },
+    "a1-102": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "superficie deslizante",
+        "túnel",
+        "luces bajas",
+        "distancia"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-36",
+          "significa"
+        ],
+        "answerKeys": [
+          "deslizante"
+        ]
+      }
+    },
+    "a1-103": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "circular",
+        "carril",
+        "sentido",
+        "flecha"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-14",
+          "significa"
+        ],
+        "answerKeys": [
+          "flecha"
+        ]
+      }
+    },
+    "a1-104": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "vía",
+        "carril",
+        "sentido",
+        "utilizar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-11a",
+          "circula por una vía"
+        ],
+        "answerKeys": [
+          "dos de la derecha"
+        ]
+      }
+    },
+    "a1-105": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "velocidad máxima",
+        "velocidad mínima",
+        "salir",
+        "vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-30c",
+          "significa"
+        ],
+        "answerKeys": [
+          "máxima es 50"
+        ]
+      }
+    },
+    "a1-106": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "intersección",
+        "girar",
+        "giro",
+        "sentido",
+        "mantenimiento"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-5-4",
+          "significa"
+        ],
+        "answerKeys": [
+          "ambos sentidos"
+        ]
+      }
+    },
+    "a1-107": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "giro en u",
+        "girar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-9",
+          "significa"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-108": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "carril",
+        "girar",
+        "seguir de frente",
+        "bifurcación",
+        "vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-5-2",
+          "significa"
+        ],
+        "answerKeys": [
+          "seguir de frente"
+        ]
+      }
+    },
+    "a1-109": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "peatón",
+        "circular",
+        "cruzar",
+        "conductor"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-20",
+          "significa"
+        ],
+        "answerKeys": [
+          "izquierda"
+        ]
+      }
+    },
+    "a1-110": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "luces bajas",
+        "crucero",
+        "cebra",
+        "control policial",
+        "pavimento deslizante"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-40",
+          "significa"
+        ],
+        "answerKeys": [
+          "luces bajas"
+        ]
+      }
+    },
+    "a1-111": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "peatón",
+        "camión",
+        "carga",
+        "descarga",
+        "zona"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-48",
+          "significa"
+        ],
+        "answerKeys": [
+          "carga y descarga"
+        ]
+      }
+    },
+    "a1-112": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "distancia de seguridad",
+        "cambiar de carril",
+        "adelantar",
+        "vehículo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-49",
+          "significa"
+        ],
+        "answerKeys": [
+          "distancia de seguridad"
+        ]
+      }
+    },
+    "a1-113": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "carril",
+        "preferencia",
+        "dar paso",
+        "sentido contrario",
+        "conductor"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-50",
+          "significa"
+        ],
+        "answerKeys": [
+          "sentido contrario",
+          "darle paso"
+        ]
+      }
+    },
+    "a1-114": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "señal informativa",
+        "señal preventiva",
+        "señal de obligación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "R-5-1",
+          "es:"
+        ],
+        "answerKeys": [
+          "obligación"
+        ]
+      }
+    },
+    "a1-115": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "curva",
+        "contra-curva",
+        "pronunciado",
+        "conductor"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-3a",
+          "le indica al conductor"
+        ],
+        "answerKeys": [
+          "pronunciada a la derecha"
+        ]
+      }
+    },
+    "a1-116": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "curva",
+        "contra-curva",
+        "camino sinuoso",
+        "aproximarse"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-5-1a",
+          "le advierte"
+        ],
+        "answerKeys": [
+          "sinuoso a la izquierda"
+        ]
+      }
+    },
+    "a1-117": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "curva horizontal",
+        "reducción de la vía",
+        "flecha",
+        "sentido del tránsito"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-61",
+          "le advierte"
+        ],
+        "answerKeys": [
+          "curva horizontal"
+        ]
+      }
+    },
+    "a1-118": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "badén",
+        "resalto",
+        "rompe muelles",
+        "bache",
+        "vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-34",
+          "le advierte"
+        ],
+        "answerKeys": [
+          "badén"
+        ]
+      }
+    },
+    "a1-119": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "señal preventiva",
+        "señal informativa",
+        "señal turística",
+        "adelantar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-60",
+          "es:"
+        ],
+        "answerKeys": [
+          "preventiva"
+        ]
+      }
+    },
+    "a1-120": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "ciclista",
+        "ciclovía",
+        "cruce",
+        "vía"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-46",
+          "indica"
+        ],
+        "answerKeys": [
+          "ciclistas en la vía"
+        ]
+      }
+    },
+    "a1-121": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "ciclista",
+        "ciclovía",
+        "cruce",
+        "aproximarse"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-46-a",
+          "indica"
+        ],
+        "answerKeys": [
+          "cruce de ciclovía",
+          "nos aproximamos"
+        ]
+      }
+    },
+    "a1-122": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "ciclista",
+        "ciclovía",
+        "cruce",
+        "ubicación",
+        "detenerse"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-46b",
+          "indica"
+        ],
+        "answerKeys": [
+          "ubicación",
+          "cruce de ciclistas"
+        ]
+      }
+    },
+    "a1-123": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "peatón",
+        "cruce escolar",
+        "zona",
+        "uso exclusivo"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-48",
+          "indica"
+        ],
+        "answerKeys": [
+          "presencia de peatones"
+        ]
+      }
+    },
+    "a1-124": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "peatón",
+        "cruce peatonal",
+        "cruce escolar",
+        "proximidad"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-48a",
+          "indica"
+        ],
+        "answerKeys": [
+          "proximidad",
+          "cruce peatonal"
+        ]
+      }
+    },
+    "a1-125": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "cruce peatonal",
+        "cruce escolar",
+        "calzada",
+        "ubicación"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-48-b",
+          "indica"
+        ],
+        "answerKeys": [
+          "cruce peatonal"
+        ]
+      }
+    }
+  },
+  "ru": {
+    "a1-101": {
+      "id": "a1-101",
+      "text": "Если вы едете на своём автомобиле по дороге и перед пересечением перекрёстка встречаете знак R-4, он означает:",
+      "options": {
+        "a": "Что улица закрыта.",
+        "b": "Что вы въезжаете на дорогу со встречным движением и въезжать нельзя.",
+        "c": "Что нужно полностью остановиться перед въездом.",
+        "d": "Ни один из вариантов не верен"
+      },
+      "gist": "Что означает знак R-4 (No entre)",
+      "explanation": "R-4 «NO ENTRE» запрещает въезд. Впереди дорога с движением навстречу вам. Въезжать туда нельзя. Знак не требует остановки и не значит, что улица закрыта.",
+      "trap": "Вариант c говорит «debe parar» (нужно остановиться): это знак PARE (R-1), а не R-4. R-4 просто запрещает въезд.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted",
+            "tr": "Если вы"
+          },
+          {
+            "es": "se encuentra conduciendo",
+            "tr": "едете"
+          },
+          {
+            "es": "su vehículo",
+            "tr": "на своём автомобиле"
+          },
+          {
+            "es": "por una vía",
+            "tr": "по дороге"
+          },
+          {
+            "es": "y antes de cruzar",
+            "tr": "и перед пересечением",
+            "kind": "logic"
+          },
+          {
+            "es": "la intersección",
+            "tr": "перекрёстка"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "встречаете"
+          },
+          {
+            "es": "la señal R-4,",
+            "tr": "знак R-4,"
+          },
+          {
+            "es": "esta le indica:",
+            "tr": "он означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la calle",
+              "tr": "Что улица"
+            },
+            {
+              "es": "está clausurada.",
+              "tr": "закрыта."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que está por ingresar",
+              "tr": "Что вы въезжаете"
+            },
+            {
+              "es": "a una vía",
+              "tr": "на дорогу"
+            },
+            {
+              "es": "de sentido contrario",
+              "tr": "встречного направления",
+              "kind": "anchor"
+            },
+            {
+              "es": "y no debe entrar.",
+              "tr": "и въезжать нельзя.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que debe parar",
+              "tr": "Что нужно остановиться",
+              "kind": "logic"
+            },
+            {
+              "es": "totalmente",
+              "tr": "полностью"
+            },
+            {
+              "es": "antes de poder ingresar.",
+              "tr": "прежде чем въехать.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta",
+              "tr": "не верен"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-102": {
+      "id": "a1-102",
+      "text": "Следующий знак (P-36) означает:",
+      "options": {
+        "a": "Приближение к туннелю.",
+        "b": "Скользкая поверхность.",
+        "c": "Включить ближний свет.",
+        "d": "Соблюдать дистанцию между автомобилями для безопасности."
+      },
+      "gist": "Что означает знак P-36",
+      "explanation": "На знаке машину заносит, и след шин виляет. P-36 предупреждает: скользкая дорога (superficie deslizante). Снизьте скорость и не тормозите резко.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-36),",
+            "tr": "(P-36)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "de un túnel.",
+              "tr": "к туннелю."
+            }
+          ],
+          "b": [
+            {
+              "es": "Superficie deslizante.",
+              "tr": "Скользкая поверхность.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Prender",
+              "tr": "Включить"
+            },
+            {
+              "es": "las luces bajas.",
+              "tr": "ближний свет."
+            }
+          ],
+          "d": [
+            {
+              "es": "Mantener la distancia",
+              "tr": "Соблюдать дистанцию"
+            },
+            {
+              "es": "entre vehículos",
+              "tr": "между автомобилями"
+            },
+            {
+              "es": "por seguridad.",
+              "tr": "для безопасности."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-103": {
+      "id": "a1-103",
+      "text": "Следующий знак (R-14) означает:",
+      "options": {
+        "a": "Ехать по правой полосе.",
+        "b": "Ехать по средней полосе.",
+        "c": "Ехать только в направлении, указанном стрелкой.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-14",
+      "explanation": "R-14 «CIRCULACIÓN» со стрелкой: ехать только туда, куда показывает стрелка. Это не про выбор полосы. Ключевое слово ответа: «flecha» (стрелка).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-14),",
+            "tr": "(R-14)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Circular",
+              "tr": "Ехать"
+            },
+            {
+              "es": "por el carril",
+              "tr": "по полосе"
+            },
+            {
+              "es": "de la derecha.",
+              "tr": "правой.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Circular",
+              "tr": "Ехать"
+            },
+            {
+              "es": "por el carril central.",
+              "tr": "по средней полосе."
+            }
+          ],
+          "c": [
+            {
+              "es": "Circular solo",
+              "tr": "Ехать только",
+              "kind": "logic"
+            },
+            {
+              "es": "en el sentido indicado",
+              "tr": "в направлении, указанном"
+            },
+            {
+              "es": "por la flecha.",
+              "tr": "стрелкой.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-104": {
+      "id": "a1-104",
+      "text": "Если вы едете по дороге и встречаете знак (R-11a), он означает:",
+      "options": {
+        "a": "Что это дорога с тремя полосами и односторонним движением.",
+        "b": "Что это дорога с тремя полосами, и вы можете использовать только одну из них.",
+        "c": "Что это дорога с тремя полосами, и вы можете использовать две правые.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-11a",
+      "explanation": "На знаке три стрелки: две вверх справа и одна вниз слева. Две правые полосы ваши, левая для встречного движения. Значит, дорога двусторонняя, и вам можно ехать по двум правым полосам.",
+      "trap": "В варианте a «un solo sentido» (одностороннее) и в b «solo uno» (только одну) — неверно. Одна стрелка смотрит вниз: есть встречное движение, а вам доступны две полосы.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted circula",
+            "tr": "Если вы едете"
+          },
+          {
+            "es": "por una vía",
+            "tr": "по дороге"
+          },
+          {
+            "es": "y se encuentra con",
+            "tr": "и встречаете"
+          },
+          {
+            "es": "la señal (R-11a) ,",
+            "tr": "знак (R-11a),"
+          },
+          {
+            "es": "ésta le indica:",
+            "tr": "он означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que es una vía",
+              "tr": "Что это дорога"
+            },
+            {
+              "es": "de tres carriles",
+              "tr": "с тремя полосами"
+            },
+            {
+              "es": "de un solo sentido.",
+              "tr": "с односторонним движением.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que es una vía",
+              "tr": "Что это дорога"
+            },
+            {
+              "es": "de tres carriles",
+              "tr": "с тремя полосами"
+            },
+            {
+              "es": "y usted puede utilizar",
+              "tr": "и вы можете использовать",
+              "kind": "logic"
+            },
+            {
+              "es": "solo uno de ellos.",
+              "tr": "только одну из них.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que es una vía",
+              "tr": "Что это дорога"
+            },
+            {
+              "es": "de tres carriles",
+              "tr": "с тремя полосами"
+            },
+            {
+              "es": "y usted puede utilizar",
+              "tr": "и вы можете использовать",
+              "kind": "logic"
+            },
+            {
+              "es": "los dos de la derecha.",
+              "tr": "две правые.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-105": {
+      "id": "a1-105",
+      "text": "Следующий знак (R-30c) означает:",
+      "options": {
+        "a": "Что максимальная скорость на дороге 50 км/ч.",
+        "b": "Что минимальная скорость на дороге 50 км/ч.",
+        "c": "Что при съезде с дороги, по которой вы едете, максимальная скорость 50 км/ч.",
+        "d": "Что при съезде с дороги, по которой вы едете, минимальная скорость 50 км/ч."
+      },
+      "gist": "Что означает знак R-30c (SALIDA 50)",
+      "explanation": "Над знаком написано «SALIDA» (съезд, выезд). Ограничение 50 км/ч действует на съезде, а не на всей дороге. Красный круг с числом означает максимум (máxima), а не минимум.",
+      "trap": "Ищите два слова вместе: «al salir» (при съезде) и «máxima» (максимальная). В варианте a нет «salir», в варианте d стоит «mínima» (минимальная).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-30c) ,",
+            "tr": "(R-30c)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la velocidad máxima",
+              "tr": "Что максимальная скорость",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía",
+              "tr": "на дороге"
+            },
+            {
+              "es": "es de 50 km/h.",
+              "tr": "50 км/ч."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que la velocidad mínima",
+              "tr": "Что минимальная скорость",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía",
+              "tr": "на дороге"
+            },
+            {
+              "es": "es de 50 km/h.",
+              "tr": "50 км/ч."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que al salir",
+              "tr": "Что при съезде"
+            },
+            {
+              "es": "de la vía",
+              "tr": "с дороги"
+            },
+            {
+              "es": "por donde está circulando,",
+              "tr": "по которой вы едете,"
+            },
+            {
+              "es": "la velocidad",
+              "tr": "скорость"
+            },
+            {
+              "es": "máxima es 50 km/h.",
+              "tr": "максимальная 50 км/ч.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Que al salir",
+              "tr": "Что при съезде"
+            },
+            {
+              "es": "de la vía",
+              "tr": "с дороги"
+            },
+            {
+              "es": "por donde está circulando,",
+              "tr": "по которой вы едете,"
+            },
+            {
+              "es": "la velocidad",
+              "tr": "скорость"
+            },
+            {
+              "es": "mínima es 50 km/h.",
+              "tr": "минимальная 50 км/ч.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-106": {
+      "id": "a1-106",
+      "text": "Следующий знак (R-5-4) означает:",
+      "options": {
+        "a": "Что дорога не продолжается, и водители должны повернуть налево.",
+        "b": "Что на перекрёстке предусмотрены повороты налево в обоих направлениях.",
+        "c": "Что перекрёсток на ремонте и пока можно только повернуть налево.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-5-4",
+      "explanation": "На знаке две стрелки налево из двух встречных направлений и слово «SOLO». Каждая сторона поворачивает только налево. Это обычный знак для перекрёстков, а не ремонт и не тупик.",
+      "trap": "Варианты a и c тоже про «girar a la izquierda» (повернуть налево). Правильный отличают слова «ambos sentidos» (оба направления).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-5-4),",
+            "tr": "(R-5-4)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la vía",
+              "tr": "Что дорога"
+            },
+            {
+              "es": "no continúa",
+              "tr": "не продолжается",
+              "kind": "logic"
+            },
+            {
+              "es": "y los conductores",
+              "tr": "и водители"
+            },
+            {
+              "es": "deben girar",
+              "tr": "должны повернуть",
+              "kind": "logic"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "налево.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que la intersección",
+              "tr": "Что перекрёсток"
+            },
+            {
+              "es": "contempla",
+              "tr": "предусматривает"
+            },
+            {
+              "es": "giros tangentes",
+              "tr": "повороты"
+            },
+            {
+              "es": "a la izquierda",
+              "tr": "налево",
+              "kind": "logic"
+            },
+            {
+              "es": "en ambos sentidos.",
+              "tr": "в обоих направлениях.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la intersección",
+              "tr": "Что перекрёсток"
+            },
+            {
+              "es": "está en mantenimiento",
+              "tr": "на ремонте"
+            },
+            {
+              "es": "y que por el momento",
+              "tr": "и что пока"
+            },
+            {
+              "es": "solo se puede girar",
+              "tr": "можно только повернуть",
+              "kind": "logic"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "налево.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-107": {
+      "id": "a1-107",
+      "text": "Следующий знак (R-9) означает:",
+      "options": {
+        "a": "Что разворот не разрешён.",
+        "b": "Что разворот разрешён.",
+        "c": "Что при желании можно повернуть налево.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-9 (разворот)",
+      "explanation": "На знаке стрелка разворота в красном круге без перечёркивания. Без красной косой линии знак разрешает, а не запрещает. Значит, разворот (giro en U) здесь разрешён.",
+      "trap": "Варианты a и b отличаются только словом «no». Правильный: «está permitido» (разрешено) без «no». Если бы стрелка была перечёркнута, это был бы запрет.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-9),",
+            "tr": "(R-9)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que no está permitido",
+              "tr": "Что не разрешено",
+              "kind": "logic"
+            },
+            {
+              "es": "girar en U.",
+              "tr": "разворачиваться."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que está permitido",
+              "tr": "Что разрешён",
+              "kind": "logic"
+            },
+            {
+              "es": "el giro en U.",
+              "tr": "разворот."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que si desea",
+              "tr": "Что при желании"
+            },
+            {
+              "es": "puede girar",
+              "tr": "можно повернуть",
+              "kind": "logic"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "налево.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-108": {
+      "id": "a1-108",
+      "text": "Следующий знак (R-5-2) означает:",
+      "options": {
+        "a": "Что дорога разрешает только поворот налево.",
+        "b": "Предупреждение о разветвлении дороги.",
+        "c": "Что полоса, по которой вы едете, позволяет повернуть налево или ехать прямо.",
+        "d": "Это не действующий знак в Перу."
+      },
+      "gist": "Что означает знак R-5-2",
+      "explanation": "На знаке стрелка раздваивается: прямо и налево. Из этой полосы можно ехать прямо или повернуть налево. В варианте a лишнее слово «solo» (только): прямо тоже можно.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-5-2),",
+            "tr": "(R-5-2)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la vía",
+              "tr": "Что дорога"
+            },
+            {
+              "es": "solo permite",
+              "tr": "разрешает только",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la izquierda.",
+              "tr": "поворот налево.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Prevención",
+              "tr": "Предупреждение"
+            },
+            {
+              "es": "por bifurcación",
+              "tr": "о разветвлении"
+            },
+            {
+              "es": "de la vía.",
+              "tr": "дороги."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que el carril",
+              "tr": "Что полоса,"
+            },
+            {
+              "es": "por donde circula",
+              "tr": "по которой вы едете,"
+            },
+            {
+              "es": "permite girar",
+              "tr": "позволяет повернуть"
+            },
+            {
+              "es": "a la izquierda",
+              "tr": "налево",
+              "kind": "logic"
+            },
+            {
+              "es": "o seguir de frente.",
+              "tr": "или ехать прямо.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "No es una señal",
+              "tr": "Это не знак,",
+              "kind": "logic"
+            },
+            {
+              "es": "válida en el Perú.",
+              "tr": "действующий в Перу."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-109": {
+      "id": "a1-109",
+      "text": "Следующий знак (R-20) означает:",
+      "options": {
+        "a": "Что пешеход перед переходом должен смотреть, не едут ли машины справа.",
+        "b": "Что водитель, едущий справа, должен быть осторожен с пешеходами.",
+        "c": "Что пешеходы должны идти по левой стороне.",
+        "d": "Что пешеходы должны идти по правой стороне."
+      },
+      "gist": "Что означает знак R-20 (пешеходы)",
+      "explanation": "На знаке пешеход и стрелка влево. R-20 предписывает пешеходам идти по левой стороне. Так они видят встречные машины. Ответ c со словом «izquierda» (левая).",
+      "trap": "Варианты c и d отличаются одним словом: «izquierda» (левая) и «derecha» (правая). Стрелка на знаке смотрит влево.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-20),",
+            "tr": "(R-20)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que el peatón",
+              "tr": "Что пешеход"
+            },
+            {
+              "es": "antes de cruzar",
+              "tr": "перед переходом",
+              "kind": "logic"
+            },
+            {
+              "es": "debe mirar",
+              "tr": "должен смотреть,",
+              "kind": "logic"
+            },
+            {
+              "es": "si se acercan autos",
+              "tr": "не едут ли машины"
+            },
+            {
+              "es": "por la derecha.",
+              "tr": "справа.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que el conductor",
+              "tr": "Что водитель,"
+            },
+            {
+              "es": "que viene por la derecha",
+              "tr": "едущий справа,",
+              "kind": "logic"
+            },
+            {
+              "es": "debe tener cuidado",
+              "tr": "должен быть осторожен",
+              "kind": "logic"
+            },
+            {
+              "es": "con los peatones.",
+              "tr": "с пешеходами."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que los peatones",
+              "tr": "Что пешеходы"
+            },
+            {
+              "es": "deben circular",
+              "tr": "должны идти",
+              "kind": "logic"
+            },
+            {
+              "es": "por la izquierda.",
+              "tr": "по левой стороне.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Que los peatones",
+              "tr": "Что пешеходы"
+            },
+            {
+              "es": "deben circular",
+              "tr": "должны идти",
+              "kind": "logic"
+            },
+            {
+              "es": "por la derecha.",
+              "tr": "по правой стороне.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-110": {
+      "id": "a1-110",
+      "text": "Следующий знак (R-40) означает:",
+      "options": {
+        "a": "Пешеходный переход «зебра».",
+        "b": "Полицейский контроль.",
+        "c": "Скользкое покрытие.",
+        "d": "Ехать с ближним светом."
+      },
+      "gist": "Что означает знак R-40",
+      "explanation": "На знаке фара с лучами света в красном круге. R-40 обязывает ехать с включённым ближним светом (luces bajas). Часто стоит перед туннелями.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-40),",
+            "tr": "(R-40)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Crucero",
+              "tr": "Переход"
+            },
+            {
+              "es": "tipo cebra.",
+              "tr": "типа «зебра»."
+            }
+          ],
+          "b": [
+            {
+              "es": "Control policial.",
+              "tr": "Полицейский контроль."
+            }
+          ],
+          "c": [
+            {
+              "es": "Pavimento deslizante.",
+              "tr": "Скользкое покрытие."
+            }
+          ],
+          "d": [
+            {
+              "es": "Circular",
+              "tr": "Ехать"
+            },
+            {
+              "es": "con luces bajas.",
+              "tr": "с ближним светом.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-111": {
+      "id": "a1-111",
+      "text": "Следующий знак (R-48) означает:",
+      "options": {
+        "a": "Пешеходы должны идти справа, а грузовики ехать слева",
+        "b": "Пешеходы должны быть осторожны с грузовиками.",
+        "c": "Зона погрузки и разгрузки.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-48",
+      "explanation": "На знаке грузовик и человек с грузом. R-48 обозначает зону погрузки и разгрузки (carga y descarga). Это не про пешеходов и не про стороны дороги.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-48),",
+            "tr": "(R-48)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Los peatones",
+              "tr": "Пешеходы"
+            },
+            {
+              "es": "deben circular",
+              "tr": "должны идти",
+              "kind": "logic"
+            },
+            {
+              "es": "por la derecha",
+              "tr": "справа,",
+              "kind": "logic"
+            },
+            {
+              "es": "y los camiones",
+              "tr": "а грузовики"
+            },
+            {
+              "es": "por la izquierda",
+              "tr": "слева",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Los peatones",
+              "tr": "Пешеходы"
+            },
+            {
+              "es": "deben tener cuidado",
+              "tr": "должны быть осторожны",
+              "kind": "logic"
+            },
+            {
+              "es": "con los camiones.",
+              "tr": "с грузовиками."
+            }
+          ],
+          "c": [
+            {
+              "es": "Zona de",
+              "tr": "Зона"
+            },
+            {
+              "es": "carga y descarga.",
+              "tr": "погрузки и разгрузки.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-112": {
+      "id": "a1-112",
+      "text": "Следующий знак (R-49) означает:",
+      "options": {
+        "a": "Разрешено перестраиваться налево и направо.",
+        "b": "Нужно соблюдать безопасную дистанцию между автомобилями.",
+        "c": "Разрешено перестраиваться налево для обгона.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-49",
+      "explanation": "На знаке две машины друг за другом и метки расстояния между ними. R-49 требует держать безопасную дистанцию (distancia de seguridad). Знак не разрешает менять полосу.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-49),",
+            "tr": "(R-49)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está permitido",
+              "tr": "Разрешено",
+              "kind": "logic"
+            },
+            {
+              "es": "cambiar de carril",
+              "tr": "перестраиваться"
+            },
+            {
+              "es": "por la izquierda",
+              "tr": "налево",
+              "kind": "logic"
+            },
+            {
+              "es": "y por la derecha.",
+              "tr": "и направо.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Se debe mantener",
+              "tr": "Нужно соблюдать",
+              "kind": "logic"
+            },
+            {
+              "es": "la distancia de seguridad",
+              "tr": "безопасную дистанцию",
+              "kind": "anchor"
+            },
+            {
+              "es": "entre vehículos.",
+              "tr": "между автомобилями."
+            }
+          ],
+          "c": [
+            {
+              "es": "Está permitido",
+              "tr": "Разрешено",
+              "kind": "logic"
+            },
+            {
+              "es": "cambiar de carril",
+              "tr": "перестраиваться"
+            },
+            {
+              "es": "por la izquierda",
+              "tr": "налево",
+              "kind": "logic"
+            },
+            {
+              "es": "para adelantar.",
+              "tr": "для обгона."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-113": {
+      "id": "a1-113",
+      "text": "Следующий знак (R-50) означает:",
+      "options": {
+        "a": "Что если полоса только одна, преимущество у водителя, который приехал первым.",
+        "b": "Что если полоса только одна, преимущество у водителя, который видит знак.",
+        "c": "Что если полоса только одна, у того, кто видит знак, нет преимущества, и он должен уступить встречному.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак R-50 (узкий участок)",
+      "explanation": "На знаке большая чёрная стрелка вниз и маленькая красная вверх. Надпись: «Preferencia al sentido contrario» (преимущество у встречного). Кто видит этот знак, уступает встречным машинам на узком участке.",
+      "trap": "Вариант b говорит «tiene preferencia» (имеет преимущество), а правильный c — «no tiene preferencia» (не имеет). Ищите «darle paso al del sentido contrario» (уступить встречному).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(R-50),",
+            "tr": "(R-50)"
+          },
+          {
+            "es": "significa:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que si solo hay",
+              "tr": "Что если есть только",
+              "kind": "logic"
+            },
+            {
+              "es": "un carril",
+              "tr": "одна полоса,"
+            },
+            {
+              "es": "tiene preferencia de paso",
+              "tr": "преимущество проезда имеет"
+            },
+            {
+              "es": "el conductor",
+              "tr": "водитель,"
+            },
+            {
+              "es": "que llegó primero.",
+              "tr": "который приехал первым."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que si solo hay",
+              "tr": "Что если есть только",
+              "kind": "logic"
+            },
+            {
+              "es": "un carril",
+              "tr": "одна полоса,"
+            },
+            {
+              "es": "tiene preferencia",
+              "tr": "преимущество имеет"
+            },
+            {
+              "es": "el conductor",
+              "tr": "водитель,"
+            },
+            {
+              "es": "que está mirando la señal.",
+              "tr": "который видит знак."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que si solo hay",
+              "tr": "Что если есть только",
+              "kind": "logic"
+            },
+            {
+              "es": "un carril",
+              "tr": "одна полоса,"
+            },
+            {
+              "es": "no tiene preferencia",
+              "tr": "не имеет преимущества",
+              "kind": "logic"
+            },
+            {
+              "es": "el que está mirando",
+              "tr": "тот, кто видит"
+            },
+            {
+              "es": "la señal",
+              "tr": "знак,"
+            },
+            {
+              "es": "y debe darle paso",
+              "tr": "и должен уступить",
+              "kind": "anchor"
+            },
+            {
+              "es": "al del sentido contrario.",
+              "tr": "встречному.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-114": {
+      "id": "a1-114",
+      "text": "Знак (R-5-1) — это:",
+      "options": {
+        "a": "Информационный знак.",
+        "b": "Предупреждающий знак.",
+        "c": "Предписывающий знак (обязанность).",
+        "d": "Это не действующий знак в Перу."
+      },
+      "gist": "Какого типа знак R-5-1",
+      "explanation": "R-5-1: стрелка налево и слово «SOLO» (только). Знаки серии R белые с чёрным и красным: регламентирующие. Этот знак обязывает: только налево. Значит, это знак обязанности (obligación).",
+      "trap": "«Preventiva» (предупреждающий) — это жёлтые ромбы серии P. «Informativa» — синие и зелёные. Белый знак с чёрной стрелкой и «SOLO» — обязанность.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal",
+            "tr": "Знак"
+          },
+          {
+            "es": "(R-5-1),",
+            "tr": "(R-5-1)"
+          },
+          {
+            "es": "es:",
+            "tr": "это:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Una señal",
+              "tr": "Знак"
+            },
+            {
+              "es": "informativa.",
+              "tr": "информационный."
+            }
+          ],
+          "b": [
+            {
+              "es": "Una señal",
+              "tr": "Знак"
+            },
+            {
+              "es": "preventiva.",
+              "tr": "предупреждающий."
+            }
+          ],
+          "c": [
+            {
+              "es": "Una señal",
+              "tr": "Знак"
+            },
+            {
+              "es": "de obligación.",
+              "tr": "обязанности.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "No es una señal",
+              "tr": "Это не знак,",
+              "kind": "logic"
+            },
+            {
+              "es": "válida en el Perú.",
+              "tr": "действующий в Перу."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-115": {
+      "id": "a1-115",
+      "text": "Знак (P-3a) сообщает водителю, что:",
+      "options": {
+        "a": "Впереди поворот и обратный поворот налево.",
+        "b": "Впереди поворот и обратный поворот направо.",
+        "c": "Впереди крутой поворот и обратный поворот направо.",
+        "d": "Впереди крутой поворот и обратный поворот налево."
+      },
+      "gist": "Что означает знак P-3a (повороты)",
+      "explanation": "На знаке стрелка с резкими углами: сначала направо, потом налево. Резкие углы значат «pronunciada» (крутая). Первый изгиб направо, поэтому «a la derecha».",
+      "trap": "Все четыре варианта почти одинаковые. Нужны два слова вместе: «pronunciada» (крутая) и «derecha» (направо). Плавная стрелка без углов была бы без «pronunciada».",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal",
+            "tr": "Знак"
+          },
+          {
+            "es": "(P-3a) ,",
+            "tr": "(P-3a)"
+          },
+          {
+            "es": "le indica",
+            "tr": "сообщает"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "водителю, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Hay una curva",
+              "tr": "Впереди поворот"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "и обратный поворот"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "налево.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Hay una curva",
+              "tr": "Впереди поворот"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "и обратный поворот"
+            },
+            {
+              "es": "a la derecha.",
+              "tr": "направо.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Hay una curva",
+              "tr": "Впереди поворот"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "и обратный поворот"
+            },
+            {
+              "es": "pronunciada a la derecha.",
+              "tr": "крутой направо.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Hay una curva",
+              "tr": "Впереди поворот"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "и обратный поворот"
+            },
+            {
+              "es": "pronunciada a la izquierda.",
+              "tr": "крутой налево.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-116": {
+      "id": "a1-116",
+      "text": "Следующий знак (P-5-1a) предупреждает водителя, что:",
+      "options": {
+        "a": "Вы приближаетесь к повороту и обратному повороту налево.",
+        "b": "Вы приближаетесь к повороту и обратному повороту направо.",
+        "c": "Вы приближаетесь к извилистой дороге направо.",
+        "d": "Вы приближаетесь к извилистой дороге налево."
+      },
+      "gist": "Что означает знак P-5-1a (извилистая дорога)",
+      "explanation": "На знаке стрелка с тремя и больше изгибами. Это «camino sinuoso» (извилистая дорога), а не два поворота. Первый изгиб идёт налево, поэтому «a la izquierda».",
+      "trap": "Две пары вариантов: «curva y contra-curva» (два поворота) и «camino sinuoso» (извилистая дорога). Много изгибов = sinuoso. Потом смотрите на первый изгиб: налево (izquierda).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-5-1a) ,",
+            "tr": "(P-5-1a)"
+          },
+          {
+            "es": "le advierte",
+            "tr": "предупреждает"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "водителя, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a una curva",
+              "tr": "к повороту"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "и обратному повороту"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "налево.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a una curva",
+              "tr": "к повороту"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "и обратному повороту"
+            },
+            {
+              "es": "a la derecha.",
+              "tr": "направо.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a un camino sinuoso",
+              "tr": "к извилистой дороге"
+            },
+            {
+              "es": "a la derecha.",
+              "tr": "направо.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a un camino",
+              "tr": "к дороге"
+            },
+            {
+              "es": "sinuoso a la izquierda.",
+              "tr": "извилистой налево.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-117": {
+      "id": "a1-117",
+      "text": "Следующий знак (P-61) предупреждает водителя, что:",
+      "options": {
+        "a": "Направление движения такое, как показывает стрелка.",
+        "b": "Вы приближаетесь к сужению дороги с обеих сторон.",
+        "c": "Вы едете по горизонтальному повороту.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-61 (шеврон)",
+      "explanation": "P-61 это жёлтый щиток с чёрным шевроном (уголком). Такие щитки ставят вдоль поворота, чтобы показать его линию. Уголок не задаёт направление движения, он обозначает изгиб дороги.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-61),",
+            "tr": "(P-61)"
+          },
+          {
+            "es": "le advierte",
+            "tr": "предупреждает"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "водителя, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El sentido del tránsito",
+              "tr": "Направление движения"
+            },
+            {
+              "es": "es el que indica",
+              "tr": "то, которое показывает"
+            },
+            {
+              "es": "la flecha.",
+              "tr": "стрелка."
+            }
+          ],
+          "b": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a una reducción",
+              "tr": "к сужению"
+            },
+            {
+              "es": "de la vía",
+              "tr": "дороги"
+            },
+            {
+              "es": "en ambos sentidos.",
+              "tr": "с обеих сторон.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Está circulando",
+              "tr": "Вы едете"
+            },
+            {
+              "es": "por una curva horizontal.",
+              "tr": "по горизонтальному повороту.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-118": {
+      "id": "a1-118",
+      "text": "Следующий знак (P-34) предупреждает водителя, что:",
+      "options": {
+        "a": "Дорога в плохом состоянии, с ямами.",
+        "b": "Вы приближаетесь к бугру на дороге.",
+        "c": "Вы приближаетесь к «лежачему полицейскому».",
+        "d": "Вы приближаетесь к впадине (badén)."
+      },
+      "gist": "Что означает знак P-34 (впадина)",
+      "explanation": "На знаке чёрная полоса с прогибом вниз. Это «badén»: впадина, понижение дороги, часто для стока воды. Бугор вверх был бы «resalto» или «rompe muelles».",
+      "trap": "«Resalto» и «rompe muelles» — это бугры вверх. «Badén» — впадина вниз, как на знаке.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-34),",
+            "tr": "(P-34)"
+          },
+          {
+            "es": "le advierte",
+            "tr": "предупреждает"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "водителя, что:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La vía",
+              "tr": "Дорога"
+            },
+            {
+              "es": "está en mal estado",
+              "tr": "в плохом состоянии"
+            },
+            {
+              "es": "y tiene baches.",
+              "tr": "и с ямами."
+            }
+          ],
+          "b": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a un resalto.",
+              "tr": "к бугру."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a un rompe muelles.",
+              "tr": "к «лежачему полицейскому»."
+            }
+          ],
+          "d": [
+            {
+              "es": "Se aproxima",
+              "tr": "Вы приближаетесь"
+            },
+            {
+              "es": "a un badén.",
+              "tr": "к впадине.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-119": {
+      "id": "a1-119",
+      "text": "Следующий знак (P-60) — это:",
+      "options": {
+        "a": "Туристический знак.",
+        "b": "Информационный знак.",
+        "c": "Предупреждающий знак.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Какого типа знак P-60",
+      "explanation": "P-60 это жёлтый треугольник «NO ADELANTAR» (не обгонять). Жёлтый цвет и буква P значат «preventiva» (предупреждающий). Он предупреждает о начале зоны без обгона.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-60),",
+            "tr": "(P-60)"
+          },
+          {
+            "es": "es:",
+            "tr": "это:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Una señal",
+              "tr": "Знак"
+            },
+            {
+              "es": "turística.",
+              "tr": "туристический."
+            }
+          ],
+          "b": [
+            {
+              "es": "Una señal",
+              "tr": "Знак"
+            },
+            {
+              "es": "informativa.",
+              "tr": "информационный."
+            }
+          ],
+          "c": [
+            {
+              "es": "Una señal",
+              "tr": "Знак"
+            },
+            {
+              "es": "preventiva.",
+              "tr": "предупреждающий.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-120": {
+      "id": "a1-120",
+      "text": "Следующий знак (P-46) означает:",
+      "options": {
+        "a": "Наличие велодорожки.",
+        "b": "Разрешение на переезд велосипедистов.",
+        "c": "Велосипедисты на дороге.",
+        "d": "Близость велодорожки."
+      },
+      "gist": "Что означает знак P-46 (велосипед)",
+      "explanation": "На знаке только велосипед, без полос и без стрелки. P-46 предупреждает: на дороге могут быть велосипедисты. Про велодорожку (ciclovía) говорят другие знаки: P-46A и P-46B.",
+      "trap": "Три неверных варианта содержат «ciclovía» (велодорожка) или «cruce» (переезд). Правильный — просто «ciclistas en la vía» (велосипедисты на дороге).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-46),",
+            "tr": "(P-46)"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Existencia",
+              "tr": "Наличие"
+            },
+            {
+              "es": "de una ciclovía.",
+              "tr": "велодорожки."
+            }
+          ],
+          "b": [
+            {
+              "es": "Autorización",
+              "tr": "Разрешение"
+            },
+            {
+              "es": "para el cruce",
+              "tr": "на переезд"
+            },
+            {
+              "es": "de ciclistas.",
+              "tr": "велосипедистов."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ciclistas en la vía.",
+              "tr": "Велосипедисты на дороге.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Cercanía",
+              "tr": "Близость"
+            },
+            {
+              "es": "de una ciclovía.",
+              "tr": "велодорожки."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-121": {
+      "id": "a1-121",
+      "text": "Следующий знак (P-46-a) означает:",
+      "options": {
+        "a": "Что велосипедисты должны пользоваться велодорожкой.",
+        "b": "Что мы приближаемся к пересечению с велодорожкой.",
+        "c": "Что велодорожка только для велосипедистов.",
+        "d": "Все варианты верны."
+      },
+      "gist": "Что означает знак P-46-a",
+      "explanation": "На знаке велосипед и пунктирные линии перехода. P-46A предупреждает: впереди пересечение с велодорожкой. Знак без стрелки вниз значит «приближаемся», а не «здесь».",
+      "trap": "Варианты a и c — правила для велосипедистов, а знак адресован водителю. Не выбирайте «Todas» (все): верен только b.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-46-a) ,",
+            "tr": "(P-46-a)"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que los ciclistas",
+              "tr": "Что велосипедисты"
+            },
+            {
+              "es": "deben usar",
+              "tr": "должны пользоваться",
+              "kind": "logic"
+            },
+            {
+              "es": "la ciclovía.",
+              "tr": "велодорожкой."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que nos aproximamos",
+              "tr": "Что мы приближаемся",
+              "kind": "anchor"
+            },
+            {
+              "es": "a un cruce de ciclovía.",
+              "tr": "к пересечению с велодорожкой.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la ciclovía",
+              "tr": "Что велодорожка"
+            },
+            {
+              "es": "es solo",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "para los ciclistas.",
+              "tr": "для велосипедистов."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "верны."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-122": {
+      "id": "a1-122",
+      "text": "Следующий знак (P-46b) означает:",
+      "options": {
+        "a": "Что велосипедисты должны остановиться в этом месте.",
+        "b": "Что мы приближаемся к пересечению с велодорожкой.",
+        "c": "Что велодорожка только для велосипедистов.",
+        "d": "Место переезда велосипедистов."
+      },
+      "gist": "Что означает знак P-46b (со стрелкой)",
+      "explanation": "Под знаком стрелка, направленная вниз. Стрелка вниз значит: переезд велосипедистов именно здесь. Без стрелки (P-46A) знак говорит «приближаемся».",
+      "trap": "Вариант b — «nos aproximamos» (приближаемся): это P-46A без стрелки. Со стрелкой вниз правильно «ubicación» (место).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-46b) ,",
+            "tr": "(P-46b)"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que los ciclistas",
+              "tr": "Что велосипедисты"
+            },
+            {
+              "es": "deben detenerse",
+              "tr": "должны остановиться",
+              "kind": "logic"
+            },
+            {
+              "es": "en ese punto.",
+              "tr": "в этом месте."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que nos aproximamos",
+              "tr": "Что мы приближаемся"
+            },
+            {
+              "es": "a un cruce de ciclovía.",
+              "tr": "к пересечению с велодорожкой."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la ciclovía",
+              "tr": "Что велодорожка"
+            },
+            {
+              "es": "es solo",
+              "tr": "только",
+              "kind": "logic"
+            },
+            {
+              "es": "para los ciclistas.",
+              "tr": "для велосипедистов."
+            }
+          ],
+          "d": [
+            {
+              "es": "La ubicación",
+              "tr": "Место",
+              "kind": "anchor"
+            },
+            {
+              "es": "de un cruce de ciclistas.",
+              "tr": "переезда велосипедистов.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-123": {
+      "id": "a1-123",
+      "text": "Следующий знак (P-48) означает:",
+      "options": {
+        "a": "Дорога только для пешеходов.",
+        "b": "Зона, где есть пешеходы.",
+        "c": "Место школьного перехода.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-48 (пешеход)",
+      "explanation": "На знаке идущий пешеход, без полос перехода и без стрелки. P-48 предупреждает: здесь на дороге бывают пешеходы. Это не пешеходная зона и не школьный переход.",
+      "trap": "Вариант a — «uso exclusivo» (только для пешеходов), это другой знак. Правильно «presencia de peatones» (присутствие пешеходов).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-48),",
+            "tr": "(P-48)"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Vía es",
+              "tr": "Дорога"
+            },
+            {
+              "es": "de uso exclusivo",
+              "tr": "только для"
+            },
+            {
+              "es": "de los peatones.",
+              "tr": "пешеходов."
+            }
+          ],
+          "b": [
+            {
+              "es": "Zona con",
+              "tr": "Зона с"
+            },
+            {
+              "es": "presencia de peatones.",
+              "tr": "присутствием пешеходов.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación",
+              "tr": "Место"
+            },
+            {
+              "es": "de un cruce escolar.",
+              "tr": "школьного перехода."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-124": {
+      "id": "a1-124",
+      "text": "Следующий знак (P-48a) означает:",
+      "options": {
+        "a": "Дорога только для пешеходов.",
+        "b": "Приближение к пешеходному переходу.",
+        "c": "Место школьного перехода.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-48a (переход)",
+      "explanation": "На знаке пешеход на полосах перехода, без стрелки. P-48A предупреждает: впереди пешеходный переход. Стрелка вниз (P-48B) означала бы «переход здесь».",
+      "trap": "«Cruce peatonal» (пешеходный переход), а не «cruce escolar» (школьный переход). Без стрелки — «proximidad» (приближение).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-48a) ,",
+            "tr": "(P-48a)"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Vía es",
+              "tr": "Дорога"
+            },
+            {
+              "es": "de uso exclusivo",
+              "tr": "только для"
+            },
+            {
+              "es": "de peatones.",
+              "tr": "пешеходов."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad",
+              "tr": "Приближение",
+              "kind": "anchor"
+            },
+            {
+              "es": "a un cruce peatonal.",
+              "tr": "к пешеходному переходу.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación",
+              "tr": "Место"
+            },
+            {
+              "es": "de un cruce escolar.",
+              "tr": "школьного перехода."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-125": {
+      "id": "a1-125",
+      "text": "Следующий знак (P-48-b) означает:",
+      "options": {
+        "a": "Место школьного перехода.",
+        "b": "Приближение к проезжей части.",
+        "c": "Место пешеходного перехода.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что означает знак P-48-b (со стрелкой)",
+      "explanation": "Это знак P-48A плюс стрелка вниз. Стрелка вниз значит: пешеходный переход именно здесь. Школьный переход обозначается другим знаком, с двумя детьми.",
+      "trap": "Варианты a и c начинаются одинаково: «Ubicación de un cruce». Дальше «escolar» (школьный) — неверно, «peatonal» (пешеходный) — верно.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-48-b) ,",
+            "tr": "(P-48-b)"
+          },
+          {
+            "es": "indica:",
+            "tr": "означает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Ubicación",
+              "tr": "Место"
+            },
+            {
+              "es": "de un cruce escolar.",
+              "tr": "школьного перехода."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad",
+              "tr": "Приближение"
+            },
+            {
+              "es": "a una calzada.",
+              "tr": "к проезжей части."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación",
+              "tr": "Место"
+            },
+            {
+              "es": "de un cruce peatonal.",
+              "tr": "пешеходного перехода.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "en": {
+    "a1-101": {
+      "id": "a1-101",
+      "text": "If you are driving your vehicle along a road and before crossing the intersection you come across sign R-4, it tells you:",
+      "options": {
+        "a": "That the street is closed.",
+        "b": "That you are about to enter a road going the opposite way and must not enter.",
+        "c": "That you must stop completely before you can enter.",
+        "d": "None of the alternatives is correct"
+      },
+      "gist": "Meaning of sign R-4 (No entre)",
+      "explanation": "R-4 'NO ENTRE' means 'do not enter'. The road ahead carries traffic coming towards you. You must not enter it. It does not close the street and does not ask you to stop.",
+      "trap": "Option c says 'debe parar' (must stop): that is the PARE sign (R-1), not R-4. R-4 simply forbids entering.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted",
+            "tr": "If you"
+          },
+          {
+            "es": "se encuentra conduciendo",
+            "tr": "are driving"
+          },
+          {
+            "es": "su vehículo",
+            "tr": "your vehicle"
+          },
+          {
+            "es": "por una vía",
+            "tr": "along a road"
+          },
+          {
+            "es": "y antes de cruzar",
+            "tr": "and before crossing",
+            "kind": "logic"
+          },
+          {
+            "es": "la intersección",
+            "tr": "the intersection"
+          },
+          {
+            "es": "se encuentra con",
+            "tr": "you come across"
+          },
+          {
+            "es": "la señal R-4,",
+            "tr": "sign R-4,"
+          },
+          {
+            "es": "esta le indica:",
+            "tr": "it tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la calle",
+              "tr": "That the street"
+            },
+            {
+              "es": "está clausurada.",
+              "tr": "is closed."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que está por ingresar",
+              "tr": "That you are about to enter"
+            },
+            {
+              "es": "a una vía",
+              "tr": "a road"
+            },
+            {
+              "es": "de sentido contrario",
+              "tr": "going the opposite way",
+              "kind": "anchor"
+            },
+            {
+              "es": "y no debe entrar.",
+              "tr": "and must not enter.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que debe parar",
+              "tr": "That you must stop",
+              "kind": "logic"
+            },
+            {
+              "es": "totalmente",
+              "tr": "completely"
+            },
+            {
+              "es": "antes de poder ingresar.",
+              "tr": "before you can enter.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta",
+              "tr": "is correct"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-102": {
+      "id": "a1-102",
+      "text": "The following sign (P-36) means:",
+      "options": {
+        "a": "A tunnel ahead.",
+        "b": "Slippery surface.",
+        "c": "Switch on the low beams.",
+        "d": "Keep a safe distance between vehicles."
+      },
+      "gist": "Meaning of sign P-36",
+      "explanation": "The sign shows a skidding car with wavy tyre tracks. P-36 warns of a slippery surface (superficie deslizante). Slow down and avoid hard braking.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-36),",
+            "tr": "(P-36)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Proximidad",
+              "tr": "Proximity"
+            },
+            {
+              "es": "de un túnel.",
+              "tr": "of a tunnel."
+            }
+          ],
+          "b": [
+            {
+              "es": "Superficie deslizante.",
+              "tr": "Slippery surface.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Prender",
+              "tr": "Switch on"
+            },
+            {
+              "es": "las luces bajas.",
+              "tr": "the low beams."
+            }
+          ],
+          "d": [
+            {
+              "es": "Mantener la distancia",
+              "tr": "Keep the distance"
+            },
+            {
+              "es": "entre vehículos",
+              "tr": "between vehicles"
+            },
+            {
+              "es": "por seguridad.",
+              "tr": "for safety."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-103": {
+      "id": "a1-103",
+      "text": "The following sign (R-14) means:",
+      "options": {
+        "a": "Drive in the right-hand lane.",
+        "b": "Drive in the centre lane.",
+        "c": "Drive only in the direction shown by the arrow.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-14",
+      "explanation": "R-14 'CIRCULACIÓN' with an arrow: traffic goes only where the arrow points. It is not about choosing a lane. The key word in the answer is 'flecha' (arrow).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-14),",
+            "tr": "(R-14)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Circular",
+              "tr": "Drive"
+            },
+            {
+              "es": "por el carril",
+              "tr": "in the lane"
+            },
+            {
+              "es": "de la derecha.",
+              "tr": "on the right.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Circular",
+              "tr": "Drive"
+            },
+            {
+              "es": "por el carril central.",
+              "tr": "in the centre lane."
+            }
+          ],
+          "c": [
+            {
+              "es": "Circular solo",
+              "tr": "Drive only",
+              "kind": "logic"
+            },
+            {
+              "es": "en el sentido indicado",
+              "tr": "in the direction shown"
+            },
+            {
+              "es": "por la flecha.",
+              "tr": "by the arrow.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-104": {
+      "id": "a1-104",
+      "text": "If you are driving along a road and come across sign (R-11a), it tells you:",
+      "options": {
+        "a": "That it is a three-lane one-way road.",
+        "b": "That it is a three-lane road and you may use only one of them.",
+        "c": "That it is a three-lane road and you may use the two on the right.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-11a",
+      "explanation": "The sign shows three arrows. Two point up on the right, one points down on the left. The two right lanes are yours; the left one is for oncoming traffic. So you may use the two lanes on the right.",
+      "trap": "Option a says 'un solo sentido' (one-way) and b says 'solo uno' (only one): both wrong. One arrow points down, so there is oncoming traffic, and you get two lanes.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted circula",
+            "tr": "If you are driving"
+          },
+          {
+            "es": "por una vía",
+            "tr": "along a road"
+          },
+          {
+            "es": "y se encuentra con",
+            "tr": "and come across"
+          },
+          {
+            "es": "la señal (R-11a) ,",
+            "tr": "sign (R-11a),"
+          },
+          {
+            "es": "ésta le indica:",
+            "tr": "it tells you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que es una vía",
+              "tr": "That it is a road"
+            },
+            {
+              "es": "de tres carriles",
+              "tr": "with three lanes"
+            },
+            {
+              "es": "de un solo sentido.",
+              "tr": "one-way.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que es una vía",
+              "tr": "That it is a road"
+            },
+            {
+              "es": "de tres carriles",
+              "tr": "with three lanes"
+            },
+            {
+              "es": "y usted puede utilizar",
+              "tr": "and you may use",
+              "kind": "logic"
+            },
+            {
+              "es": "solo uno de ellos.",
+              "tr": "only one of them.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que es una vía",
+              "tr": "That it is a road"
+            },
+            {
+              "es": "de tres carriles",
+              "tr": "with three lanes"
+            },
+            {
+              "es": "y usted puede utilizar",
+              "tr": "and you may use",
+              "kind": "logic"
+            },
+            {
+              "es": "los dos de la derecha.",
+              "tr": "the two on the right.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-105": {
+      "id": "a1-105",
+      "text": "The following sign (R-30c) means:",
+      "options": {
+        "a": "That the maximum speed on the road is 50 km/h.",
+        "b": "That the minimum speed on the road is 50 km/h.",
+        "c": "That when exiting the road you are driving on, the maximum speed is 50 km/h.",
+        "d": "That when exiting the road you are driving on, the minimum speed is 50 km/h."
+      },
+      "gist": "Meaning of sign R-30c (SALIDA 50)",
+      "explanation": "The sign says 'SALIDA' (exit) above the number. The 50 km/h limit applies on the exit, not on the whole road. A red circle with a number is a maximum (máxima), not a minimum.",
+      "trap": "Look for two words together: 'al salir' (when exiting) and 'máxima' (maximum). Option a lacks 'salir'; option d says 'mínima' (minimum).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-30c) ,",
+            "tr": "(R-30c)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la velocidad máxima",
+              "tr": "That the maximum speed",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía",
+              "tr": "of the road"
+            },
+            {
+              "es": "es de 50 km/h.",
+              "tr": "is 50 km/h."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que la velocidad mínima",
+              "tr": "That the minimum speed",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía",
+              "tr": "of the road"
+            },
+            {
+              "es": "es de 50 km/h.",
+              "tr": "is 50 km/h."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que al salir",
+              "tr": "That when exiting"
+            },
+            {
+              "es": "de la vía",
+              "tr": "the road"
+            },
+            {
+              "es": "por donde está circulando,",
+              "tr": "you are driving on,"
+            },
+            {
+              "es": "la velocidad",
+              "tr": "the speed"
+            },
+            {
+              "es": "máxima es 50 km/h.",
+              "tr": "maximum is 50 km/h.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Que al salir",
+              "tr": "That when exiting"
+            },
+            {
+              "es": "de la vía",
+              "tr": "the road"
+            },
+            {
+              "es": "por donde está circulando,",
+              "tr": "you are driving on,"
+            },
+            {
+              "es": "la velocidad",
+              "tr": "the speed"
+            },
+            {
+              "es": "mínima es 50 km/h.",
+              "tr": "minimum is 50 km/h.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-106": {
+      "id": "a1-106",
+      "text": "The following sign (R-5-4) means:",
+      "options": {
+        "a": "That the road does not continue and drivers must turn left.",
+        "b": "That the intersection provides for left turns in both directions.",
+        "c": "That the intersection is under maintenance and for now you can only turn left.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-5-4",
+      "explanation": "The sign shows two left arrows from opposite directions and the word 'SOLO'. Each direction may only turn left. It is a normal junction sign, not roadworks and not a dead end.",
+      "trap": "Options a and c also talk about 'girar a la izquierda' (turn left). The right one is marked by 'ambos sentidos' (both directions).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-5-4),",
+            "tr": "(R-5-4)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la vía",
+              "tr": "That the road"
+            },
+            {
+              "es": "no continúa",
+              "tr": "does not continue",
+              "kind": "logic"
+            },
+            {
+              "es": "y los conductores",
+              "tr": "and drivers"
+            },
+            {
+              "es": "deben girar",
+              "tr": "must turn",
+              "kind": "logic"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "left.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que la intersección",
+              "tr": "That the intersection"
+            },
+            {
+              "es": "contempla",
+              "tr": "provides for"
+            },
+            {
+              "es": "giros tangentes",
+              "tr": "turns"
+            },
+            {
+              "es": "a la izquierda",
+              "tr": "to the left",
+              "kind": "logic"
+            },
+            {
+              "es": "en ambos sentidos.",
+              "tr": "in both directions.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la intersección",
+              "tr": "That the intersection"
+            },
+            {
+              "es": "está en mantenimiento",
+              "tr": "is under maintenance"
+            },
+            {
+              "es": "y que por el momento",
+              "tr": "and that for now"
+            },
+            {
+              "es": "solo se puede girar",
+              "tr": "you can only turn",
+              "kind": "logic"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "left.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-107": {
+      "id": "a1-107",
+      "text": "The following sign (R-9) means:",
+      "options": {
+        "a": "That making a U-turn is not permitted.",
+        "b": "That a U-turn is permitted.",
+        "c": "That you may turn left if you wish.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-9 (U-turn)",
+      "explanation": "The sign shows a U-turn arrow in a red circle with no line through it. Without the red slash the sign allows, it does not prohibit. So a U-turn (giro en U) is permitted here.",
+      "trap": "Options a and b differ only by the word 'no'. The right one is 'está permitido' (is permitted) without 'no'. A slash through the arrow would mean prohibited.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-9),",
+            "tr": "(R-9)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que no está permitido",
+              "tr": "That it is not permitted",
+              "kind": "logic"
+            },
+            {
+              "es": "girar en U.",
+              "tr": "to make a U-turn."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que está permitido",
+              "tr": "That it is permitted",
+              "kind": "logic"
+            },
+            {
+              "es": "el giro en U.",
+              "tr": "the U-turn."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que si desea",
+              "tr": "That if you wish"
+            },
+            {
+              "es": "puede girar",
+              "tr": "you may turn",
+              "kind": "logic"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "left.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-108": {
+      "id": "a1-108",
+      "text": "The following sign (R-5-2) means:",
+      "options": {
+        "a": "That the road only allows turning left.",
+        "b": "Warning of a fork in the road.",
+        "c": "That the lane you are in allows you to turn left or go straight ahead.",
+        "d": "It is not a valid sign in Peru."
+      },
+      "gist": "Meaning of sign R-5-2",
+      "explanation": "The arrow on the sign splits in two: straight ahead and left. From this lane you may go straight or turn left. Option a is wrong because of 'solo' (only): going straight is also allowed.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-5-2),",
+            "tr": "(R-5-2)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la vía",
+              "tr": "That the road"
+            },
+            {
+              "es": "solo permite",
+              "tr": "only allows",
+              "kind": "logic"
+            },
+            {
+              "es": "girar a la izquierda.",
+              "tr": "turning left.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Prevención",
+              "tr": "Warning"
+            },
+            {
+              "es": "por bifurcación",
+              "tr": "of a fork"
+            },
+            {
+              "es": "de la vía.",
+              "tr": "in the road."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que el carril",
+              "tr": "That the lane"
+            },
+            {
+              "es": "por donde circula",
+              "tr": "you are driving in"
+            },
+            {
+              "es": "permite girar",
+              "tr": "allows turning"
+            },
+            {
+              "es": "a la izquierda",
+              "tr": "left",
+              "kind": "logic"
+            },
+            {
+              "es": "o seguir de frente.",
+              "tr": "or going straight ahead.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "No es una señal",
+              "tr": "It is not a sign",
+              "kind": "logic"
+            },
+            {
+              "es": "válida en el Perú.",
+              "tr": "valid in Peru."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-109": {
+      "id": "a1-109",
+      "text": "The following sign (R-20) means:",
+      "options": {
+        "a": "That a pedestrian must look for cars coming from the right before crossing.",
+        "b": "That the driver coming from the right must watch out for pedestrians.",
+        "c": "That pedestrians must walk on the left.",
+        "d": "That pedestrians must walk on the right."
+      },
+      "gist": "Meaning of sign R-20 (pedestrians)",
+      "explanation": "The sign shows a pedestrian and an arrow pointing left. R-20 tells pedestrians to walk on the left side. This way they see oncoming cars. The answer is c, with 'izquierda' (left).",
+      "trap": "Options c and d differ by one word: 'izquierda' (left) and 'derecha' (right). The arrow on the sign points left.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-20),",
+            "tr": "(R-20)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que el peatón",
+              "tr": "That the pedestrian"
+            },
+            {
+              "es": "antes de cruzar",
+              "tr": "before crossing",
+              "kind": "logic"
+            },
+            {
+              "es": "debe mirar",
+              "tr": "must look",
+              "kind": "logic"
+            },
+            {
+              "es": "si se acercan autos",
+              "tr": "whether cars are coming"
+            },
+            {
+              "es": "por la derecha.",
+              "tr": "from the right.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que el conductor",
+              "tr": "That the driver"
+            },
+            {
+              "es": "que viene por la derecha",
+              "tr": "coming from the right",
+              "kind": "logic"
+            },
+            {
+              "es": "debe tener cuidado",
+              "tr": "must be careful",
+              "kind": "logic"
+            },
+            {
+              "es": "con los peatones.",
+              "tr": "with pedestrians."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que los peatones",
+              "tr": "That pedestrians"
+            },
+            {
+              "es": "deben circular",
+              "tr": "must walk",
+              "kind": "logic"
+            },
+            {
+              "es": "por la izquierda.",
+              "tr": "on the left.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Que los peatones",
+              "tr": "That pedestrians"
+            },
+            {
+              "es": "deben circular",
+              "tr": "must walk",
+              "kind": "logic"
+            },
+            {
+              "es": "por la derecha.",
+              "tr": "on the right.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-110": {
+      "id": "a1-110",
+      "text": "The following sign (R-40) means:",
+      "options": {
+        "a": "Zebra crossing.",
+        "b": "Police checkpoint.",
+        "c": "Slippery pavement.",
+        "d": "Drive with the low beams on."
+      },
+      "gist": "Meaning of sign R-40",
+      "explanation": "The sign shows a headlamp with light beams in a red circle. R-40 requires you to drive with the low beams on (luces bajas). It is often placed before tunnels.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-40),",
+            "tr": "(R-40)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Crucero",
+              "tr": "Crossing"
+            },
+            {
+              "es": "tipo cebra.",
+              "tr": "zebra type."
+            }
+          ],
+          "b": [
+            {
+              "es": "Control policial.",
+              "tr": "Police checkpoint."
+            }
+          ],
+          "c": [
+            {
+              "es": "Pavimento deslizante.",
+              "tr": "Slippery pavement."
+            }
+          ],
+          "d": [
+            {
+              "es": "Circular",
+              "tr": "Drive"
+            },
+            {
+              "es": "con luces bajas.",
+              "tr": "with low beams.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-111": {
+      "id": "a1-111",
+      "text": "The following sign (R-48) means:",
+      "options": {
+        "a": "Pedestrians must walk on the right and trucks drive on the left",
+        "b": "Pedestrians must be careful with trucks.",
+        "c": "Loading and unloading zone.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-48",
+      "explanation": "The sign shows a truck and a person carrying a load. R-48 marks a loading and unloading zone (carga y descarga). It is not about pedestrians or which side to use.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-48),",
+            "tr": "(R-48)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Los peatones",
+              "tr": "Pedestrians"
+            },
+            {
+              "es": "deben circular",
+              "tr": "must walk",
+              "kind": "logic"
+            },
+            {
+              "es": "por la derecha",
+              "tr": "on the right",
+              "kind": "logic"
+            },
+            {
+              "es": "y los camiones",
+              "tr": "and trucks"
+            },
+            {
+              "es": "por la izquierda",
+              "tr": "on the left",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Los peatones",
+              "tr": "Pedestrians"
+            },
+            {
+              "es": "deben tener cuidado",
+              "tr": "must be careful",
+              "kind": "logic"
+            },
+            {
+              "es": "con los camiones.",
+              "tr": "with trucks."
+            }
+          ],
+          "c": [
+            {
+              "es": "Zona de",
+              "tr": "Zone of"
+            },
+            {
+              "es": "carga y descarga.",
+              "tr": "loading and unloading.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-112": {
+      "id": "a1-112",
+      "text": "The following sign (R-49) means:",
+      "options": {
+        "a": "Changing lanes to the left and to the right is permitted.",
+        "b": "You must keep a safe distance between vehicles.",
+        "c": "Changing lanes to the left to overtake is permitted.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-49",
+      "explanation": "The sign shows two cars one behind the other with distance marks between them. R-49 requires keeping a safe distance (distancia de seguridad). It does not permit changing lanes.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-49),",
+            "tr": "(R-49)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está permitido",
+              "tr": "It is permitted",
+              "kind": "logic"
+            },
+            {
+              "es": "cambiar de carril",
+              "tr": "to change lanes"
+            },
+            {
+              "es": "por la izquierda",
+              "tr": "to the left",
+              "kind": "logic"
+            },
+            {
+              "es": "y por la derecha.",
+              "tr": "and to the right.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Se debe mantener",
+              "tr": "You must keep",
+              "kind": "logic"
+            },
+            {
+              "es": "la distancia de seguridad",
+              "tr": "the safe distance",
+              "kind": "anchor"
+            },
+            {
+              "es": "entre vehículos.",
+              "tr": "between vehicles."
+            }
+          ],
+          "c": [
+            {
+              "es": "Está permitido",
+              "tr": "It is permitted",
+              "kind": "logic"
+            },
+            {
+              "es": "cambiar de carril",
+              "tr": "to change lanes"
+            },
+            {
+              "es": "por la izquierda",
+              "tr": "to the left",
+              "kind": "logic"
+            },
+            {
+              "es": "para adelantar.",
+              "tr": "to overtake."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-113": {
+      "id": "a1-113",
+      "text": "The following sign (R-50) means:",
+      "options": {
+        "a": "That if there is only one lane, the driver who arrived first has right of way.",
+        "b": "That if there is only one lane, the driver looking at the sign has right of way.",
+        "c": "That if there is only one lane, the driver looking at the sign has no right of way and must give way to oncoming traffic.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign R-50 (narrow section)",
+      "explanation": "The sign shows a big black arrow down and a small red arrow up. It reads 'Preferencia al sentido contrario' (priority to oncoming traffic). Whoever sees this sign gives way to oncoming cars on the narrow section.",
+      "trap": "Option b says 'tiene preferencia' (has priority); the right one, c, says 'no tiene preferencia' (has no priority). Look for 'darle paso al del sentido contrario' (give way to oncoming).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(R-50),",
+            "tr": "(R-50)"
+          },
+          {
+            "es": "significa:",
+            "tr": "means:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que si solo hay",
+              "tr": "That if there is only",
+              "kind": "logic"
+            },
+            {
+              "es": "un carril",
+              "tr": "one lane,"
+            },
+            {
+              "es": "tiene preferencia de paso",
+              "tr": "has right of way"
+            },
+            {
+              "es": "el conductor",
+              "tr": "the driver"
+            },
+            {
+              "es": "que llegó primero.",
+              "tr": "who arrived first."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que si solo hay",
+              "tr": "That if there is only",
+              "kind": "logic"
+            },
+            {
+              "es": "un carril",
+              "tr": "one lane,"
+            },
+            {
+              "es": "tiene preferencia",
+              "tr": "has priority"
+            },
+            {
+              "es": "el conductor",
+              "tr": "the driver"
+            },
+            {
+              "es": "que está mirando la señal.",
+              "tr": "who is looking at the sign."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que si solo hay",
+              "tr": "That if there is only",
+              "kind": "logic"
+            },
+            {
+              "es": "un carril",
+              "tr": "one lane,"
+            },
+            {
+              "es": "no tiene preferencia",
+              "tr": "has no priority",
+              "kind": "logic"
+            },
+            {
+              "es": "el que está mirando",
+              "tr": "the one looking at"
+            },
+            {
+              "es": "la señal",
+              "tr": "the sign"
+            },
+            {
+              "es": "y debe darle paso",
+              "tr": "and must give way",
+              "kind": "anchor"
+            },
+            {
+              "es": "al del sentido contrario.",
+              "tr": "to the oncoming driver.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-114": {
+      "id": "a1-114",
+      "text": "Sign (R-5-1) is:",
+      "options": {
+        "a": "An informative sign.",
+        "b": "A warning sign.",
+        "c": "A mandatory sign (obligation).",
+        "d": "It is not a valid sign in Peru."
+      },
+      "gist": "What type of sign R-5-1 is",
+      "explanation": "R-5-1: a left arrow and the word 'SOLO' (only). R-series signs are white with black and red: regulatory signs. This one orders you: left turn only. So it is a mandatory sign (obligación).",
+      "trap": "'Preventiva' (warning) signs are the yellow diamonds of the P series. 'Informativa' signs are blue and green. A white sign with a black arrow and 'SOLO' is an obligation.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal",
+            "tr": "The sign"
+          },
+          {
+            "es": "(R-5-1),",
+            "tr": "(R-5-1)"
+          },
+          {
+            "es": "es:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Una señal",
+              "tr": "A sign"
+            },
+            {
+              "es": "informativa.",
+              "tr": "informative."
+            }
+          ],
+          "b": [
+            {
+              "es": "Una señal",
+              "tr": "A sign"
+            },
+            {
+              "es": "preventiva.",
+              "tr": "warning."
+            }
+          ],
+          "c": [
+            {
+              "es": "Una señal",
+              "tr": "A sign"
+            },
+            {
+              "es": "de obligación.",
+              "tr": "of obligation.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "No es una señal",
+              "tr": "It is not a sign",
+              "kind": "logic"
+            },
+            {
+              "es": "válida en el Perú.",
+              "tr": "valid in Peru."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-115": {
+      "id": "a1-115",
+      "text": "Sign (P-3a) tells the driver that:",
+      "options": {
+        "a": "There is a curve and counter-curve to the left.",
+        "b": "There is a curve and counter-curve to the right.",
+        "c": "There is a sharp curve and counter-curve to the right.",
+        "d": "There is a sharp curve and counter-curve to the left."
+      },
+      "gist": "Meaning of sign P-3a (curves)",
+      "explanation": "The arrow on the sign has sharp angles: first right, then left. Sharp angles mean 'pronunciada' (sharp). The first bend goes right, so 'a la derecha'.",
+      "trap": "All four options look almost the same. You need two words together: 'pronunciada' (sharp) and 'derecha' (right). A smooth arrow without angles would have no 'pronunciada'.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La señal",
+            "tr": "The sign"
+          },
+          {
+            "es": "(P-3a) ,",
+            "tr": "(P-3a)"
+          },
+          {
+            "es": "le indica",
+            "tr": "tells"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "the driver that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Hay una curva",
+              "tr": "There is a curve"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "and counter-curve"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "to the left.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Hay una curva",
+              "tr": "There is a curve"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "and counter-curve"
+            },
+            {
+              "es": "a la derecha.",
+              "tr": "to the right.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Hay una curva",
+              "tr": "There is a curve"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "and counter-curve"
+            },
+            {
+              "es": "pronunciada a la derecha.",
+              "tr": "sharp to the right.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Hay una curva",
+              "tr": "There is a curve"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "and counter-curve"
+            },
+            {
+              "es": "pronunciada a la izquierda.",
+              "tr": "sharp to the left.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-116": {
+      "id": "a1-116",
+      "text": "The following sign (P-5-1a) warns the driver that:",
+      "options": {
+        "a": "You are approaching a curve and counter-curve to the left.",
+        "b": "You are approaching a curve and counter-curve to the right.",
+        "c": "You are approaching a winding road to the right.",
+        "d": "You are approaching a winding road to the left."
+      },
+      "gist": "Meaning of sign P-5-1a (winding road)",
+      "explanation": "The arrow on the sign has three or more bends. That is a 'camino sinuoso' (winding road), not just two curves. The first bend goes left, so 'a la izquierda'.",
+      "trap": "Two pairs of options: 'curva y contra-curva' (two curves) and 'camino sinuoso' (winding road). Many bends = sinuoso. Then look at the first bend: left (izquierda).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-5-1a) ,",
+            "tr": "(P-5-1a)"
+          },
+          {
+            "es": "le advierte",
+            "tr": "warns"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "the driver that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a una curva",
+              "tr": "a curve"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "and counter-curve"
+            },
+            {
+              "es": "a la izquierda.",
+              "tr": "to the left.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a una curva",
+              "tr": "a curve"
+            },
+            {
+              "es": "y contra-curva",
+              "tr": "and counter-curve"
+            },
+            {
+              "es": "a la derecha.",
+              "tr": "to the right.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a un camino sinuoso",
+              "tr": "a winding road"
+            },
+            {
+              "es": "a la derecha.",
+              "tr": "to the right.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a un camino",
+              "tr": "a road"
+            },
+            {
+              "es": "sinuoso a la izquierda.",
+              "tr": "winding to the left.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-117": {
+      "id": "a1-117",
+      "text": "The following sign (P-61) warns the driver that:",
+      "options": {
+        "a": "The direction of traffic is the one the arrow shows.",
+        "b": "You are approaching a narrowing of the road on both sides.",
+        "c": "You are driving through a horizontal curve.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-61 (chevron)",
+      "explanation": "P-61 is a yellow panel with a black chevron. These panels are placed along a bend to show its line. The chevron does not set the traffic direction; it marks the curve of the road.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-61),",
+            "tr": "(P-61)"
+          },
+          {
+            "es": "le advierte",
+            "tr": "warns"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "the driver that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El sentido del tránsito",
+              "tr": "The direction of traffic"
+            },
+            {
+              "es": "es el que indica",
+              "tr": "is the one shown by"
+            },
+            {
+              "es": "la flecha.",
+              "tr": "the arrow."
+            }
+          ],
+          "b": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a una reducción",
+              "tr": "a narrowing"
+            },
+            {
+              "es": "de la vía",
+              "tr": "of the road"
+            },
+            {
+              "es": "en ambos sentidos.",
+              "tr": "on both sides.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Está circulando",
+              "tr": "You are driving"
+            },
+            {
+              "es": "por una curva horizontal.",
+              "tr": "through a horizontal curve.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-118": {
+      "id": "a1-118",
+      "text": "The following sign (P-34) warns the driver that:",
+      "options": {
+        "a": "The road is in bad condition and has potholes.",
+        "b": "You are approaching a bump.",
+        "c": "You are approaching a speed bump.",
+        "d": "You are approaching a dip (badén)."
+      },
+      "gist": "Meaning of sign P-34 (dip)",
+      "explanation": "The sign shows a black bar that dips down. That is a 'badén': a dip in the road, often for water drainage. A bump going up would be 'resalto' or 'rompe muelles'.",
+      "trap": "'Resalto' and 'rompe muelles' are bumps going up. 'Badén' is a dip going down, as on the sign.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-34),",
+            "tr": "(P-34)"
+          },
+          {
+            "es": "le advierte",
+            "tr": "warns"
+          },
+          {
+            "es": "al conductor que:",
+            "tr": "the driver that:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "La vía",
+              "tr": "The road"
+            },
+            {
+              "es": "está en mal estado",
+              "tr": "is in bad condition"
+            },
+            {
+              "es": "y tiene baches.",
+              "tr": "and has potholes."
+            }
+          ],
+          "b": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a un resalto.",
+              "tr": "a bump."
+            }
+          ],
+          "c": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a un rompe muelles.",
+              "tr": "a speed bump."
+            }
+          ],
+          "d": [
+            {
+              "es": "Se aproxima",
+              "tr": "You are approaching"
+            },
+            {
+              "es": "a un badén.",
+              "tr": "a dip.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-119": {
+      "id": "a1-119",
+      "text": "The following sign (P-60) is:",
+      "options": {
+        "a": "A tourist sign.",
+        "b": "An informative sign.",
+        "c": "A warning sign.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "What type of sign P-60 is",
+      "explanation": "P-60 is a yellow triangle reading 'NO ADELANTAR' (no overtaking). Yellow colour and the letter P mean 'preventiva' (warning). It warns that a no-overtaking zone begins.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-60),",
+            "tr": "(P-60)"
+          },
+          {
+            "es": "es:",
+            "tr": "is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Una señal",
+              "tr": "A sign"
+            },
+            {
+              "es": "turística.",
+              "tr": "tourist."
+            }
+          ],
+          "b": [
+            {
+              "es": "Una señal",
+              "tr": "A sign"
+            },
+            {
+              "es": "informativa.",
+              "tr": "informative."
+            }
+          ],
+          "c": [
+            {
+              "es": "Una señal",
+              "tr": "A sign"
+            },
+            {
+              "es": "preventiva.",
+              "tr": "warning.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-120": {
+      "id": "a1-120",
+      "text": "The following sign (P-46) indicates:",
+      "options": {
+        "a": "Presence of a cycle lane.",
+        "b": "Authorisation for cyclists to cross.",
+        "c": "Cyclists on the road.",
+        "d": "A cycle lane nearby."
+      },
+      "gist": "Meaning of sign P-46 (bicycle)",
+      "explanation": "The sign shows only a bicycle, with no lines and no arrow. P-46 warns that cyclists may be on the road. Other signs, P-46A and P-46B, are about a cycle lane (ciclovía).",
+      "trap": "The three wrong options contain 'ciclovía' (cycle lane) or 'cruce' (crossing). The right one is simply 'ciclistas en la vía' (cyclists on the road).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-46),",
+            "tr": "(P-46)"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Existencia",
+              "tr": "Presence"
+            },
+            {
+              "es": "de una ciclovía.",
+              "tr": "of a cycle lane."
+            }
+          ],
+          "b": [
+            {
+              "es": "Autorización",
+              "tr": "Authorisation"
+            },
+            {
+              "es": "para el cruce",
+              "tr": "for the crossing"
+            },
+            {
+              "es": "de ciclistas.",
+              "tr": "of cyclists."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ciclistas en la vía.",
+              "tr": "Cyclists on the road.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Cercanía",
+              "tr": "Nearness"
+            },
+            {
+              "es": "de una ciclovía.",
+              "tr": "of a cycle lane."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-121": {
+      "id": "a1-121",
+      "text": "The following sign (P-46-a) indicates:",
+      "options": {
+        "a": "That cyclists must use the cycle lane.",
+        "b": "That we are approaching a cycle-lane crossing.",
+        "c": "That the cycle lane is only for cyclists.",
+        "d": "All the alternatives are correct."
+      },
+      "gist": "Meaning of sign P-46-a",
+      "explanation": "The sign shows a bicycle and dashed crossing lines. P-46A warns that a cycle-lane crossing is ahead. Without a down arrow the sign means 'approaching', not 'here'.",
+      "trap": "Options a and c are rules for cyclists, but the sign is addressed to the driver. Do not pick 'Todas' (all): only b is right.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-46-a) ,",
+            "tr": "(P-46-a)"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que los ciclistas",
+              "tr": "That cyclists"
+            },
+            {
+              "es": "deben usar",
+              "tr": "must use",
+              "kind": "logic"
+            },
+            {
+              "es": "la ciclovía.",
+              "tr": "the cycle lane."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que nos aproximamos",
+              "tr": "That we are approaching",
+              "kind": "anchor"
+            },
+            {
+              "es": "a un cruce de ciclovía.",
+              "tr": "a cycle-lane crossing.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la ciclovía",
+              "tr": "That the cycle lane"
+            },
+            {
+              "es": "es solo",
+              "tr": "is only",
+              "kind": "logic"
+            },
+            {
+              "es": "para los ciclistas.",
+              "tr": "for cyclists."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-122": {
+      "id": "a1-122",
+      "text": "The following sign (P-46b) indicates:",
+      "options": {
+        "a": "That cyclists must stop at that point.",
+        "b": "That we are approaching a cycle-lane crossing.",
+        "c": "That the cycle lane is only for cyclists.",
+        "d": "The location of a cyclist crossing."
+      },
+      "gist": "Meaning of sign P-46b (with arrow)",
+      "explanation": "Under the sign there is an arrow pointing down. The down arrow means the cyclist crossing is right here. Without the arrow (P-46A) the sign says 'approaching'.",
+      "trap": "Option b says 'nos aproximamos' (we are approaching): that is P-46A without the arrow. With the down arrow the right word is 'ubicación' (location).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-46b) ,",
+            "tr": "(P-46b)"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que los ciclistas",
+              "tr": "That cyclists"
+            },
+            {
+              "es": "deben detenerse",
+              "tr": "must stop",
+              "kind": "logic"
+            },
+            {
+              "es": "en ese punto.",
+              "tr": "at that point."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que nos aproximamos",
+              "tr": "That we are approaching"
+            },
+            {
+              "es": "a un cruce de ciclovía.",
+              "tr": "a cycle-lane crossing."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la ciclovía",
+              "tr": "That the cycle lane"
+            },
+            {
+              "es": "es solo",
+              "tr": "is only",
+              "kind": "logic"
+            },
+            {
+              "es": "para los ciclistas.",
+              "tr": "for cyclists."
+            }
+          ],
+          "d": [
+            {
+              "es": "La ubicación",
+              "tr": "The location",
+              "kind": "anchor"
+            },
+            {
+              "es": "de un cruce de ciclistas.",
+              "tr": "of a cyclist crossing.",
+              "kind": "anchor"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-123": {
+      "id": "a1-123",
+      "text": "The following sign (P-48) indicates:",
+      "options": {
+        "a": "The road is for pedestrians only.",
+        "b": "Area with pedestrians present.",
+        "c": "Location of a school crossing.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-48 (pedestrian)",
+      "explanation": "The sign shows a walking pedestrian, with no crossing lines and no arrow. P-48 warns that pedestrians may be on the road here. It is not a pedestrian-only road and not a school crossing.",
+      "trap": "Option a says 'uso exclusivo' (pedestrians only); that is a different sign. The right one is 'presencia de peatones' (presence of pedestrians).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-48),",
+            "tr": "(P-48)"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Vía es",
+              "tr": "The road is"
+            },
+            {
+              "es": "de uso exclusivo",
+              "tr": "for the exclusive use"
+            },
+            {
+              "es": "de los peatones.",
+              "tr": "of pedestrians."
+            }
+          ],
+          "b": [
+            {
+              "es": "Zona con",
+              "tr": "Area with"
+            },
+            {
+              "es": "presencia de peatones.",
+              "tr": "presence of pedestrians.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación",
+              "tr": "Location"
+            },
+            {
+              "es": "de un cruce escolar.",
+              "tr": "of a school crossing."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-124": {
+      "id": "a1-124",
+      "text": "The following sign (P-48a) indicates:",
+      "options": {
+        "a": "The road is for pedestrians only.",
+        "b": "A pedestrian crossing ahead.",
+        "c": "Location of a school crossing.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-48a (crossing)",
+      "explanation": "The sign shows a pedestrian on crossing lines, with no arrow. P-48A warns that a pedestrian crossing is ahead. A down arrow (P-48B) would mean 'the crossing is here'.",
+      "trap": "'Cruce peatonal' (pedestrian crossing), not 'cruce escolar' (school crossing). Without the arrow it is 'proximidad' (approaching).",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-48a) ,",
+            "tr": "(P-48a)"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Vía es",
+              "tr": "The road is"
+            },
+            {
+              "es": "de uso exclusivo",
+              "tr": "for the exclusive use"
+            },
+            {
+              "es": "de peatones.",
+              "tr": "of pedestrians."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad",
+              "tr": "Proximity",
+              "kind": "anchor"
+            },
+            {
+              "es": "a un cruce peatonal.",
+              "tr": "to a pedestrian crossing.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación",
+              "tr": "Location"
+            },
+            {
+              "es": "de un cruce escolar.",
+              "tr": "of a school crossing."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-125": {
+      "id": "a1-125",
+      "text": "The following sign (P-48-b) indicates:",
+      "options": {
+        "a": "Location of a school crossing.",
+        "b": "A carriageway ahead.",
+        "c": "Location of a pedestrian crossing.",
+        "d": "None of the alternatives is correct."
+      },
+      "gist": "Meaning of sign P-48-b (with arrow)",
+      "explanation": "It is sign P-48A plus a down arrow. The down arrow means the pedestrian crossing is right here. A school crossing uses a different sign, with two children.",
+      "trap": "Options a and c start the same way: 'Ubicación de un cruce'. Then 'escolar' (school) is wrong and 'peatonal' (pedestrian) is right.",
+      "legalRef": "MDCT",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-48-b) ,",
+            "tr": "(P-48-b)"
+          },
+          {
+            "es": "indica:",
+            "tr": "indicates:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Ubicación",
+              "tr": "Location"
+            },
+            {
+              "es": "de un cruce escolar.",
+              "tr": "of a school crossing."
+            }
+          ],
+          "b": [
+            {
+              "es": "Proximidad",
+              "tr": "Proximity"
+            },
+            {
+              "es": "a una calzada.",
+              "tr": "to a carriageway."
+            }
+          ],
+          "c": [
+            {
+              "es": "Ubicación",
+              "tr": "Location"
+            },
+            {
+              "es": "de un cruce peatonal.",
+              "tr": "of a pedestrian crossing.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the alternatives",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "disputed": []
+}

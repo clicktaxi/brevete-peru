@@ -1,0 +1,5345 @@
+{
+  "meta": {
+    "a1-151": {
+      "topic": "senales",
+      "terms": [
+        "señal",
+        "delineador",
+        "curva",
+        "flecha",
+        "puente"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "P-61",
+          "señal"
+        ],
+        "answerKeys": [
+          "Delineadores de curva"
+        ]
+      }
+    },
+    "a1-152": {
+      "topic": "documentos",
+      "terms": [
+        "licencia",
+        "automóvil",
+        "camión",
+        "ómnibus",
+        "mototaxi"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "licencia particular A-I",
+          "autorizado a conducir"
+        ],
+        "answerKeys": [
+          "Automóvil"
+        ]
+      }
+    },
+    "a1-153": {
+      "topic": "seguridad",
+      "terms": [
+        "volante",
+        "asiento",
+        "dirección",
+        "cambio de velocidad",
+        "niño"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "Mientras la persona conduce",
+          "permitido"
+        ],
+        "answerKeys": [
+          "una mano sobre el volante"
+        ]
+      }
+    },
+    "a1-154": {
+      "topic": "seguridad",
+      "terms": [
+        "prueba",
+        "intoxicación",
+        "alcohol",
+        "droga",
+        "estupefaciente",
+        "policía",
+        "someterse"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "pruebas",
+          "Policía Nacional del Perú",
+          "intoxicación por alcohol"
+        ],
+        "answerKeys": [
+          "Obligado",
+          "someterse"
+        ]
+      }
+    },
+    "a1-155": {
+      "topic": "documentos",
+      "terms": [
+        "discapacidad",
+        "restricción",
+        "licencia de conducir",
+        "reexaminación",
+        "intervenir",
+        "permiso excepcional"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "discapacidad física",
+          "restricciones",
+          "licencia de conducir"
+        ],
+        "answerKeys": [
+          "intervenga",
+          "reexaminación"
+        ]
+      }
+    },
+    "a1-156": {
+      "topic": "documentos",
+      "terms": [
+        "discapacidad",
+        "corrector",
+        "restricción",
+        "licencia particular",
+        "norma vigente"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "discapacidad física",
+          "licencia de conducir particular"
+        ],
+        "answerKeys": [
+          "corrector"
+        ]
+      }
+    },
+    "a1-157": {
+      "topic": "documentos",
+      "terms": [
+        "menor de edad",
+        "licencia de conducir",
+        "permiso provisional",
+        "mayor de edad"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "menor de edad",
+          "conducir un vehículo"
+        ],
+        "answerKeys": [
+          "mayor de 16 años",
+          "permiso provisional"
+        ]
+      }
+    },
+    "a1-158": {
+      "topic": "otros",
+      "terms": [
+        "usuario de la vía",
+        "dispositivo de control de tránsito",
+        "policía de tránsito",
+        "norma",
+        "peatón"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "obligación general de tránsito",
+          "circulen respetando"
+        ],
+        "answerKeys": [
+          "usuarios",
+          "dispositivos de control"
+        ]
+      }
+    },
+    "a1-159": {
+      "topic": "seguridad",
+      "terms": [
+        "luz baja",
+        "vía urbana",
+        "combustible",
+        "calzada",
+        "acera",
+        "obstáculo",
+        "vía pública"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "afirmación incorrecta"
+        ],
+        "answerKeys": [
+          "luces bajas",
+          "24 horas"
+        ]
+      }
+    },
+    "a1-160": {
+      "topic": "velocidad",
+      "terms": [
+        "señal",
+        "límite máximo",
+        "velocidad",
+        "avenida",
+        "norma"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "50 km/h",
+          "60 km/h",
+          "señal en la vía"
+        ],
+        "answerKeys": [
+          "obedecer la señal"
+        ]
+      }
+    },
+    "a1-161": {
+      "topic": "seguridad",
+      "terms": [
+        "conducción en retroceso",
+        "retroceder",
+        "carretera"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "conducción en retroceso"
+        ],
+        "answerKeys": [
+          "estrictamente justificados"
+        ]
+      }
+    },
+    "a1-162": {
+      "topic": "seguridad",
+      "terms": [
+        "luz alta",
+        "luz baja",
+        "carretera",
+        "vía urbana",
+        "luz rompenieblas",
+        "sentido contrario"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "uso de la luz",
+          "obligatorio",
+          "sentido contrario"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-163": {
+      "topic": "estacionamiento",
+      "terms": [
+        "estacionamiento",
+        "vehículo de emergencia",
+        "paso peatonal",
+        "acera",
+        "sala de espectáculos"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "conducta permitida"
+        ],
+        "answerKeys": [
+          "vehículo de emergencia",
+          "imprescindible"
+        ]
+      }
+    },
+    "a1-164": {
+      "topic": "estacionamiento",
+      "terms": [
+        "abandono",
+        "estacionar",
+        "vía pública",
+        "lugar permitido"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "abandono de un vehículo"
+        ],
+        "answerKeys": [
+          "48 horas"
+        ]
+      }
+    },
+    "a1-165": {
+      "topic": "seguridad",
+      "terms": [
+        "carga",
+        "carrocería",
+        "sobresalir",
+        "sobrepasar",
+        "arrastrar",
+        "sujetar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "transportar carga"
+        ],
+        "answerKeys": [
+          "no sobrepase las dimensiones"
+        ]
+      }
+    },
+    "a1-166": {
+      "topic": "otros",
+      "terms": [
+        "emisión",
+        "sustancia contaminante",
+        "límite máximo",
+        "norma",
+        "ámbito urbano"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "emisión vehicular",
+          "sustancias contaminantes"
+        ],
+        "answerKeys": [
+          "límite máximo"
+        ]
+      }
+    },
+    "a1-167": {
+      "topic": "otros",
+      "terms": [
+        "autoridad competente",
+        "prohibir",
+        "restringir",
+        "circulación",
+        "estacionamiento",
+        "vía pública"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "autoridad competente",
+          "prohibir o restringir"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-168": {
+      "topic": "seguridad",
+      "terms": [
+        "luz alta",
+        "luz baja",
+        "carretera",
+        "sentido contrario",
+        "luces de emergencia"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "carretera de noche",
+          "sentido contrario"
+        ],
+        "answerKeys": [
+          "altas a luces bajas"
+        ]
+      }
+    },
+    "a1-169": {
+      "topic": "estacionamiento",
+      "terms": [
+        "detención",
+        "carril derecho",
+        "luces intermitentes",
+        "sentido de la circulación",
+        "luz alta"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "detención de un vehículo"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-170": {
+      "topic": "otros",
+      "terms": [
+        "accidente de tránsito",
+        "daños personales",
+        "daños materiales",
+        "autoridad policial",
+        "abandonar"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "accidente de tránsito",
+          "participantes"
+        ],
+        "answerKeys": [
+          "autoridad policial"
+        ]
+      }
+    },
+    "a1-171": {
+      "topic": "documentos",
+      "terms": [
+        "tarjeta de identificación vehicular",
+        "placa única de rodaje",
+        "soat",
+        "portar",
+        "exhibir"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "antes de iniciar la conducción",
+          "no está obligado"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-172": {
+      "topic": "documentos",
+      "terms": [
+        "placa única nacional de rodaje",
+        "tarjeta de identificación vehicular",
+        "titular",
+        "circulación",
+        "vía pública"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "faculta y autoriza",
+          "identifica el bien"
+        ],
+        "answerKeys": [
+          "Placa"
+        ]
+      }
+    },
+    "a1-173": {
+      "topic": "seguridad",
+      "terms": [
+        "alcoholímetro",
+        "alcoholemia",
+        "prueba",
+        "coordinación",
+        "equilibrio",
+        "estupefaciente",
+        "intervención"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "presencia de alcohol",
+          "Policía de Tránsito",
+          "intervención"
+        ],
+        "answerKeys": []
+      }
+    },
+    "a1-174": {
+      "topic": "infracciones",
+      "terms": [
+        "reincidencia",
+        "infracción",
+        "multa",
+        "sanción",
+        "reglamento nacional de tránsito"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "reincidencia",
+          "infracciones de tránsito"
+        ],
+        "answerKeys": [
+          "12 meses",
+          "doble de la multa"
+        ]
+      }
+    },
+    "a1-175": {
+      "topic": "infracciones",
+      "terms": [
+        "reincidencia",
+        "infracción",
+        "multa",
+        "mes"
+      ],
+      "anchors": {
+        "questionKeys": [
+          "reincidencia",
+          "doble de la multa"
+        ],
+        "answerKeys": [
+          "12 meses"
+        ]
+      }
+    }
+  },
+  "ru": {
+    "a1-151": {
+      "id": "a1-151",
+      "text": "Следующий знак (P-61) показывает:",
+      "options": {
+        "a": "Светоотражающие стрелки, указывающие на опасность.",
+        "b": "Делинеаторы (направляющие столбики) поворота, которые ведут водителя.",
+        "c": "Предупреждение водителю о приближении к мосту.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что показывает знак P-61",
+      "explanation": "Знак P-61 — это делинеаторы поворота. Они стоят вдоль кривой и показывают водителю направление дороги. Это не стрелки опасности и не предупреждение о мосте.",
+      "trap": "Вариант a «flechas» (стрелки) похож по картинке, но правильный ответ — «delineadores de curva» (делинеаторы поворота).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "Следующий знак"
+          },
+          {
+            "es": "(P-61),",
+            "tr": "(P-61),"
+          },
+          {
+            "es": "muestra:",
+            "tr": "показывает:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Flechas retroreflectivas",
+              "tr": "Светоотражающие стрелки"
+            },
+            {
+              "es": "que indican peligro.",
+              "tr": "которые указывают опасность."
+            }
+          ],
+          "b": [
+            {
+              "es": "Delineadores de curva,",
+              "tr": "Делинеаторы поворота,",
+              "kind": "anchor"
+            },
+            {
+              "es": "que guían al conductor.",
+              "tr": "которые ведут водителя."
+            }
+          ],
+          "c": [
+            {
+              "es": "Advertencia al conductor",
+              "tr": "Предупреждение водителю"
+            },
+            {
+              "es": "sobre la proximidad",
+              "tr": "о близости"
+            },
+            {
+              "es": "de un puente.",
+              "tr": "моста."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-152": {
+      "id": "a1-152",
+      "text": "Если у вас есть личные права категории A-I, вы имеете право водить следующее транспортное средство:",
+      "options": {
+        "a": "Грузовик-самосвал.",
+        "b": "Автобус панорамного типа.",
+        "c": "Мототакси.",
+        "d": "Легковой автомобиль, седан."
+      },
+      "gist": "Что можно водить с правами A-I",
+      "explanation": "Права A-I — для легковых автомобилей. Грузовики и автобусы требуют профессиональных прав (A-II, A-III). Мототакси — это категория B.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted es titular",
+            "tr": "Если вы владелец"
+          },
+          {
+            "es": "de una licencia particular A-I,",
+            "tr": "личных прав A-I,"
+          },
+          {
+            "es": "está autorizado",
+            "tr": "вам разрешено",
+            "kind": "logic"
+          },
+          {
+            "es": "a conducir",
+            "tr": "водить"
+          },
+          {
+            "es": "el siguiente vehículo:",
+            "tr": "следующее транспортное средство:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Camión,",
+              "tr": "Грузовик,"
+            },
+            {
+              "es": "tipo volquete.",
+              "tr": "самосвал."
+            }
+          ],
+          "b": [
+            {
+              "es": "Ómnibus,",
+              "tr": "Автобус,"
+            },
+            {
+              "es": "tipo panorámico.",
+              "tr": "панорамный."
+            }
+          ],
+          "c": [
+            {
+              "es": "Mototaxi.",
+              "tr": "Мототакси."
+            }
+          ],
+          "d": [
+            {
+              "es": "Automóvil,",
+              "tr": "Автомобиль,",
+              "kind": "anchor"
+            },
+            {
+              "es": "tipo sedan.",
+              "tr": "седан."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-153": {
+      "id": "a1-153",
+      "text": "Пока человек ведёт машину, ему разрешено:",
+      "options": {
+        "a": "Делить своё сиденье с ребёнком, при условии что ему меньше одного года.",
+        "b": "Позволять другому человеку взять управление рулём, при условии что…",
+        "c": "Вести одной рукой на руле, когда нужно нажать какой-то орган управления, например переключить передачу.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что разрешено во время вождения",
+      "explanation": "Одной рукой на руле можно вести, если нужно переключить передачу или нажать кнопку. Ребёнок на сиденье водителя запрещён в любом возрасте. Передавать руль другому человеку тоже нельзя.",
+      "trap": "Варианты a и b начинаются с «siempre y cuando» (при условии) и звучат как исключения, но это всегда нарушения.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Mientras la persona conduce,",
+            "tr": "Пока человек ведёт,"
+          },
+          {
+            "es": "le está permitido:",
+            "tr": "ему разрешено:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Compartir su asiento",
+              "tr": "Делить своё сиденье"
+            },
+            {
+              "es": "con un niño,",
+              "tr": "с ребёнком,"
+            },
+            {
+              "es": "siempre y cuando",
+              "tr": "при условии, что",
+              "kind": "logic"
+            },
+            {
+              "es": "éste sea menor",
+              "tr": "он младше",
+              "kind": "logic"
+            },
+            {
+              "es": "de un año de edad.",
+              "tr": "одного года."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que otra persona",
+              "tr": "Чтобы другой человек"
+            },
+            {
+              "es": "tome el control",
+              "tr": "взял управление"
+            },
+            {
+              "es": "de la dirección del vehículo,",
+              "tr": "рулём автомобиля,"
+            },
+            {
+              "es": "siempre y",
+              "tr": "при условии…",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Conducir con una mano",
+              "tr": "Вести одной рукой",
+              "kind": "anchor"
+            },
+            {
+              "es": "sobre el volante de dirección,",
+              "tr": "на руле,",
+              "kind": "anchor"
+            },
+            {
+              "es": "cuando es necesario",
+              "tr": "когда необходимо"
+            },
+            {
+              "es": "accionar algún comando",
+              "tr": "нажать какой-то орган управления"
+            },
+            {
+              "es": "del vehículo,",
+              "tr": "автомобиля,"
+            },
+            {
+              "es": "como realizar",
+              "tr": "например выполнить"
+            },
+            {
+              "es": "los cambios de velocidad.",
+              "tr": "переключение передач."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-154": {
+      "id": "a1-154",
+      "text": "Водитель ________ ___________ проверкам, которые потребует сотрудник Национальной полиции Перу, назначенный на контроль движения, чтобы определить его состояние опьянения от алкоголя, наркотиков, психотропных или других токсичных веществ",
+      "options": {
+        "a": "В своём праве — отказаться.",
+        "b": "Уполномочен — отклонить.",
+        "c": "Обязан — подчиниться (пройти).",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Обязан ли водитель пройти проверку на алкоголь",
+      "explanation": "Водитель обязан пройти проверку на алкоголь и наркотики по требованию полиции. Отказ — это очень серьёзное нарушение. Варианты a и b говорят об отказе — это неверно.",
+      "gloss": {
+        "text": [
+          {
+            "es": "El conductor está",
+            "tr": "Водитель"
+          },
+          {
+            "es": "________ a ___________",
+            "tr": "________ ___________"
+          },
+          {
+            "es": "a las pruebas",
+            "tr": "проверкам,"
+          },
+          {
+            "es": "que le solicite",
+            "tr": "которые потребует"
+          },
+          {
+            "es": "el Efectivo",
+            "tr": "сотрудник"
+          },
+          {
+            "es": "de la Policía Nacional del Perú,",
+            "tr": "Национальной полиции Перу,"
+          },
+          {
+            "es": "asignado al control del tránsito,",
+            "tr": "назначенный на контроль движения,"
+          },
+          {
+            "es": "para determinar",
+            "tr": "чтобы определить"
+          },
+          {
+            "es": "su estado de intoxicación",
+            "tr": "его состояние опьянения"
+          },
+          {
+            "es": "por alcohol, drogas,",
+            "tr": "от алкоголя, наркотиков,"
+          },
+          {
+            "es": "estupefacientes",
+            "tr": "психотропных веществ"
+          },
+          {
+            "es": "u otros tóxicos",
+            "tr": "или других токсичных веществ"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "En su derecho -",
+              "tr": "В своём праве —"
+            },
+            {
+              "es": "negarse.",
+              "tr": "отказаться.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Facultado -",
+              "tr": "Уполномочен —"
+            },
+            {
+              "es": "Rechazar.",
+              "tr": "Отклонить.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Obligado -",
+              "tr": "Обязан —",
+              "kind": "anchor"
+            },
+            {
+              "es": "someterse.",
+              "tr": "подчиниться.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-155": {
+      "id": "a1-155",
+      "text": "Если у водителя явная физическая инвалидность, которая не указана в разделе ограничений его водительских прав, то:",
+      "options": {
+        "a": "Дорожная полиция останавливает этого водителя, а орган, выдавший права, назначает его переэкзаменовку.",
+        "b": "Компетентный орган выдаёт этому водителю исключительное разрешение.",
+        "c": "Дорожная полиция выдаёт этому водителю исключительное разрешение.",
+        "d": "Дорожная полиция даёт этому водителю разумный срок, чтобы он продолжал водить."
+      },
+      "gist": "Инвалидность не указана в правах: что делать",
+      "explanation": "Полиция останавливает водителя. Орган, выдавший права, назначает переэкзаменовку. Никто не выдаёт «исключительное разрешение» и не даёт срок.",
+      "trap": "Три неверных варианта говорят о «permiso excepcional» (исключительное разрешение) или «plazo» (срок). Правильный — «intervenga» (остановит) и «reexaminación» (переэкзаменовка).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Ante un conductor",
+            "tr": "Если водитель"
+          },
+          {
+            "es": "con evidente discapacidad física,",
+            "tr": "с явной физической инвалидностью,"
+          },
+          {
+            "es": "la cual no figura",
+            "tr": "которая не указана",
+            "kind": "logic"
+          },
+          {
+            "es": "en el rubro de restricciones",
+            "tr": "в разделе ограничений"
+          },
+          {
+            "es": "de su licencia de conducir,",
+            "tr": "его водительских прав,"
+          },
+          {
+            "es": "procede:",
+            "tr": "следует:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la Policía de Tránsito",
+              "tr": "Чтобы дорожная полиция"
+            },
+            {
+              "es": "intervenga a dicho conductor",
+              "tr": "остановила этого водителя",
+              "kind": "anchor"
+            },
+            {
+              "es": "y que la autoridad",
+              "tr": "и чтобы орган,"
+            },
+            {
+              "es": "que expidió",
+              "tr": "который выдал"
+            },
+            {
+              "es": "la licencia de conducir",
+              "tr": "водительские права,"
+            },
+            {
+              "es": "ordene su reexaminación.",
+              "tr": "назначил переэкзаменовку.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que la autoridad competente",
+              "tr": "Чтобы компетентный орган"
+            },
+            {
+              "es": "expida un permiso excepcional",
+              "tr": "выдал исключительное разрешение"
+            },
+            {
+              "es": "para dicho conductor.",
+              "tr": "этому водителю."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la Policía de Tránsito",
+              "tr": "Чтобы дорожная полиция"
+            },
+            {
+              "es": "expida un permiso excepcional",
+              "tr": "выдала исключительное разрешение"
+            },
+            {
+              "es": "para dicho conductor.",
+              "tr": "этому водителю."
+            }
+          ],
+          "d": [
+            {
+              "es": "Que la Policía de Tránsito",
+              "tr": "Чтобы дорожная полиция"
+            },
+            {
+              "es": "otorgue a dicho conductor",
+              "tr": "дала этому водителю"
+            },
+            {
+              "es": "un plazo prudencial",
+              "tr": "разумный срок,"
+            },
+            {
+              "es": "para que continúe conduciendo.",
+              "tr": "чтобы он продолжал водить."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-156": {
+      "id": "a1-156",
+      "text": "Может ли человек с физической инвалидностью получить личные водительские права?",
+      "options": {
+        "a": "Да, при условии что эту инвалидность можно компенсировать корректирующим средством, которое предусмотрено одним из ограничений в действующей норме.",
+        "b": "Нет, это категорически запрещено.",
+        "c": "Зависит от решения центра выдачи прав.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Права при физической инвалидности",
+      "explanation": "Да, можно. Инвалидность должна компенсироваться корректором: очки, протез, адаптированное управление. Тогда в правах ставят ограничение. Это не запрещено и не зависит от мнения центра.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Una persona",
+            "tr": "Человек"
+          },
+          {
+            "es": "con discapacidad física",
+            "tr": "с физической инвалидностью"
+          },
+          {
+            "es": "puede obtener",
+            "tr": "может получить",
+            "kind": "logic"
+          },
+          {
+            "es": "una licencia de conducir particular?",
+            "tr": "личные водительские права?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Sí, siempre y cuando",
+              "tr": "Да, при условии что",
+              "kind": "logic"
+            },
+            {
+              "es": "dicha discapacidad",
+              "tr": "эта инвалидность"
+            },
+            {
+              "es": "pueda ser superada",
+              "tr": "может быть компенсирована",
+              "kind": "logic"
+            },
+            {
+              "es": "con algún corrector",
+              "tr": "каким-то корректором,",
+              "kind": "anchor"
+            },
+            {
+              "es": "que establezca",
+              "tr": "который устанавливает"
+            },
+            {
+              "es": "alguna de las restricciones",
+              "tr": "одно из ограничений,"
+            },
+            {
+              "es": "que prevé la norma vigente.",
+              "tr": "предусмотренных действующей нормой."
+            }
+          ],
+          "b": [
+            {
+              "es": "No, está terminantemente prohibido.",
+              "tr": "Нет, это категорически запрещено.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Depende del criterio",
+              "tr": "Зависит от решения"
+            },
+            {
+              "es": "del centro de emisión",
+              "tr": "центра выдачи"
+            },
+            {
+              "es": "de la licencia de conducir.",
+              "tr": "водительских прав."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-157": {
+      "id": "a1-157",
+      "text": "Может ли несовершеннолетний водить транспортное средство?",
+      "options": {
+        "a": "Никогда.",
+        "b": "Да, при условии что его сопровождает совершеннолетний с водительскими правами.",
+        "c": "Нет, кроме случая, когда он ведёт транспортное средство малого размера.",
+        "d": "Да, при условии что ему больше 16 лет и у него есть права или временное разрешение, согласно Национальному регламенту системы выдачи водительских прав."
+      },
+      "gist": "Может ли несовершеннолетний водить",
+      "explanation": "Да, с 16 лет — если есть права или временное разрешение. Сопровождение взрослого не заменяет права. Маленький размер машины тоже ничего не меняет.",
+      "trap": "b и d начинаются с «Sí, siempre y cuando» (да, при условии). Верен тот, где «16 años» и «permiso provisional» (временное разрешение).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Puede",
+            "tr": "Может ли",
+            "kind": "logic"
+          },
+          {
+            "es": "una persona menor de edad",
+            "tr": "несовершеннолетний",
+            "kind": "logic"
+          },
+          {
+            "es": "conducir un vehículo?",
+            "tr": "водить транспортное средство?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Nunca.",
+              "tr": "Никогда.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Sí, siempre y cuando",
+              "tr": "Да, при условии что",
+              "kind": "logic"
+            },
+            {
+              "es": "vaya acompañada",
+              "tr": "его сопровождает"
+            },
+            {
+              "es": "de una personas mayor de edad",
+              "tr": "совершеннолетний человек",
+              "kind": "logic"
+            },
+            {
+              "es": "y titular de una licencia de conducir.",
+              "tr": "с водительскими правами."
+            }
+          ],
+          "c": [
+            {
+              "es": "No, salvo que",
+              "tr": "Нет, кроме случая когда",
+              "kind": "logic"
+            },
+            {
+              "es": "conduzca un vehículo",
+              "tr": "он ведёт транспортное средство"
+            },
+            {
+              "es": "de dimensión reducida.",
+              "tr": "малого размера."
+            }
+          ],
+          "d": [
+            {
+              "es": "Sí, siempre y cuando",
+              "tr": "Да, при условии что",
+              "kind": "logic"
+            },
+            {
+              "es": "sea mayor de 16 años",
+              "tr": "ему больше 16 лет",
+              "kind": "anchor"
+            },
+            {
+              "es": "y cuente con licencia de conducir",
+              "tr": "и у него есть права"
+            },
+            {
+              "es": "o permiso provisional,",
+              "tr": "или временное разрешение,",
+              "kind": "anchor"
+            },
+            {
+              "es": "conforme a lo dispuesto",
+              "tr": "согласно положениям"
+            },
+            {
+              "es": "en el Reglamento Nacional",
+              "tr": "Национального регламента"
+            },
+            {
+              "es": "del Sistema de Emisión",
+              "tr": "системы выдачи"
+            },
+            {
+              "es": "de Licencias de Conducir.",
+              "tr": "водительских прав."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-158": {
+      "id": "a1-158",
+      "text": "Общая обязанность в дорожном движении: ____________ должны двигаться, соблюдая сигналы _______________, указания сотрудников дорожной полиции и требования соответствующих законов и правил.",
+      "options": {
+        "a": "Пешеходы — вывески, установленные на дорогах.",
+        "b": "Пользователи дороги — устройства управления движением.",
+        "c": "Транспортные средства — средства массовой информации.",
+        "d": "Несовершеннолетние — пожилые люди."
+      },
+      "gist": "Кто и что должен соблюдать на дороге",
+      "explanation": "Правило касается всех пользователей дороги: водителей, пешеходов, пассажиров. Все они соблюдают устройства управления движением: знаки, светофоры, разметку. Остальные варианты — слишком узкие или бессмысленные.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una obligación general de tránsito",
+            "tr": "Это общая обязанность в дорожном движении,"
+          },
+          {
+            "es": "que, los ____________",
+            "tr": "что ____________"
+          },
+          {
+            "es": "circulen respetando",
+            "tr": "двигаются, соблюдая"
+          },
+          {
+            "es": "los mensajes de _______________,",
+            "tr": "сигналы _______________,"
+          },
+          {
+            "es": "las instrucciones",
+            "tr": "указания"
+          },
+          {
+            "es": "de los Efectivos de la Policía de Tránsito",
+            "tr": "сотрудников дорожной полиции"
+          },
+          {
+            "es": "y el mandato",
+            "tr": "и требования"
+          },
+          {
+            "es": "de las normas legales y reglamentarias",
+            "tr": "законов и правил"
+          },
+          {
+            "es": "correspondientes.",
+            "tr": "соответствующих."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Peatones -",
+              "tr": "Пешеходы —"
+            },
+            {
+              "es": "los letreros instalados",
+              "tr": "вывески, установленные"
+            },
+            {
+              "es": "en las vías públicas.",
+              "tr": "на дорогах общего пользования."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los usuarios de la vía pública -",
+              "tr": "Пользователи дороги —",
+              "kind": "anchor"
+            },
+            {
+              "es": "los dispositivos de control de tránsito.",
+              "tr": "устройства управления движением.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Vehículos -",
+              "tr": "Транспортные средства —"
+            },
+            {
+              "es": "los medios de comunicación.",
+              "tr": "средства массовой информации."
+            }
+          ],
+          "d": [
+            {
+              "es": "Menores de edad -",
+              "tr": "Несовершеннолетние —",
+              "kind": "logic"
+            },
+            {
+              "es": "los adultos mayores.",
+              "tr": "пожилые люди.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-159": {
+      "id": "a1-159",
+      "text": "Отметьте неверное утверждение:",
+      "options": {
+        "a": "Запрещено бросать, складывать или оставлять предметы на дороге, а также любое препятствие, которое мешает движению.",
+        "b": "Водитель должен держать в машине достаточно топлива, чтобы не остановиться на дороге.",
+        "c": "Транспортные средства должны ездить по городским дорогам с ближним светом 24 часа в сутки.",
+        "d": "Если на проезжей части вода, водитель должен принять меры, чтобы не забрызгать тротуар и пешеходов."
+      },
+      "gist": "Какое утверждение неверно",
+      "explanation": "Вопрос просит НЕВЕРНОЕ утверждение. Ближний свет в городе обязателен ночью и при плохой видимости, а не 24 часа. Утверждения a, b и d — настоящие правила.",
+      "trap": "Ищите ложное. Ловушка — «24 horas del día» (24 часа в сутки): ближний свет в городе нужен не круглые сутки.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Marque",
+            "tr": "Отметьте"
+          },
+          {
+            "es": "la afirmación incorrecta:",
+            "tr": "неверное утверждение:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está prohibido",
+              "tr": "Запрещено",
+              "kind": "logic"
+            },
+            {
+              "es": "arrojar, depositar o abandonar",
+              "tr": "бросать, складывать или оставлять"
+            },
+            {
+              "es": "objetos en la vía pública,",
+              "tr": "предметы на дороге,"
+            },
+            {
+              "es": "o cualquier otro obstáculo",
+              "tr": "или любое другое препятствие,"
+            },
+            {
+              "es": "que pueda dificultar la circulación.",
+              "tr": "которое может мешать движению."
+            }
+          ],
+          "b": [
+            {
+              "es": "El conductor debe mantener",
+              "tr": "Водитель должен держать",
+              "kind": "logic"
+            },
+            {
+              "es": "el vehículo que conduce",
+              "tr": "свою машину"
+            },
+            {
+              "es": "con el combustible necesario",
+              "tr": "с нужным количеством топлива,"
+            },
+            {
+              "es": "para evitar detenciones en la vía.",
+              "tr": "чтобы не останавливаться на дороге."
+            }
+          ],
+          "c": [
+            {
+              "es": "Los vehículos deben circular",
+              "tr": "Транспортные средства должны ездить",
+              "kind": "logic"
+            },
+            {
+              "es": "en vías urbanas",
+              "tr": "по городским дорогам"
+            },
+            {
+              "es": "con las luces bajas",
+              "tr": "с ближним светом",
+              "kind": "anchor"
+            },
+            {
+              "es": "las 24 horas del día.",
+              "tr": "24 часа в сутки.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "En caso de haber agua",
+              "tr": "Если есть вода"
+            },
+            {
+              "es": "en la calzada,",
+              "tr": "на проезжей части,"
+            },
+            {
+              "es": "el conductor de un vehículo",
+              "tr": "водитель"
+            },
+            {
+              "es": "debe tomar las precauciones,",
+              "tr": "должен принять меры,",
+              "kind": "logic"
+            },
+            {
+              "es": "para evitar que ésta",
+              "tr": "чтобы она не"
+            },
+            {
+              "es": "pueda mojar la acera",
+              "tr": "намочила тротуар"
+            },
+            {
+              "es": "y los peatones.",
+              "tr": "и пешеходов."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-160": {
+      "id": "a1-160",
+      "text": "Вы едете по проспекту и видите знак с максимальным ограничением 50 км/ч, однако по норме максимальная скорость на этой дороге — 60 км/ч; вы:",
+      "options": {
+        "a": "Должны подчиниться знаку ограничения скорости, установленному на дороге.",
+        "b": "Можете ехать с максимальной скоростью 60 км/ч.",
+        "c": "Должны ехать с максимальной скоростью 60 км/ч.",
+        "d": "Должны ехать со скоростью от 50 до 60 км/ч."
+      },
+      "gist": "Знак 50 против нормы 60: что главнее",
+      "explanation": "Знак на дороге важнее общей нормы. Если знак говорит 50 — едем не быстрее 50. Варианты с 60 км/ч — ловушка.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Si al conducir por una avenida",
+            "tr": "Если, ведя по проспекту,"
+          },
+          {
+            "es": "se encuentra con una señal en la vía",
+            "tr": "вы встречаете на дороге знак,"
+          },
+          {
+            "es": "que indica un límite máximo",
+            "tr": "который указывает максимальный предел",
+            "kind": "logic"
+          },
+          {
+            "es": "de 50 km/h,",
+            "tr": "50 км/ч,"
+          },
+          {
+            "es": "sin embargo,",
+            "tr": "однако",
+            "kind": "logic"
+          },
+          {
+            "es": "conforme a lo dispuesto en la norma",
+            "tr": "по норме"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "максимальный предел скорости",
+            "kind": "logic"
+          },
+          {
+            "es": "en dicha vía",
+            "tr": "на этой дороге"
+          },
+          {
+            "es": "es de 60 km/h;",
+            "tr": "— 60 км/ч;"
+          },
+          {
+            "es": "usted:",
+            "tr": "вы:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Debe obedecer la señal",
+              "tr": "Должны подчиниться знаку",
+              "kind": "anchor"
+            },
+            {
+              "es": "de velocidad",
+              "tr": "скорости,"
+            },
+            {
+              "es": "instalada en la vía.",
+              "tr": "установленному на дороге."
+            }
+          ],
+          "b": [
+            {
+              "es": "Puede ir",
+              "tr": "Можете ехать",
+              "kind": "logic"
+            },
+            {
+              "es": "a una velocidad máxima",
+              "tr": "с максимальной скоростью",
+              "kind": "logic"
+            },
+            {
+              "es": "de 60 km/h.",
+              "tr": "60 км/ч."
+            }
+          ],
+          "c": [
+            {
+              "es": "Debe ir",
+              "tr": "Должны ехать",
+              "kind": "logic"
+            },
+            {
+              "es": "a una velocidad máxima",
+              "tr": "с максимальной скоростью",
+              "kind": "logic"
+            },
+            {
+              "es": "de 60 km/h.",
+              "tr": "60 км/ч."
+            }
+          ],
+          "d": [
+            {
+              "es": "Debe ir",
+              "tr": "Должны ехать",
+              "kind": "logic"
+            },
+            {
+              "es": "a una velocidad",
+              "tr": "со скоростью"
+            },
+            {
+              "es": "entre 50 y 60 km/h.",
+              "tr": "от 50 до 60 км/ч."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-161": {
+      "id": "a1-161",
+      "text": "О движении задним ходом отметьте верный вариант:",
+      "options": {
+        "a": "Запрещено, кроме строго обоснованных случаев.",
+        "b": "Никогда нельзя выполнять.",
+        "c": "Разрешено",
+        "d": "Разрешено, кроме шоссе."
+      },
+      "gist": "Можно ли ехать задним ходом",
+      "explanation": "Задний ход в целом запрещён. Исключение — только когда это строго необходимо, например при парковке. «Nunca» (никогда) — слишком строго, а «permitida» (разрешено) — неверно.",
+      "trap": "a и d оба содержат «salvo» (кроме). Верен тот, где «prohibida» (запрещено) плюс «estrictamente justificados» (строго обоснованные).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Sobre la conducción en retroceso,",
+            "tr": "О движении задним ходом"
+          },
+          {
+            "es": "marque la opción correcta:",
+            "tr": "отметьте верный вариант:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está prohibida,",
+              "tr": "Запрещено,",
+              "kind": "logic"
+            },
+            {
+              "es": "salvo en casos",
+              "tr": "кроме случаев,",
+              "kind": "logic"
+            },
+            {
+              "es": "estrictamente justificados.",
+              "tr": "строго обоснованных.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Nunca debe realizarse.",
+              "tr": "Никогда нельзя выполнять.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Está permitida",
+              "tr": "Разрешено",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Está permitida,",
+              "tr": "Разрешено,",
+              "kind": "logic"
+            },
+            {
+              "es": "salvo en carreteras.",
+              "tr": "кроме шоссе.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-162": {
+      "id": "a1-162",
+      "text": "Использование ___________ света обязательно на __________, при этом нужно переключиться на ____________ свет перед разъездом со встречным транспортным средством.",
+      "options": {
+        "a": "Ближний — шоссе — дальний.",
+        "b": "Дальний — городские дороги — ближний.",
+        "c": "Противотуманный — шоссе — ближний.",
+        "d": "Дальний — шоссе — ближний."
+      },
+      "gist": "Какой свет обязателен на шоссе",
+      "explanation": "На шоссе обязателен дальний свет. Перед встречной машиной переключаемся на ближний, чтобы не слепить. В городе дальний свет не используют.",
+      "trap": "Порядок слов: «Alta» (дальний) → «carreteras» (шоссе) → «baja» (ближний). Вариант a — наоборот, b — «vías urbanas» (город). В тексте d опечатка «carretereras».",
+      "gloss": {
+        "text": [
+          {
+            "es": "El uso de la luz ___________",
+            "tr": "Использование света ___________"
+          },
+          {
+            "es": "es obligatorio en __________ ,",
+            "tr": "обязательно на __________,",
+            "kind": "logic"
+          },
+          {
+            "es": "debiendo cambiar",
+            "tr": "при этом нужно переключить",
+            "kind": "logic"
+          },
+          {
+            "es": "por luz ____________",
+            "tr": "на свет ____________"
+          },
+          {
+            "es": "momentos previos al cruce",
+            "tr": "непосредственно перед разъездом"
+          },
+          {
+            "es": "con otro vehículo",
+            "tr": "с другим транспортным средством,"
+          },
+          {
+            "es": "que circule en sentido contrario.",
+            "tr": "которое едет навстречу."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Baja -",
+              "tr": "Ближний —"
+            },
+            {
+              "es": "carreteras -",
+              "tr": "шоссе —"
+            },
+            {
+              "es": "alta.",
+              "tr": "дальний."
+            }
+          ],
+          "b": [
+            {
+              "es": "Alta -",
+              "tr": "Дальний —"
+            },
+            {
+              "es": "vías urbanas -",
+              "tr": "городские дороги —"
+            },
+            {
+              "es": "baja.",
+              "tr": "ближний."
+            }
+          ],
+          "c": [
+            {
+              "es": "Rompenieblas -",
+              "tr": "Противотуманный —"
+            },
+            {
+              "es": "carreteras -",
+              "tr": "шоссе —"
+            },
+            {
+              "es": "baja.",
+              "tr": "ближний."
+            }
+          ],
+          "d": [
+            {
+              "es": "Alta -",
+              "tr": "Дальний —"
+            },
+            {
+              "es": "carretereras -",
+              "tr": "шоссе (опечатка) —"
+            },
+            {
+              "es": "baja.",
+              "tr": "ближний."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-163": {
+      "id": "a1-163",
+      "text": "Укажите разрешённое действие:",
+      "options": {
+        "a": "Парковка у выхода из работающих зрелищных залов (кинотеатр, театр).",
+        "b": "Парковка автомобиля экстренной службы в неразрешённом месте, если это крайне необходимо.",
+        "c": "Парковка в 1 метре после пешеходного перехода.",
+        "d": "Парковка на тротуарах."
+      },
+      "gist": "Какая парковка разрешена",
+      "explanation": "Скорая, пожарные, полиция могут встать где угодно, если это крайне необходимо. У выхода из кинотеатра, вплотную к переходу и на тротуаре парковаться нельзя.",
+      "trap": "Все четыре начинаются одинаково: «El estacionamiento de un vehículo». Ищите «vehículo de emergencia» (экстренный транспорт) и «imprescindible» (крайне необходимо).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Indique",
+            "tr": "Укажите"
+          },
+          {
+            "es": "la conducta permitida:",
+            "tr": "разрешённое поведение:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El estacionamiento de un vehículo",
+              "tr": "Парковка транспортного средства"
+            },
+            {
+              "es": "a la salida",
+              "tr": "у выхода"
+            },
+            {
+              "es": "de salas de espectáculos",
+              "tr": "из зрелищных залов"
+            },
+            {
+              "es": "en funcionamiento.",
+              "tr": "во время работы."
+            }
+          ],
+          "b": [
+            {
+              "es": "El estacionamiento",
+              "tr": "Парковка"
+            },
+            {
+              "es": "de un vehículo de emergencia",
+              "tr": "автомобиля экстренной службы",
+              "kind": "anchor"
+            },
+            {
+              "es": "en un lugar no permitido,",
+              "tr": "в неразрешённом месте,",
+              "kind": "logic"
+            },
+            {
+              "es": "si ello fuera imprescindible.",
+              "tr": "если это крайне необходимо.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "El estacionamiento de un vehículo",
+              "tr": "Парковка транспортного средства"
+            },
+            {
+              "es": "después de 1 metro",
+              "tr": "через 1 метр после",
+              "kind": "logic"
+            },
+            {
+              "es": "de un paso peatonal.",
+              "tr": "пешеходного перехода."
+            }
+          ],
+          "d": [
+            {
+              "es": "El estacionamiento de un vehículo",
+              "tr": "Парковка транспортного средства"
+            },
+            {
+              "es": "sobre las aceras.",
+              "tr": "на тротуарах."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-164": {
+      "id": "a1-164",
+      "text": "Транспортное средство считается брошенным, когда:",
+      "options": {
+        "a": "Машина стоит в разрешённом месте на дороге, но без водителя более 72 часов.",
+        "b": "Машина стоит в разрешённом месте на дороге, но без водителя более 96 часов.",
+        "c": "Машина стоит в разрешённом месте на дороге, но без водителя и более 48 часов.",
+        "d": "Правила движения ничего не говорят о брошенных машинах."
+      },
+      "gist": "Когда машина считается брошенной",
+      "explanation": "Машина без водителя больше 48 часов — это уже брошенный транспорт. Даже если место разрешённое. Запомните число: 48 часов, то есть двое суток.",
+      "trap": "a, b и c отличаются только числом: 72, 96, 48. Верно — «48 horas».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Se considera",
+            "tr": "Считается"
+          },
+          {
+            "es": "el abandono de un vehículo",
+            "tr": "брошенным транспортное средство,"
+          },
+          {
+            "es": "cuando:",
+            "tr": "когда:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El vehículo está estacionado",
+              "tr": "Транспортное средство стоит"
+            },
+            {
+              "es": "en un lugar permitido",
+              "tr": "в разрешённом месте",
+              "kind": "logic"
+            },
+            {
+              "es": "en la vía pública,",
+              "tr": "на дороге,"
+            },
+            {
+              "es": "pero sin conductor",
+              "tr": "но без водителя"
+            },
+            {
+              "es": "por un tiempo mayor",
+              "tr": "дольше",
+              "kind": "logic"
+            },
+            {
+              "es": "de 72 horas.",
+              "tr": "72 часов."
+            }
+          ],
+          "b": [
+            {
+              "es": "El vehículo está estacionado",
+              "tr": "Транспортное средство стоит"
+            },
+            {
+              "es": "en un lugar permitido",
+              "tr": "в разрешённом месте",
+              "kind": "logic"
+            },
+            {
+              "es": "en la vía pública,",
+              "tr": "на дороге,"
+            },
+            {
+              "es": "pero sin conductor",
+              "tr": "но без водителя"
+            },
+            {
+              "es": "por un tiempo mayor",
+              "tr": "дольше",
+              "kind": "logic"
+            },
+            {
+              "es": "de 96 horas.",
+              "tr": "96 часов."
+            }
+          ],
+          "c": [
+            {
+              "es": "El vehículo está estacionado",
+              "tr": "Транспортное средство стоит"
+            },
+            {
+              "es": "en un lugar permitido",
+              "tr": "в разрешённом месте",
+              "kind": "logic"
+            },
+            {
+              "es": "en la vía pública,",
+              "tr": "на дороге,"
+            },
+            {
+              "es": "pero sin conductor",
+              "tr": "но без водителя"
+            },
+            {
+              "es": "y por un tiempo mayor",
+              "tr": "и дольше",
+              "kind": "logic"
+            },
+            {
+              "es": "de 48 horas.",
+              "tr": "48 часов.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "La norma de tránsito",
+              "tr": "Правила движения"
+            },
+            {
+              "es": "no establece nada",
+              "tr": "ничего не устанавливают",
+              "kind": "logic"
+            },
+            {
+              "es": "sobre el abandono del vehículo.",
+              "tr": "о брошенных машинах."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-165": {
+      "id": "a1-165",
+      "text": "Перевозя груз в своей машине, вы должны:",
+      "options": {
+        "a": "Убедиться, что если груз выступает сбоку за кузов, он хорошо закреплён.",
+        "b": "Исключить любой риск падения груза, который выступает сбоку за кузов.",
+        "c": "Стараться, чтобы груз не волочился.",
+        "d": "Убедиться, что груз не выходит за размеры кузова."
+      },
+      "gist": "Правило перевозки груза",
+      "explanation": "Груз не должен выходить за габариты кузова. Варианты a и b допускают, что груз выступает сбоку, — это запрещено. Вариант c слишком мягкий: «стараться» недостаточно.",
+      "trap": "a и b говорят «sobresalga lateralmente» (выступает сбоку) — ловушка. Верно — «no sobrepase las dimensiones» (не превышает размеры).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Al transportar carga",
+            "tr": "Перевозя груз"
+          },
+          {
+            "es": "en su vehículo,",
+            "tr": "в своей машине,"
+          },
+          {
+            "es": "usted debe:",
+            "tr": "вы должны:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Asegurarse,",
+              "tr": "Убедиться,"
+            },
+            {
+              "es": "en caso la carga sobresalga",
+              "tr": "что если груз выступает"
+            },
+            {
+              "es": "lateralmente de la carrocería,",
+              "tr": "сбоку за кузов,"
+            },
+            {
+              "es": "esté bien sujeta.",
+              "tr": "он хорошо закреплён."
+            }
+          ],
+          "b": [
+            {
+              "es": "Evitar todo riesgo",
+              "tr": "Исключить любой риск"
+            },
+            {
+              "es": "de caída de la carga",
+              "tr": "падения груза,"
+            },
+            {
+              "es": "que sobresale lateralmente",
+              "tr": "который выступает сбоку"
+            },
+            {
+              "es": "de la carrocería.",
+              "tr": "за кузов."
+            }
+          ],
+          "c": [
+            {
+              "es": "Tratar que la carga",
+              "tr": "Стараться, чтобы груз"
+            },
+            {
+              "es": "no sea arrastrada.",
+              "tr": "не волочился.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Asegurarse que la carga",
+              "tr": "Убедиться, что груз"
+            },
+            {
+              "es": "no sobrepase las dimensiones",
+              "tr": "не превышает размеры",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la carrocería.",
+              "tr": "кузова."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-166": {
+      "id": "a1-166",
+      "text": "О выбросе загрязняющих веществ транспортом отметьте верный вариант:",
+      "options": {
+        "a": "Разрешён.",
+        "b": "Запрещён, если уровень выше максимального предела, который допускает норма.",
+        "c": "Запрещён в городской зоне.",
+        "d": "Норма это не регулирует."
+      },
+      "gist": "Правило о выхлопных газах",
+      "explanation": "Выхлоп есть у любой машины, полностью его запретить нельзя. Запрещено превышать максимальный предел, установленный нормой. Место (город или нет) роли не играет.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Sobre la emisión vehicular",
+            "tr": "О выбросе транспортом"
+          },
+          {
+            "es": "de sustancias contaminantes,",
+            "tr": "загрязняющих веществ"
+          },
+          {
+            "es": "marque la opción correcta:",
+            "tr": "отметьте верный вариант:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está permitida.",
+              "tr": "Разрешён.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Está prohibida,",
+              "tr": "Запрещён,",
+              "kind": "logic"
+            },
+            {
+              "es": "en un índice superior",
+              "tr": "если уровень выше"
+            },
+            {
+              "es": "al límite máximo",
+              "tr": "максимального предела,",
+              "kind": "anchor"
+            },
+            {
+              "es": "que permite la norma.",
+              "tr": "который допускает норма.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Está prohibida",
+              "tr": "Запрещён",
+              "kind": "logic"
+            },
+            {
+              "es": "en el ámbito urbano.",
+              "tr": "в городской зоне."
+            }
+          ],
+          "d": [
+            {
+              "es": "La norma no regula",
+              "tr": "Норма не регулирует",
+              "kind": "logic"
+            },
+            {
+              "es": "sobre ello.",
+              "tr": "это."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-167": {
+      "id": "a1-167",
+      "text": "Компетентный орган ______________ может запретить или ограничить _____________________ на определённых дорогах.",
+      "options": {
+        "a": "Когда ситуация это оправдывает — движение или парковку транспорта.",
+        "b": "Даже когда ситуация это оправдывает, не — движение или парковку транспорта.",
+        "c": "Не уполномочен и не — движение транспорта",
+        "d": "Только с согласия водителя — движение транспорта."
+      },
+      "gist": "Когда власти могут закрыть дорогу",
+      "explanation": "Власти могут закрыть дорогу или запретить парковку, когда ситуация этого требует: ремонт, праздник, авария. Согласие водителя не нужно. Варианты b и c говорят «не могут» — неверно.",
+      "trap": "a и b почти одинаковы, но в b есть «Aun cuando… no» (даже когда… не) — то есть «не может». Верен a: «Cuando la situación lo justifique» (когда ситуация оправдывает).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La autoridad competente,",
+            "tr": "Компетентный орган"
+          },
+          {
+            "es": "______________",
+            "tr": "______________"
+          },
+          {
+            "es": "puede prohibir o restringir",
+            "tr": "может запретить или ограничить",
+            "kind": "logic"
+          },
+          {
+            "es": "_____________________",
+            "tr": "_____________________"
+          },
+          {
+            "es": "en determinadas vías públicas.",
+            "tr": "на определённых дорогах."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cuando la situación lo justifique -",
+              "tr": "Когда ситуация это оправдывает —"
+            },
+            {
+              "es": "la circulación o estacionamiento",
+              "tr": "движение или парковку"
+            },
+            {
+              "es": "de vehículos.",
+              "tr": "транспорта."
+            }
+          ],
+          "b": [
+            {
+              "es": "Aun cuando",
+              "tr": "Даже когда",
+              "kind": "logic"
+            },
+            {
+              "es": "la situación lo justifique no -",
+              "tr": "ситуация это оправдывает, не —",
+              "kind": "logic"
+            },
+            {
+              "es": "circulación o estacionamiento",
+              "tr": "движение или парковку"
+            },
+            {
+              "es": "de vehículos.",
+              "tr": "транспорта."
+            }
+          ],
+          "c": [
+            {
+              "es": "No se encuentra facultada ni -",
+              "tr": "Не уполномочен и не —",
+              "kind": "logic"
+            },
+            {
+              "es": "circulación de vehículos",
+              "tr": "движение транспорта"
+            }
+          ],
+          "d": [
+            {
+              "es": "Únicamente con el consentimiento",
+              "tr": "Только с согласия",
+              "kind": "logic"
+            },
+            {
+              "es": "del conductor -",
+              "tr": "водителя —"
+            },
+            {
+              "es": "circulación de vehículos.",
+              "tr": "движение транспорта."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-168": {
+      "id": "a1-168",
+      "text": "Если ночью на шоссе к вам приближается встречная машина; вы должны:",
+      "options": {
+        "a": "Переключить с ближнего света на дальний",
+        "b": "Включить аварийную сигнализацию.",
+        "c": "Переключить с дальнего света на ближний.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Встречная машина ночью: какой свет",
+      "explanation": "Ночью на шоссе едут с дальним светом. Когда навстречу едет машина, переключаемся на ближний, чтобы не слепить водителя. Аварийка здесь ни при чём.",
+      "trap": "a и c — одни слова в разном порядке. Верно: «altas a luces bajas» (с дальнего на ближний).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir en una carretera",
+            "tr": "Если, ведя по шоссе"
+          },
+          {
+            "es": "de noche",
+            "tr": "ночью,"
+          },
+          {
+            "es": "se aproxima un vehículo",
+            "tr": "приближается машина"
+          },
+          {
+            "es": "en sentido contrario;",
+            "tr": "навстречу;"
+          },
+          {
+            "es": "usted debe:",
+            "tr": "вы должны:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cambiar de luces bajas",
+              "tr": "Переключить с ближнего света"
+            },
+            {
+              "es": "a luces altas",
+              "tr": "на дальний"
+            }
+          ],
+          "b": [
+            {
+              "es": "Encender",
+              "tr": "Включить"
+            },
+            {
+              "es": "las luces de emergencia.",
+              "tr": "аварийную сигнализацию."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cambiar de luces altas",
+              "tr": "Переключить с дальнего света",
+              "kind": "anchor"
+            },
+            {
+              "es": "a luces bajas.",
+              "tr": "на ближний.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-169": {
+      "id": "a1-169",
+      "text": "Остановка транспортного средства должна выполняться:",
+      "options": {
+        "a": "Против направления движения и в левой полосе дороги.",
+        "b": "По направлению движения и в правой полосе дороги, с дальним светом.",
+        "c": "По направлению движения и в левой полосе дороги, с аварийной сигнализацией.",
+        "d": "По направлению движения и в правой полосе дороги, с аварийной сигнализацией."
+      },
+      "gist": "Как правильно остановиться на дороге",
+      "explanation": "Останавливаемся по ходу движения, в правой полосе, и включаем аварийку. Левая полоса и дальний свет — неверно.",
+      "trap": "Нужны сразу два условия: «carril derecho» (правая полоса) и «luces intermitentes» (аварийка). b — правая полоса, но «luces altas»; c — аварийка, но «izquierdo».",
+      "gloss": {
+        "text": [
+          {
+            "es": "La detención de un vehículo",
+            "tr": "Остановка транспортного средства"
+          },
+          {
+            "es": "debe efectuarse:",
+            "tr": "должна выполняться:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "En el sentido contrario",
+              "tr": "В направлении против"
+            },
+            {
+              "es": "a la circulación",
+              "tr": "движения"
+            },
+            {
+              "es": "y en el carril izquierdo",
+              "tr": "и в левой полосе",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía.",
+              "tr": "дороги."
+            }
+          ],
+          "b": [
+            {
+              "es": "En el sentido de la circulación",
+              "tr": "По направлению движения"
+            },
+            {
+              "es": "y en el carril derecho",
+              "tr": "и в правой полосе",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía,",
+              "tr": "дороги,"
+            },
+            {
+              "es": "utilizando las luces altas.",
+              "tr": "используя дальний свет."
+            }
+          ],
+          "c": [
+            {
+              "es": "En el sentido de la circulación",
+              "tr": "По направлению движения"
+            },
+            {
+              "es": "y en el carril izquierdo",
+              "tr": "и в левой полосе",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía,",
+              "tr": "дороги,"
+            },
+            {
+              "es": "utilizando las luces intermitentes.",
+              "tr": "используя аварийную сигнализацию."
+            }
+          ],
+          "d": [
+            {
+              "es": "En el sentido de la circulación",
+              "tr": "По направлению движения"
+            },
+            {
+              "es": "y en el carril derecho",
+              "tr": "и в правой полосе",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía,",
+              "tr": "дороги,"
+            },
+            {
+              "es": "utilizando las luces intermitentes.",
+              "tr": "используя аварийную сигнализацию."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-170": {
+      "id": "a1-170",
+      "text": "При ДТП с травмами и/или материальным ущербом участники должны:",
+      "options": {
+        "a": "Поехать на пожарную станцию.",
+        "b": "Позвонить родственнику.",
+        "c": "Вызвать полицию.",
+        "d": "Покинуть место аварии."
+      },
+      "gist": "Что делать при ДТП",
+      "explanation": "При ДТП участники обязаны вызвать полицию. Уезжать с места аварии запрещено — это серьёзное нарушение. Родственник и пожарные — не то, что требует закон.",
+      "gloss": {
+        "text": [
+          {
+            "es": "En caso de un accidente de tránsito",
+            "tr": "В случае ДТП"
+          },
+          {
+            "es": "con daños personales",
+            "tr": "с травмами"
+          },
+          {
+            "es": "y/o materiales",
+            "tr": "и/или материальным ущербом"
+          },
+          {
+            "es": "los participantes deben:",
+            "tr": "участники должны:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Acudir",
+              "tr": "Поехать"
+            },
+            {
+              "es": "a la estación de bomberos.",
+              "tr": "на пожарную станцию."
+            }
+          ],
+          "b": [
+            {
+              "es": "Llamar a un familiar.",
+              "tr": "Позвонить родственнику."
+            }
+          ],
+          "c": [
+            {
+              "es": "Solicitar la intervención",
+              "tr": "Запросить вмешательство"
+            },
+            {
+              "es": "de la autoridad policial.",
+              "tr": "полиции.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Abandonar el lugar",
+              "tr": "Покинуть место,"
+            },
+            {
+              "es": "donde ocurrió el accidente.",
+              "tr": "где произошла авария."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-171": {
+      "id": "a1-171",
+      "text": "Водитель перед началом движения НЕ обязан:",
+      "options": {
+        "a": "Иметь при себе регистрационную карточку (tarjeta de identificación vehicular) машины, которую ведёт.",
+        "b": "Иметь и показывать единый номерной знак (Placa Única de Rodaje).",
+        "c": "Проверить, что у машины действующий SOAT (страховка).",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Что НЕ обязан водитель перед поездкой",
+      "explanation": "Ловушка: вопрос про «не обязан». Но все три действия — обязательны: карточка, номера, SOAT. Поэтому правильный ответ — «ни один из вариантов».",
+      "trap": "Читайте «no está obligado» (не обязан). a, b, c — реальные обязанности, поэтому верен d «Ninguna de las alternativas es correcta».",
+      "gloss": {
+        "text": [
+          {
+            "es": "El conductor",
+            "tr": "Водитель"
+          },
+          {
+            "es": "antes de iniciar",
+            "tr": "перед началом",
+            "kind": "logic"
+          },
+          {
+            "es": "la conducción de un vehículo",
+            "tr": "вождения"
+          },
+          {
+            "es": "no está obligado a:",
+            "tr": "не обязан:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Portar",
+              "tr": "Иметь при себе"
+            },
+            {
+              "es": "la tarjeta de identificación vehicular",
+              "tr": "регистрационную карточку"
+            },
+            {
+              "es": "del vehículo que conduce.",
+              "tr": "машины, которую ведёт."
+            }
+          ],
+          "b": [
+            {
+              "es": "Portar y exhibir",
+              "tr": "Иметь и показывать"
+            },
+            {
+              "es": "la Placa Única de Rodaje.",
+              "tr": "единый номерной знак."
+            }
+          ],
+          "c": [
+            {
+              "es": "Constatar que el vehículo",
+              "tr": "Убедиться, что машина"
+            },
+            {
+              "es": "tiene SOAT vigente.",
+              "tr": "имеет действующий SOAT."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-172": {
+      "id": "a1-172",
+      "text": "Она даёт право и разрешает движение транспортного средства по дороге, идентифицирует имущество и, следовательно, владельца, ответственного за действия, связанные с его собственностью.",
+      "options": {
+        "a": "Регистрационная карточка автомобиля.",
+        "b": "Провинциальный муниципалитет.",
+        "c": "Национальное управление таможни и налогов — SUNAT.",
+        "d": "Единый национальный номерной знак."
+      },
+      "gist": "Что разрешает движение и идентифицирует машину",
+      "explanation": "Речь о номерном знаке (placa). Он разрешает ездить по дорогам и идентифицирует машину и её владельца. Карточка (tarjeta) — документ о собственности, но «faculta la circulación» — это про placa.",
+      "trap": "Ловушка — «Tarjeta de identificación vehicular» (a): тоже документ машины. Но определение «La faculta y autoriza la circulación» — это «Placa» (номерной знак).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La faculta y autoriza",
+            "tr": "Она даёт право и разрешает"
+          },
+          {
+            "es": "la circulación del vehículo",
+            "tr": "движение транспортного средства"
+          },
+          {
+            "es": "por la vía pública,",
+            "tr": "по дороге,"
+          },
+          {
+            "es": "identifica el bien,",
+            "tr": "идентифицирует имущество,"
+          },
+          {
+            "es": "y, por ende,",
+            "tr": "и, следовательно,"
+          },
+          {
+            "es": "al titular responsable",
+            "tr": "владельца, ответственного"
+          },
+          {
+            "es": "de las acciones",
+            "tr": "за действия,"
+          },
+          {
+            "es": "que deriven de su propiedad.",
+            "tr": "вытекающие из его собственности."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Tarjeta de identificación vehicular.",
+              "tr": "Регистрационная карточка автомобиля."
+            }
+          ],
+          "b": [
+            {
+              "es": "Municipalidad provincial.",
+              "tr": "Провинциальный муниципалитет."
+            }
+          ],
+          "c": [
+            {
+              "es": "La Superintendencia Nacional",
+              "tr": "Национальное управление"
+            },
+            {
+              "es": "de Aduanas",
+              "tr": "таможни"
+            },
+            {
+              "es": "y de Administración Tributaria",
+              "tr": "и налогового администрирования"
+            },
+            {
+              "es": "- SUNAT.",
+              "tr": "— SUNAT."
+            }
+          ],
+          "d": [
+            {
+              "es": "Placa Única Nacional",
+              "tr": "Единый национальный номерной знак",
+              "kind": "anchor"
+            },
+            {
+              "es": "de Rodaje.",
+              "tr": "(для движения)."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-173": {
+      "id": "a1-173",
+      "text": "Чтобы определить наличие алкоголя или наркотических веществ у водителя, сотрудник дорожной полиции при остановке может потребовать:",
+      "options": {
+        "a": "Пройти тесты на координацию и равновесие.",
+        "b": "Использование алкотестера.",
+        "c": "Анализ на содержание алкоголя в крови.",
+        "d": "Все варианты верны."
+      },
+      "gist": "Какие проверки на алкоголь может требовать полиция",
+      "explanation": "Полиция может потребовать любую из проверок: тесты на координацию, алкотестер, анализ крови. Все три законны, поэтому ответ — «все варианты».",
+      "trap": "a, b и c — все верны по отдельности. Когда все три правильные, выбирайте «Todas las alternativas son correctas» (все варианты верны).",
+      "gloss": {
+        "text": [
+          {
+            "es": "A fin de determinar",
+            "tr": "Чтобы определить"
+          },
+          {
+            "es": "la presencia de alcohol",
+            "tr": "наличие алкоголя"
+          },
+          {
+            "es": "o sustancias estupefacientes",
+            "tr": "или наркотических веществ"
+          },
+          {
+            "es": "en el conductor,",
+            "tr": "у водителя,"
+          },
+          {
+            "es": "el efectivo de la Policía de Tránsito",
+            "tr": "сотрудник дорожной полиции"
+          },
+          {
+            "es": "puede exigirle",
+            "tr": "может потребовать от него",
+            "kind": "logic"
+          },
+          {
+            "es": "al momento de la intervención:",
+            "tr": "в момент остановки:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que realice pruebas",
+              "tr": "Чтобы он прошёл тесты"
+            },
+            {
+              "es": "de coordinación y equilibrio.",
+              "tr": "на координацию и равновесие."
+            }
+          ],
+          "b": [
+            {
+              "es": "Uso del alcoholímetro.",
+              "tr": "Использование алкотестера."
+            }
+          ],
+          "c": [
+            {
+              "es": "Prueba de alcoholemia.",
+              "tr": "Анализ на алкоголь в крови."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "Все варианты",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "верны."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-174": {
+      "id": "a1-174",
+      "text": "Учитывает ли Национальный регламент дорожного движения повторность нарушений?",
+      "options": {
+        "a": "Нет, водитель может совершать одно и то же нарушение много раз, и наказание будет тем же.",
+        "b": "Да, если водитель совершает то же нарушение в течение 12 месяцев, штраф удваивается.",
+        "c": "Только в случаях очень тяжёлых нарушений.",
+        "d": "Ни один из вариантов не верен."
+      },
+      "gist": "Есть ли повторность нарушений в регламенте",
+      "explanation": "Да, повторность есть. То же нарушение в течение 12 месяцев — штраф в два раза больше. Это касается любых нарушений, не только тяжёлых.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿El Reglamento Nacional de Tránsito",
+            "tr": "Национальный регламент дорожного движения"
+          },
+          {
+            "es": "considera la reincidencia",
+            "tr": "учитывает повторность"
+          },
+          {
+            "es": "en las infracciones de tránsito?",
+            "tr": "дорожных нарушений?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No, el conductor puede cometer",
+              "tr": "Нет, водитель может совершать",
+              "kind": "logic"
+            },
+            {
+              "es": "la misma infracción varias veces",
+              "tr": "то же нарушение много раз,"
+            },
+            {
+              "es": "y la sanción será la misma.",
+              "tr": "и наказание будет тем же."
+            }
+          ],
+          "b": [
+            {
+              "es": "Si, cuando el conductor comete",
+              "tr": "Да, когда водитель совершает"
+            },
+            {
+              "es": "la misma infracción",
+              "tr": "то же нарушение"
+            },
+            {
+              "es": "dentro de los 12 meses",
+              "tr": "в течение 12 месяцев,",
+              "kind": "anchor"
+            },
+            {
+              "es": "será sancionado",
+              "tr": "он будет наказан"
+            },
+            {
+              "es": "con el doble de la multa.",
+              "tr": "двойным штрафом.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Solo en los casos",
+              "tr": "Только в случаях,",
+              "kind": "logic"
+            },
+            {
+              "es": "en que se cometan",
+              "tr": "когда совершаются"
+            },
+            {
+              "es": "infracciones gravísimas.",
+              "tr": "очень тяжёлые нарушения."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "Ни один из вариантов",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "не верен."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-175": {
+      "id": "a1-175",
+      "text": "Через какое время после совершения того же нарушения это называется повторностью и наказывается двойным установленным штрафом?",
+      "options": {
+        "a": "6 месяцев.",
+        "b": "12 месяцев.",
+        "c": "24 месяца.",
+        "d": "35 месяцев."
+      },
+      "gist": "Срок повторности нарушения",
+      "explanation": "Число для запоминания — 12 месяцев. Если то же нарушение повторяется в течение года, штраф удваивается. Другие числа — просто отвлекают.",
+      "trap": "Все варианты — числа. Помните: reincidencia = «12 meses» (один год).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Después de qué tiempo",
+            "tr": "Через какое время",
+            "kind": "logic"
+          },
+          {
+            "es": "de haber cometido",
+            "tr": "после совершения"
+          },
+          {
+            "es": "la misma infracción",
+            "tr": "того же нарушения"
+          },
+          {
+            "es": "se llama reincidencia",
+            "tr": "это называется повторностью"
+          },
+          {
+            "es": "y es sancionada",
+            "tr": "и наказывается"
+          },
+          {
+            "es": "con el doble de la multa establecida?",
+            "tr": "двойным установленным штрафом?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "06 meses.",
+              "tr": "6 месяцев."
+            }
+          ],
+          "b": [
+            {
+              "es": "12 meses.",
+              "tr": "12 месяцев.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "24 meses.",
+              "tr": "24 месяца."
+            }
+          ],
+          "d": [
+            {
+              "es": "35 meses.",
+              "tr": "35 месяцев."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "en": {
+    "a1-151": {
+      "id": "a1-151",
+      "text": "The following sign (P-61) shows:",
+      "options": {
+        "a": "Retroreflective arrows that indicate danger.",
+        "b": "Curve delineators, which guide the driver.",
+        "c": "Warning to the driver about a bridge ahead.",
+        "d": "None of the options is correct."
+      },
+      "gist": "What sign P-61 shows",
+      "explanation": "Sign P-61 is a curve delineator. It stands along a bend and shows the driver where the road goes. It is not a danger arrow and not a bridge warning.",
+      "trap": "Option a «flechas» (arrows) looks similar in the picture, but the right answer is «delineadores de curva» (curve delineators).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La siguiente señal",
+            "tr": "The following sign"
+          },
+          {
+            "es": "(P-61),",
+            "tr": "(P-61),"
+          },
+          {
+            "es": "muestra:",
+            "tr": "shows:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Flechas retroreflectivas",
+              "tr": "Retroreflective arrows"
+            },
+            {
+              "es": "que indican peligro.",
+              "tr": "that indicate danger."
+            }
+          ],
+          "b": [
+            {
+              "es": "Delineadores de curva,",
+              "tr": "Curve delineators,",
+              "kind": "anchor"
+            },
+            {
+              "es": "que guían al conductor.",
+              "tr": "that guide the driver."
+            }
+          ],
+          "c": [
+            {
+              "es": "Advertencia al conductor",
+              "tr": "Warning to the driver"
+            },
+            {
+              "es": "sobre la proximidad",
+              "tr": "about the nearness"
+            },
+            {
+              "es": "de un puente.",
+              "tr": "of a bridge."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-152": {
+      "id": "a1-152",
+      "text": "If you hold a private A-I licence, you are allowed to drive the following vehicle:",
+      "options": {
+        "a": "Truck, dump type.",
+        "b": "Bus, panoramic type.",
+        "c": "Mototaxi.",
+        "d": "Car, sedan type."
+      },
+      "gist": "What an A-I licence lets you drive",
+      "explanation": "An A-I licence is for cars. Trucks and buses need professional licences (A-II, A-III). A mototaxi is category B.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si usted es titular",
+            "tr": "If you are the holder"
+          },
+          {
+            "es": "de una licencia particular A-I,",
+            "tr": "of a private A-I licence,"
+          },
+          {
+            "es": "está autorizado",
+            "tr": "you are authorized",
+            "kind": "logic"
+          },
+          {
+            "es": "a conducir",
+            "tr": "to drive"
+          },
+          {
+            "es": "el siguiente vehículo:",
+            "tr": "the following vehicle:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Camión,",
+              "tr": "Truck,"
+            },
+            {
+              "es": "tipo volquete.",
+              "tr": "dump type."
+            }
+          ],
+          "b": [
+            {
+              "es": "Ómnibus,",
+              "tr": "Bus,"
+            },
+            {
+              "es": "tipo panorámico.",
+              "tr": "panoramic type."
+            }
+          ],
+          "c": [
+            {
+              "es": "Mototaxi.",
+              "tr": "Mototaxi."
+            }
+          ],
+          "d": [
+            {
+              "es": "Automóvil,",
+              "tr": "Car,",
+              "kind": "anchor"
+            },
+            {
+              "es": "tipo sedan.",
+              "tr": "sedan type."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-153": {
+      "id": "a1-153",
+      "text": "While a person is driving, they are allowed to:",
+      "options": {
+        "a": "Share their seat with a child, as long as the child is under one year old.",
+        "b": "Let another person take control of the steering, as long as…",
+        "c": "Drive with one hand on the steering wheel when they need to operate a control, such as changing gears.",
+        "d": "None of the options is correct."
+      },
+      "gist": "What is allowed while driving",
+      "explanation": "One hand on the wheel is fine when you change gears or use a control. A child on the driver's seat is never allowed. Letting someone else steer is not allowed either.",
+      "trap": "Options a and b use «siempre y cuando» (as long as) and sound like exceptions, but they are always violations.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Mientras la persona conduce,",
+            "tr": "While the person drives,"
+          },
+          {
+            "es": "le está permitido:",
+            "tr": "they are allowed to:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Compartir su asiento",
+              "tr": "Share their seat"
+            },
+            {
+              "es": "con un niño,",
+              "tr": "with a child,"
+            },
+            {
+              "es": "siempre y cuando",
+              "tr": "as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "éste sea menor",
+              "tr": "the child is under",
+              "kind": "logic"
+            },
+            {
+              "es": "de un año de edad.",
+              "tr": "one year of age."
+            }
+          ],
+          "b": [
+            {
+              "es": "Que otra persona",
+              "tr": "That another person"
+            },
+            {
+              "es": "tome el control",
+              "tr": "takes control"
+            },
+            {
+              "es": "de la dirección del vehículo,",
+              "tr": "of the vehicle's steering,"
+            },
+            {
+              "es": "siempre y",
+              "tr": "as long as…",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Conducir con una mano",
+              "tr": "Drive with one hand",
+              "kind": "anchor"
+            },
+            {
+              "es": "sobre el volante de dirección,",
+              "tr": "on the steering wheel,",
+              "kind": "anchor"
+            },
+            {
+              "es": "cuando es necesario",
+              "tr": "when it is necessary"
+            },
+            {
+              "es": "accionar algún comando",
+              "tr": "to operate some control"
+            },
+            {
+              "es": "del vehículo,",
+              "tr": "of the vehicle,"
+            },
+            {
+              "es": "como realizar",
+              "tr": "such as making"
+            },
+            {
+              "es": "los cambios de velocidad.",
+              "tr": "the gear changes."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-154": {
+      "id": "a1-154",
+      "text": "The driver is ________ to ___________ to the tests requested by the officer of the National Police of Peru assigned to traffic control, to determine intoxication by alcohol, drugs, narcotics or other toxic substances",
+      "options": {
+        "a": "Within their right - to refuse.",
+        "b": "Entitled - to reject.",
+        "c": "Obliged - to submit.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Must the driver take the alcohol test",
+      "explanation": "The driver must take the alcohol and drug tests when the police ask. Refusing is a very serious offence. Options a and b talk about refusing, which is wrong.",
+      "gloss": {
+        "text": [
+          {
+            "es": "El conductor está",
+            "tr": "The driver is"
+          },
+          {
+            "es": "________ a ___________",
+            "tr": "________ to ___________"
+          },
+          {
+            "es": "a las pruebas",
+            "tr": "to the tests"
+          },
+          {
+            "es": "que le solicite",
+            "tr": "requested by"
+          },
+          {
+            "es": "el Efectivo",
+            "tr": "the officer"
+          },
+          {
+            "es": "de la Policía Nacional del Perú,",
+            "tr": "of the National Police of Peru,"
+          },
+          {
+            "es": "asignado al control del tránsito,",
+            "tr": "assigned to traffic control,"
+          },
+          {
+            "es": "para determinar",
+            "tr": "to determine"
+          },
+          {
+            "es": "su estado de intoxicación",
+            "tr": "their state of intoxication"
+          },
+          {
+            "es": "por alcohol, drogas,",
+            "tr": "by alcohol, drugs,"
+          },
+          {
+            "es": "estupefacientes",
+            "tr": "narcotics"
+          },
+          {
+            "es": "u otros tóxicos",
+            "tr": "or other toxic substances"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "En su derecho -",
+              "tr": "Within their right -"
+            },
+            {
+              "es": "negarse.",
+              "tr": "to refuse.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Facultado -",
+              "tr": "Entitled -"
+            },
+            {
+              "es": "Rechazar.",
+              "tr": "To reject.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Obligado -",
+              "tr": "Obliged -",
+              "kind": "anchor"
+            },
+            {
+              "es": "someterse.",
+              "tr": "to submit.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-155": {
+      "id": "a1-155",
+      "text": "If a driver has an obvious physical disability that is not listed in the restrictions section of their licence, what happens:",
+      "options": {
+        "a": "The Traffic Police stop that driver and the authority that issued the licence orders a re-examination.",
+        "b": "The competent authority issues a special permit for that driver.",
+        "c": "The Traffic Police issue a special permit for that driver.",
+        "d": "The Traffic Police give that driver a reasonable period to keep driving."
+      },
+      "gist": "Disability not listed on licence: what happens",
+      "explanation": "The police stop the driver. The authority that issued the licence orders a new exam. Nobody issues a «permiso excepcional» or gives extra time.",
+      "trap": "Three wrong options offer a «permiso excepcional» (special permit) or a «plazo» (time period). The right one has «intervenga» (stops) and «reexaminación» (re-examination).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Ante un conductor",
+            "tr": "In the case of a driver"
+          },
+          {
+            "es": "con evidente discapacidad física,",
+            "tr": "with an obvious physical disability,"
+          },
+          {
+            "es": "la cual no figura",
+            "tr": "which is not listed",
+            "kind": "logic"
+          },
+          {
+            "es": "en el rubro de restricciones",
+            "tr": "in the restrictions section"
+          },
+          {
+            "es": "de su licencia de conducir,",
+            "tr": "of their driving licence,"
+          },
+          {
+            "es": "procede:",
+            "tr": "the procedure is:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que la Policía de Tránsito",
+              "tr": "That the Traffic Police"
+            },
+            {
+              "es": "intervenga a dicho conductor",
+              "tr": "stop that driver",
+              "kind": "anchor"
+            },
+            {
+              "es": "y que la autoridad",
+              "tr": "and that the authority"
+            },
+            {
+              "es": "que expidió",
+              "tr": "that issued"
+            },
+            {
+              "es": "la licencia de conducir",
+              "tr": "the driving licence"
+            },
+            {
+              "es": "ordene su reexaminación.",
+              "tr": "orders a re-examination.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Que la autoridad competente",
+              "tr": "That the competent authority"
+            },
+            {
+              "es": "expida un permiso excepcional",
+              "tr": "issues a special permit"
+            },
+            {
+              "es": "para dicho conductor.",
+              "tr": "for that driver."
+            }
+          ],
+          "c": [
+            {
+              "es": "Que la Policía de Tránsito",
+              "tr": "That the Traffic Police"
+            },
+            {
+              "es": "expida un permiso excepcional",
+              "tr": "issues a special permit"
+            },
+            {
+              "es": "para dicho conductor.",
+              "tr": "for that driver."
+            }
+          ],
+          "d": [
+            {
+              "es": "Que la Policía de Tránsito",
+              "tr": "That the Traffic Police"
+            },
+            {
+              "es": "otorgue a dicho conductor",
+              "tr": "grants that driver"
+            },
+            {
+              "es": "un plazo prudencial",
+              "tr": "a reasonable period"
+            },
+            {
+              "es": "para que continúe conduciendo.",
+              "tr": "to keep driving."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-156": {
+      "id": "a1-156",
+      "text": "Can a person with a physical disability get a private driving licence?",
+      "options": {
+        "a": "Yes, as long as the disability can be overcome with a corrective device that is set as one of the restrictions in the current rules.",
+        "b": "No, it is strictly forbidden.",
+        "c": "It depends on the judgement of the licence-issuing centre.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Licence with a physical disability",
+      "explanation": "Yes, it is possible. The disability must be overcome by a corrector: glasses, prosthesis, adapted controls. Then a restriction is written on the licence. It is not forbidden and does not depend on the centre's opinion.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Una persona",
+            "tr": "Can a person"
+          },
+          {
+            "es": "con discapacidad física",
+            "tr": "with a physical disability"
+          },
+          {
+            "es": "puede obtener",
+            "tr": "get",
+            "kind": "logic"
+          },
+          {
+            "es": "una licencia de conducir particular?",
+            "tr": "a private driving licence?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Sí, siempre y cuando",
+              "tr": "Yes, as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "dicha discapacidad",
+              "tr": "that disability"
+            },
+            {
+              "es": "pueda ser superada",
+              "tr": "can be overcome",
+              "kind": "logic"
+            },
+            {
+              "es": "con algún corrector",
+              "tr": "with some corrective device",
+              "kind": "anchor"
+            },
+            {
+              "es": "que establezca",
+              "tr": "that is set by"
+            },
+            {
+              "es": "alguna de las restricciones",
+              "tr": "one of the restrictions"
+            },
+            {
+              "es": "que prevé la norma vigente.",
+              "tr": "provided by the current rules."
+            }
+          ],
+          "b": [
+            {
+              "es": "No, está terminantemente prohibido.",
+              "tr": "No, it is strictly forbidden.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Depende del criterio",
+              "tr": "It depends on the judgement"
+            },
+            {
+              "es": "del centro de emisión",
+              "tr": "of the issuing centre"
+            },
+            {
+              "es": "de la licencia de conducir.",
+              "tr": "of the driving licence."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-157": {
+      "id": "a1-157",
+      "text": "Can a minor drive a vehicle?",
+      "options": {
+        "a": "Never.",
+        "b": "Yes, as long as an adult who holds a driving licence goes with them.",
+        "c": "No, unless they drive a small-sized vehicle.",
+        "d": "Yes, as long as they are over 16 and have a licence or provisional permit, as set out in the National Regulation of the Driving Licence Issuing System."
+      },
+      "gist": "Can a minor drive",
+      "explanation": "Yes, from 16 — if they have a licence or a provisional permit. An adult passenger does not replace a licence. A small vehicle changes nothing either.",
+      "trap": "Both b and d start with «Sí, siempre y cuando» (yes, as long as). The right one mentions «16 años» and «permiso provisional» (provisional permit).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Puede",
+            "tr": "Can",
+            "kind": "logic"
+          },
+          {
+            "es": "una persona menor de edad",
+            "tr": "a minor",
+            "kind": "logic"
+          },
+          {
+            "es": "conducir un vehículo?",
+            "tr": "drive a vehicle?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Nunca.",
+              "tr": "Never.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Sí, siempre y cuando",
+              "tr": "Yes, as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "vaya acompañada",
+              "tr": "they are accompanied"
+            },
+            {
+              "es": "de una personas mayor de edad",
+              "tr": "by an adult",
+              "kind": "logic"
+            },
+            {
+              "es": "y titular de una licencia de conducir.",
+              "tr": "who holds a driving licence."
+            }
+          ],
+          "c": [
+            {
+              "es": "No, salvo que",
+              "tr": "No, unless",
+              "kind": "logic"
+            },
+            {
+              "es": "conduzca un vehículo",
+              "tr": "they drive a vehicle"
+            },
+            {
+              "es": "de dimensión reducida.",
+              "tr": "of reduced size."
+            }
+          ],
+          "d": [
+            {
+              "es": "Sí, siempre y cuando",
+              "tr": "Yes, as long as",
+              "kind": "logic"
+            },
+            {
+              "es": "sea mayor de 16 años",
+              "tr": "they are over 16",
+              "kind": "anchor"
+            },
+            {
+              "es": "y cuente con licencia de conducir",
+              "tr": "and have a driving licence"
+            },
+            {
+              "es": "o permiso provisional,",
+              "tr": "or a provisional permit,",
+              "kind": "anchor"
+            },
+            {
+              "es": "conforme a lo dispuesto",
+              "tr": "as set out"
+            },
+            {
+              "es": "en el Reglamento Nacional",
+              "tr": "in the National Regulation"
+            },
+            {
+              "es": "del Sistema de Emisión",
+              "tr": "of the Issuing System"
+            },
+            {
+              "es": "de Licencias de Conducir.",
+              "tr": "of Driving Licences."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-158": {
+      "id": "a1-158",
+      "text": "It is a general traffic obligation that ____________ move about respecting the messages of _______________, the instructions of Traffic Police officers and the mandate of the relevant laws and regulations.",
+      "options": {
+        "a": "Pedestrians - the signboards installed on public roads.",
+        "b": "Road users - traffic control devices.",
+        "c": "Vehicles - the media.",
+        "d": "Minors - senior citizens."
+      },
+      "gist": "Who must obey what on the road",
+      "explanation": "The rule applies to all road users: drivers, pedestrians, passengers. They all obey traffic control devices: signs, lights, markings. The other options are too narrow or make no sense.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Es una obligación general de tránsito",
+            "tr": "It is a general traffic obligation"
+          },
+          {
+            "es": "que, los ____________",
+            "tr": "that the ____________"
+          },
+          {
+            "es": "circulen respetando",
+            "tr": "move about respecting"
+          },
+          {
+            "es": "los mensajes de _______________,",
+            "tr": "the messages of _______________,"
+          },
+          {
+            "es": "las instrucciones",
+            "tr": "the instructions"
+          },
+          {
+            "es": "de los Efectivos de la Policía de Tránsito",
+            "tr": "of Traffic Police officers"
+          },
+          {
+            "es": "y el mandato",
+            "tr": "and the mandate"
+          },
+          {
+            "es": "de las normas legales y reglamentarias",
+            "tr": "of the laws and regulations"
+          },
+          {
+            "es": "correspondientes.",
+            "tr": "that apply."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Peatones -",
+              "tr": "Pedestrians -"
+            },
+            {
+              "es": "los letreros instalados",
+              "tr": "the signboards installed"
+            },
+            {
+              "es": "en las vías públicas.",
+              "tr": "on public roads."
+            }
+          ],
+          "b": [
+            {
+              "es": "Los usuarios de la vía pública -",
+              "tr": "Road users -",
+              "kind": "anchor"
+            },
+            {
+              "es": "los dispositivos de control de tránsito.",
+              "tr": "traffic control devices.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Vehículos -",
+              "tr": "Vehicles -"
+            },
+            {
+              "es": "los medios de comunicación.",
+              "tr": "the media."
+            }
+          ],
+          "d": [
+            {
+              "es": "Menores de edad -",
+              "tr": "Minors -",
+              "kind": "logic"
+            },
+            {
+              "es": "los adultos mayores.",
+              "tr": "senior citizens.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-159": {
+      "id": "a1-159",
+      "text": "Mark the incorrect statement:",
+      "options": {
+        "a": "It is forbidden to throw, leave or abandon objects on the public road, or any other obstacle that may hinder traffic.",
+        "b": "The driver must keep enough fuel in the vehicle to avoid stopping on the road.",
+        "c": "Vehicles must drive on urban roads with low beams 24 hours a day.",
+        "d": "If there is water on the roadway, the driver must take care not to splash the pavement and pedestrians."
+      },
+      "gist": "Which statement is wrong",
+      "explanation": "The question asks for the WRONG statement. Low beams in the city are for night and poor visibility, not 24 hours. Statements a, b and d are real rules.",
+      "trap": "Look for the false one. The trap is «24 horas del día» (24 hours a day): city low beams are not required all day.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Marque",
+            "tr": "Mark"
+          },
+          {
+            "es": "la afirmación incorrecta:",
+            "tr": "the incorrect statement:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está prohibido",
+              "tr": "It is forbidden",
+              "kind": "logic"
+            },
+            {
+              "es": "arrojar, depositar o abandonar",
+              "tr": "to throw, place or abandon"
+            },
+            {
+              "es": "objetos en la vía pública,",
+              "tr": "objects on the public road,"
+            },
+            {
+              "es": "o cualquier otro obstáculo",
+              "tr": "or any other obstacle"
+            },
+            {
+              "es": "que pueda dificultar la circulación.",
+              "tr": "that may hinder traffic."
+            }
+          ],
+          "b": [
+            {
+              "es": "El conductor debe mantener",
+              "tr": "The driver must keep",
+              "kind": "logic"
+            },
+            {
+              "es": "el vehículo que conduce",
+              "tr": "the vehicle they drive"
+            },
+            {
+              "es": "con el combustible necesario",
+              "tr": "with enough fuel"
+            },
+            {
+              "es": "para evitar detenciones en la vía.",
+              "tr": "to avoid stopping on the road."
+            }
+          ],
+          "c": [
+            {
+              "es": "Los vehículos deben circular",
+              "tr": "Vehicles must drive",
+              "kind": "logic"
+            },
+            {
+              "es": "en vías urbanas",
+              "tr": "on urban roads"
+            },
+            {
+              "es": "con las luces bajas",
+              "tr": "with low beams",
+              "kind": "anchor"
+            },
+            {
+              "es": "las 24 horas del día.",
+              "tr": "24 hours a day.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "En caso de haber agua",
+              "tr": "If there is water"
+            },
+            {
+              "es": "en la calzada,",
+              "tr": "on the roadway,"
+            },
+            {
+              "es": "el conductor de un vehículo",
+              "tr": "the driver of a vehicle"
+            },
+            {
+              "es": "debe tomar las precauciones,",
+              "tr": "must take precautions,",
+              "kind": "logic"
+            },
+            {
+              "es": "para evitar que ésta",
+              "tr": "so that it does not"
+            },
+            {
+              "es": "pueda mojar la acera",
+              "tr": "splash the pavement"
+            },
+            {
+              "es": "y los peatones.",
+              "tr": "and the pedestrians."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-160": {
+      "id": "a1-160",
+      "text": "If, driving along an avenue, you see a sign showing a maximum limit of 50 km/h, but under the rules the maximum speed on that road is 60 km/h; you:",
+      "options": {
+        "a": "Must obey the speed sign installed on the road.",
+        "b": "May go at a maximum speed of 60 km/h.",
+        "c": "Must go at a maximum speed of 60 km/h.",
+        "d": "Must go at a speed between 50 and 60 km/h."
+      },
+      "gist": "Sign says 50, rule says 60",
+      "explanation": "The sign on the road beats the general rule. If the sign says 50, drive at 50 or less. The options with 60 km/h are a trap.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Si al conducir por una avenida",
+            "tr": "If, driving along an avenue,"
+          },
+          {
+            "es": "se encuentra con una señal en la vía",
+            "tr": "you find a sign on the road"
+          },
+          {
+            "es": "que indica un límite máximo",
+            "tr": "that shows a maximum limit",
+            "kind": "logic"
+          },
+          {
+            "es": "de 50 km/h,",
+            "tr": "of 50 km/h,"
+          },
+          {
+            "es": "sin embargo,",
+            "tr": "however,",
+            "kind": "logic"
+          },
+          {
+            "es": "conforme a lo dispuesto en la norma",
+            "tr": "according to the rules"
+          },
+          {
+            "es": "el límite máximo de velocidad",
+            "tr": "the maximum speed limit",
+            "kind": "logic"
+          },
+          {
+            "es": "en dicha vía",
+            "tr": "on that road"
+          },
+          {
+            "es": "es de 60 km/h;",
+            "tr": "is 60 km/h;"
+          },
+          {
+            "es": "usted:",
+            "tr": "you:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Debe obedecer la señal",
+              "tr": "Must obey the sign",
+              "kind": "anchor"
+            },
+            {
+              "es": "de velocidad",
+              "tr": "for speed"
+            },
+            {
+              "es": "instalada en la vía.",
+              "tr": "installed on the road."
+            }
+          ],
+          "b": [
+            {
+              "es": "Puede ir",
+              "tr": "May go",
+              "kind": "logic"
+            },
+            {
+              "es": "a una velocidad máxima",
+              "tr": "at a maximum speed",
+              "kind": "logic"
+            },
+            {
+              "es": "de 60 km/h.",
+              "tr": "of 60 km/h."
+            }
+          ],
+          "c": [
+            {
+              "es": "Debe ir",
+              "tr": "Must go",
+              "kind": "logic"
+            },
+            {
+              "es": "a una velocidad máxima",
+              "tr": "at a maximum speed",
+              "kind": "logic"
+            },
+            {
+              "es": "de 60 km/h.",
+              "tr": "of 60 km/h."
+            }
+          ],
+          "d": [
+            {
+              "es": "Debe ir",
+              "tr": "Must go",
+              "kind": "logic"
+            },
+            {
+              "es": "a una velocidad",
+              "tr": "at a speed"
+            },
+            {
+              "es": "entre 50 y 60 km/h.",
+              "tr": "between 50 and 60 km/h."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-161": {
+      "id": "a1-161",
+      "text": "About driving in reverse, mark the correct option:",
+      "options": {
+        "a": "It is forbidden, except in strictly justified cases.",
+        "b": "It must never be done.",
+        "c": "It is allowed",
+        "d": "It is allowed, except on highways."
+      },
+      "gist": "Is reversing allowed",
+      "explanation": "Reversing is generally forbidden. The only exception is when it is strictly necessary, for example when parking. «Nunca» (never) is too strict, and «permitida» (allowed) is wrong.",
+      "trap": "Both a and d contain «salvo» (except). The right one says «prohibida» (forbidden) plus «estrictamente justificados» (strictly justified).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Sobre la conducción en retroceso,",
+            "tr": "About driving in reverse,"
+          },
+          {
+            "es": "marque la opción correcta:",
+            "tr": "mark the correct option:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está prohibida,",
+              "tr": "It is forbidden,",
+              "kind": "logic"
+            },
+            {
+              "es": "salvo en casos",
+              "tr": "except in cases",
+              "kind": "logic"
+            },
+            {
+              "es": "estrictamente justificados.",
+              "tr": "strictly justified.",
+              "kind": "anchor"
+            }
+          ],
+          "b": [
+            {
+              "es": "Nunca debe realizarse.",
+              "tr": "It must never be done.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Está permitida",
+              "tr": "It is allowed",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Está permitida,",
+              "tr": "It is allowed,",
+              "kind": "logic"
+            },
+            {
+              "es": "salvo en carreteras.",
+              "tr": "except on highways.",
+              "kind": "logic"
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-162": {
+      "id": "a1-162",
+      "text": "The use of ___________ beam is mandatory on __________, and you must switch to ____________ beam just before meeting a vehicle coming the other way.",
+      "options": {
+        "a": "Low - highways - high.",
+        "b": "High - urban roads - low.",
+        "c": "Fog lights - highways - low.",
+        "d": "High - highways - low."
+      },
+      "gist": "Which beam is mandatory on highways",
+      "explanation": "On highways, high beam is mandatory. Before an oncoming car, switch to low beam so you do not dazzle. In the city, high beam is not used.",
+      "trap": "Word order: «Alta» (high) → «carreteras» (highways) → «baja» (low). Option a is reversed, b says «vías urbanas» (city). Option d has a typo «carretereras».",
+      "gloss": {
+        "text": [
+          {
+            "es": "El uso de la luz ___________",
+            "tr": "The use of ___________ beam"
+          },
+          {
+            "es": "es obligatorio en __________ ,",
+            "tr": "is mandatory on __________ ,",
+            "kind": "logic"
+          },
+          {
+            "es": "debiendo cambiar",
+            "tr": "and you must switch",
+            "kind": "logic"
+          },
+          {
+            "es": "por luz ____________",
+            "tr": "to ____________ beam"
+          },
+          {
+            "es": "momentos previos al cruce",
+            "tr": "just before meeting"
+          },
+          {
+            "es": "con otro vehículo",
+            "tr": "another vehicle"
+          },
+          {
+            "es": "que circule en sentido contrario.",
+            "tr": "travelling in the opposite direction."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Baja -",
+              "tr": "Low -"
+            },
+            {
+              "es": "carreteras -",
+              "tr": "highways -"
+            },
+            {
+              "es": "alta.",
+              "tr": "high."
+            }
+          ],
+          "b": [
+            {
+              "es": "Alta -",
+              "tr": "High -"
+            },
+            {
+              "es": "vías urbanas -",
+              "tr": "urban roads -"
+            },
+            {
+              "es": "baja.",
+              "tr": "low."
+            }
+          ],
+          "c": [
+            {
+              "es": "Rompenieblas -",
+              "tr": "Fog lights -"
+            },
+            {
+              "es": "carreteras -",
+              "tr": "highways -"
+            },
+            {
+              "es": "baja.",
+              "tr": "low."
+            }
+          ],
+          "d": [
+            {
+              "es": "Alta -",
+              "tr": "High -"
+            },
+            {
+              "es": "carretereras -",
+              "tr": "highways (typo) -"
+            },
+            {
+              "es": "baja.",
+              "tr": "low."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-163": {
+      "id": "a1-163",
+      "text": "Indicate the permitted behaviour:",
+      "options": {
+        "a": "Parking a vehicle at the exit of entertainment venues that are open.",
+        "b": "Parking an emergency vehicle in a place where it is not allowed, if absolutely necessary.",
+        "c": "Parking a vehicle 1 metre past a pedestrian crossing.",
+        "d": "Parking a vehicle on the pavement."
+      },
+      "gist": "Which parking is allowed",
+      "explanation": "Ambulances, fire trucks and police may stop anywhere if it is absolutely necessary. Theatre exits, right next to a crossing, and pavements are all forbidden.",
+      "trap": "All four start the same: «El estacionamiento de un vehículo». Look for «vehículo de emergencia» (emergency vehicle) and «imprescindible» (absolutely necessary).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Indique",
+            "tr": "Indicate"
+          },
+          {
+            "es": "la conducta permitida:",
+            "tr": "the permitted behaviour:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El estacionamiento de un vehículo",
+              "tr": "Parking a vehicle"
+            },
+            {
+              "es": "a la salida",
+              "tr": "at the exit"
+            },
+            {
+              "es": "de salas de espectáculos",
+              "tr": "of entertainment venues"
+            },
+            {
+              "es": "en funcionamiento.",
+              "tr": "that are open."
+            }
+          ],
+          "b": [
+            {
+              "es": "El estacionamiento",
+              "tr": "Parking"
+            },
+            {
+              "es": "de un vehículo de emergencia",
+              "tr": "an emergency vehicle",
+              "kind": "anchor"
+            },
+            {
+              "es": "en un lugar no permitido,",
+              "tr": "in a place not allowed,",
+              "kind": "logic"
+            },
+            {
+              "es": "si ello fuera imprescindible.",
+              "tr": "if that is absolutely necessary.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "El estacionamiento de un vehículo",
+              "tr": "Parking a vehicle"
+            },
+            {
+              "es": "después de 1 metro",
+              "tr": "1 metre past",
+              "kind": "logic"
+            },
+            {
+              "es": "de un paso peatonal.",
+              "tr": "a pedestrian crossing."
+            }
+          ],
+          "d": [
+            {
+              "es": "El estacionamiento de un vehículo",
+              "tr": "Parking a vehicle"
+            },
+            {
+              "es": "sobre las aceras.",
+              "tr": "on the pavements."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-164": {
+      "id": "a1-164",
+      "text": "A vehicle is considered abandoned when:",
+      "options": {
+        "a": "The vehicle is parked in a permitted place on the public road, but without a driver for more than 72 hours.",
+        "b": "The vehicle is parked in a permitted place on the public road, but without a driver for more than 96 hours.",
+        "c": "The vehicle is parked in a permitted place on the public road, but without a driver and for more than 48 hours.",
+        "d": "The traffic rules say nothing about vehicle abandonment."
+      },
+      "gist": "When a vehicle counts as abandoned",
+      "explanation": "A vehicle left without a driver for more than 48 hours is abandoned. Even if the place is allowed. Remember the number: 48 hours, that is two days.",
+      "trap": "a, b and c differ only by the number: 72, 96, 48. The right one is «48 horas».",
+      "gloss": {
+        "text": [
+          {
+            "es": "Se considera",
+            "tr": "It is considered"
+          },
+          {
+            "es": "el abandono de un vehículo",
+            "tr": "abandonment of a vehicle"
+          },
+          {
+            "es": "cuando:",
+            "tr": "when:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "El vehículo está estacionado",
+              "tr": "The vehicle is parked"
+            },
+            {
+              "es": "en un lugar permitido",
+              "tr": "in a permitted place",
+              "kind": "logic"
+            },
+            {
+              "es": "en la vía pública,",
+              "tr": "on the public road,"
+            },
+            {
+              "es": "pero sin conductor",
+              "tr": "but without a driver"
+            },
+            {
+              "es": "por un tiempo mayor",
+              "tr": "for a time longer",
+              "kind": "logic"
+            },
+            {
+              "es": "de 72 horas.",
+              "tr": "than 72 hours."
+            }
+          ],
+          "b": [
+            {
+              "es": "El vehículo está estacionado",
+              "tr": "The vehicle is parked"
+            },
+            {
+              "es": "en un lugar permitido",
+              "tr": "in a permitted place",
+              "kind": "logic"
+            },
+            {
+              "es": "en la vía pública,",
+              "tr": "on the public road,"
+            },
+            {
+              "es": "pero sin conductor",
+              "tr": "but without a driver"
+            },
+            {
+              "es": "por un tiempo mayor",
+              "tr": "for a time longer",
+              "kind": "logic"
+            },
+            {
+              "es": "de 96 horas.",
+              "tr": "than 96 hours."
+            }
+          ],
+          "c": [
+            {
+              "es": "El vehículo está estacionado",
+              "tr": "The vehicle is parked"
+            },
+            {
+              "es": "en un lugar permitido",
+              "tr": "in a permitted place",
+              "kind": "logic"
+            },
+            {
+              "es": "en la vía pública,",
+              "tr": "on the public road,"
+            },
+            {
+              "es": "pero sin conductor",
+              "tr": "but without a driver"
+            },
+            {
+              "es": "y por un tiempo mayor",
+              "tr": "and for a time longer",
+              "kind": "logic"
+            },
+            {
+              "es": "de 48 horas.",
+              "tr": "than 48 hours.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "La norma de tránsito",
+              "tr": "The traffic rules"
+            },
+            {
+              "es": "no establece nada",
+              "tr": "set nothing",
+              "kind": "logic"
+            },
+            {
+              "es": "sobre el abandono del vehículo.",
+              "tr": "about vehicle abandonment."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-165": {
+      "id": "a1-165",
+      "text": "When carrying a load in your vehicle, you must:",
+      "options": {
+        "a": "Make sure that, if the load sticks out sideways from the body, it is well secured.",
+        "b": "Avoid any risk of the load that sticks out sideways from the body falling.",
+        "c": "Try to keep the load from being dragged.",
+        "d": "Make sure the load does not exceed the dimensions of the body."
+      },
+      "gist": "Rule for carrying a load",
+      "explanation": "The load must not stick out beyond the body of the vehicle. Options a and b accept a load sticking out sideways, which is forbidden. Option c is too soft: «trying» is not enough.",
+      "trap": "a and b say «sobresalga lateralmente» (sticks out sideways) — a trap. The right one says «no sobrepase las dimensiones» (does not exceed the dimensions).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Al transportar carga",
+            "tr": "When carrying a load"
+          },
+          {
+            "es": "en su vehículo,",
+            "tr": "in your vehicle,"
+          },
+          {
+            "es": "usted debe:",
+            "tr": "you must:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Asegurarse,",
+              "tr": "Make sure,"
+            },
+            {
+              "es": "en caso la carga sobresalga",
+              "tr": "in case the load sticks out"
+            },
+            {
+              "es": "lateralmente de la carrocería,",
+              "tr": "sideways from the body,"
+            },
+            {
+              "es": "esté bien sujeta.",
+              "tr": "it is well secured."
+            }
+          ],
+          "b": [
+            {
+              "es": "Evitar todo riesgo",
+              "tr": "Avoid any risk"
+            },
+            {
+              "es": "de caída de la carga",
+              "tr": "of the load falling"
+            },
+            {
+              "es": "que sobresale lateralmente",
+              "tr": "that sticks out sideways"
+            },
+            {
+              "es": "de la carrocería.",
+              "tr": "from the body."
+            }
+          ],
+          "c": [
+            {
+              "es": "Tratar que la carga",
+              "tr": "Try that the load"
+            },
+            {
+              "es": "no sea arrastrada.",
+              "tr": "is not dragged.",
+              "kind": "logic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Asegurarse que la carga",
+              "tr": "Make sure the load"
+            },
+            {
+              "es": "no sobrepase las dimensiones",
+              "tr": "does not exceed the dimensions",
+              "kind": "anchor"
+            },
+            {
+              "es": "de la carrocería.",
+              "tr": "of the body."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-166": {
+      "id": "a1-166",
+      "text": "About vehicle emission of polluting substances, mark the correct option:",
+      "options": {
+        "a": "It is allowed.",
+        "b": "It is forbidden at a level above the maximum limit that the rules allow.",
+        "c": "It is forbidden in urban areas.",
+        "d": "The rules do not regulate it."
+      },
+      "gist": "Rule on exhaust emissions",
+      "explanation": "Every car has exhaust, so it cannot be banned completely. What is forbidden is exceeding the maximum limit set by the rules. The place (city or not) does not matter.",
+      "gloss": {
+        "text": [
+          {
+            "es": "Sobre la emisión vehicular",
+            "tr": "About vehicle emission"
+          },
+          {
+            "es": "de sustancias contaminantes,",
+            "tr": "of polluting substances,"
+          },
+          {
+            "es": "marque la opción correcta:",
+            "tr": "mark the correct option:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Está permitida.",
+              "tr": "It is allowed.",
+              "kind": "logic"
+            }
+          ],
+          "b": [
+            {
+              "es": "Está prohibida,",
+              "tr": "It is forbidden,",
+              "kind": "logic"
+            },
+            {
+              "es": "en un índice superior",
+              "tr": "at a level above"
+            },
+            {
+              "es": "al límite máximo",
+              "tr": "the maximum limit",
+              "kind": "anchor"
+            },
+            {
+              "es": "que permite la norma.",
+              "tr": "that the rules allow.",
+              "kind": "logic"
+            }
+          ],
+          "c": [
+            {
+              "es": "Está prohibida",
+              "tr": "It is forbidden",
+              "kind": "logic"
+            },
+            {
+              "es": "en el ámbito urbano.",
+              "tr": "in urban areas."
+            }
+          ],
+          "d": [
+            {
+              "es": "La norma no regula",
+              "tr": "The rules do not regulate",
+              "kind": "logic"
+            },
+            {
+              "es": "sobre ello.",
+              "tr": "this."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-167": {
+      "id": "a1-167",
+      "text": "The competent authority, ______________ may prohibit or restrict _____________________ on certain public roads.",
+      "options": {
+        "a": "When the situation justifies it - vehicle traffic or parking.",
+        "b": "Even when the situation justifies it, not - vehicle traffic or parking.",
+        "c": "Is not empowered nor - vehicle traffic",
+        "d": "Only with the driver's consent - vehicle traffic."
+      },
+      "gist": "When authorities can close a road",
+      "explanation": "Authorities can close a road or ban parking when the situation requires it. Examples: roadworks, events, accidents. The driver's consent is not needed. Options b and c say they «cannot», which is wrong.",
+      "trap": "a and b look alike, but b has «Aun cuando… no» (even when… not), meaning «cannot». The right one is a: «Cuando la situación lo justifique» (when the situation justifies it).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La autoridad competente,",
+            "tr": "The competent authority,"
+          },
+          {
+            "es": "______________",
+            "tr": "______________"
+          },
+          {
+            "es": "puede prohibir o restringir",
+            "tr": "may prohibit or restrict",
+            "kind": "logic"
+          },
+          {
+            "es": "_____________________",
+            "tr": "_____________________"
+          },
+          {
+            "es": "en determinadas vías públicas.",
+            "tr": "on certain public roads."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cuando la situación lo justifique -",
+              "tr": "When the situation justifies it -"
+            },
+            {
+              "es": "la circulación o estacionamiento",
+              "tr": "traffic or parking"
+            },
+            {
+              "es": "de vehículos.",
+              "tr": "of vehicles."
+            }
+          ],
+          "b": [
+            {
+              "es": "Aun cuando",
+              "tr": "Even when",
+              "kind": "logic"
+            },
+            {
+              "es": "la situación lo justifique no -",
+              "tr": "the situation justifies it, not -",
+              "kind": "logic"
+            },
+            {
+              "es": "circulación o estacionamiento",
+              "tr": "traffic or parking"
+            },
+            {
+              "es": "de vehículos.",
+              "tr": "of vehicles."
+            }
+          ],
+          "c": [
+            {
+              "es": "No se encuentra facultada ni -",
+              "tr": "Is not empowered nor -",
+              "kind": "logic"
+            },
+            {
+              "es": "circulación de vehículos",
+              "tr": "vehicle traffic"
+            }
+          ],
+          "d": [
+            {
+              "es": "Únicamente con el consentimiento",
+              "tr": "Only with the consent",
+              "kind": "logic"
+            },
+            {
+              "es": "del conductor -",
+              "tr": "of the driver -"
+            },
+            {
+              "es": "circulación de vehículos.",
+              "tr": "vehicle traffic."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-168": {
+      "id": "a1-168",
+      "text": "If, driving on a highway at night, a vehicle approaches from the opposite direction; you must:",
+      "options": {
+        "a": "Switch from low beam to high beam",
+        "b": "Turn on the hazard lights.",
+        "c": "Switch from high beam to low beam.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Oncoming car at night: which beam",
+      "explanation": "At night on a highway you drive with high beam. When a car comes towards you, switch to low beam to avoid dazzling. Hazard lights are not for this.",
+      "trap": "a and c use the same words in a different order. Right: «altas a luces bajas» (from high to low).",
+      "gloss": {
+        "text": [
+          {
+            "es": "Si al conducir en una carretera",
+            "tr": "If, driving on a highway"
+          },
+          {
+            "es": "de noche",
+            "tr": "at night,"
+          },
+          {
+            "es": "se aproxima un vehículo",
+            "tr": "a vehicle approaches"
+          },
+          {
+            "es": "en sentido contrario;",
+            "tr": "in the opposite direction;"
+          },
+          {
+            "es": "usted debe:",
+            "tr": "you must:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Cambiar de luces bajas",
+              "tr": "Switch from low beam"
+            },
+            {
+              "es": "a luces altas",
+              "tr": "to high beam"
+            }
+          ],
+          "b": [
+            {
+              "es": "Encender",
+              "tr": "Turn on"
+            },
+            {
+              "es": "las luces de emergencia.",
+              "tr": "the hazard lights."
+            }
+          ],
+          "c": [
+            {
+              "es": "Cambiar de luces altas",
+              "tr": "Switch from high beam",
+              "kind": "anchor"
+            },
+            {
+              "es": "a luces bajas.",
+              "tr": "to low beam.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-169": {
+      "id": "a1-169",
+      "text": "Stopping a vehicle must be done:",
+      "options": {
+        "a": "Against the direction of traffic and in the left lane of the road.",
+        "b": "In the direction of traffic and in the right lane, using high beam.",
+        "c": "In the direction of traffic and in the left lane, using the hazard lights.",
+        "d": "In the direction of traffic and in the right lane, using the hazard lights."
+      },
+      "gist": "How to stop on the road correctly",
+      "explanation": "Stop with the traffic, in the right lane, with hazard lights on. The left lane and high beam are wrong.",
+      "trap": "You need both: «carril derecho» (right lane) and «luces intermitentes» (hazard lights). b has the right lane but «luces altas»; c has hazard lights but «izquierdo».",
+      "gloss": {
+        "text": [
+          {
+            "es": "La detención de un vehículo",
+            "tr": "Stopping a vehicle"
+          },
+          {
+            "es": "debe efectuarse:",
+            "tr": "must be done:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "En el sentido contrario",
+              "tr": "Against the direction"
+            },
+            {
+              "es": "a la circulación",
+              "tr": "of traffic"
+            },
+            {
+              "es": "y en el carril izquierdo",
+              "tr": "and in the left lane",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía.",
+              "tr": "of the road."
+            }
+          ],
+          "b": [
+            {
+              "es": "En el sentido de la circulación",
+              "tr": "In the direction of traffic"
+            },
+            {
+              "es": "y en el carril derecho",
+              "tr": "and in the right lane",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía,",
+              "tr": "of the road,"
+            },
+            {
+              "es": "utilizando las luces altas.",
+              "tr": "using high beam."
+            }
+          ],
+          "c": [
+            {
+              "es": "En el sentido de la circulación",
+              "tr": "In the direction of traffic"
+            },
+            {
+              "es": "y en el carril izquierdo",
+              "tr": "and in the left lane",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía,",
+              "tr": "of the road,"
+            },
+            {
+              "es": "utilizando las luces intermitentes.",
+              "tr": "using the hazard lights."
+            }
+          ],
+          "d": [
+            {
+              "es": "En el sentido de la circulación",
+              "tr": "In the direction of traffic"
+            },
+            {
+              "es": "y en el carril derecho",
+              "tr": "and in the right lane",
+              "kind": "logic"
+            },
+            {
+              "es": "de la vía,",
+              "tr": "of the road,"
+            },
+            {
+              "es": "utilizando las luces intermitentes.",
+              "tr": "using the hazard lights."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-170": {
+      "id": "a1-170",
+      "text": "In a traffic accident with injuries and/or material damage, those involved must:",
+      "options": {
+        "a": "Go to the fire station.",
+        "b": "Call a relative.",
+        "c": "Request the intervention of the police.",
+        "d": "Leave the place where the accident happened."
+      },
+      "gist": "What to do after an accident",
+      "explanation": "After an accident, those involved must call the police. Leaving the scene is forbidden — it is a serious offence. A relative or the fire station is not what the law requires.",
+      "gloss": {
+        "text": [
+          {
+            "es": "En caso de un accidente de tránsito",
+            "tr": "In case of a traffic accident"
+          },
+          {
+            "es": "con daños personales",
+            "tr": "with personal injuries"
+          },
+          {
+            "es": "y/o materiales",
+            "tr": "and/or material damage"
+          },
+          {
+            "es": "los participantes deben:",
+            "tr": "those involved must:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Acudir",
+              "tr": "Go"
+            },
+            {
+              "es": "a la estación de bomberos.",
+              "tr": "to the fire station."
+            }
+          ],
+          "b": [
+            {
+              "es": "Llamar a un familiar.",
+              "tr": "Call a relative."
+            }
+          ],
+          "c": [
+            {
+              "es": "Solicitar la intervención",
+              "tr": "Request the intervention"
+            },
+            {
+              "es": "de la autoridad policial.",
+              "tr": "of the police authority.",
+              "kind": "anchor"
+            }
+          ],
+          "d": [
+            {
+              "es": "Abandonar el lugar",
+              "tr": "Leave the place"
+            },
+            {
+              "es": "donde ocurrió el accidente.",
+              "tr": "where the accident happened."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-171": {
+      "id": "a1-171",
+      "text": "Before starting to drive a vehicle, the driver is NOT obliged to:",
+      "options": {
+        "a": "Carry the vehicle identification card of the vehicle they drive.",
+        "b": "Carry and display the Single Licence Plate.",
+        "c": "Check that the vehicle has a valid SOAT.",
+        "d": "None of the options is correct."
+      },
+      "gist": "What a driver is not obliged to",
+      "explanation": "Trap: the question asks what is «not» required. But all three actions are mandatory: card, plate, SOAT. So the right answer is «none of the options».",
+      "trap": "Read «no está obligado» (not obliged). a, b, c are real duties, so the answer is d «Ninguna de las alternativas es correcta».",
+      "gloss": {
+        "text": [
+          {
+            "es": "El conductor",
+            "tr": "The driver"
+          },
+          {
+            "es": "antes de iniciar",
+            "tr": "before starting",
+            "kind": "logic"
+          },
+          {
+            "es": "la conducción de un vehículo",
+            "tr": "to drive a vehicle"
+          },
+          {
+            "es": "no está obligado a:",
+            "tr": "is not obliged to:",
+            "kind": "logic"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Portar",
+              "tr": "Carry"
+            },
+            {
+              "es": "la tarjeta de identificación vehicular",
+              "tr": "the vehicle identification card"
+            },
+            {
+              "es": "del vehículo que conduce.",
+              "tr": "of the vehicle they drive."
+            }
+          ],
+          "b": [
+            {
+              "es": "Portar y exhibir",
+              "tr": "Carry and display"
+            },
+            {
+              "es": "la Placa Única de Rodaje.",
+              "tr": "the Single Licence Plate."
+            }
+          ],
+          "c": [
+            {
+              "es": "Constatar que el vehículo",
+              "tr": "Check that the vehicle"
+            },
+            {
+              "es": "tiene SOAT vigente.",
+              "tr": "has a valid SOAT."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-172": {
+      "id": "a1-172",
+      "text": "It enables and authorizes the vehicle to move on the public road, identifies the property and, therefore, the owner responsible for actions arising from that property.",
+      "options": {
+        "a": "Vehicle identification card.",
+        "b": "Provincial municipality.",
+        "c": "The National Superintendency of Customs and Tax Administration - SUNAT.",
+        "d": "Single National Licence Plate."
+      },
+      "gist": "What authorizes travel and identifies the vehicle",
+      "explanation": "This describes the licence plate (placa). It authorizes driving on public roads and identifies the vehicle and its owner. The card (tarjeta) proves ownership, but «faculta la circulación» refers to the placa.",
+      "trap": "The trap is «Tarjeta de identificación vehicular» (a): also a vehicle document. But the definition «La faculta y autoriza la circulación» belongs to the «Placa» (licence plate).",
+      "gloss": {
+        "text": [
+          {
+            "es": "La faculta y autoriza",
+            "tr": "It enables and authorizes"
+          },
+          {
+            "es": "la circulación del vehículo",
+            "tr": "the movement of the vehicle"
+          },
+          {
+            "es": "por la vía pública,",
+            "tr": "on the public road,"
+          },
+          {
+            "es": "identifica el bien,",
+            "tr": "identifies the property,"
+          },
+          {
+            "es": "y, por ende,",
+            "tr": "and, therefore,"
+          },
+          {
+            "es": "al titular responsable",
+            "tr": "the owner responsible"
+          },
+          {
+            "es": "de las acciones",
+            "tr": "for the actions"
+          },
+          {
+            "es": "que deriven de su propiedad.",
+            "tr": "arising from their property."
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Tarjeta de identificación vehicular.",
+              "tr": "Vehicle identification card."
+            }
+          ],
+          "b": [
+            {
+              "es": "Municipalidad provincial.",
+              "tr": "Provincial municipality."
+            }
+          ],
+          "c": [
+            {
+              "es": "La Superintendencia Nacional",
+              "tr": "The National Superintendency"
+            },
+            {
+              "es": "de Aduanas",
+              "tr": "of Customs"
+            },
+            {
+              "es": "y de Administración Tributaria",
+              "tr": "and Tax Administration"
+            },
+            {
+              "es": "- SUNAT.",
+              "tr": "- SUNAT."
+            }
+          ],
+          "d": [
+            {
+              "es": "Placa Única Nacional",
+              "tr": "Single National Plate",
+              "kind": "anchor"
+            },
+            {
+              "es": "de Rodaje.",
+              "tr": "for Road Use."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-173": {
+      "id": "a1-173",
+      "text": "To determine the presence of alcohol or narcotic substances in the driver, the Traffic Police officer may demand at the stop:",
+      "options": {
+        "a": "That they perform coordination and balance tests.",
+        "b": "Use of the breathalyser.",
+        "c": "Blood alcohol test.",
+        "d": "All the options are correct."
+      },
+      "gist": "Which alcohol tests police may demand",
+      "explanation": "The police may demand any of these tests: coordination tests, breathalyser, blood test. All three are legal, so the answer is «all the options».",
+      "trap": "a, b and c are each correct on their own. When all three are right, pick «Todas las alternativas son correctas» (all options are correct).",
+      "gloss": {
+        "text": [
+          {
+            "es": "A fin de determinar",
+            "tr": "In order to determine"
+          },
+          {
+            "es": "la presencia de alcohol",
+            "tr": "the presence of alcohol"
+          },
+          {
+            "es": "o sustancias estupefacientes",
+            "tr": "or narcotic substances"
+          },
+          {
+            "es": "en el conductor,",
+            "tr": "in the driver,"
+          },
+          {
+            "es": "el efectivo de la Policía de Tránsito",
+            "tr": "the Traffic Police officer"
+          },
+          {
+            "es": "puede exigirle",
+            "tr": "may demand from them",
+            "kind": "logic"
+          },
+          {
+            "es": "al momento de la intervención:",
+            "tr": "at the time of the stop:"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "Que realice pruebas",
+              "tr": "That they perform tests"
+            },
+            {
+              "es": "de coordinación y equilibrio.",
+              "tr": "of coordination and balance."
+            }
+          ],
+          "b": [
+            {
+              "es": "Uso del alcoholímetro.",
+              "tr": "Use of the breathalyser."
+            }
+          ],
+          "c": [
+            {
+              "es": "Prueba de alcoholemia.",
+              "tr": "Blood alcohol test."
+            }
+          ],
+          "d": [
+            {
+              "es": "Todas las alternativas",
+              "tr": "All the options",
+              "kind": "logic"
+            },
+            {
+              "es": "son correctas.",
+              "tr": "are correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-174": {
+      "id": "a1-174",
+      "text": "Does the National Traffic Regulation take repeat offences into account?",
+      "options": {
+        "a": "No, the driver may commit the same offence several times and the penalty will be the same.",
+        "b": "Yes, if the driver commits the same offence within 12 months, the fine is doubled.",
+        "c": "Only in cases of very serious offences.",
+        "d": "None of the options is correct."
+      },
+      "gist": "Does the regulation count repeat offences",
+      "explanation": "Yes, repeat offences exist. The same offence within 12 months means double the fine. This applies to any offence, not only very serious ones.",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿El Reglamento Nacional de Tránsito",
+            "tr": "Does the National Traffic Regulation"
+          },
+          {
+            "es": "considera la reincidencia",
+            "tr": "consider repeat offences"
+          },
+          {
+            "es": "en las infracciones de tránsito?",
+            "tr": "in traffic offences?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "No, el conductor puede cometer",
+              "tr": "No, the driver may commit",
+              "kind": "logic"
+            },
+            {
+              "es": "la misma infracción varias veces",
+              "tr": "the same offence several times"
+            },
+            {
+              "es": "y la sanción será la misma.",
+              "tr": "and the penalty will be the same."
+            }
+          ],
+          "b": [
+            {
+              "es": "Si, cuando el conductor comete",
+              "tr": "Yes, when the driver commits"
+            },
+            {
+              "es": "la misma infracción",
+              "tr": "the same offence"
+            },
+            {
+              "es": "dentro de los 12 meses",
+              "tr": "within 12 months",
+              "kind": "anchor"
+            },
+            {
+              "es": "será sancionado",
+              "tr": "will be punished"
+            },
+            {
+              "es": "con el doble de la multa.",
+              "tr": "with double the fine.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "Solo en los casos",
+              "tr": "Only in cases",
+              "kind": "logic"
+            },
+            {
+              "es": "en que se cometan",
+              "tr": "where they commit"
+            },
+            {
+              "es": "infracciones gravísimas.",
+              "tr": "very serious offences."
+            }
+          ],
+          "d": [
+            {
+              "es": "Ninguna de las alternativas",
+              "tr": "None of the options",
+              "kind": "logic"
+            },
+            {
+              "es": "es correcta.",
+              "tr": "is correct."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    },
+    "a1-175": {
+      "id": "a1-175",
+      "text": "After what time from committing the same offence is it called a repeat offence and punished with double the set fine?",
+      "options": {
+        "a": "6 months.",
+        "b": "12 months.",
+        "c": "24 months.",
+        "d": "35 months."
+      },
+      "gist": "Time window for repeat offences",
+      "explanation": "The number to remember is 12 months. If the same offence repeats within a year, the fine is doubled. The other numbers are just distractors.",
+      "trap": "All options are numbers. Remember: reincidencia = «12 meses» (one year).",
+      "gloss": {
+        "text": [
+          {
+            "es": "¿Después de qué tiempo",
+            "tr": "After what time",
+            "kind": "logic"
+          },
+          {
+            "es": "de haber cometido",
+            "tr": "from having committed"
+          },
+          {
+            "es": "la misma infracción",
+            "tr": "the same offence"
+          },
+          {
+            "es": "se llama reincidencia",
+            "tr": "is it called a repeat offence"
+          },
+          {
+            "es": "y es sancionada",
+            "tr": "and punished"
+          },
+          {
+            "es": "con el doble de la multa establecida?",
+            "tr": "with double the set fine?"
+          }
+        ],
+        "options": {
+          "a": [
+            {
+              "es": "06 meses.",
+              "tr": "6 months."
+            }
+          ],
+          "b": [
+            {
+              "es": "12 meses.",
+              "tr": "12 months.",
+              "kind": "anchor"
+            }
+          ],
+          "c": [
+            {
+              "es": "24 meses.",
+              "tr": "24 months."
+            }
+          ],
+          "d": [
+            {
+              "es": "35 meses.",
+              "tr": "35 months."
+            }
+          ]
+        }
+      },
+      "status": "machine"
+    }
+  },
+  "disputed": []
+}
