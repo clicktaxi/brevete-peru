@@ -4,9 +4,10 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useLang, useT } from "@/components/providers";
 import { Icon } from "@/components/ui/Icon";
-import { loadCategoryData } from "@/lib/data";
-import { dailyPortion, getAttempts, getQuestionStats, getTopicProgress, isLearned, isMistake, nextStep, type StepId } from "@/lib/progress";
+import { loadCategoryData, loadGlossary } from "@/lib/data";
+import { dailyPortion, getAttempts, getQuestionStats, getTopicProgress, getVocabStats, isLearned, isMistake, nextStep, type StepId } from "@/lib/progress";
 import { topicTermCount } from "@/lib/topic";
+import { buildPool, VOCAB_LEARNED_REPS } from "@/lib/vocab";
 
 interface Summary {
   total: number;
@@ -17,6 +18,7 @@ interface Summary {
   attempts: number;
   next: { href: string; topic: string; step: StepId } | null;
   started: boolean;
+  words: { learned: number; total: number; due: number } | null;
 }
 
 export function HomeDashboard({ cat, code }: { cat: string; code: string }) {
@@ -27,7 +29,23 @@ export function HomeDashboard({ cat, code }: { cat: string; code: string }) {
   useEffect(() => {
     let alive = true;
     (async () => {
-      const [data, stats, tp, attempts] = await Promise.all([loadCategoryData(cat, lang), getQuestionStats(cat), getTopicProgress(cat), getAttempts(cat)]);
+      const [data, stats, tp, attempts, glossary, vocab] = await Promise.all([
+        loadCategoryData(cat, lang),
+        getQuestionStats(cat),
+        getTopicProgress(cat),
+        getAttempts(cat),
+        loadGlossary(),
+        getVocabStats(),
+      ]);
+      const pool = lang === "es" ? [] : buildPool(glossary.terms, glossary.logic, lang);
+      const now = Date.now();
+      const words = pool.length
+        ? {
+            learned: pool.filter((w) => (vocab[w.id]?.reps ?? 0) >= VOCAB_LEARNED_REPS).length,
+            total: pool.length,
+            due: pool.filter((w) => vocab[w.id] && vocab[w.id].due <= now).length,
+          }
+        : null;
       const ids = data.questions.map((q) => q.id);
       const topics = data.topics.filter((tt) => data.questions.some((q) => q.topic === tt.id));
       let next: Summary["next"] = null;
@@ -49,6 +67,7 @@ export function HomeDashboard({ cat, code }: { cat: string; code: string }) {
           attempts: finished.length,
           next,
           started: Object.keys(stats).length > 0 || Object.keys(tp).length > 0,
+          words,
         });
     })().catch(() => {});
     return () => {
@@ -97,6 +116,22 @@ export function HomeDashboard({ cat, code }: { cat: string; code: string }) {
             </dd>
           </div>
         </dl>
+        {s?.words && (
+          <Link href={`/${lang}/vocab/`} className="mt-3 flex items-center gap-3 rounded-2xl bg-white/10 px-3 py-2 text-sm">
+            <Icon name="bolt" className="h-5 w-5 shrink-0 opacity-80" />
+            <span className="min-w-0 flex-1">
+              <span className="block font-semibold">
+                {t("home.words")}: {s.words.learned}
+                <span className="font-normal opacity-70">/{s.words.total}</span>
+              </span>
+              <span className="mt-1 block h-1.5 overflow-hidden rounded-full bg-white/20">
+                <span className="block h-full rounded-full bg-white" style={{ width: `${Math.round((s.words.learned / s.words.total) * 100)}%` }} />
+              </span>
+            </span>
+            {s.words.due > 0 && <span className="rounded-full bg-white px-2 py-0.5 text-xs font-bold text-accent-deep">{s.words.due}</span>}
+            <span className="opacity-80">→</span>
+          </Link>
+        )}
       </section>
 
       <Link href={s?.next?.href ?? `${base}/`} className="flex h-16 items-center gap-3 rounded-2xl bg-accent px-5 text-white shadow-md active:opacity-90">

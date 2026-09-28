@@ -16,6 +16,7 @@ import {
   letterTiles,
   pickSession,
   SESSION_SIZE,
+  VOCAB_LEARNED_REPS,
   VOCAB_MODES,
   wordShape,
   type ExerciseType,
@@ -44,7 +45,7 @@ export function VocabTrainer() {
   if (!pool) return <Loading />;
 
   const now = Date.now();
-  const learned = pool.filter((w) => (stats[w.id]?.reps ?? 0) >= 3).length;
+  const learned = pool.filter((w) => (stats[w.id]?.reps ?? 0) >= VOCAB_LEARNED_REPS).length;
   const due = pool.filter((w) => stats[w.id] && stats[w.id].due <= now).length;
 
   if (mode) {

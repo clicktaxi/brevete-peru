@@ -6,6 +6,8 @@ export type VocabMode = ExerciseType | "mix";
 export const EXERCISE_TYPES: ExerciseType[] = ["choice", "reverse", "letters", "typing"];
 export const VOCAB_MODES: VocabMode[] = ["mix", ...EXERCISE_TYPES];
 export const SESSION_SIZE = 10;
+/** A word counts as learned after this many spaced correct answers in a row. */
+export const VOCAB_LEARNED_REPS = 3;
 export const MAX_LETTER_TILES = 14;
 
 export interface VocabWord {
