@@ -26,7 +26,7 @@ export function BottomNav({ cat }: { cat: string }) {
             <li key={it.href}>
               <Link
                 href={it.href}
-                className={`flex h-14 flex-col items-center justify-center gap-0.5 text-xs ${active ? "text-accent font-semibold" : "text-muted"}`}
+                className={`flex h-14 flex-col items-center justify-center gap-0.5 text-xs transition active:scale-95 active:bg-accent-soft ${active ? "text-accent font-semibold" : "text-muted"}`}
                 aria-current={active ? "page" : undefined}
               >
                 <Icon name={it.icon} className="h-6 w-6" />

@@ -25,15 +25,32 @@
     "results": "Encontrados: {n}",
     "noResults": "No se encontró nada"
   },
-  "nav": { "main": "Inicio", "learn": "Aprender", "practice": "Práctica", "exam": "Examen", "more": "Más" },
+  "nav": {
+    "main": "Inicio",
+    "learn": "Aprender",
+    "practice": "Práctica",
+    "exam": "Examen",
+    "more": "Más"
+  },
   "home": {
     "tagline": "Aprende a reconocer las preguntas y las respuestas correctas, incluso con español nivel A1.",
     "continue": "Continuar",
     "startHint": "Empezar por el primer tema",
     "categories": "Categorías",
     "comingSoon": "Pronto",
-    "soon": { "a2a": "A-IIa (taxi)", "a2b": "A-IIb", "a3": "A-IIIa / b / c" },
-    "tools": "Herramientas"
+    "soon": {
+      "a2a": "A-IIa (taxi)",
+      "a2b": "A-IIb",
+      "a3": "A-IIIa / b / c"
+    },
+    "tools": "Herramientas",
+    "progressTitle": "Tu progreso · {code}",
+    "details": "Detalles",
+    "statLearned": "Aprendidas",
+    "statMistakes": "Errores",
+    "statExams": "Exámenes",
+    "start": "Empezar a estudiar",
+    "otherSoon": "Otras categorías (A-IIa taxi, A-IIb, A-III) llegarán más adelante."
   },
   "install": {
     "title": "Agrega la app a tu pantalla de inicio",
@@ -155,7 +172,11 @@
     "report": "Reportar un error",
     "share": "Compartir",
     "twins": "Fácil de confundir con",
-    "answerType": { "combo": "La respuesta correcta es una combinación de opciones", "none": "La respuesta correcta es «ninguna de las opciones»", "all": "La respuesta correcta es «todas las opciones»" },
+    "answerType": {
+      "combo": "La respuesta correcta es una combinación de opciones",
+      "none": "La respuesta correcta es «ninguna de las opciones»",
+      "all": "La respuesta correcta es «todas las opciones»"
+    },
     "showAnswer": "Ver respuesta"
   },
   "practice": {

@@ -25,15 +25,32 @@
     "results": "Found: {n}",
     "noResults": "Nothing found"
   },
-  "nav": { "main": "Home", "learn": "Learn", "practice": "Practice", "exam": "Exam", "more": "More" },
+  "nav": {
+    "main": "Home",
+    "learn": "Learn",
+    "practice": "Practice",
+    "exam": "Exam",
+    "more": "More"
+  },
   "home": {
     "tagline": "Learn to recognize the questions and the right answers — even with A1 Spanish.",
     "continue": "Continue",
     "startHint": "Start with the first topic",
     "categories": "Categories",
     "comingSoon": "Coming soon",
-    "soon": { "a2a": "A-IIa (taxi)", "a2b": "A-IIb", "a3": "A-IIIa / b / c" },
-    "tools": "Tools"
+    "soon": {
+      "a2a": "A-IIa (taxi)",
+      "a2b": "A-IIb",
+      "a3": "A-IIIa / b / c"
+    },
+    "tools": "Tools",
+    "progressTitle": "Your progress · {code}",
+    "details": "Details",
+    "statLearned": "Learned",
+    "statMistakes": "Mistakes",
+    "statExams": "Exams",
+    "start": "Start learning",
+    "otherSoon": "Other categories (A-IIa taxi, A-IIb, A-III) are coming later."
   },
   "install": {
     "title": "Add to your Home Screen",
@@ -155,7 +172,11 @@
     "report": "Report a mistake",
     "share": "Share",
     "twins": "Easy to confuse with",
-    "answerType": { "combo": "The right answer is a combination of options", "none": "The right answer is “none of the options”", "all": "The right answer is “all of the options”" },
+    "answerType": {
+      "combo": "The right answer is a combination of options",
+      "none": "The right answer is “none of the options”",
+      "all": "The right answer is “all of the options”"
+    },
     "showAnswer": "Show answer"
   },
   "practice": {
